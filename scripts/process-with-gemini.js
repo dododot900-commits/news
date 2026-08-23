@@ -105,9 +105,16 @@ async function analyzeNewArticle(article) {
 
   try {
     const result = await callGemini(prompt);
-    const cleaned = result.replace(/```json|```/g, '').trim();
+    let cleaned = result.replace(/```json|```/g, '').trim();
+    const jsonStart = cleaned.indexOf('{');
+    const jsonEnd = cleaned.lastIndexOf('}');
+    if (jsonStart !== -1 && jsonEnd !== -1) {
+      cleaned = cleaned.substring(jsonStart, jsonEnd + 1);
+    }
+    console.log('    Gemini response:', cleaned.substring(0, 100));
     return JSON.parse(cleaned);
-  } catch {
+  } catch (e) {
+    console.error('    Parse error:', e.message);
     return {
       title_ja: article.title || '（タイトルなし）',
       summary: article.description || '',
@@ -142,9 +149,16 @@ async function analyzeFollowupArticle(article, prevArticle) {
 
   try {
     const result = await callGemini(prompt);
-    const cleaned = result.replace(/```json|```/g, '').trim();
+    let cleaned = result.replace(/```json|```/g, '').trim();
+    const jsonStart = cleaned.indexOf('{');
+    const jsonEnd = cleaned.lastIndexOf('}');
+    if (jsonStart !== -1 && jsonEnd !== -1) {
+      cleaned = cleaned.substring(jsonStart, jsonEnd + 1);
+    }
+    console.log('    Gemini response:', cleaned.substring(0, 100));
     return JSON.parse(cleaned);
-  } catch {
+  } catch (e) {
+    console.error('    Parse error:', e.message);
     return {
       title_ja: article.title || '（タイトルなし）',
       summary: article.description || '',
