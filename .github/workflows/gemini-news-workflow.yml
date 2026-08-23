@@ -13,6 +13,9 @@ on:
         default: '5'
   schedule:
     - cron: '0 0 * * *'
+    
+permissions:
+  contents: write
 
 jobs:
   process-news:
