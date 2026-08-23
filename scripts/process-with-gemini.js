@@ -13,7 +13,7 @@ const path = require('path');
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const TOPICS = ['security', 'automotive', 'ai', 'cloud'];
-const MAX_KEEP_DAYS = 30; // 最大保持日数
+const MAX_KEEP_DAYS = 30;
 
 async function callGemini(prompt) {
   return new Promise((resolve, reject) => {
@@ -49,7 +49,6 @@ async function callGemini(prompt) {
   });
 }
 
-// all-news.json を読み込む
 function loadAllNews(docsDataDir) {
   const filePath = path.join(docsDataDir, 'all-news.json');
   if (!fs.existsSync(filePath)) {
@@ -62,7 +61,6 @@ function loadAllNews(docsDataDir) {
   }
 }
 
-// 前日の記事を取得（重複検出用）
 function getPrevArticles(allNews, today) {
   const dates = allNews.dates || [];
   const prevDates = dates.filter(d => d !== today).sort().reverse();
@@ -71,13 +69,13 @@ function getPrevArticles(allNews, today) {
   return allNews.data?.[prevDate]?.articles || [];
 }
 
-// 重複チェック
 function checkDuplicate(article, prevArticles) {
   if (prevArticles.some(p => p.url === article.url)) {
     return { type: 'same', prev: prevArticles.find(p => p.url === article.url) };
   }
 
-  const words = (article.title || '').toLowerCase().split(/\s+/).filter(w => w.length > 4);
+  const title = article.title || '';
+  const words = title.toLowerCase().split(/\s+/).filter(w => w.length > 4);
   for (const prev of prevArticles) {
     const prevWords = (prev.title_en || prev.title || '').toLowerCase().split(/\s+/);
     const common = words.filter(w => prevWords.includes(w));
@@ -89,7 +87,6 @@ function checkDuplicate(article, prevArticles) {
   return { type: 'new', prev: null };
 }
 
-// 新規記事を日本語で分析
 async function analyzeNewArticle(article) {
   const prompt = `以下のニュース記事を分析してください。
 
@@ -112,7 +109,7 @@ async function analyzeNewArticle(article) {
     return JSON.parse(cleaned);
   } catch {
     return {
-      title_ja: article.title,
+      title_ja: article.title || '（タイトルなし）',
       summary: article.description || '',
       importance: '中',
       keywords: [],
@@ -121,7 +118,6 @@ async function analyzeNewArticle(article) {
   }
 }
 
-// 続報記事を日本語で分析
 async function analyzeFollowupArticle(article, prevArticle) {
   const prompt = `以下の2つのニュース記事を比較して、新しい進展・変化点だけを日本語でまとめてください。
 
@@ -150,7 +146,7 @@ async function analyzeFollowupArticle(article, prevArticle) {
     return JSON.parse(cleaned);
   } catch {
     return {
-      title_ja: article.title,
+      title_ja: article.title || '（タイトルなし）',
       summary: article.description || '',
       importance: '中',
       keywords: [],
@@ -168,11 +164,8 @@ async function processNews() {
       if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true });
     });
 
-    // 既存の全データを読み込む
     const allNews = loadAllNews(docsDataDir);
     const today = new Date().toISOString().split('T')[0];
-
-    // 前日の記事（重複検出用）
     const prevArticles = getPrevArticles(allNews, today);
     console.log(`Previous articles: ${prevArticles.length}`);
 
@@ -192,12 +185,14 @@ async function processNews() {
 
       for (let i = 0; i < articles.length; i++) {
         const article = articles[i];
-         if (!article || !article.title) {
+
+        if (!article || !article.title) {
           console.log(`  [${i + 1}/${articles.length}] → Skipped (no title)`);
           stats.skipped++;
           continue;
         }
-        console.log(`  [${i + 1}/${articles.length}] ${article.title?.substring(0, 50)}...`);
+
+        console.log(`  [${i + 1}/${articles.length}] ${article.title.substring(0, 50)}...`);
 
         const duplicate = checkDuplicate(article, prevArticles);
 
@@ -238,14 +233,12 @@ async function processNews() {
       }
     }
 
-    // 重要度順にソート
     const order = { '高': 0, '中': 1, '低': 2 };
     todayArticles.sort((a, b) => {
       if (a.is_followup !== b.is_followup) return a.is_followup ? 1 : -1;
       return (order[a.importance] || 1) - (order[b.importance] || 1);
     });
 
-    // allNews に今日のデータを追加
     allNews.data = allNews.data || {};
     allNews.data[today] = {
       date: today,
@@ -254,15 +247,11 @@ async function processNews() {
       articles: todayArticles
     };
 
-    // 日付リストを更新（新しい順）
-    const allDates = Object.keys(allNews.data).sort().reverse();
-
-    // 古いデータを削除（MAX_KEEP_DAYS 日以上前）
     const cutoffDate = new Date();
     cutoffDate.setDate(cutoffDate.getDate() - MAX_KEEP_DAYS);
     const cutoff = cutoffDate.toISOString().split('T')[0];
 
-    allDates.forEach(date => {
+    Object.keys(allNews.data).forEach(date => {
       if (date < cutoff) {
         delete allNews.data[date];
         console.log(`Removed old data: ${date}`);
@@ -272,13 +261,11 @@ async function processNews() {
     allNews.dates = Object.keys(allNews.data).sort().reverse();
     allNews.lastUpdated = new Date().toISOString();
 
-    // all-news.json を保存
     fs.writeFileSync(
       path.join(docsDataDir, 'all-news.json'),
       JSON.stringify(allNews, null, 2)
     );
 
-    // latest.json も保存（後方互換性）
     fs.writeFileSync(
       path.join(docsDataDir, 'latest.json'),
       JSON.stringify({ date: today, articles: todayArticles, stats }, null, 2)
