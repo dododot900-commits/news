@@ -40,7 +40,16 @@ const params = new URLSearchParams({
 
 const url = `${API_URL}?${params.toString()}`;
 
-https.get(url, (res) => {
+const options = {
+  hostname: 'newsapi.org',
+  path: `/v2/everything?${params.toString()}`,
+  headers: {
+    'User-Agent': 'claude-news-app/1.0',
+    'X-Api-Key': API_KEY
+  }
+};
+
+https.get(options, (res) => {
   let data = '';
 
   res.on('data', (chunk) => {
