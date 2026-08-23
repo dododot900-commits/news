@@ -1,6 +1,298 @@
 {
   "date": "2026-08-23",
-  "topic": "security,ai,cloud,automotive",
-  "generatedAt": "2026-08-23T20:35:33.312Z",
-  "articles": []
+  "generatedAt": "2026-08-23T20:38:37.385Z",
+  "totalArticles": 20,
+  "topics": [
+    "security",
+    "automotive",
+    "ai",
+    "cloud"
+  ],
+  "articles": [
+    {
+      "id": "security-0",
+      "title": "attackgen v0.16.0",
+      "summary": "AttackGenは、大規模言語モデル（LLM）とMITRE ATT&CKフレームワークを活用したサイバーセキュリティのインシデント対応テストツールです。ユーザーが選択した脅威アクターグループに基づいて、カスタマイズされたインシデント対応シナリオを自動生成します。今回、その最新バージョンとなるv0.16.0がリリースされました。",
+      "importance": "中",
+      "keywords": [
+        "AttackGen",
+        "インシデント対応",
+        "大規模言語モデル",
+        "MITRE ATT&CK"
+      ],
+      "source": "Kitploit.com",
+      "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
+      "publishedAt": "2026-08-22T18:40:25Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1",
+      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+      "summary": "Microsoftは、ハッカーによるリモートコード実行を可能にする恐れがあった「Entra ID」の深刻な脆弱性を修正しました。この脆弱性は最高レベルの深刻度スコア10と評価されましたが、CVEの公開前に修正が適用され、実際に悪用された形跡はないと発表されています。",
+      "importance": "高",
+      "keywords": [
+        "Microsoft",
+        "Entra ID",
+        "脆弱性"
+      ],
+      "source": "Decrypt",
+      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+      "publishedAt": "2026-08-22T17:31:03Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-2",
+      "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
+      "summary": "米連邦通信委員会（FCC）による外国製ロボットの規制案が、アメリカのロボット産業に寄与するのか悪影響を与えるのかについて8人の専門家が意見を述べています。この禁止措置によって国内のロボット価格が3倍に高騰する懸念もあり、産業への影響について賛否両論が上がっています。",
+      "importance": "高",
+      "keywords": [
+        "FCC",
+        "外国製ロボット規制",
+        "ロボット産業"
+      ],
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
+      "publishedAt": "2026-08-22T16:47:51Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-3",
+      "title": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
+      "summary": "Claude Codeに使い捨ての仮想環境を与えることで、コマンド実行の承認作業から解放されたという実践例を紹介する記事です。安全な隔離環境を用意したことで、AIが自由にツールをインストールしてもメインシステムに影響を与える心配がなくなり、作業の自動化が進みました。",
+      "importance": "中",
+      "keywords": [
+        "Claude Code",
+        "使い捨て環境",
+        "コマンド承認"
+      ],
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
+      "publishedAt": "2026-08-22T16:30:16Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-4",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "summary": "安価で強力なAIモデルの普及により、ハッカーがビットコインソフトウェアの欠陥を容易に発見・攻撃できる危険性が高まっています。これに対抗するため、約20人の開発者グループがエコシステム内のAIによって検出可能な脆弱性をスキャンし、対策に乗り出しています。",
+      "importance": "高",
+      "keywords": [
+        "AI",
+        "ビットコイン",
+        "脆弱性"
+      ],
+      "source": "Decrypt",
+      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "publishedAt": "2026-08-22T15:31:04Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-0",
+      "title": "Tariffs just pushed Hyundai deeper into America",
+      "summary": "関税政策の影響を受け、ヒョンデ（現代自動車）は米国市場での生産体制をさらに深化させています。同社のCEOは、米国のどの組み立て工場も達成したことがない野心的な目標を設定しました。",
+      "importance": "高",
+      "keywords": [
+        "ヒョンデ",
+        "関税",
+        "米国工場"
+      ],
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/automotive/tariffs-just-pushed-hyundai-deeper-into-america",
+      "publishedAt": "2026-08-22T18:17:00Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1",
+      "title": "Tesla recalls nearly 3M vehicles over doors that may be difficult to open after crashes / Finvestly",
+      "summary": "Tesla's recall of nearly 3 million vehicles in China involves door handles that may trap occupants after severe collisions if low-voltage systems fail.",
+      "importance": "中",
+      "keywords": [],
+      "source": "Finvestly.com",
+      "url": "https://finvestly.com/business/tesla-recalls-nearly-3m-vehicles-over-doors-that-may-be-difficult-to-open-after-crashes/",
+      "publishedAt": "2026-08-22T16:35:44Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-2",
+      "title": "IndyCar and the president: America 250 goes to the track",
+      "summary": "Auto racing has been a part of American culture as long as I can remember, but I never recall racing having been a part of the White House before. At least not until this summer, when on July 13, an event that was billed as a “Grand Prix Showcase” played out …",
+      "importance": "中",
+      "keywords": [],
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4392743/posts",
+      "publishedAt": "2026-08-22T13:59:22Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-3",
+      "title": "Nigeria’s 40 auto plants produce below 5% capacity – NADDC",
+      "summary": "Nigeria’s 40 auto plants produce less than 5% of their capacity due to weak financing, low patronage, and imports, hindering the Nigeria auto industry’s gr\n\nRead More: https://punchng.com/nigerias-40-auto-plants-produce-below-5-capacity-naddc/",
+      "importance": "中",
+      "keywords": [],
+      "source": "The Punch",
+      "url": "https://punchng.com/nigerias-40-auto-plants-produce-below-5-capacity-naddc/",
+      "publishedAt": "2026-08-22T00:09:32Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-4",
+      "title": "Tesla controls 59% of US EV market, highest share since 2023",
+      "summary": "Tesla's dominance amid a shrinking EV market highlights its strategic resilience, but fluctuating sales and policy shifts pose future challenges.\nThe post Tesla controls 59% of US EV market, highest share since 2023 appeared first on Crypto Briefing.",
+      "importance": "中",
+      "keywords": [],
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/tesla-59-percent-us-ev-market-share/",
+      "publishedAt": "2026-08-21T22:13:47Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-0",
+      "title": "Crypto, AI and betting firms fuel record elections spending",
+      "summary": "U.S. companies spent an unprecedented $517 million on U.S. House and Senate races in the 15 months through the end of the first quarter of 2026.",
+      "importance": "中",
+      "keywords": [],
+      "source": "Roanoke Times",
+      "url": "https://roanoke.com/news/nation-world/government-politics/article_8f579f2c-036c-524e-b818-5b217dcd4c10.html",
+      "publishedAt": "2026-08-22T19:30:00Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1",
+      "title": "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Singh",
+      "summary": "The Indian Air Force is using artificial intelligence for future defence planning. Predictive AI and digital twins help forecast scenarios and improve decision-making processes. Sharing data and learning from mistakes are crucial for avoiding past errors. Mod…",
+      "importance": "中",
+      "keywords": [],
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iaf-turning-to-predictive-ai-and-digital-twins-to-prepare-for-future-challenges-air-chief-marshal-ap-singh/articleshow/133426687.cms",
+      "publishedAt": "2026-08-22T15:11:59Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-2",
+      "title": "DCGI flags regulatory risks as Pharma industry races to embrace AI at IIMA healthcare summit",
+      "summary": "The DGCI said regulators approve a product based on defined characteristics of quality, safety and performance and expect those characteristics to remain consistent through the product’s lifecycle",
+      "importance": "中",
+      "keywords": [],
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/dcgi-flags-regulatory-risks-as-pharma-industry-races-to-embrace-ai-at-iima-healthcare-summit/article71377604.ece",
+      "publishedAt": "2026-08-22T12:45:36Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-3",
+      "title": "Binance Launches Agent OS: AI Agents Can Now Trade Crypto With ChatGPT, Claude and Codex",
+      "summary": "Binance has taken a major step toward autonomous crypto trading. The world’s largest crypto exchange has launched Binance Agent OS, a developer platform that allows...\nThe post Binance Launches Agent OS: AI Agents Can Now Trade Crypto With ChatGPT, Claude and…",
+      "importance": "中",
+      "keywords": [],
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/ai-news/binance-launches-agent-os/",
+      "publishedAt": "2026-08-22T11:24:25Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-4",
+      "title": null,
+      "summary": "Gene therapy, smart toilets, rapamycin, and the hard question behind longevity: who gets to live longer, and at whose expense?",
+      "importance": "中",
+      "keywords": [],
+      "source": "hackernoon.com",
+      "url": "https://hackernoon.com/hack-the-age-clock-and-search-for-eternal-life",
+      "publishedAt": "2026-08-22T11:23:13Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "cloud-0",
+      "title": "pentestcode",
+      "summary": "Autonomous AI penetration testing agent that orchestrates multi-agent recon, exploitation, post-exploitation, and reporting with persistent engagement state.",
+      "importance": "中",
+      "keywords": [],
+      "source": "Kitploit.com",
+      "url": "https://kitploit.com/en/tools/github/s0ld13rr/pentestcode/",
+      "publishedAt": "2026-08-22T19:10:37Z",
+      "topic": "cloud",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "cloud-1",
+      "title": "CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M",
+      "summary": "CoreWeave's insider sales may signal investor caution, highlighting challenges in sustaining growth amid competitive, capital-intensive tech sectors.\nThe post CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M appeared first on Crypto Briefing.",
+      "importance": "中",
+      "keywords": [],
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/coreweave-ceo-sells-shares-insider-selling/",
+      "publishedAt": "2026-08-22T18:32:56Z",
+      "topic": "cloud",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "cloud-2",
+      "title": "Design a Video Upload System That Handles Millions of Uploads a Day",
+      "summary": "Learn how to design a video upload and processing system that handles millions of daily uploads, files up to 50 GB, virus and content validation, and global delivery — without your API servers becoming the bottleneck.",
+      "importance": "中",
+      "keywords": [],
+      "source": "C-sharpcorner.com",
+      "url": "https://www.c-sharpcorner.com/article/design-a-video-upload-system-that-handles-millions-of-uploads-a-day/",
+      "publishedAt": "2026-08-22T14:00:08Z",
+      "topic": "cloud",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "cloud-3",
+      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
+      "summary": "AWS is growing at its fastest pace in 18 quarters, advertising is booming, and Amazon's chips business is exploding, yet the stock trades at a multiple that...",
+      "importance": "中",
+      "keywords": [],
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/amazon-stock-is-historically-cheap-is-this-a-once-in-a-decade-buying-opportunity/",
+      "publishedAt": "2026-08-22T13:30:46Z",
+      "topic": "cloud",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "cloud-4",
+      "title": "Re: OVSwrap (CVE-2026-64531): Linux kernel/OVS local root vulnerability",
+      "summary": "Posted by Kevin Riggle on Aug 21Hey Thomas,\n\nSorry for my delayed response. I see that these patches are now in the\nprocess of landing. Thank you so much for digging in on this and\nproviding this context!\n\nBest,\n- Kevin",
+      "importance": "中",
+      "keywords": [],
+      "source": "Seclists.org",
+      "url": "https://seclists.org/oss-sec/2026/q3/544",
+      "publishedAt": "2026-08-22T03:06:49Z",
+      "topic": "cloud",
+      "upCount": 0,
+      "downCount": 0
+    }
+  ]
 }
