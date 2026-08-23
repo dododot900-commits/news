@@ -77,7 +77,7 @@ function checkDuplicate(article, prevArticles) {
     return { type: 'same', prev: prevArticles.find(p => p.url === article.url) };
   }
 
-  const words = article.title.toLowerCase().split(/\s+/).filter(w => w.length > 4);
+  const words = (article.title || '').toLowerCase().split(/\s+/).filter(w => w.length > 4);
   for (const prev of prevArticles) {
     const prevWords = (prev.title_en || prev.title || '').toLowerCase().split(/\s+/);
     const common = words.filter(w => prevWords.includes(w));
@@ -192,6 +192,11 @@ async function processNews() {
 
       for (let i = 0; i < articles.length; i++) {
         const article = articles[i];
+         if (!article || !article.title) {
+          console.log(`  [${i + 1}/${articles.length}] → Skipped (no title)`);
+          stats.skipped++;
+          continue;
+        }
         console.log(`  [${i + 1}/${articles.length}] ${article.title?.substring(0, 50)}...`);
 
         const duplicate = checkDuplicate(article, prevArticles);
