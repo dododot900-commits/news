@@ -1,4 +1,4 @@
-name: Claude API News Processing
+name: gemini API News Processing
 
 on:
   workflow_dispatch:
