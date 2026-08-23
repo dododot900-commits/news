@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T20:38:37.385Z",
+  "generatedAt": "2026-08-23T20:40:21.548Z",
   "totalArticles": 20,
   "topics": [
     "security",
@@ -12,13 +12,12 @@
     {
       "id": "security-0",
       "title": "attackgen v0.16.0",
-      "summary": "AttackGenは、大規模言語モデル（LLM）とMITRE ATT&CKフレームワークを活用したサイバーセキュリティのインシデント対応テストツールです。ユーザーが選択した脅威アクターグループに基づいて、カスタマイズされたインシデント対応シナリオを自動生成します。今回、その最新バージョンとなるv0.16.0がリリースされました。",
+      "summary": "AttackGenは、大規模言語モデル（LLM）とMITRE ATT&CKフレームワークを活用したサイバーセキュリティのインシデント対応テストツールです。ユーザーが選択した脅威アクターグループなどの情報をもとに、最適化されたインシデント対応シナリオを生成します。",
       "importance": "中",
       "keywords": [
         "AttackGen",
-        "インシデント対応",
-        "大規模言語モデル",
-        "MITRE ATT&CK"
+        "MITRE ATT&CK",
+        "インシデント対応"
       ],
       "source": "Kitploit.com",
       "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
@@ -30,7 +29,7 @@
     {
       "id": "security-1",
       "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "summary": "Microsoftは、ハッカーによるリモートコード実行を可能にする恐れがあった「Entra ID」の深刻な脆弱性を修正しました。この脆弱性は最高レベルの深刻度スコア10と評価されましたが、CVEの公開前に修正が適用され、実際に悪用された形跡はないと発表されています。",
+      "summary": "Microsoftは、リモートでコードが実行される可能性のあった「Entra ID」の深刻な脆弱性を修正しました。この脆弱性は最高レベルの深刻度スコア（10/10）と評価されましたが、CVEの公開前にパッチが適用され、実際に悪用された形跡は見つかっていないと発表されています。",
       "importance": "高",
       "keywords": [
         "Microsoft",
@@ -47,13 +46,9 @@
     {
       "id": "security-2",
       "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
-      "summary": "米連邦通信委員会（FCC）による外国製ロボットの規制案が、アメリカのロボット産業に寄与するのか悪影響を与えるのかについて8人の専門家が意見を述べています。この禁止措置によって国内のロボット価格が3倍に高騰する懸念もあり、産業への影響について賛否両論が上がっています。",
-      "importance": "高",
-      "keywords": [
-        "FCC",
-        "外国製ロボット規制",
-        "ロボット産業"
-      ],
+      "summary": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
+      "importance": "中",
+      "keywords": [],
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
       "publishedAt": "2026-08-22T16:47:51Z",
@@ -64,13 +59,9 @@
     {
       "id": "security-3",
       "title": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
-      "summary": "Claude Codeに使い捨ての仮想環境を与えることで、コマンド実行の承認作業から解放されたという実践例を紹介する記事です。安全な隔離環境を用意したことで、AIが自由にツールをインストールしてもメインシステムに影響を与える心配がなくなり、作業の自動化が進みました。",
+      "summary": "I can finally stop approving commands.",
       "importance": "中",
-      "keywords": [
-        "Claude Code",
-        "使い捨て環境",
-        "コマンド承認"
-      ],
+      "keywords": [],
       "source": "XDA Developers",
       "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
       "publishedAt": "2026-08-22T16:30:16Z",
@@ -81,13 +72,9 @@
     {
       "id": "security-4",
       "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "summary": "安価で強力なAIモデルの普及により、ハッカーがビットコインソフトウェアの欠陥を容易に発見・攻撃できる危険性が高まっています。これに対抗するため、約20人の開発者グループがエコシステム内のAIによって検出可能な脆弱性をスキャンし、対策に乗り出しています。",
-      "importance": "高",
-      "keywords": [
-        "AI",
-        "ビットコイン",
-        "脆弱性"
-      ],
+      "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+      "importance": "中",
+      "keywords": [],
       "source": "Decrypt",
       "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
       "publishedAt": "2026-08-22T15:31:04Z",
@@ -98,13 +85,9 @@
     {
       "id": "automotive-0",
       "title": "Tariffs just pushed Hyundai deeper into America",
-      "summary": "関税政策の影響を受け、ヒョンデ（現代自動車）は米国市場での生産体制をさらに深化させています。同社のCEOは、米国のどの組み立て工場も達成したことがない野心的な目標を設定しました。",
-      "importance": "高",
-      "keywords": [
-        "ヒョンデ",
-        "関税",
-        "米国工場"
-      ],
+      "summary": "The CEO set a target no US assembly plant has ever reached.",
+      "importance": "中",
+      "keywords": [],
       "source": "TheStreet",
       "url": "https://www.thestreet.com/automotive/tariffs-just-pushed-hyundai-deeper-into-america",
       "publishedAt": "2026-08-22T18:17:00Z",
