@@ -22,7 +22,7 @@ async function callGemini(prompt) {
 
     const options = {
       hostname: GEMINI_API_URL,
-      path: `/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`,
+      path: `/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
