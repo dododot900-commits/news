@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-23",
+  "topic": "security",
+  "generatedAt": "2026-08-23T20:03:45.416Z",
+  "articles": [
+    {
+      "id": "article-0",
+      "title": "attackgen v0.16.0",
+      "summary": "AttackGenは、大規模言語モデル（LLM）とMITRE ATT&CKフレームワークを活用したサイバーセキュリティのインシデント対応テストツールです。ユーザーが選択した脅威アクターグループに基づいて、最適化されたインシデント対応シナリオを自動生成します。",
+      "importance": "中",
+      "keywords": [
+        "AttackGen",
+        "インシデント対応",
+        "MITRE ATT&CK",
+        "LLM"
+      ],
+      "source": "Kitploit.com",
+      "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
+      "publishedAt": "2026-08-22T18:40:25Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "article-1",
+      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+      "summary": "Microsoftは、ハッカーによるリモートコード実行を可能にする Entra ID の深刻な脆弱性を修正しました。この脆弱性は最高レベルの深刻度スコア（10.0）を獲得していましたが、CVEの公開前にパッチが適用され、悪用された形跡は見つかっていません。",
+      "importance": "高",
+      "keywords": [
+        "Microsoft",
+        "Entra ID",
+        "脆弱性"
+      ],
+      "source": "Decrypt",
+      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+      "publishedAt": "2026-08-22T17:31:03Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "article-2",
+      "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
+      "summary": "米連邦通信委員会（FCC）による外国製ロボット規制が、アメリカのロボット産業にプラスとマイナスのどちらの影響を与えるかについて8人の専門家が議論しています。この措置により国内のロボット価格が3倍に跳ね上がる可能性も示唆されており、産業の未来を左右する規制として注目されています。",
+      "importance": "高",
+      "keywords": [
+        "FCC",
+        "外国製ロボット規制",
+        "ロボット産業"
+      ],
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
+      "publishedAt": "2026-08-22T16:47:51Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "article-3",
+      "title": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
+      "summary": "Claude Codeに専用の使い捨てコンピュータ環境を与えることで、コマンドの自動承認が可能になりました。これによりセキュリティの懸念を解消しつつ、毎回実行を手動で承認する手間を大幅に省くことができます。",
+      "importance": "中",
+      "keywords": [
+        "Claude Code",
+        "使い捨て環境",
+        "自動承認"
+      ],
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
+      "publishedAt": "2026-08-22T16:30:16Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "article-4",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "summary": "安価で強力なAIモデルの普及により、攻撃者がビットコインソフトウェアの脆弱性を容易に発見できるようになっています。これに対抗するため、約20人の開発者グループがエコシステムをスキャンし、AIで発見可能な欠陥を特定して先回りで防御する取り組みを行っています。",
+      "importance": "高",
+      "keywords": [
+        "ビットコイン",
+        "AI",
+        "セキュリティ",
+        "脆弱性"
+      ],
+      "source": "Decrypt",
+      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "publishedAt": "2026-08-22T15:31:04Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    }
+  ]
+}
