@@ -1,0 +1,19 @@
+{
+  "name": "Daily News Brief",
+  "short_name": "News Brief",
+  "description": "毎日のニュースをAIが要約",
+  "start_url": "/news/",
+  "scope": "/news/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#4f8ef7",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
