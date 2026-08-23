@@ -1,12 +1,5 @@
 #!/usr/bin/env node
 
-/**
- * Gemini API processing script
- * - 全記事を日本語化
- * - 前回との重複検出・差分のみ表示
- * - 複数日分を1つのJSONファイルで管理
- */
-
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
@@ -15,45 +8,63 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const TOPICS = ['security', 'automotive', 'ai', 'cloud'];
 const MAX_KEEP_DAYS = 30;
 
-async function callGemini(prompt) {
-  return new Promise((resolve, reject) => {
-    const body = JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }]
-    });
+async function sleep(ms) {
+  return new Promise(r => setTimeout(r, ms));
+}
 
-    const options = {
-      hostname: 'generativelanguage.googleapis.com',
-      path: `/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(body)
-      }
-    };
+async function callGemini(prompt, retries = 3) {
+  for (let attempt = 0; attempt < retries; attempt++) {
+    try {
+      const result = await new Promise((resolve, reject) => {
+        const body = JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }]
+        });
 
-    const req = https.request(options, (res) => {
-      let data = '';
-      res.on('data', chunk => { data += chunk; });
-      res.on('end', () => {
-        try {
-          const json = JSON.parse(data);
-          if (json.error) { reject(new Error(json.error.message)); return; }
-          resolve(json.candidates?.[0]?.content?.parts?.[0]?.text || '');
-        } catch (e) { reject(e); }
+        const options = {
+          hostname: 'generativelanguage.googleapis.com',
+          path: `/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Content-Length': Buffer.byteLength(body)
+          }
+        };
+
+        const req = https.request(options, (res) => {
+          let data = '';
+          res.on('data', chunk => { data += chunk; });
+          res.on('end', () => {
+            try {
+              const json = JSON.parse(data);
+              if (json.error) { reject(new Error(json.error.message)); return; }
+              resolve(json.candidates?.[0]?.content?.parts?.[0]?.text || '');
+            } catch (e) { reject(e); }
+          });
+        });
+
+        req.on('error', reject);
+        req.write(body);
+        req.end();
       });
-    });
 
-    req.on('error', reject);
-    req.write(body);
-    req.end();
-  });
+      return result;
+
+    } catch (error) {
+      const retryMatch = error.message.match(/Please retry in (\d+\.?\d*)/);
+      if (retryMatch && attempt < retries - 1) {
+        const waitMs = Math.ceil(parseFloat(retryMatch[1])) * 1000 + 3000;
+        console.log(`    Rate limited. Waiting ${Math.ceil(waitMs/1000)}s...`);
+        await sleep(waitMs);
+      } else {
+        throw error;
+      }
+    }
+  }
 }
 
 function loadAllNews(docsDataDir) {
   const filePath = path.join(docsDataDir, 'all-news.json');
-  if (!fs.existsSync(filePath)) {
-    return { dates: [], data: {} };
-  }
+  if (!fs.existsSync(filePath)) return { dates: [], data: {} };
   try {
     return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   } catch {
@@ -65,30 +76,46 @@ function getPrevArticles(allNews, today) {
   const dates = allNews.dates || [];
   const prevDates = dates.filter(d => d !== today).sort().reverse();
   if (prevDates.length === 0) return [];
-  const prevDate = prevDates[0];
-  return allNews.data?.[prevDate]?.articles || [];
+  return allNews.data?.[prevDates[0]]?.articles || [];
 }
 
 function checkDuplicate(article, prevArticles) {
   if (prevArticles.some(p => p.url === article.url)) {
     return { type: 'same', prev: prevArticles.find(p => p.url === article.url) };
   }
-
   const title = article.title || '';
   const words = title.toLowerCase().split(/\s+/).filter(w => w.length > 4);
   for (const prev of prevArticles) {
     const prevWords = (prev.title_en || prev.title || '').toLowerCase().split(/\s+/);
     const common = words.filter(w => prevWords.includes(w));
-    if (common.length >= 3) {
-      return { type: 'similar', prev };
-    }
+    if (common.length >= 3) return { type: 'similar', prev };
   }
-
   return { type: 'new', prev: null };
 }
 
-async function analyzeNewArticle(article) {
-  const prompt = `以下のニュース記事を分析してください。
+async function analyzeArticle(article, prevArticle = null) {
+  const prompt = prevArticle
+    ? `以下の2つのニュース記事を比較して、新しい進展・変化点だけを日本語でまとめてください。
+
+【前回の記事】
+タイトル: ${prevArticle.title_en || prevArticle.title}
+要約: ${prevArticle.summary}
+
+【今回の記事（最新）】
+タイトル（英語）: ${article.title}
+内容: ${article.description || ''}
+ソース: ${article.source}
+
+以下のJSON形式のみで回答してください（コードブロックなし）:
+{
+  "title_ja": "今回の記事タイトルを日本語に翻訳",
+  "summary": "前回から新たに判明した情報・進展を2-3文で日本語要約",
+  "importance": "高/中/低のいずれか",
+  "keywords": ["日本語キーワード1", "日本語キーワード2", "日本語キーワード3"],
+  "is_followup": true,
+  "progress": "前回比: [具体的な変化点を1文で]"
+}`
+    : `以下のニュース記事を分析してください。
 
 タイトル（英語）: ${article.title}
 内容: ${article.description || ''}
@@ -111,61 +138,16 @@ async function analyzeNewArticle(article) {
     if (jsonStart !== -1 && jsonEnd !== -1) {
       cleaned = cleaned.substring(jsonStart, jsonEnd + 1);
     }
-    console.log('    Gemini response:', cleaned.substring(0, 100));
     return JSON.parse(cleaned);
   } catch (e) {
-    console.error('    Parse error:', e.message);
+    console.error('    Analysis error:', e.message);
     return {
       title_ja: article.title || '（タイトルなし）',
       summary: article.description || '',
       importance: '中',
       keywords: [],
-      is_followup: false
-    };
-  }
-}
-
-async function analyzeFollowupArticle(article, prevArticle) {
-  const prompt = `以下の2つのニュース記事を比較して、新しい進展・変化点だけを日本語でまとめてください。
-
-【前回の記事】
-タイトル: ${prevArticle.title_en || prevArticle.title}
-要約: ${prevArticle.summary}
-
-【今回の記事（最新）】
-タイトル（英語）: ${article.title}
-内容: ${article.description || ''}
-ソース: ${article.source}
-
-以下のJSON形式のみで回答してください（コードブロックなし）:
-{
-  "title_ja": "今回の記事タイトルを日本語に翻訳",
-  "summary": "前回から新たに判明した情報・進展を2-3文で日本語要約。変化がない場合は「前回から大きな変化なし」と記載",
-  "importance": "高/中/低のいずれか",
-  "keywords": ["日本語キーワード1", "日本語キーワード2", "日本語キーワード3"],
-  "is_followup": true,
-  "progress": "前回比: [具体的な変化点を1文で]"
-}`;
-
-  try {
-    const result = await callGemini(prompt);
-    let cleaned = result.replace(/```json|```/g, '').trim();
-    const jsonStart = cleaned.indexOf('{');
-    const jsonEnd = cleaned.lastIndexOf('}');
-    if (jsonStart !== -1 && jsonEnd !== -1) {
-      cleaned = cleaned.substring(jsonStart, jsonEnd + 1);
-    }
-    console.log('    Gemini response:', cleaned.substring(0, 100));
-    return JSON.parse(cleaned);
-  } catch (e) {
-    console.error('    Parse error:', e.message);
-    return {
-      title_ja: article.title || '（タイトルなし）',
-      summary: article.description || '',
-      importance: '中',
-      keywords: [],
-      is_followup: true,
-      progress: '前回から更新あり'
+      is_followup: !!prevArticle,
+      progress: prevArticle ? '前回から更新あり' : null
     };
   }
 }
@@ -216,13 +198,13 @@ async function processNews() {
           continue;
         }
 
-        let analysis;
+        const isPrevArticle = duplicate.type === 'similar' ? duplicate.prev : null;
+        const analysis = await analyzeArticle(article, isPrevArticle);
+
         if (duplicate.type === 'similar') {
-          console.log(`    → Follow-up detected`);
-          analysis = await analyzeFollowupArticle(article, duplicate.prev);
+          console.log(`    → Follow-up`);
           stats.followup++;
         } else {
-          analysis = await analyzeNewArticle(article);
           stats.new++;
         }
 
@@ -243,7 +225,8 @@ async function processNews() {
           downCount: 0
         });
 
-        await new Promise(r => setTimeout(r, 600));
+        // レート制限対策：3.5秒待機（1分20件制限に対応）
+        await sleep(3500);
       }
     }
 
