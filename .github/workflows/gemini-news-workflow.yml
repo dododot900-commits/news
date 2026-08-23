@@ -1,0 +1,56 @@
+name: Claude API News Processing
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Topic'
+        required: true
+        default: 'security'
+      max_results:
+        description: 'Max results'
+        required: false
+        default: '5'
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  process-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install @anthropic-ai/sdk
+
+      - name: Fetch news articles
+        run: node scripts/fetch-news.js ${{ github.event.inputs.topic || 'security' }} ${{ github.event.inputs.max_results || '5' }}
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+
+      - name: Process with Gemini API
+        run: node scripts/process-with-gemini.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FETCHED_NEWS_FILE: ./output/raw-news.json
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git commit -m "Update news summary - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Workflow completed" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +'%Y-%m-%d %H:%M:%S JST')" >> $GITHUB_STEP_SUMMARY
+          echo "**Topic:** ${{ github.event.inputs.topic || 'security' }}" >> $GITHUB_STEP_SUMMARY
