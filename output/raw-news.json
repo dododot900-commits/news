@@ -1,45 +1,4 @@
 {
-  "topic": "security",
-  "articles": [
-    {
-      "title": "attackgen v0.16.0",
-      "description": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and …",
-      "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
-      "source": "Kitploit.com",
-      "publishedAt": "2026-08-22T18:40:25Z",
-      "content": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&amp;CK and ATLAS frameworks. The tool generates tailored … [+53808 chars]"
-    },
-    {
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "description": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "source": "Decrypt",
-      "publishedAt": "2026-08-22T17:31:03Z",
-      "content": "In brief\r\n<ul><li>Microsoft disclosed a critical remote code execution vulnerability affecting its Entra ID cloud identity service.</li><li>CVE-2026-69836 received a CVSS score of 10.0 and requires n… [+2576 chars]"
-    },
-    {
-      "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
-      "description": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
-      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-22T16:47:51Z",
-      "content": "Will the FCC ban of foreign robots help or hurt America's robotics industry?\r\nAFP via Getty Images\r\nOn July 28, 2026, the FCC added \"advanced robotic devices\" to its Covered List, the roster of techn… [+27744 chars]"
-    },
-    {
-      "title": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
-      "description": "I can finally stop approving commands.",
-      "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
-      "source": "XDA Developers",
-      "publishedAt": "2026-08-22T16:30:16Z",
-      "content": "Claude Code can handle a lot of tasks without my help, provided I allow it to run the commands it needs along the way. Giving an AI agent unrestricted access to the terminal on my main computer is wh… [+5104 chars]"
-    },
-    {
-      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "description": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
-      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-      "source": "Decrypt",
-      "publishedAt": "2026-08-22T15:31:04Z",
-      "content": "In brief\r\n<ul><li>In an interview with Decrypt, Bitcoin Red Team member Calle said Chinese AI models are used far more than U.S. models for security research because American models often block cyber… [+6252 chars]"
-    }
-  ]
+  "topic": "security,ai,cloud,automotive",
+  "articles": []
 }
