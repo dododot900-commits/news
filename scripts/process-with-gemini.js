@@ -2,7 +2,7 @@
 
 /**
  * Gemini API processing script
- * Processes fetched news articles using Google Gemini API (Free tier)
+ * Processes news articles and outputs structured JSON for GitHub Pages UI
  */
 
 const https = require('https');
@@ -10,18 +10,15 @@ const fs = require('fs');
 const path = require('path');
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_API_URL = 'generativelanguage.googleapis.com';
 
 async function callGemini(prompt) {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
-      contents: [{
-        parts: [{ text: prompt }]
-      }]
+      contents: [{ parts: [{ text: prompt }] }]
     });
 
     const options = {
-      hostname: GEMINI_API_URL,
+      hostname: 'generativelanguage.googleapis.com',
       path: `/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
       method: 'POST',
       headers: {
@@ -56,7 +53,6 @@ async function callGemini(prompt) {
 
 async function processNews() {
   try {
-    // Read fetched news
     const newsFilePath = process.env.FETCHED_NEWS_FILE ||
       path.join(__dirname, '..', 'output', 'raw-news.json');
 
@@ -66,60 +62,118 @@ async function processNews() {
 
     const newsData = JSON.parse(fs.readFileSync(newsFilePath, 'utf-8'));
     const articles = newsData.articles || [];
+    const topic = newsData.topic || 'security';
 
     console.log(`Processing ${articles.length} articles with Gemini...`);
 
-    // Prepare articles summary
-    const articlesSummary = articles
-      .map((a, i) => `Article ${i + 1}:\nTitle: ${a.title}\nDescription: ${a.description}\nSource: ${a.source}\nDate: ${a.publishedAt}`)
-      .join('\n\n');
+    // 各記事を Gemini で分析
+    const processedArticles = [];
 
-    const prompt = `以下のニュース記事を日本語で分析・要約してください：
+    for (let i = 0; i < articles.length; i++) {
+      const article = articles[i];
+      console.log(`Analyzing article ${i + 1}/${articles.length}: ${article.title}`);
 
-${articlesSummary}
+      const prompt = `以下のニュース記事を日本語で分析してください。
 
-以下の形式で出力してください：
+タイトル: ${article.title}
+内容: ${article.description || ''}
+ソース: ${article.source}
+日付: ${article.publishedAt}
 
-## ニュース要約 - ${new Date().toLocaleDateString('ja-JP')}
+以下のJSON形式のみで回答してください（マークダウンコードブロックなし）:
+{
+  "summary": "記事の要点を2-3文で日本語要約",
+  "importance": "高/中/低のいずれか",
+  "keywords": ["キーワード1", "キーワード2", "キーワード3"]
+}`;
 
-### 全体的なトレンド
-（全体の傾向を2-3文で）
+      try {
+        const result = await callGemini(prompt);
+        const cleaned = result.replace(/```json|```/g, '').trim();
+        const analysis = JSON.parse(cleaned);
 
-### 記事別サマリー
-各記事について：
-- **タイトル**: （原題）
-- **要点**: （日本語で2-3文）
-- **重要度**: 高/中/低
-- **キーワード**: （3-5個）
-
-### まとめ・注目ポイント
-（重要なポイントと推奨アクションを箇条書きで）`;
-
-    const summary = await callGemini(prompt);
-
-    console.log('Gemini processing completed');
-    console.log('\nGenerated Summary:\n');
-    console.log(summary);
-
-    // Save summary to file
-    const outputDir = path.join(__dirname, '..', 'output');
-    if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
+        processedArticles.push({
+          id: `article-${i}`,
+          title: article.title,
+          summary: analysis.summary || '',
+          importance: analysis.importance || '中',
+          keywords: analysis.keywords || [],
+          source: article.source,
+          url: article.url,
+          publishedAt: article.publishedAt,
+          topic: topic,
+          upCount: 0,
+          downCount: 0
+        });
+      } catch (e) {
+        console.error(`Error analyzing article ${i + 1}:`, e.message);
+        processedArticles.push({
+          id: `article-${i}`,
+          title: article.title,
+          summary: article.description || '',
+          importance: '中',
+          keywords: [],
+          source: article.source,
+          url: article.url,
+          publishedAt: article.publishedAt,
+          topic: topic,
+          upCount: 0,
+          downCount: 0
+        });
+      }
     }
 
+    // 出力ディレクトリを準備
     const date = new Date().toISOString().split('T')[0];
-    const summaryFile = path.join(outputDir, `news-summary-${date}.md`);
-    fs.writeFileSync(summaryFile, summary);
-    console.log(`\nSummary saved to: ${summaryFile}`);
+    const outputDir = path.join(__dirname, '..', 'output');
+    const docsDataDir = path.join(__dirname, '..', 'docs', 'data');
 
-    // Also save as latest
-    fs.writeFileSync(path.join(outputDir, 'news-summary.md'), summary);
+    [outputDir, docsDataDir].forEach(dir => {
+      if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
+      }
+    });
 
-    // Set GitHub Actions output
-    const gitHubOutput = process.env.GITHUB_OUTPUT;
-    if (gitHubOutput) {
-      fs.appendFileSync(gitHubOutput, `summary<<EOF\n${summary}\nEOF\n`);
-    }
+    // JSON データを保存（GitHub Pages 用）
+    const outputData = {
+      date,
+      topic,
+      generatedAt: new Date().toISOString(),
+      articles: processedArticles
+    };
+
+    // docs/data/ に保存（GitHub Pages から参照）
+    fs.writeFileSync(
+      path.join(docsDataDir, `news-${date}.json`),
+      JSON.stringify(outputData, null, 2)
+    );
+    fs.writeFileSync(
+      path.join(docsDataDir, 'latest.json'),
+      JSON.stringify(outputData, null, 2)
+    );
+
+    // output/ にも Markdown で保存
+    const markdown = processedArticles.map((a, i) => `
+## ${i + 1}. ${a.title}
+
+- **要点**: ${a.summary}
+- **重要度**: ${a.importance}
+- **キーワード**: ${a.keywords.join(', ')}
+- **ソース**: ${a.source}
+- **URL**: ${a.url}
+`).join('\n');
+
+    fs.writeFileSync(
+      path.join(outputDir, `news-summary-${date}.md`),
+      `# ニュース要約 - ${date}\n\n${markdown}`
+    );
+    fs.writeFileSync(
+      path.join(outputDir, 'news-summary.md'),
+      `# ニュース要約 - ${date}\n\n${markdown}`
+    );
+
+    console.log(`✅ Saved ${processedArticles.length} articles to docs/data/news-${date}.json`);
+    console.log(`✅ Latest data saved to docs/data/latest.json`);
 
   } catch (error) {
     console.error('Error processing news:', error.message);

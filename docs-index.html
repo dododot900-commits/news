@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily News Brief</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: #2e3347;
+      --text: #e8eaf0;
+      --text-sub: #8b90a7;
+      --accent: #4f8ef7;
+      --high: #f75f5f;
+      --mid: #f7a94f;
+      --low: #4fcf8e;
+      --thumb-up: #4fcf8e;
+      --thumb-down: #f75f5f;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', sans-serif;
+      min-height: 100vh;
+      padding-bottom: 80px;
+    }
+
+    /* ヘッダー */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(15, 17, 23, 0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .header-left h1 {
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+    }
+
+    .header-left .date {
+      font-size: 11px;
+      color: var(--text-sub);
+      margin-top: 2px;
+    }
+
+    .header-right .score-badge {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 6px 12px;
+      font-size: 12px;
+      color: var(--text-sub);
+      cursor: pointer;
+      transition: border-color 0.2s;
+    }
+
+    .header-right .score-badge:hover {
+      border-color: var(--accent);
+    }
+
+    /* トピックフィルター */
+    .topic-bar {
+      padding: 12px 16px;
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .topic-bar::-webkit-scrollbar { display: none; }
+
+    .topic-chip {
+      flex-shrink: 0;
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text-sub);
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .topic-chip.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* 統計バー */
+    .stats-bar {
+      padding: 10px 16px;
+      display: flex;
+      gap: 16px;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+    }
+
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--text-sub);
+    }
+
+    .stat-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+    }
+
+    /* ニュースカード */
+    .news-list {
+      padding: 12px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .news-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .news-card:active {
+      border-color: var(--accent);
+    }
+
+    .card-header {
+      padding: 14px 14px 10px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .importance-badge {
+      flex-shrink: 0;
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .importance-badge.high {
+      background: rgba(247, 95, 95, 0.15);
+      color: var(--high);
+    }
+
+    .importance-badge.mid {
+      background: rgba(247, 169, 79, 0.15);
+      color: var(--mid);
+    }
+
+    .importance-badge.low {
+      background: rgba(79, 207, 142, 0.15);
+      color: var(--low);
+    }
+
+    .source-time {
+      font-size: 11px;
+      color: var(--text-sub);
+    }
+
+    .card-title {
+      padding: 0 14px 10px;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.5;
+      color: var(--text);
+    }
+
+    .card-summary {
+      padding: 0 14px 10px;
+      font-size: 13px;
+      line-height: 1.7;
+      color: var(--text-sub);
+    }
+
+    .card-keywords {
+      padding: 0 14px 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .keyword {
+      padding: 3px 8px;
+      background: var(--surface2);
+      border-radius: 6px;
+      font-size: 11px;
+      color: var(--text-sub);
+    }
+
+    /* フィードバックボタン */
+    .card-footer {
+      border-top: 1px solid var(--border);
+      padding: 10px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .feedback-buttons {
+      display: flex;
+      gap: 8px;
+    }
+
+    .feedback-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 16px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--surface2);
+      color: var(--text-sub);
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .feedback-btn .count {
+      font-size: 12px;
+    }
+
+    .feedback-btn.up.active {
+      background: rgba(79, 207, 142, 0.15);
+      border-color: var(--thumb-up);
+      color: var(--thumb-up);
+    }
+
+    .feedback-btn.down.active {
+      background: rgba(247, 95, 95, 0.15);
+      border-color: var(--thumb-down);
+      color: var(--thumb-down);
+    }
+
+    .card-url {
+      font-size: 11px;
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    /* ローディング */
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 20px;
+      gap: 16px;
+      color: var(--text-sub);
+    }
+
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* フィードバックパネル */
+    .feedback-panel {
+      display: none;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      border-radius: 20px 20px 0 0;
+      padding: 20px 16px 40px;
+      z-index: 200;
+    }
+
+    .feedback-panel.open {
+      display: block;
+      animation: slideUp 0.3s ease;
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to { transform: translateY(0); }
+    }
+
+    .panel-title {
+      font-size: 15px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      text-align: center;
+    }
+
+    .feedback-summary {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .feedback-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: var(--surface2);
+      border-radius: 8px;
+      font-size: 13px;
+    }
+
+    .feedback-row .title-short {
+      color: var(--text);
+      flex: 1;
+      margin-right: 10px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .feedback-row .reaction {
+      flex-shrink: 0;
+      font-size: 16px;
+    }
+
+    .panel-close {
+      margin-top: 16px;
+      width: 100%;
+      padding: 12px;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 150;
+    }
+
+    .overlay.open { display: block; }
+
+    /* 空状態 */
+    .empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-sub);
+      font-size: 14px;
+      line-height: 2;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>📰 Daily News Brief</h1>
+    <div class="date" id="header-date">読み込み中...</div>
+  </div>
+  <div class="header-right">
+    <div class="score-badge" onclick="openFeedbackPanel()">
+      評価履歴 📊
+    </div>
+  </div>
+</header>
+
+<div class="topic-bar" id="topic-bar">
+  <div class="topic-chip active" onclick="filterTopic('all', this)">すべて</div>
+</div>
+
+<div class="stats-bar">
+  <div class="stat-item">
+    <div class="stat-dot" style="background: var(--high)"></div>
+    <span id="stat-high">高: 0</span>
+  </div>
+  <div class="stat-item">
+    <div class="stat-dot" style="background: var(--mid)"></div>
+    <span id="stat-mid">中: 0</span>
+  </div>
+  <div class="stat-item">
+    <div class="stat-dot" style="background: var(--low)"></div>
+    <span id="stat-low">低: 0</span>
+  </div>
+  <div class="stat-item" style="margin-left: auto">
+    <span id="stat-total" style="color: var(--accent)">0件</span>
+  </div>
+</div>
+
+<div class="news-list" id="news-list">
+  <div class="loading">
+    <div class="spinner"></div>
+    <span>ニュースを読み込み中...</span>
+  </div>
+</div>
+
+<div class="overlay" id="overlay" onclick="closeFeedbackPanel()"></div>
+
+<div class="feedback-panel" id="feedback-panel">
+  <div class="panel-title">📊 評価履歴</div>
+  <div class="feedback-summary" id="feedback-summary"></div>
+  <button class="panel-close" onclick="closeFeedbackPanel()">閉じる</button>
+</div>
+
+<script>
+  let allArticles = [];
+  let currentTopic = 'all';
+  const STORAGE_KEY = 'news_feedback_v1';
+
+  // フィードバックをローカルストレージから取得
+  function getFeedback() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    } catch {
+      return {};
+    }
+  }
+
+  // フィードバックを保存
+  function saveFeedback(data) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  }
+
+  // 今日の日付を取得
+  function getToday() {
+    return new Date().toISOString().split('T')[0];
+  }
+
+  // ニュースデータを読み込み
+  async function loadNews() {
+    const today = getToday();
+    const urls = [
+      `data/news-${today}.json`,
+      `data/latest.json`
+    ];
+
+    for (const url of urls) {
+      try {
+        const res = await fetch(url);
+        if (res.ok) {
+          const data = await res.json();
+          renderNews(data);
+          return;
+        }
+      } catch {}
+    }
+
+    // データがない場合
+    document.getElementById('news-list').innerHTML = `
+      <div class="empty">
+        今日のニュースはまだ取得されていません。<br>
+        GitHub Actions で自動更新されます。<br><br>
+        <small>毎朝8時に自動実行</small>
+      </div>
+    `;
+    document.getElementById('header-date').textContent = today;
+  }
+
+  // ニュースを描画
+  function renderNews(data) {
+    allArticles = data.articles || [];
+    const date = data.date || getToday();
+
+    document.getElementById('header-date').textContent =
+      new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+
+    // トピックチップを生成
+    const topics = [...new Set(allArticles.map(a => a.topic).filter(Boolean))];
+    const topicBar = document.getElementById('topic-bar');
+    topics.forEach(topic => {
+      const chip = document.createElement('div');
+      chip.className = 'topic-chip';
+      chip.textContent = topic;
+      chip.onclick = () => filterTopic(topic, chip);
+      topicBar.appendChild(chip);
+    });
+
+    renderCards(allArticles);
+  }
+
+  // カードを描画
+  function renderCards(articles) {
+    const feedback = getFeedback();
+
+    // 統計を更新
+    const high = articles.filter(a => a.importance === '高').length;
+    const mid = articles.filter(a => a.importance === '中').length;
+    const low = articles.filter(a => a.importance === '低').length;
+    document.getElementById('stat-high').textContent = `高: ${high}`;
+    document.getElementById('stat-mid').textContent = `中: ${mid}`;
+    document.getElementById('stat-low').textContent = `低: ${low}`;
+    document.getElementById('stat-total').textContent = `${articles.length}件`;
+
+    if (articles.length === 0) {
+      document.getElementById('news-list').innerHTML =
+        '<div class="empty">該当する記事がありません</div>';
+      return;
+    }
+
+    const html = articles.map((article, i) => {
+      const id = article.id || `article-${i}`;
+      const fb = feedback[id] || null;
+      const importanceClass = article.importance === '高' ? 'high' :
+                              article.importance === '中' ? 'mid' : 'low';
+      const keywords = (article.keywords || []).map(k =>
+        `<span class="keyword">${k}</span>`).join('');
+
+      return `
+        <div class="news-card" id="card-${id}">
+          <div class="card-header">
+            <span class="importance-badge ${importanceClass}">${article.importance || '中'}</span>
+            <span class="source-time">${article.source || ''}</span>
+          </div>
+          <div class="card-title">${article.title || ''}</div>
+          <div class="card-summary">${article.summary || ''}</div>
+          <div class="card-keywords">${keywords}</div>
+          <div class="card-footer">
+            <div class="feedback-buttons">
+              <button class="feedback-btn up ${fb === 'up' ? 'active' : ''}"
+                onclick="setFeedback('${id}', 'up', this)">
+                👍 <span class="count">${article.upCount || 0}</span>
+              </button>
+              <button class="feedback-btn down ${fb === 'down' ? 'active' : ''}"
+                onclick="setFeedback('${id}', 'down', this)">
+                👎 <span class="count">${article.downCount || 0}</span>
+              </button>
+            </div>
+            ${article.url ? `<a href="${article.url}" target="_blank" class="card-url">元記事 →</a>` : ''}
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    document.getElementById('news-list').innerHTML = html;
+  }
+
+  // フィードバックを設定
+  function setFeedback(id, type, btn) {
+    const feedback = getFeedback();
+    const current = feedback[id];
+
+    if (current === type) {
+      // 同じボタンを押したらキャンセル
+      delete feedback[id];
+    } else {
+      feedback[id] = type;
+    }
+
+    saveFeedback(feedback);
+
+    // UIを更新
+    const card = document.getElementById(`card-${id}`);
+    if (!card) return;
+
+    const upBtn = card.querySelector('.feedback-btn.up');
+    const downBtn = card.querySelector('.feedback-btn.down');
+
+    upBtn.classList.toggle('active', feedback[id] === 'up');
+    downBtn.classList.toggle('active', feedback[id] === 'down');
+  }
+
+  // トピックフィルター
+  function filterTopic(topic, chip) {
+    currentTopic = topic;
+
+    document.querySelectorAll('.topic-chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+
+    const filtered = topic === 'all' ?
+      allArticles :
+      allArticles.filter(a => a.topic === topic);
+
+    renderCards(filtered);
+  }
+
+  // フィードバックパネルを開く
+  function openFeedbackPanel() {
+    const feedback = getFeedback();
+    const summary = document.getElementById('feedback-summary');
+
+    if (Object.keys(feedback).length === 0) {
+      summary.innerHTML = '<div class="feedback-row"><span class="title-short">まだ評価がありません</span></div>';
+    } else {
+      summary.innerHTML = allArticles
+        .filter(a => feedback[a.id || `article-${allArticles.indexOf(a)}`])
+        .map((a, i) => {
+          const id = a.id || `article-${i}`;
+          const reaction = feedback[id] === 'up' ? '👍' : '👎';
+          return `
+            <div class="feedback-row">
+              <span class="title-short">${a.title || '無題'}</span>
+              <span class="reaction">${reaction}</span>
+            </div>
+          `;
+        }).join('') || '<div class="feedback-row"><span class="title-short">まだ評価がありません</span></div>';
+    }
+
+    document.getElementById('overlay').classList.add('open');
+    document.getElementById('feedback-panel').classList.add('open');
+  }
+
+  // フィードバックパネルを閉じる
+  function closeFeedbackPanel() {
+    document.getElementById('overlay').classList.remove('open');
+    document.getElementById('feedback-panel').classList.remove('open');
+  }
+
+  // 起動
+  loadNews();
+</script>
+</body>
+</html>
