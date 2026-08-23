@@ -31,9 +31,6 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Fetch news articles
         run: node scripts/fetch-news.js ${{ github.event.inputs.topic || 'security' }} ${{ github.event.inputs.max_results || '5' }}
         env:
