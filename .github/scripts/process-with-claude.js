@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 /**
- * Claude API 処理スクリプト
- * 取得したニュース記事をClaudeで要約・分類
+ * Claude API processing script
+ * Processes fetched news articles using Claude API
  */
 
 const Anthropic = require('@anthropic-ai/sdk');
@@ -15,8 +15,8 @@ const client = new Anthropic({
 
 async function processNews() {
   try {
-    // 取得したニュースを読み込み
-    const newsFilePath = process.env.FETCHED_NEWS_FILE || 
+    // Read fetched news
+    const newsFilePath = process.env.FETCHED_NEWS_FILE ||
       path.join(__dirname, '..', 'output', 'raw-news.json');
 
     if (!fs.existsSync(newsFilePath)) {
@@ -26,35 +26,25 @@ async function processNews() {
     const newsData = JSON.parse(fs.readFileSync(newsFilePath, 'utf-8'));
     const articles = newsData.articles || [];
 
-    console.log(`📚 Processing ${articles.length} articles with Claude...`);
+    console.log(`Processing ${articles.length} articles with Claude...`);
 
-    // Claudeへのプロンプト
+    // Prepare articles summary for Claude
     const articlesSummary = articles
-      .map((a, i) => `【記事 ${i + 1}】\nタイトル: ${a.title}\n説明: ${a.description}\nソース: ${a.source}\n日時: ${a.publishedAt}`)
+      .map((a, i) => `Article ${i + 1}:\nTitle: ${a.title}\nDescription: ${a.description}\nSource: ${a.source}\nDate: ${a.publishedAt}`)
       .join('\n\n');
 
-    const prompt = `以下のニュース記事を分析してください：
+    const prompt = `Please analyze and summarize the following news articles:
 
 ${articlesSummary}
 
-以下の形式で出力してください：
+Provide:
+1. A brief overview of the main trends
+2. Key points from each article
+3. Importance level (High/Medium/Low) for each
+4. Related keywords
+5. Overall summary
 
-## ニュース要約（トピック: ${newsData.topic}）
-
-### 概要
-このセクションでは全体的な傾向を1-2文で説明
-
-### 記事別分析
-各記事について以下の情報を提供：
-- **タイトル**: [元のタイトル]
-- **要点**: [2-3文の要約]
-- **重要度**: 🔴高 / 🟡中 / 🟢低
-- **関連キーワード**: [3-5個のキーワード]
-
-### まとめと推奨アクション
-- 注目すべき傾向
-- 推奨される対応
-- 次のステップ`;
+Format the response in clear markdown.`;
 
     const message = await client.messages.create({
       model: 'claude-opus-4-1',
@@ -69,13 +59,21 @@ ${articlesSummary}
 
     const summary = message.content[0].type === 'text' ? message.content[0].text : '';
 
-    console.log('✅ Claude processing completed');
-    console.log('\n📋 Generated Summary:\n');
+    console.log('Claude processing completed');
+    console.log('\nGenerated Summary:\n');
     console.log(summary);
 
-    // GitHub Actions の出力に設定
-    // 複数行文字列の場合は特別な処理が必要
-    const summaryForOutput = summary.replace(/\n/g, '%0A');
+    // Save summary to file
+    const outputDir = path.join(__dirname, '..', 'output');
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+    }
+
+    const summaryFile = path.join(outputDir, 'news-summary.md');
+    fs.writeFileSync(summaryFile, summary);
+    console.log(`\nSummary saved to: ${summaryFile}`);
+
+    // Set GitHub Actions output
     const gitHubOutput = process.env.GITHUB_OUTPUT;
     if (gitHubOutput) {
       fs.appendFileSync(gitHubOutput, `summary<<EOF\n${summary}\nEOF\n`);
@@ -84,14 +82,14 @@ ${articlesSummary}
     return summary;
 
   } catch (error) {
-    console.error('❌ Error processing news:', error.message);
+    console.error('Error processing news:', error.message);
     process.exit(1);
   }
 }
 
-// 実行
+// Run
 processNews().then(() => {
-  console.log('✅ All processing complete');
+  console.log('All processing complete');
 }).catch((error) => {
   console.error('Fatal error:', error);
   process.exit(1);
