@@ -3,17 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-
-  <!-- PWA 設定 -->
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#4f8ef7">
-
-  <!-- iOS PWA 設定 -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="News Brief">
   <link rel="apple-touch-icon" href="icon.svg">
-
   <title>Daily News Brief</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -29,8 +24,7 @@
       --high: #f75f5f;
       --mid: #f7a94f;
       --low: #4fcf8e;
-      --safe-top: env(safe-area-inset-top);
-      --safe-bottom: env(safe-area-inset-bottom);
+      --followup: #c084fc;
     }
 
     body {
@@ -38,7 +32,7 @@
       color: var(--text);
       font-family: 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', sans-serif;
       min-height: 100vh;
-      padding-bottom: calc(80px + var(--safe-bottom));
+      padding-bottom: calc(80px + env(safe-area-inset-bottom));
     }
 
     /* ヘッダー */
@@ -46,27 +40,21 @@
       position: sticky;
       top: 0;
       z-index: 100;
-      background: rgba(15, 17, 23, 0.95);
+      background: rgba(15,17,23,0.95);
       backdrop-filter: blur(12px);
       border-bottom: 1px solid var(--border);
-      padding: calc(14px + var(--safe-top)) 16px 14px;
+      padding: calc(14px + env(safe-area-inset-top)) 16px 0;
+    }
+
+    .header-top {
       display: flex;
       align-items: center;
       justify-content: space-between;
+      padding-bottom: 10px;
     }
 
-    .header-left h1 {
-      font-size: 16px;
-      font-weight: 700;
-      letter-spacing: 0.05em;
-      color: var(--accent);
-    }
-
-    .header-left .date {
-      font-size: 11px;
-      color: var(--text-sub);
-      margin-top: 2px;
-    }
+    .header-left h1 { font-size: 16px; font-weight: 700; color: var(--accent); }
+    .header-left .last-updated { font-size: 11px; color: var(--text-sub); margin-top: 2px; }
 
     .score-badge {
       background: var(--surface2);
@@ -76,71 +64,90 @@
       font-size: 12px;
       color: var(--text-sub);
       cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* 日付タブ */
+    .date-tabs {
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+      border-top: 1px solid var(--border);
+    }
+    .date-tabs::-webkit-scrollbar { display: none; }
+
+    .date-tab {
+      flex-shrink: 0;
+      padding: 8px 16px;
+      font-size: 12px;
+      color: var(--text-sub);
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+      transition: all 0.15s;
+    }
+
+    .date-tab.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
     }
 
     /* トピックフィルター */
     .topic-bar {
-      padding: 10px 16px;
+      padding: 8px 16px;
       display: flex;
-      gap: 8px;
+      gap: 6px;
       overflow-x: auto;
       scrollbar-width: none;
       border-bottom: 1px solid var(--border);
       background: var(--surface);
     }
-
     .topic-bar::-webkit-scrollbar { display: none; }
 
     .topic-chip {
       flex-shrink: 0;
-      padding: 6px 14px;
+      padding: 5px 12px;
       border-radius: 20px;
       border: 1px solid var(--border);
       background: var(--bg);
       color: var(--text-sub);
-      font-size: 12px;
+      font-size: 11px;
       cursor: pointer;
-      transition: all 0.2s;
       white-space: nowrap;
       -webkit-tap-highlight-color: transparent;
     }
-
-    .topic-chip.active {
-      background: var(--accent);
-      border-color: var(--accent);
-      color: #fff;
-    }
+    .topic-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
     /* 統計バー */
     .stats-bar {
-      padding: 8px 16px;
+      padding: 6px 16px;
       display: flex;
-      gap: 16px;
+      gap: 10px;
       border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
     }
 
     .stat-item {
       display: flex;
       align-items: center;
-      gap: 5px;
+      gap: 4px;
       font-size: 11px;
       color: var(--text-sub);
     }
 
-    .stat-dot {
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-    }
+    .stat-dot { width: 6px; height: 6px; border-radius: 50%; }
 
-    /* ニュースカード */
+    /* ニュースリスト */
     .news-list {
-      padding: 12px 16px;
+      padding: 10px 16px;
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: 8px;
     }
 
+    /* アコーディオンカード */
     .news-card {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -148,53 +155,91 @@
       overflow: hidden;
     }
 
-    .card-header {
-      padding: 12px 12px 8px;
+    .news-card.followup {
+      border-left: 3px solid var(--followup);
+    }
+
+    /* タイトル行（タップで展開） */
+    .card-summary-row {
+      padding: 12px 12px 10px;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      user-select: none;
+    }
+
+    .card-meta {
       display: flex;
       align-items: center;
+      gap: 5px;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      padding: 2px 7px;
+      border-radius: 5px;
+      font-size: 10px;
+      font-weight: 600;
+    }
+
+    .badge-high     { background: rgba(247,95,95,0.15); color: var(--high); }
+    .badge-mid      { background: rgba(247,169,79,0.15); color: var(--mid); }
+    .badge-low      { background: rgba(79,207,142,0.15); color: var(--low); }
+    .badge-followup { background: rgba(192,132,252,0.15); color: var(--followup); }
+    .badge-security  { background: rgba(247,95,95,0.1); color: #f78f8f; }
+    .badge-automotive { background: rgba(247,169,79,0.1); color: #f7c04f; }
+    .badge-ai       { background: rgba(79,142,247,0.1); color: var(--accent); }
+    .badge-cloud    { background: rgba(79,207,142,0.1); color: var(--low); }
+
+    .card-title-row {
+      display: flex;
+      align-items: flex-start;
       justify-content: space-between;
       gap: 8px;
     }
 
-    .card-header-left {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .importance-badge {
-      padding: 3px 8px;
-      border-radius: 6px;
-      font-size: 11px;
-      font-weight: 600;
-    }
-
-    .importance-badge.high { background: rgba(247,95,95,0.15); color: var(--high); }
-    .importance-badge.mid  { background: rgba(247,169,79,0.15); color: var(--mid); }
-    .importance-badge.low  { background: rgba(79,207,142,0.15); color: var(--low); }
-
-    .topic-badge {
-      padding: 3px 8px;
-      border-radius: 6px;
-      font-size: 11px;
-      background: rgba(79,142,247,0.15);
-      color: var(--accent);
-    }
-
-    .source-label {
-      font-size: 11px;
-      color: var(--text-sub);
-    }
-
     .card-title {
-      padding: 0 12px 8px;
       font-size: 14px;
       font-weight: 600;
       line-height: 1.5;
+      flex: 1;
     }
 
-    .card-summary {
-      padding: 0 12px 8px;
+    .expand-icon {
+      flex-shrink: 0;
+      font-size: 12px;
+      color: var(--text-sub);
+      margin-top: 2px;
+      transition: transform 0.2s;
+    }
+
+    .news-card.expanded .expand-icon {
+      transform: rotate(180deg);
+    }
+
+    /* 展開コンテンツ */
+    .card-detail {
+      display: none;
+      border-top: 1px solid var(--border);
+    }
+
+    .news-card.expanded .card-detail {
+      display: block;
+    }
+
+    .card-progress {
+      margin: 10px 12px 0;
+      padding: 8px 10px;
+      background: rgba(192,132,252,0.08);
+      border-left: 2px solid var(--followup);
+      border-radius: 4px;
+      font-size: 12px;
+      color: var(--followup);
+      line-height: 1.5;
+    }
+
+    .card-body {
+      padding: 10px 12px 8px;
       font-size: 13px;
       line-height: 1.7;
       color: var(--text-sub);
@@ -223,52 +268,37 @@
       justify-content: space-between;
     }
 
-    .feedback-buttons {
-      display: flex;
-      gap: 8px;
-    }
+    .feedback-buttons { display: flex; gap: 8px; }
 
     .feedback-btn {
       display: flex;
       align-items: center;
-      gap: 5px;
-      padding: 6px 14px;
+      gap: 4px;
+      padding: 5px 12px;
       border-radius: 8px;
       border: 1px solid var(--border);
       background: var(--surface2);
       color: var(--text-sub);
-      font-size: 14px;
+      font-size: 13px;
       cursor: pointer;
       -webkit-tap-highlight-color: transparent;
-      transition: all 0.15s;
     }
 
-    .feedback-btn .count { font-size: 12px; }
-
+    .feedback-btn .count { font-size: 11px; }
     .feedback-btn.up.active  { background: rgba(79,207,142,0.15); border-color: var(--low); color: var(--low); }
     .feedback-btn.down.active { background: rgba(247,95,95,0.15); border-color: var(--high); color: var(--high); }
 
-    .card-url {
-      font-size: 11px;
-      color: var(--accent);
-      text-decoration: none;
-    }
+    .card-url { font-size: 11px; color: var(--accent); text-decoration: none; }
 
-    /* ローディング */
+    /* ローディング・空状態 */
     .loading {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      padding: 60px 20px;
-      gap: 16px;
-      color: var(--text-sub);
-      font-size: 14px;
+      display: flex; flex-direction: column; align-items: center;
+      justify-content: center; padding: 60px 20px; gap: 14px;
+      color: var(--text-sub); font-size: 14px;
     }
 
     .spinner {
-      width: 28px;
-      height: 28px;
+      width: 26px; height: 26px;
       border: 2px solid var(--border);
       border-top-color: var(--accent);
       border-radius: 50%;
@@ -277,114 +307,77 @@
 
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* フィードバックパネル */
-    .overlay {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.5);
-      z-index: 150;
+    .empty {
+      text-align: center; padding: 60px 20px;
+      color: var(--text-sub); font-size: 14px; line-height: 2;
     }
 
+    /* フィードバックパネル */
+    .overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,0.5); z-index: 150;
+    }
     .overlay.open { display: block; }
 
     .feedback-panel {
       display: none;
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
+      position: fixed; bottom: 0; left: 0; right: 0;
       background: var(--surface);
       border-top: 1px solid var(--border);
       border-radius: 20px 20px 0 0;
-      padding: 20px 16px calc(40px + var(--safe-bottom));
-      z-index: 200;
-      max-height: 70vh;
-      overflow-y: auto;
+      padding: 20px 16px calc(40px + env(safe-area-inset-bottom));
+      z-index: 200; max-height: 70vh; overflow-y: auto;
     }
-
-    .feedback-panel.open {
-      display: block;
-      animation: slideUp 0.25s ease;
-    }
+    .feedback-panel.open { display: block; animation: slideUp 0.25s ease; }
 
     @keyframes slideUp {
       from { transform: translateY(100%); }
       to { transform: translateY(0); }
     }
 
-    .panel-title {
-      font-size: 15px;
-      font-weight: 700;
-      margin-bottom: 16px;
-      text-align: center;
-    }
-
+    .panel-title { font-size: 15px; font-weight: 700; margin-bottom: 14px; text-align: center; }
     .feedback-summary { display: flex; flex-direction: column; gap: 8px; }
 
     .feedback-row {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 10px 12px;
-      background: var(--surface2);
-      border-radius: 8px;
-      font-size: 13px;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px 12px; background: var(--surface2); border-radius: 8px; font-size: 13px;
     }
 
     .feedback-row .title-short {
-      flex: 1;
-      margin-right: 10px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      color: var(--text);
+      flex: 1; margin-right: 10px;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--text);
     }
 
     .panel-close {
-      margin-top: 14px;
-      width: 100%;
-      padding: 12px;
-      background: var(--accent);
-      color: #fff;
-      border: none;
-      border-radius: 10px;
-      font-size: 14px;
-      font-weight: 600;
-      cursor: pointer;
+      margin-top: 12px; width: 100%; padding: 12px;
+      background: var(--accent); color: #fff;
+      border: none; border-radius: 10px;
+      font-size: 14px; font-weight: 600; cursor: pointer;
     }
-
-    .empty {
-      text-align: center;
-      padding: 60px 20px;
-      color: var(--text-sub);
-      font-size: 14px;
-      line-height: 2;
-    }
-
-    /* トピックカラー */
-    .topic-security  { background: rgba(247,95,95,0.12); color: #f78f8f; }
-    .topic-automotive { background: rgba(247,169,79,0.12); color: #f7c04f; }
-    .topic-ai        { background: rgba(79,142,247,0.12); color: var(--accent); }
-    .topic-cloud     { background: rgba(79,207,142,0.12); color: var(--low); }
   </style>
 </head>
 <body>
 
 <header>
-  <div class="header-left">
-    <h1>📰 Daily News Brief</h1>
-    <div class="date" id="header-date">読み込み中...</div>
+  <div class="header-top">
+    <div class="header-left">
+      <h1>📰 Daily News Brief</h1>
+      <div class="last-updated" id="last-updated">読み込み中...</div>
+    </div>
+    <div class="score-badge" onclick="openFeedbackPanel()">📊 評価</div>
   </div>
-  <div class="score-badge" onclick="openFeedbackPanel()">📊 評価履歴</div>
+
+  <!-- 日付タブ -->
+  <div class="date-tabs" id="date-tabs"></div>
 </header>
 
-<div class="topic-bar" id="topic-bar">
+<div class="topic-bar">
   <div class="topic-chip active" onclick="filterTopic('all', this)">すべて</div>
   <div class="topic-chip" onclick="filterTopic('security', this)">🔒 セキュリティ</div>
   <div class="topic-chip" onclick="filterTopic('automotive', this)">🚗 自動車</div>
   <div class="topic-chip" onclick="filterTopic('ai', this)">🤖 AI</div>
   <div class="topic-chip" onclick="filterTopic('cloud', this)">☁️ クラウド</div>
+  <div class="topic-chip" onclick="filterTopic('followup', this)">🔄 続報</div>
 </div>
 
 <div class="stats-bar">
@@ -399,6 +392,10 @@
   <div class="stat-item">
     <div class="stat-dot" style="background:var(--low)"></div>
     <span id="stat-low">低: 0</span>
+  </div>
+  <div class="stat-item">
+    <div class="stat-dot" style="background:var(--followup)"></div>
+    <span id="stat-followup">続報: 0</span>
   </div>
   <div class="stat-item" style="margin-left:auto">
     <span id="stat-total" style="color:var(--accent)">0件</span>
@@ -421,14 +418,17 @@
 
 <script>
   const STORAGE_KEY = 'news_feedback_v2';
-  let allArticles = [];
-
   const TOPIC_LABELS = {
     security: '🔒 セキュリティ',
     automotive: '🚗 自動車',
     ai: '🤖 AI',
     cloud: '☁️ クラウド'
   };
+
+  let allNews = null;
+  let currentDate = null;
+  let currentArticles = [];
+  let currentTopic = 'all';
 
   function getFeedback() {
     try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
@@ -439,41 +439,103 @@
     localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
   }
 
-  function getToday() {
-    return new Date().toISOString().split('T')[0];
+  function formatDate(dateStr) {
+    const d = new Date(dateStr);
+    const today = new Date().toISOString().split('T')[0];
+    const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+    if (dateStr === today) return '今日';
+    if (dateStr === yesterday) return '昨日';
+    return `${d.getMonth() + 1}/${d.getDate()}`;
   }
 
-  async function loadNews() {
-    const today = getToday();
-    for (const url of [`data/news-${today}.json`, `data/latest.json`]) {
-      try {
-        const res = await fetch(url);
-        if (res.ok) { renderNews(await res.json()); return; }
-      } catch {}
-    }
+  // all-news.json を読み込む
+  async function loadAllNews() {
+    try {
+      const res = await fetch('data/all-news.json');
+      if (res.ok) {
+        allNews = await res.json();
+        initDateTabs();
+        return;
+      }
+    } catch {}
+
+    // フォールバック: latest.json
+    try {
+      const res = await fetch('data/latest.json');
+      if (res.ok) {
+        const latest = await res.json();
+        const today = latest.date || new Date().toISOString().split('T')[0];
+        allNews = {
+          dates: [today],
+          data: { [today]: latest },
+          lastUpdated: new Date().toISOString()
+        };
+        initDateTabs();
+        return;
+      }
+    } catch {}
+
     document.getElementById('news-list').innerHTML =
       '<div class="empty">今日のニュースはまだ取得されていません。<br>毎朝8時に自動更新されます。</div>';
-    document.getElementById('header-date').textContent = today;
   }
 
-  function renderNews(data) {
-    allArticles = data.articles || [];
-    const date = data.date || getToday();
-    document.getElementById('header-date').textContent =
-      new Date(date).toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
-    renderCards(allArticles);
+  // 日付タブを初期化
+  function initDateTabs() {
+    const dates = allNews.dates || [];
+    const tabsEl = document.getElementById('date-tabs');
+
+    tabsEl.innerHTML = dates.map((date, i) => `
+      <div class="date-tab ${i === 0 ? 'active' : ''}"
+           onclick="selectDate('${date}', this)">
+        ${formatDate(date)}
+      </div>
+    `).join('');
+
+    // 最新日を選択
+    if (dates.length > 0) {
+      selectDate(dates[0], null);
+    }
+
+    // 更新日時
+    if (allNews.lastUpdated) {
+      const d = new Date(allNews.lastUpdated);
+      document.getElementById('last-updated').textContent =
+        `最終更新: ${d.toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })}`;
+    }
   }
 
+  // 日付選択
+  function selectDate(date, chipEl) {
+    currentDate = date;
+    currentTopic = 'all';
+
+    // タブのアクティブを切り替え
+    document.querySelectorAll('.date-tab').forEach(t => t.classList.remove('active'));
+    if (chipEl) chipEl.classList.add('active');
+
+    // トピックフィルターをリセット
+    document.querySelectorAll('.topic-chip').forEach(t => t.classList.remove('active'));
+    document.querySelector('.topic-chip')?.classList.add('active');
+
+    const dayData = allNews.data?.[date];
+    currentArticles = dayData?.articles || [];
+    renderCards(currentArticles);
+  }
+
+  // カードを描画
   function renderCards(articles) {
     const feedback = getFeedback();
 
-    const high = articles.filter(a => a.importance === '高').length;
-    const mid  = articles.filter(a => a.importance === '中').length;
-    const low  = articles.filter(a => a.importance === '低').length;
-    document.getElementById('stat-high').textContent = `高: ${high}`;
-    document.getElementById('stat-mid').textContent  = `中: ${mid}`;
-    document.getElementById('stat-low').textContent  = `低: ${low}`;
-    document.getElementById('stat-total').textContent = `${articles.length}件`;
+    const high     = articles.filter(a => a.importance === '高').length;
+    const mid      = articles.filter(a => a.importance === '中').length;
+    const low      = articles.filter(a => a.importance === '低').length;
+    const followup = articles.filter(a => a.is_followup).length;
+
+    document.getElementById('stat-high').textContent     = `高: ${high}`;
+    document.getElementById('stat-mid').textContent      = `中: ${mid}`;
+    document.getElementById('stat-low').textContent      = `低: ${low}`;
+    document.getElementById('stat-followup').textContent = `続報: ${followup}`;
+    document.getElementById('stat-total').textContent    = `${articles.length}件`;
 
     if (!articles.length) {
       document.getElementById('news-list').innerHTML =
@@ -482,70 +544,95 @@
     }
 
     document.getElementById('news-list').innerHTML = articles.map((a, i) => {
-      const id = a.id || `a-${i}`;
-      const fb = feedback[id];
-      const ic = a.importance === '高' ? 'high' : a.importance === '中' ? 'mid' : 'low';
-      const topicClass = `topic-${a.topic || 'ai'}`;
+      const id  = a.id || `a-${i}`;
+      const fb  = feedback[id];
+      const ic  = a.importance === '高' ? 'high' : a.importance === '中' ? 'mid' : 'low';
       const topicLabel = TOPIC_LABELS[a.topic] || a.topic || '';
       const keywords = (a.keywords || []).map(k => `<span class="keyword">${k}</span>`).join('');
+      const followupBadge = a.is_followup ? `<span class="badge badge-followup">🔄 続報</span>` : '';
+      const progressBlock = a.is_followup && a.progress
+        ? `<div class="card-progress">📌 ${a.progress}</div>` : '';
 
       return `
-        <div class="news-card">
-          <div class="card-header">
-            <div class="card-header-left">
-              <span class="importance-badge ${ic}">${a.importance || '中'}</span>
-              <span class="topic-badge ${topicClass}">${topicLabel}</span>
+        <div class="news-card ${a.is_followup ? 'followup' : ''}" id="card-${id}">
+          <!-- タイトル行（タップで展開） -->
+          <div class="card-summary-row" onclick="toggleCard('${id}')">
+            <div class="card-meta">
+              <span class="badge badge-${ic}">${a.importance}</span>
+              <span class="badge badge-${a.topic}">${topicLabel}</span>
+              ${followupBadge}
+              <span style="font-size:11px;color:var(--text-sub);margin-left:auto">${a.source || ''}</span>
             </div>
-            <span class="source-label">${a.source || ''}</span>
+            <div class="card-title-row">
+              <div class="card-title">${a.title || ''}</div>
+              <span class="expand-icon">▼</span>
+            </div>
           </div>
-          <div class="card-title">${a.title || ''}</div>
-          <div class="card-summary">${a.summary || ''}</div>
-          <div class="card-keywords">${keywords}</div>
-          <div class="card-footer">
-            <div class="feedback-buttons">
-              <button class="feedback-btn up ${fb === 'up' ? 'active' : ''}"
-                onclick="setFeedback('${id}', 'up', this, event)">
-                👍 <span class="count">${a.upCount || 0}</span>
-              </button>
-              <button class="feedback-btn down ${fb === 'down' ? 'active' : ''}"
-                onclick="setFeedback('${id}', 'down', this, event)">
-                👎 <span class="count">${a.downCount || 0}</span>
-              </button>
+
+          <!-- 展開コンテンツ -->
+          <div class="card-detail">
+            ${progressBlock}
+            <div class="card-body">${a.summary || ''}</div>
+            <div class="card-keywords">${keywords}</div>
+            <div class="card-footer">
+              <div class="feedback-buttons">
+                <button class="feedback-btn up ${fb === 'up' ? 'active' : ''}"
+                  onclick="setFeedback('${id}', 'up', this, event)">
+                  👍 <span class="count">0</span>
+                </button>
+                <button class="feedback-btn down ${fb === 'down' ? 'active' : ''}"
+                  onclick="setFeedback('${id}', 'down', this, event)">
+                  👎 <span class="count">0</span>
+                </button>
+              </div>
+              ${a.url ? `<a href="${a.url}" target="_blank" class="card-url">元記事 →</a>` : ''}
             </div>
-            ${a.url ? `<a href="${a.url}" target="_blank" class="card-url">元記事 →</a>` : ''}
           </div>
         </div>`;
     }).join('');
   }
 
+  // アコーディオン開閉
+  function toggleCard(id) {
+    const card = document.getElementById(`card-${id}`);
+    if (!card) return;
+    card.classList.toggle('expanded');
+  }
+
+  // フィードバック
   function setFeedback(id, type, btn, e) {
     e.stopPropagation();
     const fb = getFeedback();
-    if (fb[id] === type) { delete fb[id]; }
-    else { fb[id] = type; }
+    if (fb[id] === type) { delete fb[id]; } else { fb[id] = type; }
     saveFeedback(fb);
-    const card = btn.closest('.news-card');
-    card.querySelector('.feedback-btn.up').classList.toggle('active', fb[id] === 'up');
-    card.querySelector('.feedback-btn.down').classList.toggle('active', fb[id] === 'down');
+    const card = document.getElementById(`card-${id}`);
+    card?.querySelector('.feedback-btn.up').classList.toggle('active', fb[id] === 'up');
+    card?.querySelector('.feedback-btn.down').classList.toggle('active', fb[id] === 'down');
   }
 
+  // トピックフィルター
   function filterTopic(topic, chip) {
+    currentTopic = topic;
     document.querySelectorAll('.topic-chip').forEach(c => c.classList.remove('active'));
     chip.classList.add('active');
-    renderCards(topic === 'all' ? allArticles : allArticles.filter(a => a.topic === topic));
+
+    let filtered;
+    if (topic === 'all')           filtered = currentArticles;
+    else if (topic === 'followup') filtered = currentArticles.filter(a => a.is_followup);
+    else                           filtered = currentArticles.filter(a => a.topic === topic);
+    renderCards(filtered);
   }
 
+  // フィードバックパネル
   function openFeedbackPanel() {
     const fb = getFeedback();
-    const rated = allArticles.filter((a, i) => fb[a.id || `a-${i}`]);
+    const rated = currentArticles.filter((a, i) => fb[a.id || `a-${i}`]);
     document.getElementById('feedback-summary').innerHTML = rated.length
-      ? rated.map((a, i) => {
-          const id = a.id || `a-${i}`;
-          return `<div class="feedback-row">
+      ? rated.map(a => `
+          <div class="feedback-row">
             <span class="title-short">${a.title || '無題'}</span>
-            <span>${fb[id] === 'up' ? '👍' : '👎'}</span>
-          </div>`;
-        }).join('')
+            <span>${fb[a.id] === 'up' ? '👍' : '👎'}</span>
+          </div>`).join('')
       : '<div class="feedback-row"><span class="title-short">まだ評価がありません</span></div>';
     document.getElementById('overlay').classList.add('open');
     document.getElementById('feedback-panel').classList.add('open');
@@ -556,7 +643,7 @@
     document.getElementById('feedback-panel').classList.remove('open');
   }
 
-  loadNews();
+  loadAllNews();
 </script>
 </body>
 </html>
