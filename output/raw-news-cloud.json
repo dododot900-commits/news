@@ -1,0 +1,45 @@
+{
+  "topic": "cloud",
+  "articles": [
+    {
+      "title": "pentestcode",
+      "description": "Autonomous AI penetration testing agent that orchestrates multi-agent recon, exploitation, post-exploitation, and reporting with persistent engagement state.",
+      "url": "https://kitploit.com/en/tools/github/s0ld13rr/pentestcode/",
+      "source": "Kitploit.com",
+      "publishedAt": "2026-08-22T19:10:37Z",
+      "content": "AI penetration testing agent in your terminal.Multi-agent architecture Engagement state tracking 20+ LLM providers\r\nPentestCode is an autonomous pentesting agent for your terminal. Point it at a targ… [+6240 chars]"
+    },
+    {
+      "title": "CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M",
+      "description": "CoreWeave's insider sales may signal investor caution, highlighting challenges in sustaining growth amid competitive, capital-intensive tech sectors.\nThe post CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coreweave-ceo-sells-shares-insider-selling/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-22T18:32:56Z",
+      "content": "The sale is part of a broader pattern of insider liquidations that have totaled over $2.3 billion since CoreWeave's IPO lockup expired last year. CoreWeave CEO Michael Intrator filed a Form 144 on Au… [+3045 chars]"
+    },
+    {
+      "title": "Design a Video Upload System That Handles Millions of Uploads a Day",
+      "description": "Learn how to design a video upload and processing system that handles millions of daily uploads, files up to 50 GB, virus and content validation, and global delivery — without your API servers becoming the bottleneck.",
+      "url": "https://www.c-sharpcorner.com/article/design-a-video-upload-system-that-handles-millions-of-uploads-a-day/",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-08-22T14:00:08Z",
+      "content": "Introduction\r\n\"Design the video upload system\" is one of the most revealing questions in system design, because almost everyone answers the wrong part of it first.\r\nThe instinct is to reach for the u… [+25247 chars]"
+    },
+    {
+      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
+      "description": "AWS is growing at its fastest pace in 18 quarters, advertising is booming, and Amazon's chips business is exploding, yet the stock trades at a multiple that...",
+      "url": "https://247wallst.com/investing/2026/08/22/amazon-stock-is-historically-cheap-is-this-a-once-in-a-decade-buying-opportunity/",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-08-22T13:30:46Z",
+      "content": "Quick Read\r\n<ul><li>Amazon trades at 23x forward earnings, a valuation more typical of a mature retailer, even though AWS is growing 37% and carries a $496 billion backlog.\r\n</li><li>Microsoft's Azur… [+4158 chars]"
+    },
+    {
+      "title": "Re: OVSwrap (CVE-2026-64531): Linux kernel/OVS local root vulnerability",
+      "description": "Posted by Kevin Riggle on Aug 21Hey Thomas,\n\nSorry for my delayed response. I see that these patches are now in the\nprocess of landing. Thank you so much for digging in on this and\nproviding this context!\n\nBest,\n- Kevin",
+      "url": "https://seclists.org/oss-sec/2026/q3/544",
+      "source": "Seclists.org",
+      "publishedAt": "2026-08-22T03:06:49Z",
+      "content": "oss-sec\r\nmailing list archives\r\nFrom: Kevin Riggle &lt;kevinr@complexsystems.group&gt;Date: Fri, 21 Aug 2026 17:55:30 -0400\r\nHey Thomas,\r\nSorry for my delayed response. I see that these patches are n… [+7413 chars]"
+    }
+  ]
+}
