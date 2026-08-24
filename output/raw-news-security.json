@@ -2,44 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "attackgen v0.16.0",
-      "description": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and …",
-      "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
-      "source": "Kitploit.com",
-      "publishedAt": "2026-08-22T18:40:25Z",
-      "content": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&amp;CK and ATLAS frameworks. The tool generates tailored … [+53808 chars]"
+      "title": "アフラック生命、サイバー攻撃で漏洩した口座情報を金融機関へ提供 約22万人が情報漏洩 対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUpsbTRLQ1pyVVBPVXBVWGZ1cnFuUy03UXVoZ3M4R2NBQ0lCVFhVdnc2ZkNibGlsWGJlWUJsVExDbFM5Wnp3Wkl5ZVd0TE1rak90T0o5djVZVF9iRVVjUExTQjVnWnh6c3ZfMGVWRTFneWpEOHVVRGxuSU1TRWpJNFZtZXJ6aE10bS03RkNOMklvTGhzaEpobnNIVzZwME1TaENFeg?oc=5",
+      "description": "アフラック生命、サイバー攻撃で漏洩した口座情報を金融機関へ提供 約22万人が情報漏洩 対象&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-08-24T20:00:44.000Z"
     },
     {
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "description": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "source": "Decrypt",
-      "publishedAt": "2026-08-22T17:31:03Z",
-      "content": "In brief\r\n<ul><li>Microsoft disclosed a critical remote code execution vulnerability affecting its Entra ID cloud identity service.</li><li>CVE-2026-69836 received a CVSS score of 10.0 and requires n… [+2576 chars]"
+      "title": "フランス納税者の情報がサイバー攻撃で大量漏洩。 - ovninavi.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JSC1ZN3RZc1Y5ZTF5R3JFN1o5TnRxODJfU2xnNm9iSkxGZHB2LURheHhDMzlXVGlxQVFCQXBnR3JZZVBnOUp3UGF4aw?oc=5",
+      "description": "フランス納税者の情報がサイバー攻撃で大量漏洩。&nbsp;&nbsp;ovninavi.com",
+      "source": "ovninavi.com",
+      "publishedAt": "2026-08-24T07:29:05.000Z"
     },
     {
-      "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
-      "description": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
-      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-22T16:47:51Z",
-      "content": "Will the FCC ban of foreign robots help or hurt America's robotics industry?\r\nAFP via Getty Images\r\nOn July 28, 2026, the FCC added \"advanced robotic devices\" to its Covered List, the roster of techn… [+27744 chars]"
+      "title": "フェースグループ、ランサムウェアの侵入経路はVPN機器 顧客のID・パスワード含む個人情報流出は否定できず - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEJaOUE3ZUEzRm5XRUdvMU9lUERyQjZ3X3gzeVVlQnc4R0ZMbkdxT192Z1dzRUlkM21ER3hiV0NSUFBTTjdxTU9oYU43cWlUeTl2WlJVMGdoeWRiZE9PNFI3Ykx3UmNraGhwd1U0UEpxb1RlWTl4YXB2RWhJTFlOVTA3T1dqenBjOFVtSlVR?oc=5",
+      "description": "フェースグループ、ランサムウェアの侵入経路はVPN機器 顧客のID・パスワード含む個人情報流出は否定できず&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-08-24T06:00:13.000Z"
     },
     {
-      "title": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
-      "description": "I can finally stop approving commands.",
-      "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
-      "source": "XDA Developers",
-      "publishedAt": "2026-08-22T16:30:16Z",
-      "content": "Claude Code can handle a lot of tasks without my help, provided I allow it to run the commands it needs along the way. Giving an AI agent unrestricted access to the terminal on my main computer is wh… [+5104 chars]"
+      "title": "マイクロソフト、Entra IDの深刻なRCE脆弱性を修正（CVE-2026-69836） | Codebook｜Security News - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlBEVllINkFpYzFXRWtJMDFMbUJpVk9CYUgycDJBWTFVVW4xTk5LOU05Q2o5cGZPRGczaHRxTTVFOTdlX2lkRjROZC1Ib1hQcEtwbHRnY2RVNXJCQlRlQ1BCeFJ2Mi14RVRqSUtIZmFQMjA2WEVmVmcydW5IdE8zS09QR0U?oc=5",
+      "description": "マイクロソフト、Entra IDの深刻なRCE脆弱性を修正（CVE-2026-69836） | Codebook｜Security News&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-08-24T04:30:21.000Z"
     },
     {
-      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "description": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
-      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-      "source": "Decrypt",
-      "publishedAt": "2026-08-22T15:31:04Z",
-      "content": "In brief\r\n<ul><li>In an interview with Decrypt, Bitcoin Red Team member Calle said Chinese AI models are used far more than U.S. models for security research because American models often block cyber… [+6252 chars]"
+      "title": "データを国内でしっかり管理して情報漏えいを防止！富士通が企業どうしのやり取りを安全にする新サービスを開始 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFaXBXWDR6bjd5M2MzNE81cFdDamZqVmQ1SG1zcno2VFYya1J3VlNhSm1kX2ZHVW1nbHZfWTVKZ3ZBSDNza3J2OHhwSkwxQ2M?oc=5",
+      "description": "データを国内でしっかり管理して情報漏えいを防止！富士通が企業どうしのやり取りを安全にする新サービスを開始&nbsp;&nbsp;DXマガジン",
+      "source": "DXマガジン",
+      "publishedAt": "2026-08-24T04:12:36.000Z"
+    },
+    {
+      "title": "CISA、MLflowの重大な脆弱性 CVE-2026-64849のサイバー攻撃 悪用を確認 CVSS 9.3、クラウド認証情報流出の恐れ - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUdXN0Q5eFFrUGVVeDZ3WnJ6SUk3X280bEVZaU1Xb0pWc3MyeGJFZUVrVXk3d2wxVzZ3UU1wZGJrV0NfX2Y1UGZVRUg4ZUkzZzZqZUhhYzZOcDJxczZIX0VuemRGc1JMWDhrakNCTUVjSkRXRS1PV2JqLTVtMlhVNzhMWFdlNEx2amlMMkRReDBqZnAzLVpYLWtjdXJDOEU?oc=5",
+      "description": "CISA、MLflowの重大な脆弱性 CVE-2026-64849のサイバー攻撃 悪用を確認 CVSS 9.3、クラウド認証情報流出の恐れ&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-08-24T04:00:46.000Z"
+    },
+    {
+      "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UEowZWlyb3RsWkNraW1ISjhFQnZtcDJvSWstUjJ2WVRIZkVIRVVzeHBpTHdjeWpVQkNpcWdGTmZER1BRZmJOcGxMbTJlSXYtVTY5cjhLMlpPWUxnMnpnRkNMYjZ0YVNuTWs0?oc=5",
+      "description": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-08-24T03:44:00.000Z"
+    },
+    {
+      "title": "【30分でわかる】AIは脆弱性診断をどう変える？ 外注以外の選択肢をもつための具体的なアプローチとは - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUDJTRFVKX0w2TTN1N2tMTW9FbFNwVm0zdFRNdGNycWp6VjVPRjAzVU54aW94eklkczlaN3VNTlRwUVhiZzFNUm5rc3pDcmQzMnp3VlNpd2JpQQ?oc=5",
+      "description": "【30分でわかる】AIは脆弱性診断をどう変える？ 外注以外の選択肢をもつための具体的なアプローチとは&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-08-24T03:01:17.000Z"
+    },
+    {
+      "title": "韓国のLG Uplus、HackerOneと提携しグローバル・バグバウンティを開始 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qNWdXSm1HLXlGOU9ueFRHY0FuN0RNZHNlbjFTTFY1NzdsWXNETEtpbWJMZ1VUWEhiRVQzcERtOUthS3FRUWJtU1F1b2Z2cmZUdE1uN18xU0ZQcEFpSEZtMnk2X2FhNzR3UW1sdVljcldGSWF4?oc=5",
+      "description": "韓国のLG Uplus、HackerOneと提携しグローバル・バグバウンティを開始&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-08-24T02:35:00.000Z"
+    },
+    {
+      "title": "エヌ・イー ケムキャット、従業員アカウント悪用で社内システムに不正アクセス マルウェア実行が原因か、個人情報漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDBuV2lPTTd4bXRtbEtRbjBhLTRmSmdhcHUyaTZ2Z01IVWwxR2Z3N1BfaEhpb0pBdGplS09YcmxIcW0wbHQzU203STIyWl9Sdm9Pclg0XzVaVjJiLWpNaEh3U1BKWXNHcjNwMHVZNUpxUy00OHVKOFNlZkd4QzJuaEM4QWd6b1AxcThiMzZQMHd0Ymo0LWRBMFB5NzVkQQ?oc=5",
+      "description": "エヌ・イー ケムキャット、従業員アカウント悪用で社内システムに不正アクセス マルウェア実行が原因か、個人情���漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-08-24T02:00:23.000Z"
     }
   ]
 }
