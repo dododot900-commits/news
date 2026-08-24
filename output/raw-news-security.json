@@ -2,6 +2,27 @@
   "topic": "security",
   "articles": [
     {
+      "title": "弁護士が法的観点で解説！ AIが武器化される時代のサイバーセキュリティと企業対応 9 / 11 開催 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84dnVOdkpWRlB2Zzc1ZUhXcEZIOGNwNmxkOFUxR0NFUmhyS2lsSzhrUjJjR1JzZGppUVVNNnhKXzRlSnExU3ZWbHczYnpjU2JOcEQxSXh4QnBBdDVlX2U0WGZTcUp3YlBwNjZ3QQ?oc=5",
+      "description": "弁護士が法的観点で解説！ AIが武器化される時代のサイバーセキュリティと企業対応 9 / 11 開催&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-24T23:10:03.000Z"
+    },
+    {
+      "title": "楽天ブックスネットワークのPC端末に不正アクセス、「楽天ブックス」利用者33,333件の個人情報等を保存 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZlZYZ2p0ei1lNnhpbnpGdENaWUhySFloNTN5WUhvM3k3OEtLdEIxUS1ZNmRRbmhGTjljR2ZINFc5TzVBNjdLWi1iTWJaY0tuc3NQcEhacE5mSmxJX01rTWRQQ2l1Wjh1emFTaQ?oc=5",
+      "description": "楽天ブックスネットワークのPC端末に不正アクセス、「楽天ブックス」利用者33,333件の個人情報等を保存&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-24T23:05:17.000Z"
+    },
+    {
+      "title": "作業手順書の曖昧な記載による作業誤りが原因 ～ デジタル庁から他省庁に送付したファイルに関係者以外の個人情報 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUXpWMktiMGNMOVpxTWh1SzVPNG9TVXo0a053OU9faF94TjZXNGp4MnNyLWNaZGJ1Vkw5OTNXQVpZR0dKbG91SVdONHRXM0NlLUhmM1VONGVBRTdXODg0LWxMLXZVV2dTc1BDVA?oc=5",
+      "description": "作業手順書の曖昧な記載による作業誤りが原因 ～ デジタル庁から他省庁に送付したファイルに関係者以外の個人情報&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-24T23:05:05.000Z"
+    },
+    {
       "title": "アフラック生命、サイバー攻撃で漏洩した口座情報を金融機関へ提供 約22万人が情報漏洩 対象 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUpsbTRLQ1pyVVBPVXBVWGZ1cnFuUy03UXVoZ3M4R2NBQ0lCVFhVdnc2ZkNibGlsWGJlWUJsVExDbFM5Wnp3Wkl5ZVd0TE1rak90T0o5djVZVF9iRVVjUExTQjVnWnh6c3ZfMGVWRTFneWpEOHVVRGxuSU1TRWpJNFZtZXJ6aE10bS03RkNOMklvTGhzaEpobnNIVzZwME1TaENFeg?oc=5",
       "description": "アフラック生命、サイバー攻撃で漏洩した口座情報を金融機関へ提供 約22万人が情報漏洩 対象&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -37,7 +58,7 @@
       "publishedAt": "2026-08-24T04:12:36.000Z"
     },
     {
-      "title": "CISA、MLflowの重大な脆弱性 CVE-2026-64849のサイバー攻撃 悪用を確認 CVSS 9.3、クラウド認証情報流出の恐れ - 合同会社ロケットボーイズ",
+      "title": "CISA、MLflow��重大な脆弱性 CVE-2026-64849のサイバー攻撃 悪用を確認 CVSS 9.3、クラウド認証情報流出の恐れ - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUdXN0Q5eFFrUGVVeDZ3WnJ6SUk3X280bEVZaU1Xb0pWc3MyeGJFZUVrVXk3d2wxVzZ3UU1wZGJrV0NfX2Y1UGZVRUg4ZUkzZzZqZUhhYzZOcDJxczZIX0VuemRGc1JMWDhrakNCTUVjSkRXRS1PV2JqLTVtMlhVNzhMWFdlNEx2amlMMkRReDBqZnAzLVpYLWtjdXJDOEU?oc=5",
       "description": "CISA、MLflowの重大な脆弱性 CVE-2026-64849のサイバー攻撃 悪用を確認 CVSS 9.3、クラウド認証情報流出の恐れ&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
@@ -49,27 +70,6 @@
       "description": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ&nbsp;&nbsp;GIGAZINE",
       "source": "GIGAZINE",
       "publishedAt": "2026-08-24T03:44:00.000Z"
-    },
-    {
-      "title": "【30分でわかる】AIは脆弱性診断をどう変える？ 外注以外の選択肢をもつための具体的なアプローチとは - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUDJTRFVKX0w2TTN1N2tMTW9FbFNwVm0zdFRNdGNycWp6VjVPRjAzVU54aW94eklkczlaN3VNTlRwUVhiZzFNUm5rc3pDcmQzMnp3VlNpd2JpQQ?oc=5",
-      "description": "【30分でわかる】AIは脆弱性診断をどう変える？ 外注以外の選択肢をもつための具体的なアプローチとは&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-08-24T03:01:17.000Z"
-    },
-    {
-      "title": "韓国のLG Uplus、HackerOneと提携しグローバル・バグバウンティを開始 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qNWdXSm1HLXlGOU9ueFRHY0FuN0RNZHNlbjFTTFY1NzdsWXNETEtpbWJMZ1VUWEhiRVQzcERtOUthS3FRUWJtU1F1b2Z2cmZUdE1uN18xU0ZQcEFpSEZtMnk2X2FhNzR3UW1sdVljcldGSWF4?oc=5",
-      "description": "韓国のLG Uplus、HackerOneと提携しグローバル・バグバウンティを開始&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-24T02:35:00.000Z"
-    },
-    {
-      "title": "エヌ・イー ケムキャット、従業員アカウント悪用で社内システムに不正アクセス マルウェア実行が原因か、個人情報漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDBuV2lPTTd4bXRtbEtRbjBhLTRmSmdhcHUyaTZ2Z01IVWwxR2Z3N1BfaEhpb0pBdGplS09YcmxIcW0wbHQzU203STIyWl9Sdm9Pclg0XzVaVjJiLWpNaEh3U1BKWXNHcjNwMHVZNUpxUy00OHVKOFNlZkd4QzJuaEM4QWd6b1AxcThiMzZQMHd0Ymo0LWRBMFB5NzVkQQ?oc=5",
-      "description": "エヌ・イー ケムキャット、従業員アカウント悪用で社内システムに不正アクセス マルウェア実行が原因か、個人情���漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-08-24T02:00:23.000Z"
     }
   ]
 }
