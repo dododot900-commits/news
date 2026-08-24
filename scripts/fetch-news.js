@@ -1,295 +1,157 @@
 #!/usr/bin/env node
 
 /**
- * Gemini API processing script
- * - 全記事を日本語化
- * - 前回との重複検出・差分のみ表示
- * - 複数日分を1つのJSONファイルで管理
+ * Google ニュース RSS 取得スクリプト
+ * 日本語の国内ニュースを取得（無料・登録不要）
  */
 
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const TOPICS = ['security', 'automotive', 'ai', 'cloud'];
-const MAX_KEEP_DAYS = 30;
+const TOPIC = process.argv[2] || 'security';
+const MAX_RESULTS = parseInt(process.argv[3] || '10');
 
-async function callGemini(prompt) {
-  return new Promise((resolve, reject) => {
-    const body = JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }]
-    });
+// トピックごとの検索クエリ（日本語・メーカー名を含む）
+const TOPIC_QUERIES = {
+  security: [
+    'サイバーセキュリティ 脆弱性',
+    'セキュリティ 情報漏洩',
+    'ランサムウェア 攻撃'
+  ],
+  automotive: [
+    'トヨタ 新車 OR ホンダ 新車 OR 日産 新型',
+    '自動車 新製品 発表',
+    'EV 電気自動車 国内'
+  ],
+  supplier: [
+    'デンソー OR アイシン OR ボッシュ 新製品',
+    '自動車部品 サプライヤー 開発',
+    '車載 半導体 部品'
+  ],
+  ai: [
+    'AI 人工知能 新技術 日本',
+    '生成AI 企業 導入',
+    '機械学習 製品'
+  ],
+  electronics: [
+    'ソニー OR パナソニック OR 東芝 新製品',
+    '電子機器 メーカー 発表',
+    '半導体 国内 開発'
+  ]
+};
 
-    const options = {
-      hostname: 'generativelanguage.googleapis.com',
-      path: `/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(body)
-      }
+// RSS の XML をパース（簡易版）
+function parseRSS(xml) {
+  const items = [];
+  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+  let match;
+
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const itemXml = match[1];
+
+    const getTag = (tag) => {
+      const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`);
+      const m = itemXml.match(re);
+      if (!m) return '';
+      return m[1]
+        .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&amp;/g, '&')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/<[^>]+>/g, '')
+        .trim();
     };
 
-    const req = https.request(options, (res) => {
+    const title = getTag('title');
+    const link = getTag('link');
+    const pubDate = getTag('pubDate');
+    const description = getTag('description');
+    const source = getTag('source');
+
+    if (title) {
+      items.push({
+        title,
+        url: link,
+        description: description.substring(0, 300),
+        source: source || 'Google News',
+        publishedAt: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString()
+      });
+    }
+  }
+
+  return items;
+}
+
+// RSS を取得
+function fetchRSS(query) {
+  return new Promise((resolve, reject) => {
+    const encodedQuery = encodeURIComponent(query);
+    const url = `https://news.google.com/rss/search?q=${encodedQuery}&hl=ja&gl=JP&ceid=JP:ja`;
+
+    https.get(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)' }
+    }, (res) => {
       let data = '';
       res.on('data', chunk => { data += chunk; });
       res.on('end', () => {
         try {
-          const json = JSON.parse(data);
-          if (json.error) { reject(new Error(json.error.message)); return; }
-          resolve(json.candidates?.[0]?.content?.parts?.[0]?.text || '');
-        } catch (e) { reject(e); }
+          resolve(parseRSS(data));
+        } catch (e) {
+          reject(e);
+        }
       });
-    });
-
-    req.on('error', reject);
-    req.write(body);
-    req.end();
+    }).on('error', reject);
   });
 }
 
-// all-news.json を読み込む
-function loadAllNews(docsDataDir) {
-  const filePath = path.join(docsDataDir, 'all-news.json');
-  if (!fs.existsSync(filePath)) {
-    return { dates: [], data: {} };
-  }
-  try {
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  } catch {
-    return { dates: [], data: {} };
-  }
-}
+async function main() {
+  const queries = TOPIC_QUERIES[TOPIC] || [TOPIC];
 
-// 前日の記事を取得（重複検出用）
-function getPrevArticles(allNews, today) {
-  const dates = allNews.dates || [];
-  const prevDates = dates.filter(d => d !== today).sort().reverse();
-  if (prevDates.length === 0) return [];
-  const prevDate = prevDates[0];
-  return allNews.data?.[prevDate]?.articles || [];
-}
+  console.log(`Fetching Google News RSS for topic: ${TOPIC}`);
+  console.log(`Queries: ${queries.length}`);
 
-// 重複チェック
-function checkDuplicate(article, prevArticles) {
-  if (prevArticles.some(p => p.url === article.url)) {
-    return { type: 'same', prev: prevArticles.find(p => p.url === article.url) };
-  }
+  let allArticles = [];
+  const seenUrls = new Set();
+  const seenTitles = new Set();
 
-  // null チェック追加
-  const title = article.title || '';
-  const words = title.toLowerCase().split(/\s+/).filter(w => w.length > 4);
-  for (const prev of prevArticles) {
-    const prevWords = (prev.title_en || prev.title || '').toLowerCase().split(/\s+/);
-    const common = words.filter(w => prevWords.includes(w));
-    if (common.length >= 3) {
-      return { type: 'similar', prev };
+  for (const query of queries) {
+    console.log(`  Query: "${query}"`);
+    try {
+      const articles = await fetchRSS(query);
+      console.log(`    → ${articles.length} articles`);
+
+      for (const article of articles) {
+        // 重複除去（URL・タイトル）
+        if (seenUrls.has(article.url) || seenTitles.has(article.title)) continue;
+        seenUrls.add(article.url);
+        seenTitles.add(article.title);
+        allArticles.push(article);
+      }
+
+      // RSS への負荷軽減
+      await new Promise(r => setTimeout(r, 500));
+    } catch (e) {
+      console.error(`    Error: ${e.message}`);
     }
   }
 
-  return { type: 'new', prev: null };
+  // 新しい順にソートして上位を取得
+  allArticles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  allArticles = allArticles.slice(0, MAX_RESULTS);
+
+  const outputDir = path.join(__dirname, '..', 'output');
+  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
+
+  const outputPath = path.join(outputDir, `raw-news-${TOPIC}.json`);
+  fs.writeFileSync(outputPath, JSON.stringify({ topic: TOPIC, articles: allArticles }, null, 2));
+
+  console.log(`Saved ${allArticles.length} articles to ${outputPath}`);
 }
 
-// 新規記事を日本語で分析
-async function analyzeNewArticle(article) {
-  const prompt = `以下のニュース記事を分析してください。
-
-タイトル（英語）: ${article.title}
-内容: ${article.description || ''}
-ソース: ${article.source}
-
-以下のJSON形式のみで回答してください（コードブロックなし）:
-{
-  "title_ja": "タイトルを自然な日本語に翻訳",
-  "summary": "記事の要点を2-3文で日本語要約",
-  "importance": "高/中/低のいずれか",
-  "keywords": ["日本語キーワード1", "日本語キーワード2", "日本語キーワード3"],
-  "is_followup": false
-}`;
-
-  try {
-    const result = await callGemini(prompt);
-    const cleaned = result.replace(/```json|```/g, '').trim();
-    return JSON.parse(cleaned);
-  } catch {
-    return {
-      title_ja: article.title || '（タイトルなし）',
-      summary: article.description || '',
-      importance: '中',
-      keywords: [],
-      is_followup: false
-    };
-  }
-}
-
-// 続報記事を日本語で分析
-async function analyzeFollowupArticle(article, prevArticle) {
-  const prompt = `以下の2つのニュース記事を比較して、新しい進展・変化点だけを日本語でまとめてください。
-
-【前回の記事】
-タイトル: ${prevArticle.title_en || prevArticle.title}
-要約: ${prevArticle.summary}
-
-【今回の記事（最新）】
-タイトル（英語）: ${article.title}
-内容: ${article.description || ''}
-ソース: ${article.source}
-
-以下のJSON形式のみで回答してください（コードブロックなし）:
-{
-  "title_ja": "今回の記事タイトルを日本語に翻訳",
-  "summary": "前回から新たに判明した情報・進展を2-3文で日本語要約。変化がない場合は「前回から大きな変化なし」と記載",
-  "importance": "高/中/低のいずれか",
-  "keywords": ["日本語キーワード1", "日本語キーワード2", "日本語キーワード3"],
-  "is_followup": true,
-  "progress": "前回比: [具体的な変化点を1文で]"
-}`;
-
-  try {
-    const result = await callGemini(prompt);
-    const cleaned = result.replace(/```json|```/g, '').trim();
-    return JSON.parse(cleaned);
-  } catch {
-    return {
-      title_ja: article.title || '（タイトルなし）',
-      summary: article.description || '',
-      importance: '中',
-      keywords: [],
-      is_followup: true,
-      progress: '前回から更新あり'
-    };
-  }
-}
-
-async function processNews() {
-  try {
-    const outputDir = path.join(__dirname, '..', 'output');
-    const docsDataDir = path.join(__dirname, '..', 'docs', 'data');
-    [outputDir, docsDataDir].forEach(d => {
-      if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true });
-    });
-
-    const allNews = loadAllNews(docsDataDir);
-    const today = new Date().toISOString().split('T')[0];
-    const prevArticles = getPrevArticles(allNews, today);
-    console.log(`Previous articles: ${prevArticles.length}`);
-
-    let todayArticles = [];
-    let stats = { new: 0, followup: 0, skipped: 0 };
-
-    for (const topic of TOPICS) {
-      const filePath = path.join(outputDir, `raw-news-${topic}.json`);
-      if (!fs.existsSync(filePath)) {
-        console.log(`Skipping ${topic}: file not found`);
-        continue;
-      }
-
-      const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-      const articles = data.articles || [];
-      console.log(`\nProcessing ${articles.length} articles for: ${topic}`);
-
-      for (let i = 0; i < articles.length; i++) {
-        const article = articles[i];
-
-        // null チェック：タイトルがない記事はスキップ
-        if (!article || !article.title) {
-          console.log(`  [${i + 1}/${articles.length}] → Skipped (no title)`);
-          stats.skipped++;
-          continue;
-        }
-
-        console.log(`  [${i + 1}/${articles.length}] ${article.title.substring(0, 50)}...`);
-
-        const duplicate = checkDuplicate(article, prevArticles);
-
-        if (duplicate.type === 'same') {
-          console.log(`    → Skipped (duplicate)`);
-          stats.skipped++;
-          continue;
-        }
-
-        let analysis;
-        if (duplicate.type === 'similar') {
-          console.log(`    → Follow-up detected`);
-          analysis = await analyzeFollowupArticle(article, duplicate.prev);
-          stats.followup++;
-        } else {
-          analysis = await analyzeNewArticle(article);
-          stats.new++;
-        }
-
-        todayArticles.push({
-          id: `${topic}-${Date.now()}-${i}`,
-          title_en: article.title,
-          title: analysis.title_ja,
-          summary: analysis.summary,
-          importance: analysis.importance,
-          keywords: analysis.keywords || [],
-          is_followup: analysis.is_followup || false,
-          progress: analysis.progress || null,
-          source: article.source,
-          url: article.url,
-          publishedAt: article.publishedAt,
-          topic,
-          upCount: 0,
-          downCount: 0
-        });
-
-        await new Promise(r => setTimeout(r, 600));
-      }
-    }
-
-    // 重要度順にソート
-    const order = { '高': 0, '中': 1, '低': 2 };
-    todayArticles.sort((a, b) => {
-      if (a.is_followup !== b.is_followup) return a.is_followup ? 1 : -1;
-      return (order[a.importance] || 1) - (order[b.importance] || 1);
-    });
-
-    // allNews に今日のデータを追加
-    allNews.data = allNews.data || {};
-    allNews.data[today] = {
-      date: today,
-      generatedAt: new Date().toISOString(),
-      stats,
-      articles: todayArticles
-    };
-
-    // 日付リストを更新
-    const cutoffDate = new Date();
-    cutoffDate.setDate(cutoffDate.getDate() - MAX_KEEP_DAYS);
-    const cutoff = cutoffDate.toISOString().split('T')[0];
-
-    Object.keys(allNews.data).forEach(date => {
-      if (date < cutoff) {
-        delete allNews.data[date];
-        console.log(`Removed old data: ${date}`);
-      }
-    });
-
-    allNews.dates = Object.keys(allNews.data).sort().reverse();
-    allNews.lastUpdated = new Date().toISOString();
-
-    // 保存
-    fs.writeFileSync(
-      path.join(docsDataDir, 'all-news.json'),
-      JSON.stringify(allNews, null, 2)
-    );
-
-    fs.writeFileSync(
-      path.join(docsDataDir, 'latest.json'),
-      JSON.stringify({ date: today, articles: todayArticles, stats }, null, 2)
-    );
-
-    console.log(`\n✅ Done!`);
-    console.log(`   新規: ${stats.new}件 / 続報: ${stats.followup}件 / スキップ: ${stats.skipped}件`);
-    console.log(`   保存日付数: ${allNews.dates.length}日分`);
-
-  } catch (error) {
-    console.error('Error:', error.message);
-    process.exit(1);
-  }
-}
-
-processNews();
+main().catch(e => {
+  console.error('Error:', e.message);
+  process.exit(1);
+});

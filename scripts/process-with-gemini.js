@@ -2,7 +2,8 @@
 
 /**
  * Gemini API processing script - バッチ処理版
- * 全記事を2〜3リクエストにまとめて処理（レート制限対策）
+ * - URLが完全一致する記事のみスキップ（タイトル類似はスキップしない）
+ * - 全記事を8件ずつバッチ処理
  */
 
 const https = require('https');
@@ -10,9 +11,9 @@ const fs = require('fs');
 const path = require('path');
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const TOPICS = ['security', 'automotive', 'ai', 'cloud'];
+const TOPICS = ['security', 'automotive', 'supplier', 'ai', 'electronics'];
 const MAX_KEEP_DAYS = 30;
-const BATCH_SIZE = 8; // 1リクエストで処理する記事数
+const BATCH_SIZE = 8;
 
 async function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
@@ -52,7 +53,6 @@ async function callGemini(prompt) {
   });
 }
 
-// 複数記事をまとめて1リクエストで処理
 async function analyzeBatch(articles) {
   const articleList = articles.map((a, i) => `
 記事${i + 1}:
@@ -65,21 +65,20 @@ async function analyzeBatch(articles) {
 
 ${articleList}
 
-各記事について以下のJSON配列形式のみで回答してください（コードブロックなし）。配列の順番は記事の順番と一致させてください:
+各記事について以下のJSON配列形式のみで回答してください（コードブロックなし）:
 [
   {
-    "title_ja": "記事1のタイトルを自然な日本語に翻訳",
-    "summary": "記事1の要点を2-3文で日本語要約",
-    "importance": "高/中/低のいずれか",
-    "keywords": ["日本語キーワード1", "日本語キーワード2", "日本語キーワード3"]
-  },
-  {
-    "title_ja": "記事2のタイトルを自然な日本語に翻訳",
-    "summary": "記事2の要点を2-3文で日本語要約",
-    "importance": "高/中/低のいずれか",
+    "title_ja": "タイトルを自然な日本語に翻訳",
+    "summary": "要点を2-3文で日本語要約",
+    "importance": "高/中/低のいずれか（セキュリティ脅威・重大事故=高、業界動向・新技術=中、一般情報=低）",
     "keywords": ["日本語キーワード1", "日本語キーワード2", "日本語キーワード3"]
   }
-]`;
+]
+
+重要度の基準：
+- 高：脆弱性・サイバー攻撃・リコール・重大事故・法規制変更
+- 中：新技術・業界動向・企業戦略・市場変化
+- 低：一般情報・業界イベント・統計データ`;
 
   try {
     const result = await callGemini(prompt);
@@ -90,11 +89,10 @@ ${articleList}
       cleaned = cleaned.substring(arrStart, arrEnd + 1);
     }
     const parsed = JSON.parse(cleaned);
-    console.log(`  ✅ Batch of ${articles.length} articles processed`);
+    console.log(`  ✅ Batch processed: ${articles.length} articles`);
     return parsed;
   } catch (e) {
     console.error(`  ❌ Batch error: ${e.message}`);
-    // 失敗した場合は英語のままで返す
     return articles.map(a => ({
       title_ja: a.title || '（タイトルなし）',
       summary: a.description || '',
@@ -121,18 +119,21 @@ function getPrevArticles(allNews, today) {
   return allNews.data?.[prevDates[0]]?.articles || [];
 }
 
-function checkDuplicate(article, prevArticles) {
-  if (prevArticles.some(p => p.url === article.url)) {
-    return { type: 'same', prev: prevArticles.find(p => p.url === article.url) };
-  }
+// URLが完全一致する記事のみスキップ（タイトル類似はスキップしない）
+function isDuplicate(article, prevArticles) {
+  return prevArticles.some(p => p.url === article.url);
+}
+
+// タイトル類似チェック（スキップではなく続報として処理）
+function findSimilarPrev(article, prevArticles) {
   const title = article.title || '';
   const words = title.toLowerCase().split(/\s+/).filter(w => w.length > 4);
   for (const prev of prevArticles) {
     const prevWords = (prev.title_en || prev.title || '').toLowerCase().split(/\s+/);
     const common = words.filter(w => prevWords.includes(w));
-    if (common.length >= 3) return { type: 'similar', prev };
+    if (common.length >= 3) return prev;
   }
-  return { type: 'new', prev: null };
+  return null;
 }
 
 async function processNews() {
@@ -148,7 +149,6 @@ async function processNews() {
     const prevArticles = getPrevArticles(allNews, today);
     console.log(`Previous articles: ${prevArticles.length}`);
 
-    // まず全トピックの記事を収集
     let rawArticles = [];
     let stats = { new: 0, followup: 0, skipped: 0 };
 
@@ -161,6 +161,7 @@ async function processNews() {
 
       const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
       const articles = data.articles || [];
+      console.log(`${topic}: ${articles.length} articles`);
 
       for (const article of articles) {
         if (!article || !article.title) {
@@ -168,36 +169,63 @@ async function processNews() {
           continue;
         }
 
-        const duplicate = checkDuplicate(article, prevArticles);
-
-        if (duplicate.type === 'same') {
+        // URLが完全一致する場合のみスキップ
+        if (isDuplicate(article, prevArticles)) {
+          console.log(`  Skip (duplicate URL): ${article.title.substring(0, 40)}...`);
           stats.skipped++;
           continue;
         }
 
+        // タイトル類似チェック（スキップしない、続報として処理）
+        const similarPrev = findSimilarPrev(article, prevArticles);
+
         rawArticles.push({
           ...article,
           topic,
-          is_followup: duplicate.type === 'similar',
-          prev: duplicate.prev || null
+          is_followup: !!similarPrev,
+          prev: similarPrev
         });
       }
     }
 
     console.log(`\nTotal articles to process: ${rawArticles.length}`);
+    console.log(`Skipped (duplicate URL): ${stats.skipped}`);
 
-    // バッチ処理（BATCH_SIZE件ずつまとめてGeminiに送る）
+    if (rawArticles.length === 0) {
+      console.log('\n⚠️  No new articles found.');
+      console.log('This may happen when News API returns the same articles as yesterday.');
+
+      // 空のデータを保存（UIで「今日は記事なし」と表示）
+      allNews.data = allNews.data || {};
+      allNews.data[today] = {
+        date: today,
+        generatedAt: new Date().toISOString(),
+        stats: { new: 0, followup: 0, skipped: stats.skipped },
+        articles: []
+      };
+      allNews.dates = Object.keys(allNews.data).sort().reverse();
+      allNews.lastUpdated = new Date().toISOString();
+
+      fs.writeFileSync(
+        path.join(docsDataDir, 'all-news.json'),
+        JSON.stringify(allNews, null, 2)
+      );
+      return;
+    }
+
+    // バッチ処理
     const todayArticles = [];
     const batches = [];
     for (let i = 0; i < rawArticles.length; i += BATCH_SIZE) {
       batches.push(rawArticles.slice(i, i + BATCH_SIZE));
     }
 
-    console.log(`Processing in ${batches.length} batches of up to ${BATCH_SIZE} articles each\n`);
+    console.log(`\nProcessing in ${batches.length} batches...`);
 
     for (let bi = 0; bi < batches.length; bi++) {
       const batch = batches[bi];
-      console.log(`Batch ${bi + 1}/${batches.length} (${batch.length} articles)...`);
+      console.log(`\nBatch ${bi + 1}/${batches.length} (${batch.length} articles):`);
+      batch.forEach((a, i) => console.log(`  ${i + 1}. ${a.title.substring(0, 50)}...`));
 
       const results = await analyzeBatch(batch);
 
@@ -217,14 +245,14 @@ async function processNews() {
         }
 
         todayArticles.push({
-          id: `${article.topic}-${Date.now()}-${i}`,
+          id: `${article.topic}-${Date.now()}-${bi}-${i}`,
           title_en: article.title,
           title: analysis.title_ja || article.title,
           summary: analysis.summary || article.description || '',
           importance: analysis.importance || '中',
           keywords: analysis.keywords || [],
           is_followup: article.is_followup,
-          progress: article.is_followup ? '前回から更新あり' : null,
+          progress: article.is_followup ? '続報: 前回から更新あり' : null,
           source: article.source,
           url: article.url,
           publishedAt: article.publishedAt,
@@ -234,10 +262,9 @@ async function processNews() {
         });
       }
 
-      // バッチ間は4秒待機
       if (bi < batches.length - 1) {
-        console.log('  Waiting 4s before next batch...');
-        await sleep(4000);
+        console.log('\n  Waiting 5s...');
+        await sleep(5000);
       }
     }
 
@@ -248,7 +275,6 @@ async function processNews() {
       return (order[a.importance] || 1) - (order[b.importance] || 1);
     });
 
-    // allNews に保存
     allNews.data = allNews.data || {};
     allNews.data[today] = {
       date: today,
@@ -262,10 +288,7 @@ async function processNews() {
     const cutoff = cutoffDate.toISOString().split('T')[0];
 
     Object.keys(allNews.data).forEach(date => {
-      if (date < cutoff) {
-        delete allNews.data[date];
-        console.log(`Removed old data: ${date}`);
-      }
+      if (date < cutoff) delete allNews.data[date];
     });
 
     allNews.dates = Object.keys(allNews.data).sort().reverse();

@@ -186,10 +186,11 @@
     .badge-mid      { background: rgba(247,169,79,0.15); color: var(--mid); }
     .badge-low      { background: rgba(79,207,142,0.15); color: var(--low); }
     .badge-followup { background: rgba(192,132,252,0.15); color: var(--followup); }
-    .badge-security  { background: rgba(247,95,95,0.1); color: #f78f8f; }
+    .badge-security   { background: rgba(247,95,95,0.1); color: #f78f8f; }
     .badge-automotive { background: rgba(247,169,79,0.1); color: #f7c04f; }
-    .badge-ai       { background: rgba(79,142,247,0.1); color: var(--accent); }
-    .badge-cloud    { background: rgba(79,207,142,0.1); color: var(--low); }
+    .badge-supplier   { background: rgba(130,170,255,0.1); color: #82aaff; }
+    .badge-ai         { background: rgba(79,142,247,0.1); color: var(--accent); }
+    .badge-electronics { background: rgba(79,207,142,0.1); color: var(--low); }
 
     .card-title-row {
       display: flex;
@@ -375,8 +376,9 @@
   <div class="topic-chip active" onclick="filterTopic('all', this)">すべて</div>
   <div class="topic-chip" onclick="filterTopic('security', this)">🔒 セキュリティ</div>
   <div class="topic-chip" onclick="filterTopic('automotive', this)">🚗 自動車</div>
+  <div class="topic-chip" onclick="filterTopic('supplier', this)">⚙️ 部品</div>
   <div class="topic-chip" onclick="filterTopic('ai', this)">🤖 AI</div>
-  <div class="topic-chip" onclick="filterTopic('cloud', this)">☁️ クラウド</div>
+  <div class="topic-chip" onclick="filterTopic('electronics', this)">💻 電子機器</div>
   <div class="topic-chip" onclick="filterTopic('followup', this)">🔄 続報</div>
 </div>
 
@@ -421,8 +423,9 @@
   const TOPIC_LABELS = {
     security: '🔒 セキュリティ',
     automotive: '🚗 自動車',
+    supplier: '⚙️ 部品',
     ai: '🤖 AI',
-    cloud: '☁️ クラウド'
+    electronics: '💻 電子機器'
   };
 
   let allNews = null;

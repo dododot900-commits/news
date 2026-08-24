@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       topic:
-        description: 'Topic (all / security / automotive / ai / cloud)'
+        description: 'Topic (all)'
         required: false
         default: 'all'
 
@@ -24,27 +24,21 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '24'
-          node-version-file: ''
 
       - name: Fetch security news
-        run: node scripts/fetch-news.js security 5
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: node scripts/fetch-news.js security 10
 
       - name: Fetch automotive news
-        run: node scripts/fetch-news.js automotive 5
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: node scripts/fetch-news.js automotive 10
+
+      - name: Fetch supplier news
+        run: node scripts/fetch-news.js supplier 10
 
       - name: Fetch AI news
-        run: node scripts/fetch-news.js ai 5
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: node scripts/fetch-news.js ai 10
 
-      - name: Fetch cloud news
-        run: node scripts/fetch-news.js cloud 5
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      - name: Fetch electronics news
+        run: node scripts/fetch-news.js electronics 10
 
       - name: Process all topics with Gemini API
         run: node scripts/process-with-gemini.js
@@ -64,4 +58,5 @@ jobs:
         run: |
           echo "## Gemini News Workflow" >> $GITHUB_STEP_SUMMARY
           echo "**Date:** $(date +'%Y-%m-%d %H:%M JST')" >> $GITHUB_STEP_SUMMARY
-          echo "**Topics:** security, automotive, ai, cloud" >> $GITHUB_STEP_SUMMARY
+          echo "**Source:** Google News RSS (日本語)" >> $GITHUB_STEP_SUMMARY
+          echo "**Topics:** security, automotive, supplier, ai, electronics" >> $GITHUB_STEP_SUMMARY
