@@ -11,7 +11,7 @@ const fs = require('fs');
 const path = require('path');
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const TOPICS = ['security', 'automotive', 'supplier', 'ai', 'electronics'];
+const TOPICS = ['security', 'vendor', 'ai', 'cloud', 'network', 'enterprise'];
 const MAX_KEEP_DAYS = 30;
 const BATCH_SIZE = 8;
 

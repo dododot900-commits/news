@@ -12,32 +12,37 @@ const path = require('path');
 const TOPIC = process.argv[2] || 'security';
 const MAX_RESULTS = parseInt(process.argv[3] || '10');
 
-// トピックごとの検索クエリ（日本語・メーカー名を含む）
+// トピックごとの検索クエリ（日本語）
 const TOPIC_QUERIES = {
   security: [
     'サイバーセキュリティ 脆弱性',
     'セキュリティ 情報漏洩',
     'ランサムウェア 攻撃'
   ],
-  automotive: [
-    'トヨタ 新車 OR ホンダ 新車 OR 日産 新型',
-    '自動車 新製品 発表',
-    'EV 電気自動車 国内'
-  ],
-  supplier: [
-    'デンソー OR アイシン OR ボッシュ 新製品',
-    '自動車部品 サプライヤー 開発',
-    '車載 半導体 部品'
+  vendor: [
+    'Zscaler OR CrowdStrike OR ソリトン',
+    'セキュリティベンダー 新製品 OR 買収',
+    'EDR OR SASE OR ゼロトラスト 製品'
   ],
   ai: [
     'AI 人工知能 新技術 日本',
     '生成AI 企業 導入',
     '機械学習 製品'
   ],
-  electronics: [
-    'ソニー OR パナソニック OR 東芝 新製品',
-    '電子機器 メーカー 発表',
-    '半導体 国内 開発'
+  cloud: [
+    'AWS OR Azure OR Google Cloud 新機能',
+    'クラウド 障害 OR インフラ',
+    'クラウドサービス 発表'
+  ],
+  network: [
+    'Cisco OR Palo Alto OR Fortinet 製品',
+    'ネットワーク機器 脆弱性 OR 新製品',
+    'SD-WAN OR ファイアウォール 企業'
+  ],
+  enterprise: [
+    'SaaS 企業 導入 OR 新機能',
+    '情報システム DX 動向',
+    'エンタープライズ IT 業務システム'
   ]
 };
 

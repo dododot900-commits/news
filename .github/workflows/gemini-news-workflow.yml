@@ -28,17 +28,20 @@ jobs:
       - name: Fetch security news
         run: node scripts/fetch-news.js security 10
 
-      - name: Fetch automotive news
-        run: node scripts/fetch-news.js automotive 10
-
-      - name: Fetch supplier news
-        run: node scripts/fetch-news.js supplier 10
+      - name: Fetch vendor news
+        run: node scripts/fetch-news.js vendor 10
 
       - name: Fetch AI news
         run: node scripts/fetch-news.js ai 10
 
-      - name: Fetch electronics news
-        run: node scripts/fetch-news.js electronics 10
+      - name: Fetch cloud news
+        run: node scripts/fetch-news.js cloud 10
+
+      - name: Fetch network news
+        run: node scripts/fetch-news.js network 10
+
+      - name: Fetch enterprise news
+        run: node scripts/fetch-news.js enterprise 10
 
       - name: Process all topics with Gemini API
         run: node scripts/process-with-gemini.js
@@ -59,4 +62,4 @@ jobs:
           echo "## Gemini News Workflow" >> $GITHUB_STEP_SUMMARY
           echo "**Date:** $(date +'%Y-%m-%d %H:%M JST')" >> $GITHUB_STEP_SUMMARY
           echo "**Source:** Google News RSS (日本語)" >> $GITHUB_STEP_SUMMARY
-          echo "**Topics:** security, automotive, supplier, ai, electronics" >> $GITHUB_STEP_SUMMARY
+          echo "**Topics:** security, vendor, ai, cloud, network, enterprise" >> $GITHUB_STEP_SUMMARY
