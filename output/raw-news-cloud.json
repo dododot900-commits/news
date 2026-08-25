@@ -2,44 +2,74 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "pentestcode",
-      "description": "Autonomous AI penetration testing agent that orchestrates multi-agent recon, exploitation, post-exploitation, and reporting with persistent engagement state.",
-      "url": "https://kitploit.com/en/tools/github/s0ld13rr/pentestcode/",
-      "source": "Kitploit.com",
-      "publishedAt": "2026-08-22T19:10:37Z",
-      "content": "AI penetration testing agent in your terminal.Multi-agent architecture Engagement state tracking 20+ LLM providers\r\nPentestCode is an autonomous pentesting agent for your terminal. Point it at a targ… [+6240 chars]"
+      "title": "なぜ今「あえてオンプレ」なのか？ AI時代に見直すハイブリッドインフラ戦略：Enterprise IT Summit 2026 春 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZjdqSjFhb1oxeWg4TWFOOThNQ1dtaGd6aFdpRTBjSE5vam45bXBPdkhiYmplM29iUTc3b1VLRWJiamdUZHY5VGZMT29JanpmSzZscVJEM3J3WGZrcHV4Z292SDRRVTNTWHpROXY2RmJIYi1w?oc=5",
+      "description": "なぜ今「あえてオンプレ」なのか？ AI時代に見直すハイブリッドインフラ戦略：Enterprise IT Summit 2026 春&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-08-25T22:00:00.000Z"
     },
     {
-      "title": "CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M",
-      "description": "CoreWeave's insider sales may signal investor caution, highlighting challenges in sustaining growth amid competitive, capital-intensive tech sectors.\nThe post CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/coreweave-ceo-sells-shares-insider-selling/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-22T18:32:56Z",
-      "content": "The sale is part of a broader pattern of insider liquidations that have totaled over $2.3 billion since CoreWeave's IPO lockup expired last year. CoreWeave CEO Michael Intrator filed a Form 144 on Au… [+3045 chars]"
+      "title": "令和8年版 情報通信白書｜クラウドサービス - soumu.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHQtV3FZS19DenVnN3dTWE5XaGE5d3NHRENfMWtPQUJFQXIzYzEyS1pRazFVelFkRUI2SHZJTDdvajVjRzZqOVdHUjVpWnZCVC1mWkFlQmZkYndUQVR4ZE1BMmZnRmluWjR4MkNSczNTc3NKT21jZUVkNngtWUhpX2J3?oc=5",
+      "description": "令和8年版 情報通信白書｜クラウドサービス&nbsp;&nbsp;soumu.go.jp",
+      "source": "soumu.go.jp",
+      "publishedAt": "2026-08-25T10:19:55.000Z"
     },
     {
-      "title": "Design a Video Upload System That Handles Millions of Uploads a Day",
-      "description": "Learn how to design a video upload and processing system that handles millions of daily uploads, files up to 50 GB, virus and content validation, and global delivery — without your API servers becoming the bottleneck.",
-      "url": "https://www.c-sharpcorner.com/article/design-a-video-upload-system-that-handles-millions-of-uploads-a-day/",
-      "source": "C-sharpcorner.com",
-      "publishedAt": "2026-08-22T14:00:08Z",
-      "content": "Introduction\r\n\"Design the video upload system\" is one of the most revealing questions in system design, because almost everyone answers the wrong part of it first.\r\nThe instinct is to reach for the u… [+25247 chars]"
+      "title": "ベトナムのデジタルインフラは、物流におけるデジタル変革という目標を実現しつつある。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVklabE1EdEdzUHh1LXBOMFVuWk82RVNNYW9GNmVCVnkyWUtub3JBRS0xbmFFaklRTW1MOXVoNjhMckVzRVhNc3QxZGhrSW42WEZpODBmUUFUUVVhOTF0dzEwdlJmdUJNS013MmlCUTVvNnJsMEY2ZUFrYi1fNENfem53YTJkRFBJYmFId2Y3RHo0TjRaX2JzLWxWbm9KRkU?oc=5",
+      "description": "ベトナムのデジタルインフラは、物流におけるデジタル変革という目標を実現しつつある。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-25T07:41:08.000Z"
     },
     {
-      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
-      "description": "AWS is growing at its fastest pace in 18 quarters, advertising is booming, and Amazon's chips business is exploding, yet the stock trades at a multiple that...",
-      "url": "https://247wallst.com/investing/2026/08/22/amazon-stock-is-historically-cheap-is-this-a-once-in-a-decade-buying-opportunity/",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-08-22T13:30:46Z",
-      "content": "Quick Read\r\n<ul><li>Amazon trades at 23x forward earnings, a valuation more typical of a mature retailer, even though AWS is growing 37% and carries a $496 billion backlog.\r\n</li><li>Microsoft's Azur… [+4158 chars]"
+      "title": "日本のAIは、なぜ海外のインフラに頼り続けるのか 半導体からクラウドまで1社で完結させる、メタデータラボの解 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IU3FrMzdPaG85OXRnQTBEU1B4OTNQd25IVkZCZkRNLTF5dUc4VGM4UnhmcnJDb2dCOXRMSThEeUItWWk1ZG40QzNnWWxuTFcwcmJCWW1VRzhJdw?oc=5",
+      "description": "日本のAIは、なぜ海外のインフラに頼り続けるのか 半導体からクラウドまで1社で完結させる、メタデータラボの解&nbsp;&nbsp;Forbes JAPAN",
+      "source": "Forbes JAPAN",
+      "publishedAt": "2026-08-25T07:00:00.000Z"
     },
     {
-      "title": "Re: OVSwrap (CVE-2026-64531): Linux kernel/OVS local root vulnerability",
-      "description": "Posted by Kevin Riggle on Aug 21Hey Thomas,\n\nSorry for my delayed response. I see that these patches are now in the\nprocess of landing. Thank you so much for digging in on this and\nproviding this context!\n\nBest,\n- Kevin",
-      "url": "https://seclists.org/oss-sec/2026/q3/544",
-      "source": "Seclists.org",
-      "publishedAt": "2026-08-22T03:06:49Z",
-      "content": "oss-sec\r\nmailing list archives\r\nFrom: Kevin Riggle &lt;kevinr@complexsystems.group&gt;Date: Fri, 21 Aug 2026 17:55:30 -0400\r\nHey Thomas,\r\nSorry for my delayed response. I see that these patches are n… [+7413 chars]"
+      "title": "エージェント型AIの拡大で推論はPCへ DellがAIインフラ再設計を提起 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSm44Y1A1MnRxSXVQcGFvMzEzNXhibGlFWVRlQzVWYkdEaG96Z0NYdFlKd2lWTVJldmJ2UnY3c3FVdnpWM0dEdVF5WjhPYy1ZODNtbzdGeHNraDM4Z2k2WEVxeFBxd1VpRDdrM3pQRzkyb083M214SHlpUnZMaWcyWTRyQWE1dVVNMHg0dDFaME9oYTZqNFB3VWVCY3N5WDZJRmhQZG0tWmxuWmVyNDlxSlZUS25zYkE?oc=5",
+      "description": "エージェント型AIの拡大で推論はPCへ DellがAIインフラ再設計を提起&nbsp;&nbsp;디지털투데이",
+      "source": "디지털투데이",
+      "publishedAt": "2026-08-25T06:28:38.000Z"
+    },
+    {
+      "title": "【計算能力のボトルネックがAI競争を再構築 クラウド大手がインフラ優位で最終勝者に】 - BigGo ファ��ナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zTTNiaENZSGY3cnpzRjAtVGpkTTdGcVBMS0lHUk1SeVQ3Q2ZqTFNOblBRSVJDR3MwRnNVYTFERVFUZUhLanNZdlRmOUR2dmNOc1hYYlhWZVZ0aUhwdW9YaG11eG1ZRUwwR0Q5c0dxaVlhTlpx?oc=5",
+      "description": "【計算能力のボトルネックがAI競争を再構築 クラウド大手がインフラ優位で最終勝者に】&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-08-25T03:25:00.000Z"
+    },
+    {
+      "title": "クラウデラの首脳が語るソブリンAIとオンプレミス推論--「Anywhere Cloud」を発表 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SaGd4bUtZalJlT1VxNlRPYlhCRGMwVWJtTkFlMjhiMzlhOFlPT1RBbnVZZXFkUXo4cWh1cTJLbkhIdlpxSkhEOEJMalVJb2U3U3hz?oc=5",
+      "description": "クラウデラの首脳が語るソブリンAIとオンプレミス推論--「Anywhere Cloud」を発表&nbsp;&nbsp;ZDNET Japan",
+      "source": "ZDNET Japan",
+      "publishedAt": "2026-08-24T22:00:00.000Z"
+    },
+    {
+      "title": "【シグニチャ・シリーズ】クラウドの未来：2031年 at ガートナー ITインフラストラクチャ、オペレーション & クラウド戦略コンファレンス - Gartner",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVlQRXJtMUFLZVVHX3N3Yk93b19pMmthVVJyanVJSVF6TThmSnZGcDhOelFqc1ltaHpQU2Y3WWx1TEJSMXo3cUFwcUFYZnRtYnZ4elFTS0tkcTJlRm1LbUdvbUtMcjBLSFhXOFFpVktNR0NiaGkwR09HWFU0WUtjaGJ4ZzBnVXdGRWxoUERSNHdQR0M4eklhUjgyQkRsak5Vb1VzZGx0RE1Jb1NnX2tKcHBB?oc=5",
+      "description": "【シグニチャ・シリーズ】クラウドの未来：2031年 at ガートナー ITインフラストラクチャ、オペレーション & クラウド戦略コンファレンス&nbsp;&nbsp;Gartner",
+      "source": "Gartner",
+      "publishedAt": "2026-08-24T21:43:44.000Z"
+    },
+    {
+      "title": "“データ爆発”に先手を打つ CRMサービス「betrend」の安定と成長を支えるOCI：AI時代を見据えるインフラ選定 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rTVJncFZ0QWJGMl9ZUlVYWTc5c0JvQ3FheUZTbHNoeEFNVUxyWkFYOWtSY3FOR2h6WG96anJVbUdWeGlocDFTZjZKV2FZMGJSb3FxYjk4Y0RUOHhsbW1FOGJaX1dvUTJ5cXpBM3h2MA?oc=5",
+      "description": "“データ爆発”に先手を打つ CRMサービス「betrend」の安定と成長を支えるOCI：AI時代を見据えるインフラ選定&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-08-24T20:01:10.000Z"
+    },
+    {
+      "title": "アクセス権限がクラウドセキュリティにおける重要な要素となる時。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWxXSUU2T1NjY08xSDk0Unhjdkc3eUxseFhLT0NiakU2T29GaUpTX1NKb05nN0cwb2hIZ3JXNHZrOTVlQ3gtNmEyd3Blb19DYllsaTdtMnNrTk1nc0lKeTlaVUYyTXUwcWw0Qm1ZTGpMamlHd2dwUzl6VERJb3NyZ1VIZG9Sc3AxSm9KZFFqWmhGZVVpTzNSQjZn?oc=5",
+      "description": "アクセス権限がクラウドセキュリティにおける重要な要素となる時。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-24T04:31:26.000Z"
     }
   ]
 }
