@@ -1,9 +1,670 @@
 {
-  "date": "2026-08-24",
-  "articles": [],
+  "date": "2026-08-25",
+  "articles": [
+    {
+      "id": "security-1787700015948-0-0",
+      "title_en": "ECサイト「ビールの縁側」に不正アクセス、一部顧客の個人情報が漏えいした可能性 - ScanNetSecurity",
+      "title": "ECサイト「ビールの縁側」に不正アクセス、一部顧客の個人情報が漏えいした可能性",
+      "summary": "ECサイト「ビールの縁側」において、第三者からの不正アクセスが確認された。これにより、一部の顧客に関する個人情報が外部へ漏えいした可能性が判明している。",
+      "importance": "高",
+      "keywords": [
+        "不正アクセス",
+        "個人情報漏えい",
+        "ECサイト"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mc0ZjS2RzUTFkTlR2bmVLWFN2eVdfVUNOSTVHLXhpUklJd0puNHEyVVF1VWxtWGVKejlKTFp1ZW1OZ3RBMjQ5WTR2US1jbVNUQ01CbmtMbXdBY3hLai1FMWFwN0NnWXhucTZJTg?oc=5",
+      "publishedAt": "2026-08-25T23:10:22.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-1",
+      "title_en": "「虫退治ドットコム」に不正アクセス、カード情報が漏えいした可能性 - ScanNetSecurity",
+      "title": "「虫退治ドットコム」に不正アクセス、カード情報が漏えいした可能性",
+      "summary": "オンラインショップ「虫退治ドットコム」が第三者による不正アクセスを受けた。サイトを利用した顧客のクレジ���トカード情報が漏えいした可能性が確認されている。",
+      "importance": "高",
+      "keywords": [
+        "不正アクセス",
+        "クレジットカード情報漏えい",
+        "ECサイト"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTjZsOWtCYl9EUlh0TndYNGZ2UU83RXZoU3FGVDA5WnFtUWV4ckFlWkRsVlFobUwzZjVzdk9TejlrUDhtOE1zWVNzWlZUX3VTekJqb0R2SGVfWEc2UHpHWHVsRkRuamppLXRMSA?oc=5",
+      "publishedAt": "2026-08-25T23:10:20.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-2",
+      "title_en": "ヨネックス 台湾子会社に不正アクセス - ScanNetSecurity",
+      "title": "ヨネックスの台湾子会社が不正アクセス被害",
+      "summary": "ヨネックスの台湾現地法人が第三者からの不正アクセスを受けたことが明らかになった。被害の全容や情報漏えいの有無について、現在詳細な調査が進められている。",
+      "importance": "高",
+      "keywords": [
+        "不正アクセス",
+        "ヨネックス",
+        "海外子会社"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4OUZULXBJNmNPM0xQdTl2MFhjeWg2XzRTYXJoTVNLNEhUY0ZYSjJFNjI1S21fbUtpRTduZUUxLXYzcWJ6T1EtMmo5WHZhdlNlbGxGMzBkcF8zYlFUM0RxaDhzeDN3VEZCVmRGVQ?oc=5",
+      "publishedAt": "2026-08-25T23:10:18.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-3",
+      "title_en": "シンアイ産業が利用を予定していたWebシステムに不正アクセス、一部の顧客情報が閲覧された可能性を否定できず - ScanNetSecurity",
+      "title": "シンアイ産業が利用予定のWebシステムに不正アクセス、顧客情報閲覧の可能性",
+      "summary": "シンアイ産業が導入を予定していた外部Webシステムに対して不正アクセスが発生した。システム内に格納されていた一部の顧客情報が第三者に閲覧された可能性が否定できない状況となっている。",
+      "importance": "高",
+      "keywords": [
+        "不正アクセス",
+        "顧客情報",
+        "Webシステム"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTnozMzQ4U1I4TGV1djlYU0cxWUJaZWt3RzMxQTh2WnB1a2lQczdqbHlCeDNRR0xGVDVvSGdGSmlVVjNtWXVjaEZHUHpHamNVVlYwMk8yT2k0VTBYTjJrWUtCdWs4c0d0VlQycQ?oc=5",
+      "publishedAt": "2026-08-25T23:10:14.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-4",
+      "title_en": "名鉄協商にランサムウェア攻撃、カーシェア「カリテコ」の顧客情報が漏えいした可能性 - ScanNetSecurity",
+      "title": "名鉄協商にランサムウェア攻撃、カーシェア「カリテコ」の顧客情報が漏えいした可能性",
+      "summary": "名鉄協商の社内システムがランサムウェア攻撃を受け、障害が発生した。同社が展開するカーシェアサービス「カリテコ」等の顧客情報が外部に漏えいした可能性が浮上している。",
+      "importance": "高",
+      "keywords": [
+        "ランサムウェア",
+        "情報漏えい",
+        "名鉄協商"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zeWRDalB6S1ZHV1B2dGMyMlZFaU1uS2ZOeHA5QVBpek5saUVBNWVlb21WN1JUQ1RTMGFXdzF5b3lmbTgyX1dHVENfdXNzVDNobWl0WmNMbHVPaFFQT0daU3BhRTdYNV9GMlJYVw?oc=5",
+      "publishedAt": "2026-08-25T23:10:12.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-5",
+      "title_en": "メディア4u の SMS 送信システムにサイバー攻撃、連携していたブロードリーフの「.cシリーズ」「.NSシリーズ」にも影響 - ScanNetSecurity",
+      "title": "メディア4uのSMS送信システムにサイバー攻撃、ブロードリーフ連携製品にも影響",
+      "summary": "メディア4uの提供するSMS送信システムがサイバー攻撃を受けた。このシステムと連携していたブロードリーフの「.cシリーズ」「.NSシリーズ」などの製品群にも影響が広がっている。",
+      "importance": "高",
+      "keywords": [
+        "サイバー攻撃",
+        "SMS送信システム",
+        "サプライチェーン影響"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SWW5HWE84U21FZ1dsd0xXSWh6S2xwb3BqRWFzUXVla05XZHRFUnpSd3ZDSXVRNExpR1BWSDdfcVkycU4tS3dfYTVPaGU0TGFxUWFNdmdfT0o5UXM4WV9VUzFxaGotc0g1TG5Zcg?oc=5",
+      "publishedAt": "2026-08-25T23:10:03.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-6",
+      "title_en": "警察庁が注意呼びかけ、不正送金手口の44%が「レジデンシャルプロキシ」の悪用 ～ ストリーミング端末などの確認を - ScanNetSecurity",
+      "title": "警察庁が注意喚起、不正送金手口の44%で「レジデンシャルプロキシ」が悪用される",
+      "summary": "警察庁は、ネットバンキング不正送金手口の44%で「レジデンシャルプロキシ」が悪用されているとして注意を呼びかけた。家庭内のストリーミング端末などが中継台として悪用されるケースがあり、機器の設定確認が求められている。",
+      "importance": "高",
+      "keywords": [
+        "不正送金",
+        "レジデンシャルプロキシ",
+        "警察庁"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZmI0NW9MZDhnSlJIMDRaejQ3REpOYklCNkZ1Q0VFZHJKakYzd2NjY0swSjAxNUJsMGhzOE5IakJYQVlnbkxsaU1FWW91cDhSX2V3SDdCYVduTHkyRlZaTzNOZDJVZ1UyaEVMTA?oc=5",
+      "publishedAt": "2026-08-25T23:00:04.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700015948-0-7",
+      "title_en": "KDDIウェブコミュニケーションズ、KDDIへの不正アクセスで125万543件のアカウントの情報漏洩 - 合同会社ロケットボーイズ",
+      "title": "KDDIへの不正アクセスでKDDIウェブコミュニケーションズの125万件超の情報が漏洩",
+      "summary": "KDDIに対する不正アクセスに関連し、グループ会社であるKDDIウェブコミュニケーションズで約125万件のアカウント情報漏洩が判明した。大規模な漏洩事案として事態の把握と対応が進められている。",
+      "importance": "高",
+      "keywords": [
+        "不正アクセス",
+        "情報漏洩",
+        "KDDI"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1k0RkRwaXJPeFJ0eGY3SjJFNVFlU01DWVpYY0pURVk2VWd3NlJENy1xa2dlTzNhWkVlYS1SX1JBQnBmM1dMbUdmNXlST2E4aktOdTkwVUQxS2xmTVNVQ2ozbmJ1RVRnTWNZSDVnZHNUTWdVZ0RLZzdBbUFzOHNPLW1WeUlRZHNBVG0xaHREdVdhMEpBaVpJZEE5ZWJZZw?oc=5",
+      "publishedAt": "2026-08-25T22:00:14.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700039191-1-0",
+      "title_en": "中国系国家ハッカー、DeepSeek AI活用で攻撃量が倍増＝研究者 - BigGo ファイナンス",
+      "title": "中国系国家ハッカー、DeepSeek AIの活用でサイバー攻撃量が倍増",
+      "summary": "中国系の国家ハッカーがDeepSeek AIを活用することで、サイバー攻撃の規模を従来の2倍に増加させていると研究者が報告した。生成AIを悪用した新たなサイバー脅威として警戒が高まっている。",
+      "importance": "高",
+      "keywords": [
+        "サイバー攻撃",
+        "DeepSeek",
+        "生成AI"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BR1Z0QWkyUGVZeEhRcm9NMTJCOEpZeDhObVpteEQtYlZDVmYwUEJtc2JKZ2plcTFjdFFIbW5qQzFxNjk3MElydDgwcUNmdXRpS3hUR0tRUXJqUUlRUjlGdXRjcnVmYXR6eWpqbERsclRGVXFp?oc=5",
+      "publishedAt": "2026-08-25T18:22:00.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "security-1787700039191-1-1",
+      "title_en": "Androidのプライバシー脆弱性により、隠された広告SDKを通じて位置情報データが漏洩する可能性がある。 - Vietnam.vn",
+      "title": "Androidの脆弱性により隠された広告SDKから位置情報が漏洩する恐れ",
+      "summary": "Androidのプライバシー脆弱性により、アプリ内に潜む広告SDKを通じてユーザーの位置情報が漏洩するリスクが判明した。個人情報保護におけるセキュリティ上の懸念が指摘されている。",
+      "importance": "高",
+      "keywords": [
+        "Android",
+        "脆弱性",
+        "位置情報漏洩"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdG1LMlRaTzdHYUFkeEhuNlB3bmZvV19xeldkdUhjaUwtZHVRQ3hIbTVoMVZmTy1RM0xkWmtESlV1NDMtenJON05wRzFvRUtRaXVaR1lsRjNzR25xY2hrUTJ1ckFGUF80dF82SEFCYUI0dlRlWXFyc1VLTWFlR1VlamVBRXRlTkJ0eklkZnBlRzdHWHoxMTZ5ZUhzVEUtQnFlRTBIZGo4b2lqOVZnZ1F4MmVqelR1azhZbVE?oc=5",
+      "publishedAt": "2026-08-25T15:42:09.000Z",
+      "topic": "security",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1787700039191-1-2",
+      "title_en": "新車500万円！ トヨタ新型「\"ちいさな\"SUV」発表！ スポーティな斬新「ハニカムグリル」＆「大径ホイール」採用！ 豪華な「プラチナ色」インテリアも魅力的！ 進化した「新型ヤリスクロス」独国��様に大注目！ - くるまのニュース",
+      "title": "トヨタが新型「ヤリスクロス」ドイツ仕様を発表、約500万円の高級コンパクトSUV",
+      "summary": "トヨタがドイツ向けに進化した新型「ヤリスクロス」を発表した。斬新なハニカムグリルや大径ホイール、プラチナ色の豪華なインテリアが特徴で、価格は約500万円となっている。",
+      "importance": "中",
+      "keywords": [
+        "トヨタ",
+        "ヤリスクロス",
+        "新型車"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "くるまのニュース",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zMDUtdzJuaHEzUU5YbUdyV3pSb3BUU3E2T2VCYmM1Zmwyd0NfbFVkOVlHVlozWFJTUkVDZ2dZVU14Sjc3NVJETkg2VQ?oc=5",
+      "publishedAt": "2026-08-25T22:10:00.000Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1787700039191-1-3",
+      "title_en": "四輪電動ミニカー『EVクラシック』、札幌「定山渓回遊モビリティ実証事業」に採用…1時間1000円からレンタル可能 - レスポンス（Response.jp）",
+      "title": "四輪電動ミニカー「EVクラシック」、札幌・定山渓の実証事業に採用",
+      "summary": "四輪電動ミニカー「EVクラシック」が札幌市の定山渓回遊モビリティ実証事業に導入された。観光客などは1時間1000円から手軽にレンタルし、地域内の移動に利用できる。",
+      "importance": "中",
+      "keywords": [
+        "EVクラシック",
+        "実証事業",
+        "電動ミニカー"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "レスポンス（Response.jp）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4TW1EUTJkeEdNeVNNQW5WVHQzVFRRLWpFcldSV3Y5ZWxyLVFFbUdoSXdJdU96WTZYWlFLLS02VEo0dk9Wd0VPMlFGVGR1MVk4OEJtUEZ6V3hRaUtXdjRv?oc=5",
+      "publishedAt": "2026-08-25T08:00:05.000Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1787700039191-1-4",
+      "title_en": "新車316万円の日産「“新型”NISMO」発表！ 「快適装備」充実＆高性能「タイヤ」採用！ ブラック仕立ても魅力の「ノート オーラNISMO」登場 - Infoseek",
+      "title": "日産が316万円の新型「ノート オーラNISMO」を発表、装備充実とブラック仕様が特徴",
+      "summary": "日産が快適装備の充填と高性能タイヤを採用した「ノート オーラNISMO」の新型を発表した。ブラックを基調としたスポーティな仕上がりで、価格は316万円に設定されている。",
+      "importance": "中",
+      "keywords": [
+        "日産",
+        "ノートオーラNISMO",
+        "新型車"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZUktweFhieWprNEJFcU5ZMWl6V1NxRWs2eFlvUDBWZVdzRUgxbjFFTllKS2t1UWh0UE5WU1Y4djJMWlVyTXRRMGhpbTB6cVlsaWM5ZEJkMTBxV3pLZ19WOWVIV0xvZ9IBa0FVX3lxTE5OTVQ5ZVNTd2p2aExZWElZZGZwVUY0WDJ6eUd2QTg1VUtaR2M3OVNrY0gzWTgtaFU1NVU3aDBoYXp1TWpFS2hRdTlwa2NQLXgtX3F5RWIzX0xjcmVFNDlnclN6aTZnZ1JKRjhJ?oc=5",
+      "publishedAt": "2026-08-25T06:30:00.000Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1787700039191-1-6",
+      "title_en": "スズキ、軽EV『eスカイ』今秋発売、気になる「求めやすい価格」［新聞ウォッチ］ - レスポンス（Response.jp）",
+      "title": "スズキ、新型軽EV「eスカイ」を今秋発売へ、手頃な価格設定に期待",
+      "summary": "スズキが新型の軽電気自動車（EV）「eスカイ」を今秋に発売する見込みとなった。購入しやすい価格帯を目指して開発が進められており、市場からの関心が高まっている。",
+      "importance": "中",
+      "keywords": [
+        "��ズキ",
+        "eスカイ",
+        "軽EV"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "レスポンス（Response.jp）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OQkFTZDhWMldmUzNhNEVpNFlqWXFiZ0p2THY0RGZLTHVudDZFMGRqVUFfbzZKSEdoUkxQUkFfWGJtcUJLNzBRZ1dVRFNYXzNvbzlPSDJMbENYWHZsajVB?oc=5",
+      "publishedAt": "2026-08-24T23:34:47.000Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1787700039191-1-7",
+      "title_en": "「いつも通り使えていつも通り運転できるEVを目標として開発」スズキが軽の電気自動車「eSKY(イースカイ)」公開 1回の充電で310キロ走行可能 - アットエス",
+      "title": "スズキが軽EV「eSKY」を公開、普段通りの使い勝手で航続距離310kmを実現",
+      "summary": "スズキが日常で違和感なく運転できることを目標に開発した軽EV「eSKY」を公開した。1回のフル充電で310kmの走行が可能な性能を備えている。",
+      "importance": "中",
+      "keywords": [
+        "スズキ",
+        "eSKY",
+        "航続距離"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "アットエス",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRaThGbUNDd2hnVlJHOXcwaEVxRkEzR2lyRmZkWW43VkZObUZQTzRyYmlhNUhMMndjVFNGcmlHOEY2S3RDTkU0QU1uYnFQV2g2NjlGZTBfcHpmQW00YTNNVw?oc=5",
+      "publishedAt": "2026-08-24T11:38:08.000Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-1",
+      "title_en": "【最新調査】生成AI導入率が44％に倍増？それでも活用が進まない“5つの業務”（ビジネス＋IT） - Yahoo!ニュース",
+      "title": "生成AIの企業導入率が44％に倍増するも活用が進まない「5つの業務」",
+      "summary": "生成AIの企業導入率は44％に急増したものの、特定の業務分野では依然として活用が進んでいない現状が明らかになりました。現場での定着を阻む課題と活用促進に向けた対策が提示されています。",
+      "importance": "中",
+      "keywords": [
+        "生成AI",
+        "導入率",
+        "業務活用"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVUWZHdXdvTGRuX3FVbjAtNjBOOHVxMFh1VFZ2WG52Z0FMRWVmQ2FCSkI3eF8xSkhRRWlIUENrV2dFTVFyRFBJcDlDeERNbHhsME9JODVseU9OcWpnMURUN2xCRmhWYW42RXd3bXBpNlU2NHN4Q0VjRktZemxxUzg?oc=5",
+      "publishedAt": "2026-08-25T22:11:49.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-2",
+      "title_en": "法人向け生成AI「ChatSense」、Gemini・ClaudeでもWeb検索を利用可能に - PR TIMES",
+      "title": "法人向け生成AI「ChatSense」、GeminiとClaudeでもWeb検索が利用可能に",
+      "summary": "法人向け生成AIプラットフォーム「ChatSense」が拡張され、GeminiおよびClaudeモデルにおいてもWeb検索機能が利用可能になりました。最新の外部情報を取り込んだ高精度な回答や分析が可能となります。",
+      "importance": "中",
+      "keywords": [
+        "ChatSense",
+        "生成AI",
+        "Web検索"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbGozMDRQTk5weGpZMWlEdXkzOUNRNDF5WGRINms4MnlCOFBydkk5QXhLemJXWkJ0aE1ldkJuVWsyWk9MeDRoeW9KNW03aDV2Tm1HaU4yUVBzUF9kT1dZangzcnNSd3NCX2c?oc=5",
+      "publishedAt": "2026-08-25T08:54:38.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-3",
+      "title_en": "生成AI導入後、現場で止まる\"壁\"をどう越えるか【GMO AIコネクト】 - PR TIMES",
+      "title": "生成AI導入後に現場で直面する「壁」の乗り越え方：GMO AIコネクト",
+      "summary": "GMO AIコネクトが、企業が生成AIを導入した後に現場で活用が停滞する原因とその克服策を解説しています。業務プロセスへの定着や人材育成など、実用化に向けた支援手法を提示しています。",
+      "importance": "中",
+      "keywords": [
+        "生成AI",
+        "導入支援",
+        "現場活用"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTW1wcWxud0RCLTIzNWYzeDlRcGxOLTlKUHRaN0JGYU1BQlZUT05XTERwOVZvLXl0eWVOQnkzSG9nUGp1OXBFNEZVbXpPajlYb1RpWEstUEpSZnRPN0VNMXowU0h4WE15MWc?oc=5",
+      "publishedAt": "2026-08-25T02:00:02.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-4",
+      "title_en": "法人向け生成AIツール『ゼロプロ』、新価格プランと大型アップデートを実施～画像生成機能や管理者向けダッシュボードを追加、「新価格＆大型アップデートキャンペーン」を開催中～ - PR TIMES",
+      "title": "法人向け生成AIツール「ゼロプロ」が大型アップデートと新価格プランを発表",
+      "summary": "法人向け生成AIツール「ゼロプロ」において、画像生成機能や管理者向けダッシュボードなどの新機能が追加されました。あわせて新価格プランの適用と大型アップデート記念キャンペーンが開始されています。",
+      "importance": "中",
+      "keywords": [
+        "ゼロプロ",
+        "生成AI",
+        "画像生成"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3WWxWMkhFWUx4cU92Q1RheDR0V2pwN0xWUWdNTklRVmRjOHktemVDUFNxT01vaE5INDJYbFU3ekw2R1JrNVJmQTktWEV3UFJtWjdnMWdvcXJUTnUwY0kwQUpVWl9FZ0ZTQ0E?oc=5",
+      "publishedAt": "2026-08-25T01:00:02.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-5",
+      "title_en": "株式会社くじら、企業のAI活用を支援する「生成AI活用研修」と「AIエージェント導入支援」を提供開始 - アットプレス",
+      "title": "株式会社くじら、企業のAI活用を支援する研修および「AIエージェント導入支援」を開始",
+      "summary": "株式会社くじらが、企業におけるAI活用を推進する「生成AI活用研修」と「AIエージェント導入支援」の提供を開始しました。社内人材の育成から自律型AIの業務適用までを包括的にサポートします。",
+      "importance": "中",
+      "keywords": [
+        "生成AI研修",
+        "AIエージェント",
+        "導入支援"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzV0FHZVI1SjF6c3ZxOWZwOExBSVlKbUNUWDc2VGxYMzkxRVhHc2I0VUhYTW1wTXZNXzBsTnRsT0pJcmV1Y3I2ZHRWSjh2dw?oc=5",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-7",
+      "title_en": "アパレル・ファッション業界でAIをどう使う？AI Marketでの相談事例、需要予測以外の活用方法、企業導入の課題も解説【2026年最新】 - ai-market.jp",
+      "title": "アパレル・ファッション業界におけるAI活用事例と導入課題の解説",
+      "summary": "アパレル・ファッション業界における需要予測やその他の最新AI活用事例を解説した記事です。企業がAIを導入する際のアプローチや直面する課題について詳述しています。",
+      "importance": "中",
+      "keywords": [
+        "アパレル業界",
+        "AI活用",
+        "需要予測"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ai-market.jp",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Q2MyTjlEYmtQTWZCX0MyZ1I3R0JGUnZpREhwSjBiaDdOakdyM2xJVFI0bWtVR2o4aFlaOVdHSDBwTEU4Qkt2VUdkX1psNGdTeUE?oc=5",
+      "publishedAt": "2026-08-23T07:00:00.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-1",
+      "title_en": "東芝、新型ドラム式洗濯機 5年ぶりフルモデルチェンジ - 電波新聞デジタル",
+      "title": "東芝、新型ドラム式洗濯機で5年ぶりのフルモデルチェンジを実施",
+      "summary": "東芝が新型ドラム式洗濯機を発表し、5年ぶりとなるフルモデルチェンジを行いました。最新技術やデザイン刷新により家電市場での製品競争力を高めています。",
+      "importance": "中",
+      "keywords": [
+        "東芝",
+        "ドラム式洗濯機",
+        "フルモデルチェンジ"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "電波新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XeFl5T25jY3BWcHdZNkowTDQ1cEl1NmdiZm8xdHZiUVdpQWRmbGpoTERKN2owMG1RNDBNVXBoRVNwTC1SVXZJWVVFb0hyQ3VyVWc?oc=5",
+      "publishedAt": "2026-08-25T10:56:58.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-3",
+      "title_en": "ソニー、「Xperia 10 VIII」9月中旬以降に発売へ。画面輝度を約50％向上、決済機能も強化 - corriente.jp",
+      "title": "ソニー、「Xperia 10 VIII」を9月中旬以降に発売へ。画面輝度や決済機能を強化",
+      "summary": "ソニーが新型スマートフォン「Xperia 10 VIII」を9月中旬以降に発売すると発表しました。画面の輝度が約50％向上したほか、決済機能の強化が図られています。",
+      "importance": "中",
+      "keywords": [
+        "ソニー",
+        "Xperia 10 VIII",
+        "スマートフォン"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "corriente.jp",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6TDZDdnBsY2oyRHNPVk1qLUlGcVNXblhTUXRSS0RFZ2JVNGYyejFTMWZITktoTmp5VGdpbVBoclVrSmlfbmMxZEhVNjN3Q3QzR2h1ejU0WnpRVHVxM3fSAWNBVV95cUxOXzNRZWVTWUdJVmZQcURVbS1LeUl3RUJmQ1FES3NNbTd0bDBDU0dEUFFPZFZmMHdRTXVqYTRqV0F4NWVfNXlqSmI1cGZTUEE3c3dEbWltWkVPVEFueTMtQXMwUWM?oc=5",
+      "publishedAt": "2026-08-25T07:19:35.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-4",
+      "title_en": "【新製品】ソニー「Xperia 10 VIII」発表！最大6GBの仮想RAM＆「Point & Pay」新搭載｜9月中旬以降発売 - tecstaff.jp",
+      "title": "ソニー「Xperia 10 VIII」発表、仮想RAMと新決済機能「Point & Pay」を搭載",
+      "summary": "ソニーのミドルレンジ新製品「Xperia 10 VIII」が発表されました。最大6GBの仮想RAMに対応し、新たに「Point & Pay」機能を搭載して9月中旬以降に発売されます。",
+      "importance": "中",
+      "keywords": [
+        "ソニー",
+        "Xperia 10 VIII",
+        "新機能"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "tecstaff.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRRzVzZUJmTnRTQ3A5Z0JyYkVPTkpReVBMYzNDajVVSlNvVFlXUmRfQTRIcFdmU2RNM2N6b2tGUTAwUHJVWEpvSTB6X0lwTVRYejZ5UHVJR3l6MjFFR3BGRQ?oc=5",
+      "publishedAt": "2026-08-25T05:27:08.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-6",
+      "title_en": "Xperia 10 VIII 発表、ソニーのミドルレンジ最新モデル。画面とスピーカーが強化 - シンスペース",
+      "title": "ソニー、ミドルレンジ最新スマホ「Xperia 10 VIII」発表。画面とスピーカーを性能向上",
+      "summary": "ソニーがミドルレンジスマートフォンの最新モデル「Xperia 10 VIII」を発表しました。前モデルと比べてディスプレイの明るさとスピーカーの音質性能が向上しています。",
+      "importance": "中",
+      "keywords": [
+        "ソニー",
+        "Xperia 10 VIII",
+        "ミドルレンジ"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "シンスペース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NklRWFFHVUd6VWZiVXRPMEdDdlktdXlud2QzOHRHSGhhWkRZUzRYVnhqWHdReFpXeGgtWFlYdlFKU3V6RDRCZmNyQXktQ3dQUEFNVnppaVVRY2s?oc=5",
+      "publishedAt": "2026-08-25T03:57:29.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-7",
+      "title_en": "「変わったのは実質3つだけだった」――ソニー新型「Xperia 10 VIII」、スペック据え置きの裏側 - shiritomo",
+      "title": "ソニー新型「Xperia 10 VIII」のスペック据え置きの裏側と主な変更点",
+      "summary": "ソニーの新型「Xperia 10 VIII��は基本スペックが前モデルから多くを引き継いでいます。実質的な変化が3つのポイントに絞られた背景や製品戦略が解説されています。",
+      "importance": "中",
+      "keywords": [
+        "ソニー",
+        "Xperia 10 VIII",
+        "スペック分析"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "shiritomo",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Jc1NzOWFLY1d5TlRjSjVDUk9CdmpyUVJJcVl2dGo3TzMwa1lEc3NQbGJPWkdHMi1kWTF0N2kweXVkX0pma2c?oc=5",
+      "publishedAt": "2026-08-25T03:53:58.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700107815-4-0",
+      "title_en": "パナソニック、レンズ最前面に汚れを簡単に取り除くことができるフッ素コーティングを採用したLUMIX交換レンズ4機種 - kakaku.com",
+      "title": "パナソニック、レンズ最前面の汚れを簡単に取り除けるフッ素コーティング採用のLUMIX交換レンズ4機種",
+      "summary": "パナソニックは、レンズ最前面にフッ素コーティングを採用したLUMIXブランドの交換レンズ4機種を発表しました。このコーティングにより、水滴や指紋などの汚れを容易に拭き取ることが可能になります。野外での撮影時におけるメンテナンス性と利便性が向上しています。",
+      "importance": "中",
+      "keywords": [
+        "パナソニック",
+        "LUMIX",
+        "フッ素コーティング"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "kakaku.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTEJoUUw3S2xxZ1loYjhFejVNYng5OVd4QlNNQm83QTZEVkRmMGpqdVJwVVBHYU1QaDBIX2k2RGJqY1Atc1BVSnF1LUJhMkhDMmQ2MmJwbTV3N21XMFh3Y1dkRXJLc2NaNzd0a1JIRQ?oc=5",
+      "publishedAt": "2026-08-25T02:40:00.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "automotive-1787700039191-1-5",
+      "title_en": "EVトレンド2026が開幕、国内最大の電気自動車産業展「技術力が目覚ましい」 - starnewskorea.com",
+      "title": "国内最大の電気自動車産業展「EVトレンド2026」が開幕",
+      "summary": "国内最大規模の電気自動車産業展「EVトレンド2026」が開幕した。会場では各メーカーの目覚ましい技術力が披露され、業界関係者の注目を集めている。",
+      "importance": "低",
+      "keywords": [
+        "EVトレンド2026",
+        "電気自動車",
+        "展示会"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "starnewskorea.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSlNlLUNlNlRIdDBmT1JiYk5ydDJxOG11RHJUal9UdDF3WFJJYmplbDd2eHdfYWJmWms5bWRMR3dLbUd6djB1cy1QNWE5WDI4RnRkcEhRR1M3aHNpVXR0ZmJFWHA5MDI3UDBzbnFSQVZoMVBtQVg5cTg0SVlObGFobEE4RQ?oc=5",
+      "publishedAt": "2026-08-25T02:17:26.000Z",
+      "topic": "automotive",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "supplier-1787700060219-2-0",
+      "title_en": "カーエレクトロニクス市場規模、シェア |世界的な成長、2034 年 - Fortune Business Insights",
+      "title": "カーエレクトロニクス市場規模とシェア：2034年に向けた世界的な成長予測",
+      "summary": "カーエレクトロニクス市場の2034年に向けた成長予測や市場シェアを分析した調査レポートです。自動車の高度化や電動化に伴う市場拡大の動向がまとめられています。",
+      "importance": "低",
+      "keywords": [
+        "カーエレクトロニクス",
+        "市場規模",
+        "成長予測"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNXc2a0VHVkFwNFNaZ3V0RWdRc2xVOE5yMHp3YklRWXBpSjZwYm9iWGpNLVo0MTBRbFJmMUY4eEtyek42d3FNZzdOWW9jWUl5R0VpelZhRWVhM1BqLUhwQ1FzakV4bDgyNEhhWDlPbzNKYzZ0RGxQUGNrTXJXTXZEYnQ5dXlBZ29icFVPMUhOTS0zalkzd1BuLV9XVTI0Ql80akVhZGJiYWF3RHN1RTB6WVpOWHJOTVh0ZFNyX0hXTks3bnFvU0szdHpJSjFfSE13b0VfVUhRcEF2aUVoLU42bmNJN0pCTF9CMlpxU1R2RQ?oc=5",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "topic": "supplier",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "ai-1787700060219-2-6",
+      "title_en": "Azure Machine Learning| SaaS／業務システムの比較・紹介| ITセレクト - ITmedia",
+      "title": "Azure Machine Learningの特徴と導入メリット：SaaS・業務システム比較",
+      "summary": "クラウド型機械学習プラットフォーム「Azure Machine Learning」の機能や特徴を紹介する解説記事です。モデルの開発から運用管理までのプロセスや業務システムにおける活用法がまとめられています。",
+      "importance": "低",
+      "keywords": [
+        "Azure Machine Learning",
+        "機械学習",
+        "クラウド"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2NWpZWG41YWhoOVR0aG1YZ0huU1Fzem5XaVp4ZVdtSUJqWFdZeUdCdWhrNndYZmx1aENVZDVCeEM3aUx5Z0NnUWl3OTh6YjVJSGV6Tl9vd3F5ekdz?oc=5",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "topic": "ai",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-0",
+      "title_en": "ソニーが9月に何らかの発表を計画している？ - とるなら",
+      "title": "ソニーが9月に発表を計画している可能性",
+      "summary": "ソニーが9月に新たな発表を計画しているとの噂が報じられています。新製品の登場を含め、どのような発表が行われるのか注目が集まっています。",
+      "importance": "低",
+      "keywords": [
+        "ソニー",
+        "新製品発表",
+        "業界動向"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "とるなら",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEUtR1Z2dTlLVzBKaExHT1poZ1FpSWdDNjlDQWJXMHRfc3NUdkpuNzJSbWRLZWlyajRyV1hTYk0yMWtwbFpIMU83YXhMS0EyQ2xaMWV5ZndzWHl4RERmZnpycktwSmZwbE9Bajdxdy1XZzdKM18zTFJLX05FTGNXSXVrbw?oc=5",
+      "publishedAt": "2026-08-25T21:00:30.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-2",
+      "title_en": "パナソニック最新設備を備えたリノベーションモデルルーム、東京 五反田にて販売・施工事業者向けに9月末まで期間限定公開。 - ニコニコニュース",
+      "title": "パナソニック、最新設備導入のリノベーションモデルルームを東京・五反田で期間限定公開",
+      "summary": "パナソニックは最新設備を備えたリノベーションモデルルームを東京・五反田で公開しました。販売および施工事業者を対象に、9月末までの期間限定で披露されています。",
+      "importance": "低",
+      "keywords": [
+        "パナソニック",
+        "モデルルーム",
+        "リノベーション"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FT1dOelRrOWFBalYzMFVDMUFaaTZxTUpYLXpCLUFQLXZJOFVBMG1FMGkycVctNkVrX0RUWFNsZDdsai1BeUJKTUZFV2N4NWtJUjh4eW5zei11NHBFb1g5WXFXbnlNWW15NDNmTlg4VDdTX0NXdnBpaUdzdw?oc=5",
+      "publishedAt": "2026-08-25T10:45:37.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    },
+    {
+      "id": "electronics-1787700093271-3-5",
+      "title_en": "ソニ���、PXW-Z300/Z200およびHXR-NX800の最新ファームウェア公開。記録時のエラー表示を強化 - pronews.com",
+      "title": "ソニー、業務用カメラ3機種の最新ファームウェアを公開しエラー表示を強化",
+      "summary": "ソニーが「PXW-Z300/Z200」および「HXR-NX800」向けの最新ファームウェアを公開しました。映像記録時のエラー表示が強化され、撮影時のトラブル防止に寄与します。",
+      "importance": "低",
+      "keywords": [
+        "ソニー",
+        "ファームウェア",
+        "業務用カメラ"
+      ],
+      "is_followup": false,
+      "progress": null,
+      "source": "pronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdTgtSnk5cjIyMU5FNkUxUlZZTzR3blpBYmpzVGRnSzVONXptMWNTNFNvVFczeHNoM2lfeHFHRVlnVXdjbUU0T3BVNV9aTEs3V1ZEejhBRGQtWHlvWUhyMg?oc=5",
+      "publishedAt": "2026-08-25T04:39:05.000Z",
+      "topic": "electronics",
+      "upCount": 0,
+      "downCount": 0
+    }
+  ],
   "stats": {
-    "new": 0,
+    "new": 33,
     "followup": 0,
-    "skipped": 20
+    "skipped": 17
   }
 }

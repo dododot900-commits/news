@@ -2,44 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "attackgen v0.16.0",
-      "description": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and …",
-      "url": "https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160",
-      "source": "Kitploit.com",
-      "publishedAt": "2026-08-22T18:40:25Z",
-      "content": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&amp;CK and ATLAS frameworks. The tool generates tailored … [+53808 chars]"
+      "title": "ECサイト「ビールの縁側」に不正アクセス、一部顧客の個人情報が漏えいした可能性 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mc0ZjS2RzUTFkTlR2bmVLWFN2eVdfVUNOSTVHLXhpUklJd0puNHEyVVF1VWxtWGVKejlKTFp1ZW1OZ3RBMjQ5WTR2US1jbVNUQ01CbmtMbXdBY3hLai1FMWFwN0NnWXhucTZJTg?oc=5",
+      "description": "ECサイト「ビールの縁側」に不正アクセス、一部顧客の個人情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:10:22.000Z"
     },
     {
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "description": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "source": "Decrypt",
-      "publishedAt": "2026-08-22T17:31:03Z",
-      "content": "In brief\r\n<ul><li>Microsoft disclosed a critical remote code execution vulnerability affecting its Entra ID cloud identity service.</li><li>CVE-2026-69836 received a CVSS score of 10.0 and requires n… [+2576 chars]"
+      "title": "「虫退治ドットコム」に不正アクセス、カード情報が漏えいした可能性 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTjZsOWtCYl9EUlh0TndYNGZ2UU83RXZoU3FGVDA5WnFtUWV4ckFlWkRsVlFobUwzZjVzdk9TejlrUDhtOE1zWVNzWlZUX3VTekJqb0R2SGVfWEc2UHpHWHVsRkRuamppLXRMSA?oc=5",
+      "description": "「虫退治ドットコム」に不正アクセス、カード情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:10:20.000Z"
     },
     {
-      "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
-      "description": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
-      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-22T16:47:51Z",
-      "content": "Will the FCC ban of foreign robots help or hurt America's robotics industry?\r\nAFP via Getty Images\r\nOn July 28, 2026, the FCC added \"advanced robotic devices\" to its Covered List, the roster of techn… [+27744 chars]"
+      "title": "ヨネックス 台湾子会社に不正アクセス - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4OUZULXBJNmNPM0xQdTl2MFhjeWg2XzRTYXJoTVNLNEhUY0ZYSjJFNjI1S21fbUtpRTduZUUxLXYzcWJ6T1EtMmo5WHZhdlNlbGxGMzBkcF8zYlFUM0RxaDhzeDN3VEZCVmRGVQ?oc=5",
+      "description": "ヨネックス 台湾子会社に不正アクセス&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:10:18.000Z"
     },
     {
-      "title": "I gave Claude Code its own disposable computer, and stopped caring what it installed",
-      "description": "I can finally stop approving commands.",
-      "url": "https://www.xda-developers.com/gave-claude-code-disposable-computer-stopped-caring-installed/",
-      "source": "XDA Developers",
-      "publishedAt": "2026-08-22T16:30:16Z",
-      "content": "Claude Code can handle a lot of tasks without my help, provided I allow it to run the commands it needs along the way. Giving an AI agent unrestricted access to the terminal on my main computer is wh… [+5104 chars]"
+      "title": "シンアイ産業が利用を予定していたWebシステムに不正アクセス、一部の顧客情報が閲覧された可能性を否定できず - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTnozMzQ4U1I4TGV1djlYU0cxWUJaZWt3RzMxQTh2WnB1a2lQczdqbHlCeDNRR0xGVDVvSGdGSmlVVjNtWXVjaEZHUHpHamNVVlYwMk8yT2k0VTBYTjJrWUtCdWs4c0d0VlQycQ?oc=5",
+      "description": "シンアイ産業が利用を予定していたWebシステムに不正アクセス、一部の顧客情報が閲覧された可能性を否定できず&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:10:14.000Z"
     },
     {
-      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "description": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
-      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-      "source": "Decrypt",
-      "publishedAt": "2026-08-22T15:31:04Z",
-      "content": "In brief\r\n<ul><li>In an interview with Decrypt, Bitcoin Red Team member Calle said Chinese AI models are used far more than U.S. models for security research because American models often block cyber… [+6252 chars]"
+      "title": "名鉄協商にランサムウェア攻撃、カーシェア「カリテコ」の顧客情報が漏えいした可能性 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zeWRDalB6S1ZHV1B2dGMyMlZFaU1uS2ZOeHA5QVBpek5saUVBNWVlb21WN1JUQ1RTMGFXdzF5b3lmbTgyX1dHVENfdXNzVDNobWl0WmNMbHVPaFFQT0daU3BhRTdYNV9GMlJYVw?oc=5",
+      "description": "名鉄協商にランサムウェア攻撃、カーシェア「カリテコ」の顧客情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:10:12.000Z"
+    },
+    {
+      "title": "メディア4u の SMS 送信システムにサイバー攻撃、連携していたブロードリーフの「.cシリーズ」「.NSシリーズ」にも影響 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SWW5HWE84U21FZ1dsd0xXSWh6S2xwb3BqRWFzUXVla05XZHRFUnpSd3ZDSXVRNExpR1BWSDdfcVkycU4tS3dfYTVPaGU0TGFxUWFNdmdfT0o5UXM4WV9VUzFxaGotc0g1TG5Zcg?oc=5",
+      "description": "メディア4u の SMS 送信システムにサイバー攻撃、連携していたブロードリーフの「.cシリーズ」「.NSシリ��ズ」にも影響&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:10:03.000Z"
+    },
+    {
+      "title": "警察庁が注意呼びかけ、不正送金手口の44%が「レジデンシャルプロキシ」の悪用 ～ ストリーミング端末などの確認を - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZmI0NW9MZDhnSlJIMDRaejQ3REpOYklCNkZ1Q0VFZHJKakYzd2NjY0swSjAxNUJsMGhzOE5IakJYQVlnbkxsaU1FWW91cDhSX2V3SDdCYVduTHkyRlZaTzNOZDJVZ1UyaEVMTA?oc=5",
+      "description": "警察庁が注意呼びかけ、不正送金手口の44%が「レジデンシャルプロキシ」の悪用 ～ ストリーミング端末などの確認を&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-25T23:00:04.000Z"
+    },
+    {
+      "title": "KDDIウェブコミュニケーションズ、KDDIへの不正アクセスで125万543件のアカウントの情報漏洩 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1k0RkRwaXJPeFJ0eGY3SjJFNVFlU01DWVpYY0pURVk2VWd3NlJENy1xa2dlTzNhWkVlYS1SX1JBQnBmM1dMbUdmNXlST2E4aktOdTkwVUQxS2xmTVNVQ2ozbmJ1RVRnTWNZSDVnZHNUTWdVZ0RLZzdBbUFzOHNPLW1WeUlRZHNBVG0xaHREdVdhMEpBaVpJZEE5ZWJZZw?oc=5",
+      "description": "KDDIウェブコミュニケーションズ、KDDIへの不正アクセスで125万543件のアカウントの情報漏洩&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-08-25T22:00:14.000Z"
+    },
+    {
+      "title": "中国系国家ハッカー、DeepSeek AI活用で攻撃量が倍増＝研究者 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BR1Z0QWkyUGVZeEhRcm9NMTJCOEpZeDhObVpteEQtYlZDVmYwUEJtc2JKZ2plcTFjdFFIbW5qQzFxNjk3MElydDgwcUNmdXRpS3hUR0tRUXJqUUlRUjlGdXRjcnVmYXR6eWpqbERsclRGVXFp?oc=5",
+      "description": "中国系国家ハッカー、DeepSeek AI活用で攻撃量が倍増＝研究者&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-08-25T18:22:00.000Z"
+    },
+    {
+      "title": "Androidのプライバシー脆弱性により、隠された広告SDKを通じて位置情報データが漏洩する可能性がある。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdG1LMlRaTzdHYUFkeEhuNlB3bmZvV19xeldkdUhjaUwtZHVRQ3hIbTVoMVZmTy1RM0xkWmtESlV1NDMtenJON05wRzFvRUtRaXVaR1lsRjNzR25xY2hrUTJ1ckFGUF80dF82SEFCYUI0dlRlWXFyc1VLTWFlR1VlamVBRXRlTkJ0eklkZnBlRzdHWHoxMTZ5ZUhzVEUtQnFlRTBIZGo4b2lqOVZnZ1F4MmVqelR1azhZbVE?oc=5",
+      "description": "Androidのプライバシー脆弱性により、隠された広告SDKを通じて位置情報データが漏洩する可能性がある。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-25T15:42:09.000Z"
     }
   ]
 }
