@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "ECサイト「ビールの縁側」に不正アクセス、一部顧客の個人情報が漏えいした可能性 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mc0ZjS2RzUTFkTlR2bmVLWFN2eVdfVUNOSTVHLXhpUklJd0puNHEyVVF1VWxtWGVKejlKTFp1ZW1OZ3RBMjQ5WTR2US1jbVNUQ01CbmtMbXdBY3hLai1FMWFwN0NnWXhucTZJTg?oc=5",
-      "description": "ECサイト「ビールの縁側」に不正アクセス、一部顧客の個人情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:10:22.000Z"
+      "title": "NemoClaw脆弱性、破られたのはサンドボックスではなく配線だった - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YenJSeXI5MG90bkV2anBSa1RjWWtMeUZMa2FQR0YxdEtxc25aVi1SR1Jnank5ZUt3M1VUTlpZRlBpb052bm1nQk5abF9zcWJNM2lBSFlSN1MtdkNtZkNoS0NuMGE3QkdfWmRSODFMcDVhR0E?oc=5",
+      "description": "NemoClaw脆弱性、破られたのはサンドボックスではなく配線だった&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-08-27T04:04:27.000Z"
     },
     {
-      "title": "「虫退治ドットコム」に不正アクセス、カード情報が漏えいした可能性 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTjZsOWtCYl9EUlh0TndYNGZ2UU83RXZoU3FGVDA5WnFtUWV4ckFlWkRsVlFobUwzZjVzdk9TejlrUDhtOE1zWVNzWlZUX3VTekJqb0R2SGVfWEc2UHpHWHVsRkRuamppLXRMSA?oc=5",
-      "description": "「虫退治ドットコム」に不正アクセス、カード情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:10:20.000Z"
+      "title": "株式会社GeNEEと株式会社Layer8、AIを活用した継続型脆弱性診断サービス『GeNEE AI Defender』の提供を開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VW1pYTdCTmxVcy1OOVdPcnRLc0E2X1pBSV9ROWdfcFRzVU52REpWWFFqQ3h5WG04TlVtbzB1MjhyN0xoRDR6endKSk90WDNFcmFUZDVjbEMtYzg4YkpPQjBRSldQNk1aUUE?oc=5",
+      "description": "株式会社GeNEEと株式会社Layer8、AIを活用した継続型脆弱性診断サービス『GeNEE AI Defender』の提供を開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-08-27T02:22:26.000Z"
     },
     {
-      "title": "ヨネックス 台湾子会社に不正アクセス - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4OUZULXBJNmNPM0xQdTl2MFhjeWg2XzRTYXJoTVNLNEhUY0ZYSjJFNjI1S21fbUtpRTduZUUxLXYzcWJ6T1EtMmo5WHZhdlNlbGxGMzBkcF8zYlFUM0RxaDhzeDN3VEZCVmRGVQ?oc=5",
-      "description": "ヨネックス 台湾子会社に不正アクセス&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:10:18.000Z"
+      "title": "CyberCrewのセキュリティ向上への貢献をUNIDOなど5組織が評価 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5cGk1T3hzUlk1bmdyVDBLcWw5VmdaN0pDMVRVOTBVWFhMNnM4Z2VwMGhCX2hkOFl0RHlUT04zQmp3a3RIWTFKeGUtSE9PaXo1WlJqcHZlYWdiX2Z2dXZLM2k2U0NERW1nZ1E?oc=5",
+      "description": "CyberCrewのセキュリティ向上への貢献をUNIDOなど5組織が評価&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-08-27T01:00:02.000Z"
     },
     {
-      "title": "シンアイ産業が利用を予定していたWebシステムに不正アクセス、一部の顧客情報が閲覧された可能性を否定できず - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTnozMzQ4U1I4TGV1djlYU0cxWUJaZWt3RzMxQTh2WnB1a2lQczdqbHlCeDNRR0xGVDVvSGdGSmlVVjNtWXVjaEZHUHpHamNVVlYwMk8yT2k0VTBYTjJrWUtCdWs4c0d0VlQycQ?oc=5",
-      "description": "シンアイ産業が利用を予定していたWebシステムに不正アクセス、一部の顧客情報が閲覧された可能性を否定できず&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:10:14.000Z"
+      "title": "ランサムウェア攻撃、7月は過去最多--犯罪グループの主張に疑念も - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRE5vemx3THFXZFFBZG1lVjg1SDJLZVQyQ09uakJzamhwMXVtMnB5UHNpM28tVEE5VFVQTWJkazlWWVBFc0pFTnBSaFItSU5rblJV?oc=5",
+      "description": "ランサムウェア攻撃、7月は過去最多--犯罪グループの主張に疑念も&nbsp;&nbsp;ZDNET Japan",
+      "source": "ZDNET Japan",
+      "publishedAt": "2026-08-27T00:50:00.000Z"
     },
     {
-      "title": "名鉄協商にランサムウェア攻撃、カーシェア「カリテコ」の顧客情報が漏えいした可能性 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zeWRDalB6S1ZHV1B2dGMyMlZFaU1uS2ZOeHA5QVBpek5saUVBNWVlb21WN1JUQ1RTMGFXdzF5b3lmbTgyX1dHVENfdXNzVDNobWl0WmNMbHVPaFFQT0daU3BhRTdYNV9GMlJYVw?oc=5",
-      "description": "名鉄協商にランサムウェア攻撃、カーシェア「カリテコ」の顧客情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:10:12.000Z"
-    },
-    {
-      "title": "メディア4u の SMS 送信システムにサイバー攻撃、連携していたブロードリーフの「.cシリーズ」「.NSシリーズ」にも影響 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SWW5HWE84U21FZ1dsd0xXSWh6S2xwb3BqRWFzUXVla05XZHRFUnpSd3ZDSXVRNExpR1BWSDdfcVkycU4tS3dfYTVPaGU0TGFxUWFNdmdfT0o5UXM4WV9VUzFxaGotc0g1TG5Zcg?oc=5",
-      "description": "メディア4u の SMS 送信システムにサイバー攻撃、連携していたブロードリーフの「.cシリーズ」「.NSシリーズ」にも影響&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:10:03.000Z"
-    },
-    {
-      "title": "警察庁が注意呼びかけ、不正送金手口の44%が「レジデンシャルプロキシ」の悪用 ～ ストリーミング端末などの確認を - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZmI0NW9MZDhnSlJIMDRaejQ3REpOYklCNkZ1Q0VFZHJKakYzd2NjY0swSjAxNUJsMGhzOE5IakJYQVlnbkxsaU1FWW91cDhSX2V3SDdCYVduTHkyRlZaTzNOZDJVZ1UyaEVMTA?oc=5",
-      "description": "警察庁が注意呼びかけ、不正送金手口の44%が「レジデンシャルプロキシ」の悪用 ～ ストリーミング端末などの確認を&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-25T23:00:04.000Z"
-    },
-    {
-      "title": "KDDIウェブコミュニケーションズ、KDDIへの不正アクセスで125万543件のアカウントの情報漏洩 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1k0RkRwaXJPeFJ0eGY3SjJFNVFlU01DWVpYY0pURVk2VWd3NlJENy1xa2dlTzNhWkVlYS1SX1JBQnBmM1dMbUdmNXlST2E4aktOdTkwVUQxS2xmTVNVQ2ozbmJ1RVRnTWNZSDVnZHNUTWdVZ0RLZzdBbUFzOHNPLW1WeUlRZHNBVG0xaHREdVdhMEpBaVpJZEE5ZWJZZw?oc=5",
-      "description": "KDDIウェブコミュニケーションズ、KDDIへの不正アクセスで125万543件のアカウントの情報漏洩&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "ホロライブのカバー、「hololive OFFICIAL CARD GAME」CMSに不正アクセスの痕跡 個人情報漏洩の恐れ - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkNtOWJHWGhTbkthZmFodElOc1BoX1p0VDBONDFoTW9oSDZCaHNDQlJlZlJia1lkRjdXREpSVHVJMjFJRGs3MkU5djJxRkl0dWpsN0Vodlc1YWt2RGNkMzltazBHcnZtNEVYWTN1UzFnaTdoRHpTSGwxZ1RZa0dwRzJIb2pJM2k0dnRLMmg2d0lLYVBVb1dFTXQtOFZrMUJUUXFBTw?oc=5",
+      "description": "ホロライブのカバー、「hololive OFFICIAL CARD GAME」CMSに不正アクセスの痕跡 個人情報漏洩の恐れ&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-08-25T22:00:14.000Z"
+      "publishedAt": "2026-08-26T23:30:50.000Z"
     },
     {
-      "title": "中国系国家ハッカー、DeepSeek AI活用で攻撃量が倍増＝研究者 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BR1Z0QWkyUGVZeEhRcm9NMTJCOEpZeDhObVpteEQtYlZDVmYwUEJtc2JKZ2plcTFjdFFIbW5qQzFxNjk3MElydDgwcUNmdXRpS3hUR0tRUXJqUUlRUjlGdXRjcnVmYXR6eWpqbERsclRGVXFp?oc=5",
-      "description": "中国系国家ハッカー、DeepSeek AI活用で攻撃量が倍増＝研究者&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-25T18:22:00.000Z"
+      "title": "Tenable Blog 第3回「Claude Mythos Preview」によるコードセキュリティ：500時間超のテストの内幕 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRGIxZERJRjhzYWc3eldGa3lvTEFlQjhxNDl1eWxpQzhXLU5UM2tRcWZSaGNxZEVEaHM2blNxc25FT1V0RmlSUGJKR1JTQTl6Y3BpTXBPd3hYTjRlcDh0Mzl1U2V0U0xF?oc=5",
+      "description": "Tenable Blog 第3回「Claude Mythos Preview」によるコード���キュリティ：500時間超のテストの内幕&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-26T23:15:03.000Z"
     },
     {
-      "title": "Androidのプライバシー脆弱性により、隠された広告SDKを通じて位置情報データが漏洩する可能性がある。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdG1LMlRaTzdHYUFkeEhuNlB3bmZvV19xeldkdUhjaUwtZHVRQ3hIbTVoMVZmTy1RM0xkWmtESlV1NDMtenJON05wRzFvRUtRaXVaR1lsRjNzR25xY2hrUTJ1ckFGUF80dF82SEFCYUI0dlRlWXFyc1VLTWFlR1VlamVBRXRlTkJ0eklkZnBlRzdHWHoxMTZ5ZUhzVEUtQnFlRTBIZGo4b2lqOVZnZ1F4MmVqelR1azhZbVE?oc=5",
-      "description": "Androidのプライバシー脆弱性により、隠された広告SDKを通じて位置情報データが漏洩する可能性がある。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-25T15:42:09.000Z"
+      "title": "フェースへのランサムウェア攻撃、VPN 機器を経由して第三者が不正に侵入 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SOWFXLXlmeXk0X3o0WGJEZkVBQnZRZ010QngtRXFPZERGZEIyMHk4ZHpvYUUwN0hlTWh3TGhGek9TRlpicThublB4MXFLZm5iRE5zLVo3c0k1cUIyYm9RalhhaURzdVRKYXJVbQ?oc=5",
+      "description": "フェースへのランサムウェア攻撃、VPN 機器を経由して第三者が不正に侵入&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-26T23:05:16.000Z"
+    },
+    {
+      "title": "中部電力の一部のシステムに不正アクセス、第三者機関からの情報提供で発覚 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OYUZyMkZrcjQwQnhMMFd0aDQxcTN1NV9jVGhOajA4NGJIWkZBWklZSWpibUxvZklOeS1Wc2JhdExueHBFR1hLOURfSDdVTTVYVWxXb2tydVVIdzdVTGlPdUt2LXhqeXlrSnNyOQ?oc=5",
+      "description": "中部電力の一部のシステムに不正アクセス、第三者機関からの情報提供で発覚&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-26T23:05:06.000Z"
+    },
+    {
+      "title": "ニデック 台湾子会社にランサムウェア攻撃、ダークウェブ上でフォルダ・ファイル名のリストの一部を公開 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LclVwMWw0NFFyaEJHM3llczdmOUJkRnN4bkZQV2NDWG40VDVBU2dMdnNmbHJERWktU3VrSEpKOWtkQmlFcWV1RE9OclRCZXZuTWZHMVM5SEVYZWstek9PUGNHM0hyNEpSeUZ0NQ?oc=5",
+      "description": "ニデック 台湾子会社にランサムウェア攻撃、ダークウェブ上でフォルダ・ファイル名のリストの一部を公開&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-26T23:05:02.000Z"
+    },
+    {
+      "title": "ランサムウェアや情報漏洩などの対策解説 「サイバーセキュリティセミナー」 9月3日、佐賀市で開催 参加者募集 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xNFZhUmhVNW9lcjlHSVoxcHB5SnJXeTRqcVo5VDVObzlGNmNGWVZhcFVTVVhYSVFIZ0lEWEZTZkRJZE00dU1lMzdWYw?oc=5",
+      "description": "ランサムウェアや情報漏洩などの対策解説 「サイバーセキュリティセミナー」 9月3日、佐賀市で開催 参加者募集&nbsp;&nbsp;47NEWS",
+      "source": "47NEWS",
+      "publishedAt": "2026-08-26T11:30:00.000Z"
     }
   ]
 }

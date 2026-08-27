@@ -2,13 +2,6 @@
   "topic": "network",
   "articles": [
     {
-      "title": "ＩＴ産業の基盤となる化合物半導体製品を製造するDOWAセミコンダクター秋田株式会社が、脆弱性管理クラウド「yamory」を導入 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40Nlo4ZnlTSnV2RzBWTUROMFhOYmN1YUNCOHQwVmlPa1p4U1FJWmd4NTNlOElzajd2Z0FpejhFV0RzNU1nSHp0SUlUcEV1djlfSk5QLWVlN2pIWnZGbW9qcUlZdnBEaGZhSnZ6YU9MVFFnVlJxY0szNWNTaw?oc=5",
-      "description": "ＩＴ産業の基盤となる化合物半導体製品を製造するDOWAセミコンダクター秋田株式会社が、脆弱性管理クラウド「yamory」を導入&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-08-25T09:45:22.000Z"
-    },
-    {
       "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず 1枚目の写真・画像 - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Xa1BPNV9aMmVkazRpRm5WdkpUcU1wR05IUG4xREV5UHF0TlA2TlFFcjNHdU83NzcyQUM0TG5FVmJ5VFZ2RlZfbi03QWw0dTI0a3A4Y2dpd29BTVE2MXE5bERsTXFNVDYxdlBDal9oa3JpMjhJLTFjYWd3?oc=5",
       "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず 1枚目の写真・画像&nbsp;&nbsp;ScanNetSecurity",
@@ -44,7 +37,7 @@
       "publishedAt": "2026-08-03T07:00:00.000Z"
     },
     {
-      "title": "ドメインネームシステムファイアウォール：市場シェア分析、業界動向���統計、成長予測（2026年～2031年） - Newscast.jp",
+      "title": "ドメインネームシステムファイアウォール：市場シェア分析、業界動向と統計、成長予測���2026年～2031年） - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wYzBIel90RUc5dEgyVDkzUmpaX3NWSEtwQUQzRVpOSUdaMmtnWDRfRV9xSGVGVS0zcHhFYlFFTjNmSnJLRklCTEFWWlZ4XzA?oc=5",
       "description": "ドメインネームシステムファイアウォール：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
@@ -53,7 +46,7 @@
     {
       "title": "アライドテレシス、Wi-Fi 7対応AP新製品 小規模拠点の機器集約も可能 - ビジネスネットワーク",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Bc2gyUWdoYVZsLWZVRDB4cC1naUttcDFSOGJ2WG1EYjZ2WGE4Sm9BN0JwVFVJTlJPVjZwdHZ4ZERjV2dhWHRfR1ZDRzhnQUtrLXMw?oc=5",
-      "description": "アライドテレシス、Wi-Fi 7対応AP新製品 小規模拠点の機器集約も可能&nbsp;&nbsp;ビジネスネットワーク",
+      "description": "アライドテレシス、Wi-Fi 7対応AP新製品 小規模拠点の機器集約も可��&nbsp;&nbsp;ビジネスネットワーク",
       "source": "ビジネスネットワーク",
       "publishedAt": "2026-07-01T07:00:00.000Z"
     },
@@ -63,6 +56,13 @@
       "description": "Palo Alto「ハッキング被害の大半、基本的なセキュリティ設定の不備が原因」&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-06-30T07:00:00.000Z"
+    },
+    {
+      "title": "ファイアウォール管理市場規模、業界シェア、2034 年までの予測 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX015NWg2X3ZNZHJVLWtCUnFPQ2ZLSld3UkZNN0EwRGg1dDh4S0FZaTFFOEFaUEx6WnBZdEs1bk9TaTRBYnNFT2Y3SGw0WE85dnZabUlEOGtHQ2VnWFgyV1lyVTQzaGtSN3pDaTRfX1JVUVQ2VlRxbEEzZmlkeHQwNUJZY3Vsc0hnenVvcnJTeGVmNzlIeDFHV0lKcUxvcm05dTlXeC1BN0tzVlVLSWJ5VFVqbjh0WC1JZWJIcjRuSTZVVVNiWmpiekdVck9IbUZHdVltb01kYW9oMzB0UGN4OW1XVDI3MWVYZ05kc3NSVQ?oc=5",
+      "description": "ファイアウォール管理市場規模、業界シェア、2034 年までの予測&nbsp;&nbsp;Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "publishedAt": "2026-06-29T07:00:00.000Z"
     },
     {
       "title": "アサヒグループへのランサムウェア攻撃事例を記者会見から考察～今、注意すべき「データセンター」への侵害 - www.trendmicro.com",
