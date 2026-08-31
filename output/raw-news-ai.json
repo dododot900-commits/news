@@ -2,11 +2,25 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "���ぜ日本企業はAI導入がPoC止まりなのか 日本TCSが挙げた2つの構造 - ITmedia",
+      "title": "生成AI導入で情報漏えい？防衛省満点の専門家が教えるセキュリティ総点検 - Koubo",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GdGpuUzJsT3VDdzBzaFNzZTNYWC0yalZVLVJYcU0yaHIxYU16MmI2bmVNcE1WZ2dKNl9CSVFWSWFuYTBncFE?oc=5",
+      "description": "生成AI導入で情報漏えい？防衛省満点の専門家が教えるセキュリティ総点検&nbsp;&nbsp;Koubo",
+      "source": "Koubo",
+      "publishedAt": "2026-08-30T10:04:35.000Z"
+    },
+    {
+      "title": "なぜ日本企業はAI導入がPoC止まりなのか 日本TCSが挙げた2つの構造 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRanljNnNVSkNRTUt3V2lPdWZKZHEwU1FBUWwxc3JwUWxJZlcwV0d1UndEVXpvN3ViT09PbXgwSTVUNEEwSzh5dDNDbGZjQU1VM2ltTEI0RC1TZ1lUR0x4SU84Rk1UTEVBVVliX3Y4MUVjbXY4?oc=5",
       "description": "なぜ日本企業はAI導入がPoC止まりなのか 日本TCSが挙げた2つの構造&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-08-28T22:00:00.000Z"
+    },
+    {
+      "title": "デジタル化・AI導入補助金（旧IT導入補助金）とは？補助率や申請枠・変更点についても解説【2026年・令和8年度】 - 補助金ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ckhwdUEzVWs0c3RZaU5YcER1NzRGT0FGU2U2NGRoYmdYc2UyZjhUMzRvQ0tDbmhwUzNMVzJBb3JYY29Yak91UTZlS0tZN3ZZODQ5TGZxcDBva1FBTVFmTHYxQQ?oc=5",
+      "description": "デジタル化・AI導入補助金（旧IT導入補助金）とは？補助率や申請枠・変更点についても解説【2026年・令和8年度】&nbsp;&nbsp;補助金ポータル",
+      "source": "補助金ポータル",
+      "publishedAt": "2026-08-28T07:00:00.000Z"
     },
     {
       "title": "生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査|ProductZine - CodeZine",
@@ -23,11 +37,11 @@
       "publishedAt": "2026-08-28T02:45:20.000Z"
     },
     {
-      "title": "中小企業の生成AI活用推進の負担軽減を目指し、1日常駐型支援サービス「AI Office Hour」を開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CS05Mb2ZDSXgwei00cVpzVE5FN2RTTGFRZndDNGlBQnM2SURMb0lYckx0bGt3SXJra3hkT01CQWZJQUQ4LVlJT2JSdElrS3Z3U1B2eVQxUkVfZ3pXY2gzUGszYUVLeExkaHg0emNQOFhlZw?oc=5",
-      "description": "中小企業の生成AI活用推進の負担軽減を目指し、1日常駐型支���サービス「AI Office Hour」を開始&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-08-28T01:15:36.000Z"
+      "title": "中小企業の生成AI活用推進の負担軽減を目指し、1日常駐型支援サービス「AI Office Hour」を開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaUNMOVhrb0gzaXBpT0FEY3B5cTVsUWZFNG5nNEpGMzk4cFlvNmh5U0NsODh6T3BkWjkzNmtpa0dpbHVDeG83SnFwNkNuVHV3Y3lqcjdiLU55R09oUThWbVpWdWY2NTJFQ0E?oc=5",
+      "description": "中小企業の生成AI活用推進の負担軽減を目指し、1日常駐型支援サービス「AI Office Hour」を開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-08-27T21:08:55.000Z"
     },
     {
       "title": "OpenAIのハッキング事件、原因はAIが「解けません」と言えなかったことにあった、撤退路がなかった設計の盲点 【生成AI事件簿】最終報告書が示すエージェント設計の死角、AIエージェント導入企業が見直すべき3つの安全設計(1/5) - JBpress",
@@ -37,21 +51,7 @@
       "publishedAt": "2026-08-27T21:00:00.000Z"
     },
     {
-      "title": "Azure Machine Learning| SaaS／業務システムの比較・紹介| ITセレクト - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2NWpZWG41YWhoOVR0aG1YZ0huU1Fzem5XaVp4ZVdtSUJqWFdZeUdCdWhrNndYZmx1aENVZDVCeEM3aUx5Z0NnUWl3OTh6YjVJSGV6Tl9vd3F5ekdz?oc=5",
-      "description": "Azure Machine Learning| SaaS／業務システムの比較・紹介| ITセレクト&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-08-27T17:23:09.000Z"
-    },
-    {
-      "title": "生成AI、どの業務から始める？工数・頻度・リスクで優先順位を決める試算テンプレートを無料公開 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yb1VkZlVfdG1UN3VPczVkcjdmUHljT0hBWjJGN1JVMDZfaVlSRlNLWVgzVUh3a016REIyYUU4VUh4V3dzUzBMTkpQMEpMNDBXTVZGRHhYcXlZNi00b3RFNEt3RWdkUkE3RUE?oc=5",
-      "description": "生成AI、どの業務から始める？工数・頻度・リスクで優先順位を決める試算テンプレートを無料公開&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-08-27T03:51:16.000Z"
-    },
-    {
-      "title": "生成AI×業務実装の先駆者が多数登壇 AI導入の先に待つ“業務実装への壁”を打破する経営層・リーダー層のための実践知 AI資本経営フォーラム2026 in Autumn 開催 - PR TIMES",
+      "title": "生成AI×業務実装の先駆者が多数登壇 AI導入の先に待つ“業務実装への壁”を打破する経営層���リーダー層のための実践知 AI資本経営フォーラム2026 in Autumn 開催 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXS0lLQmRTZDJ5WUdhY2tHWng4VlU4Zk9xQ2o2N3JURjVYTlhINFVIZTB3V3FjR1hlLW92NHhleDhaSVlpZkxBZ1JQNTBtUElsN3dCc2h1Tk10WkdveDFZcnhRckktS0ZIMUE?oc=5",
       "description": "生成AI×業務実装の先駆者が多数登壇 AI導入の先に待つ“業務実装への壁”を打破する経営層・リーダー層のための実践知 AI資本経営フォーラム2026 in Autumn 開催&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
@@ -67,7 +67,7 @@
     {
       "title": "【最新調査】生成AI導入率が44％に倍増？それでも活用が進まない“5つの業務”（ビジネス＋IT） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmNaUGc1aW0zUXlGSTlQVDMyRmJycEZCei1iT1RKRHl4b0pkQ2Y1VFNjamJqLTkwNklqVWk1Qjg4dVNaSGloZ2t4MF93OC1NNklnc1lvRmYxemdobHhuUWR4VENXb0FqUGwzbWtLS3V3T2ptNjZGWVJscjg3TEY4eEhZaWRiNUVX?oc=5",
-      "description": "【最新���査】生成AI導入率が44％に倍増？それでも活用が進まない“5つの業務”（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
+      "description": "【最新調査】生成AI導入率が44％に倍増？それでも活用が進まない“5つの業務”（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-25T21:20:06.000Z"
     }
