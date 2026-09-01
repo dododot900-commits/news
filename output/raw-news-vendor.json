@@ -2,11 +2,67 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "EDRを入れても侵入される 405社調査が示す日本企業の「構造的欠陥」 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNUw2ZGJzUzZPWkUxN1R6ZHItNXFoc0NKS3N5TFVsVFdWV2dZd3JGMWtpYkhNVHROcEZJZ3N3cE9Pd29SQnNSSHA4cEhXcnV6MHh4SGxXWmVvd2JNalVqVTBjeTBJUEM5eU9SNU5xbEVJUXhw?oc=5",
-      "description": "EDRを入れても侵入される 405社調査が示す日本企業の「構造的欠陥」&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-08-30T22:00:00.000Z"
+      "title": "CrowdStrike、「Falcon IQ」投入 50以上のAIエージェントで脆弱性対応を自動化 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXlJckRqYXI2TU9PMTlIb1B2Nm50NFJDLVEyVFdjVU51ckEwSWZMNjdKZmN5THB3OUdiLXpaWGpHSDNJYUxvNTR2SUstOWwya0Q2UXVTVlFudW5wMEY4VGZUTm00cHowTzFBVVNNNkh5QUNIR3U3UnBuVVIzLWFPZnJVcU05YWN3UU9rZmdsZTRvS0xDcVVwYnp1UXQxU29QU0pNY1pQVHFmNFBOREpHR0dqUG95U3k3ZFVKdTZrQWhpMXZOand5UjNFVC1XY09OSTJrSQ?oc=5",
+      "description": "CrowdStrike、「Falcon IQ」投入 50以上のAIエージェントで脆弱性対応を自動化&nbsp;&nbsp;디지털투데이",
+      "source": "디지털투데이",
+      "publishedAt": "2026-09-01T00:04:46.000Z"
+    },
+    {
+      "title": "「投資」を変えたら経営に響いた 250社超の支援で見えた「ゼロトラスト負債」 - Zscaler 髙岡氏（ITmedia エンタープライズ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGSmFzZGwtamhnQnBiN1RBZVpjNnZiR2tCNFZzQUVDSVRyLUl5NVhEdjBwUTl3blZ2VGFTLXpFNU5aTVhsYlJnZ3ROQVNrdE0zUFJVTjRvYzA2eFMtQjFfRTUxWlNycHdqenhfT1o2YTExZlRwT3ZsY1pCQmRDZTA?oc=5",
+      "description": "「投資」を変えたら経営に響いた 250社超の支援で見えた「ゼロトラスト負債」 - Zscaler 髙岡氏（ITmedia エンタープライズ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-31T23:07:48.000Z"
+    },
+    {
+      "title": "アライドテレシスとソリトンシステムズ、「AT-RADgate」と「Soliton OneGate」の認証連携開始 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0NOb0ZJeXZDRkF5YUlUUFJsT2dwMTFhTFR0SW4xYi0tekczY1lUbHZpa2FYalVvM1JHeHR6cEY3ekllVDZUWVMtUW45eE1oYzBmU21Odm9TLXdHdzRpNXBkNzg2Nm1DcU11RFE0OWxrM1Q0eGNNTndud2Y4RDAzUHlpUUVtRERiNC1uTUVn?oc=5",
+      "description": "アライドテレシスとソリトンシステムズ、「AT-RADgate」と「Soliton OneGate」の認証連携開始 (INTERNET Watch)&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-31T22:09:24.000Z"
+    },
+    {
+      "title": "アライドテレシスとソリトンシステムズ、「AT-RADgate」と「Soliton OneGate」の認証連携開始（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmd2QzltVk5udlpiZWxzUGF0OFBicXFpMkpuNDNNV3lxR3loMnhsdWlHWnQtRkkxUlhzQVJSMlo1Qm1aQ0w5aEIxUFRrbmxTQnNXUUlLblRMT0NlYUZzX05JVUIxT0pkTnFpQk40c3QwOVRjb0tyQmxXVWF1YlZVMVZlVkVJbm9ENDI3cXdn?oc=5",
+      "description": "アライドテレシスとソリトンシステムズ、「AT-RADgate」と「Soliton OneGate」の認証連携開始（INTERNET Watch）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-31T22:05:38.000Z"
+    },
+    {
+      "title": "ソリトン、アライドテレシスとネットワーク認証で連携 医療機器のアクセス管理を支援 - 医療テックニュース",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKMHlidmRnMTlJU0EzSC1rOEhjRll4bjVPM3I3cld3NzU0eVlBTmtpNG9tcFA2Vlc2TkZ1MEZyM2F1MG41VHU4OGQ5SmFQTEpXX0VEMlVqb0FWNHREeUN2cXgzMm5RUGtRb0JPSV9VZnp1WVRpVndXMg?oc=5",
+      "description": "ソリトン、アライドテレシスとネットワーク認証で連携 医療機器のアクセス管理を支援&nbsp;&nbsp;医療テックニュース",
+      "source": "医療テックニュース",
+      "publishedAt": "2026-08-31T17:11:25.000Z"
+    },
+    {
+      "title": "8月31日のCrowdStrike Holdings Inc (CRWD) 始値は5.77%上昇：値動きの背後にある要因 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjh5UDlzTkUzX1dNRkNpZHdSSEFfR1dxU2l4ZFU4blE3YU9TNlNmOEM3M2xIX2pKVFQtd2V5MExNMlRCWmM1QTd5bWRzblFQZzFZbm5mdWlTNnlXN2ZpNHNqajhqTTZ1ZmJpekU3XzM5SmtZYkVGMmlHMjBJMWpQNjRpeW1aVUljVkdyNEx3Yw?oc=5",
+      "description": "8月31日のCrowdStrike Holdings Inc (CRWD) 始値は5.77%上昇：値動きの背後にある要因&nbsp;&nbsp;TradingKey",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-31T13:49:04.000Z"
+    },
+    {
+      "title": "CrowdStrikeの株価が本日上昇している理由とは 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQ1FxdzJhZnp6VXpYMWtGMGF3MGUyNlE3WlVIQUN1blZ2VHpxRzNSOTFkaUZzNFJicEVEOU5ubUtKdkVVNkFBa0UwNGphZ0ppWUNGVkpHNXBDeVN2UHR0SERKU0lQNFZwcXdsNi12RTVtcW1tOXJR?oc=5",
+      "description": "CrowdStrikeの株価が本日上昇している理由とは 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "publishedAt": "2026-08-31T13:44:00.000Z"
+    },
+    {
+      "title": "CrowdStrikeとCLEAR、本人確認プラットフォームの統合を発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MTUNjUHZPaG9ZVkQ4OXJ5akpVRzRCa2NDZVVGYzUxMmp5dVJhZ2VRaU8wOUkwZmhIRXNJcDNBT294ZVZSNjhNemN2SEVnM0prbl9DUjNPRTRGV0dtcHhtWHhpRjNMMkNzSnRRN283RFM?oc=5",
+      "description": "CrowdStrikeとCLEAR、本人確認プラットフォームの統合を発表 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "publishedAt": "2026-08-31T12:01:00.000Z"
+    },
+    {
+      "title": "【ソリューション連携】アライドテレシスとソリトンシステムズがゼロトラスト環境を支えるセキュアなネットワークアクセスを支援 - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OQms0VUlEN0NhYXktWU5GcW16N2IzNERzcG1CSi1hLWNlamo3a2ZfU0RmaFFuXzlzZFpkdDExTHRSaV92WXhaUVVpT3Rrbmc0aTQxU3ZCenNodE41S2pVSw?oc=5",
+      "description": "【ソリューション連携】アライドテレシスとソリトンシステムズがゼロトラスト環境を支えるセキュアなネッ���ワークアクセスを支援&nbsp;&nbsp;Digital PR Platform",
+      "source": "Digital PR Platform",
+      "publishedAt": "2026-08-31T02:22:09.000Z"
     },
     {
       "title": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表 - BigGo ファイナンス",
@@ -14,62 +70,6 @@
       "description": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-08-30T14:25:00.000Z"
-    },
-    {
-      "title": "CrowdStrike（CRWD）は、AIセキュリティ需要の高まりを受け、通期の売上高見通しを引き上げたことを受け、株価が13.8％上昇した。 - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnVMRWFlU3NJYXd5MGpqLWpFcTV0amZYYzNDMnZ3R0NDUHExR1BkcjJya0trYXg5ZmxFeUl3VXhfbEdqUEU5N2VHM3Fxck83UENmQS1LQlN3WHFjSmFBLXc5Smh6SVJla0ktRHkyOFByNGdsa08xaWNsMEdWOFVpOXJrTWpuUWxTTkNfM0FRNTdCWEFXdWpRYjlaRVN5am1BWXc3RdIBpAFBVV95cUxQSnVMRWFlU3NJYXd5MGpqLWpFcTV0amZYYzNDMnZ3R0NDUHExR1BkcjJya0trYXg5ZmxFeUl3VXhfbEdqUEU5N2VHM3Fxck83UENmQS1LQlN3WHFjSmFBLXc5Smh6SVJla0ktRHkyOFByNGdsa08xaWNsMEdWOFVpOXJrTWpuUWxTTkNfM0FRNTdCWEFXdWpRYjlaRVN5am1BWXc3RQ?oc=5",
-      "description": "CrowdStrike（CRWD）は、AIセキュリティ需要の高まりを受け、通期の売上高見通しを引き上げたことを受け、株価が13.8％上昇した。&nbsp;&nbsp;simplywall.st",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-30T04:45:24.000Z"
-    },
-    {
-      "title": "CrowdStrikeの株価が本日急落した理由とは 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nRnZYQzNmblp2WVVmcGZYaUVCMEVPRGE2aDN6TFJGY0NnSXpISVRfSVRwdEszYTBHamFveUJkaW5UXzEtYVAxS3FCTmdNRWFveHFuLVNlV084amp3YWZhRnhLMHhLamdhMW9FUFM5VUJBMlBIX0Rj?oc=5",
-      "description": "CrowdStrikeの株価が本日急落した理由とは 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "publishedAt": "2026-08-28T14:25:00.000Z"
-    },
-    {
-      "title": "8月28日のCrowdStrike Holdings Inc (CRWD) 始値は4.72%下落：どのようなシグナルを示しているのか？ - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTDdyaDlWUzh1RlBOSGVCRWhvdHo5RVAxSTcxTFZZY2pvZ2VoNnVDQmptRXNZUnIxZURXR0xSalo1dGo5Ry1JWnNvYVhSeFg3azgzQWE5SXZ4M2xJbm9CUlMyZjFBRHNPM2xUZ05Qcm5rQ2g5ZzhSOUREQ1BSMWdaRVVBZmQzVHZiVGNxdFl0aw?oc=5",
-      "description": "8月28日のCrowdStrike Holdings Inc (CRWD) 始値は4.72%下落：どのようなシグナルを示しているのか？&nbsp;&nbsp;TradingKey",
-      "source": "TradingKey",
-      "publishedAt": "2026-08-28T13:48:15.000Z"
-    },
-    {
-      "title": "Zscaler（ZS）の株価は、売上高が適正水準にある一方で、キャッシュフローの観点からは割安に見える - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXYtMkJ5MlpKc3ZMV3RzRWhuVldHQUtKTDJxTjZtR1lnUXRiM0tLU3hMMmp0ajNSakVXemFBSFdTR3RzM0YzZ053QUVxTTRMY1FsblRoVzB3MF9rSXZEVHd0bzFZb3lhMHBKYTJadkV6NTZfRUtSaUF2MG5pdW9tMlpsZDMwaDl6WDJB0gGQAUFVX3lxTFB5TnlyaWUwNWJKQWlETWx6aWprbzRaQ0lUQml6alNqNUVHNHRPb1lZZVNUOWw1Slp1cXB2bjhUVnRSLUNXUWtTODNQNnRmaU5LaEU3NHU3VnpOWmZJSHFMZlJ4UE1WZF9HQlUxTGlodjFraDktTWp1QTgweXBWTU1OMktxQUdhbHhydmx2VWwwVg?oc=5",
-      "description": "Zscaler（ZS）の株価は、売上高が適正水準にある一方で、キャッシュフローの観点からは割安に見える&nbsp;&nbsp;simplywall.st",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-28T13:12:30.000Z"
-    },
-    {
-      "title": "Zscaler Reports Q4 FY2026 Earnings September 3: What the Stock Needs to Show - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGNIX1ZuTDFfdHctSkRidmZnS3RTZ2huMlAyX3lYdnRxSzFZWm5vaUt1cWxReF9adTVHeF9zTkozQm9YOGZYWHpra1lXdF9TREMwTmtyeFBpSHVvSkhCekIwSGxUR2lOa0dOWkhQSGtLUVpFcmZHZVdFZENkSTlGWUowazVRS3l2eEFtZmxCQXJQRlNaSDI0NV9pVmFfSnNCM2lrQ0kzNA?oc=5",
-      "description": "Zscaler Reports Q4 FY2026 Earnings September 3: What the Stock Needs to Show&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-08-28T13:03:53.000Z"
-    },
-    {
-      "title": "アーガスがCrowdStrike Holdingsの目標株価を$425に引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lNHBVOS1KcG0tTDB2RmxEbnVVR2JaamVnbmFhNGlqZkNCRUc3Z1oyTjFXMHFscGtuSEhYZHdWU3dqUnQwbFJtVXNVRGFzSWpkN25ubUp5UEZITlZXbG90U21nM2dkVHNBX1J2ZDJab2oyVENE?oc=5",
-      "description": "アーガスがCrowdStrike Holdingsの目標株価を$425に引き上げ 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "publishedAt": "2026-08-28T12:21:00.000Z"
-    },
-    {
-      "title": "(株)ソリトンシステムズ【3040】：掲示板 - Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92S1FwaUtNZE1EUExXZDVvamttZTJQQlBac0NkRmxhazB6eWI1N2lzM2FCYUgzeGVfamxOZ29LOUlXUnc3eG5pZmN3SWYtbUNESmwyWFJVTF9ydw?oc=5",
-      "description": "(株)ソリトンシステムズ【3040】：掲示板&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
-      "publishedAt": "2026-08-28T07:00:00.000Z"
-    },
-    {
-      "title": "ソリトン、クラウド型認証サービス「Soliton OneGate」の運用支援サービスを提供（クラウド Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hYndZQVJBcnQxWFROcU00U3ZteDJVemE5RXpCQ3h1VC01NGtqMTc3MzJncnJ4VGtFcmVWRE1mc3ZFX3lkbjBqVDExWHhJZWMzdVF0Vm1VWFVNUHVMaXk0RWNsT1RldTgtQWlwZmMtSWhTcUs2RzdyU0pIZlBkdk0?oc=5",
-      "description": "ソリトン、クラウド型認証サービス「Soliton OneGate」の運用支援サービスを提供（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-28T06:30:00.000Z"
     }
   ]
 }

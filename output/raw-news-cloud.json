@@ -2,6 +2,34 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "世界のIoTコネクティビティ＆スマートインフラ市場、2032年に5,097.2億米ドルへ成長、CAGR 16.5%を予測 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU2ktdHhnendfb1l0ZDlOTXBhai1oa2s4aEFWNUJmYlYtektySTRlVk0tWGl6YV9Va1RocG9VaGxCM19DUWpXajZiMHd0NXA0dVEtY3czTWNDYW9hT3pCcENFUHgybmc3U0E?oc=5",
+      "description": "世界のIoTコネクティビティ＆スマートインフラ市場、2032年に5,097.2億米ドルへ成長、CAGR 16.5%を予測&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-08-31T15:13:51.000Z"
+    },
+    {
+      "title": "クラウド移行サービス市場：サービスタイプ、サービスプロバイダー、移行戦略、データタイプ、企業規模、導入モデル、産業別―2026年～2032年の世界市場予測 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CNk91WWdtRTlMQThnNWFZLXNzeXdiQmlCeUloQl9DUWxUbWN4Sl9TT1VEMzY4VnZyNWY5MWN4V0dIQ095bndtTThqSlVjSFU?oc=5",
+      "description": "クラウド移行サービス市場：サービスタイプ、サービスプロバイダー、移行戦略、データタイプ、企業規模、導入モデル、産業別―2026年～2032年の世界市場予測&nbsp;&nbsp;アットプレス",
+      "source": "アットプレス",
+      "publishedAt": "2026-08-31T07:14:00.000Z"
+    },
+    {
+      "title": "シスコ、NVIDIAとの統合AIインフラソリューションにてSupermicro製冷却システムを提供へ - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GRi03S1FLUmQ4WVFJTk9hNExuREVaczAyd3lwdkpwcFYwZ1Ixd2FjTmhmdlNjQUtYMzJxNUNWNFNYRlJlNlhGNzZJdXgySUpxQXFxdXZR?oc=5",
+      "description": "シスコ、NVIDIAとの統合AIインフラソリューションにてSupermicro製冷却システムを提供へ&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-08-31T04:57:12.000Z"
+    },
+    {
+      "title": "AI時代のインフラは「レジリエンス」がカギ!? - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fVzVvbU1vMFpoY3BpVFFjR1JMTy02akJkWFhLb0NWTFp6b3RIb1VZSmZScWxaWkZJM05lT0kwQ05YMGoxbTNUcmV1R2lVZWdOSDE5WktvTjhGMGg2ejJ2ZHRPUFR3T3c?oc=5",
+      "description": "AI時代のインフラは「レジリエンス」がカギ!?&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-08-31T04:00:00.000Z"
+    },
+    {
       "title": "ITインフラの新常識“Immutable Infrastructure”の先駆け、Azure クラウドサービス（画像）（2/5枚目） - TechTargetジャパン",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU92Zmxnb3Z3YzJYMGczN2FCQkN3NGxKMmZRZWVXYmpDc2lRckVac1BMem0xX2VkVEFsQUZFaEMwMlVNaDVEZkhkcjd6QTltRUFJblBMWUt3bVdDQkgzRUJsaU1haTI4c09Id0VfaWQtZVBidURxdlUzYTBMOU5hRw?oc=5",
       "description": "ITインフラの新常識“Immutable Infrastructure”の先駆け、Azure クラウドサービス（画像）（2/5枚目）&nbsp;&nbsp;TechTargetジャパン",
@@ -11,7 +39,7 @@
     {
       "title": "AIインフラ支出が推論主導へシフトする2026年、企業はクラウド投資の評価軸をどう再設計するのか：『ビジネス2.0』の視点 - オルタナティブ・ブログ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yUWdmVEx1SGVraUEtN0tJNTA2WW5DVGRqRVZUZjNLbU91dEF1bjFacmhndzZmNnlTanJDU2lzbGx3VUVOc2dEcW11ajdVejZja0pnczF4d0FQREpaNnlhSzBQWmNuMmxLa2FxNA?oc=5",
-      "description": "AIインフラ支出が推論主導へシフ��する2026年、企業はクラウド投資の評価軸をどう再設計するのか：『ビジネス2.0』の視点&nbsp;&nbsp;オルタナティブ・ブログ",
+      "description": "AIインフラ支出が推論主導へシフトする2026年、企業はクラウド投資の評価軸をどう再設計するのか：『ビジネス2.0』の視点&nbsp;&nbsp;オルタナティブ・ブログ",
       "source": "オルタナティブ・ブログ",
       "publishedAt": "2026-08-28T21:39:26.000Z"
     },
@@ -23,32 +51,11 @@
       "publishedAt": "2026-08-28T18:51:00.000Z"
     },
     {
-      "title": "分析 #18 – アリババ ($BABA) 1/10 – 今日のアリババ アリババはもはや単なる電子商取引企業ではない。 - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10dFAtUU1LeEg1bDVOR19rUEJjdVFwd09fQldJcFBDZC04YzJuUHBFSVQ5azJfVVJpLUtRT1JoRHRPd2Z3dXZnMVZDOXgyTlZlY1Vsb0luOFN1QVRVT1JEV0Y2RGdOMFdHWkVKUEZ0cVMtbzhweVVv?oc=5",
-      "description": "分析 #18 – アリババ ($BABA) 1/10 – 今日のアリババ アリババはもはや単なる電子商取引企業ではない。&nbsp;&nbsp;KuCoin",
-      "source": "KuCoin",
-      "publishedAt": "2026-08-28T10:11:22.000Z"
-    },
-    {
-      "title": "通知インフラソフトウェア市場規模の成長推移2026：2032年7038百万米ドル到達を予測 - アット���レス",
+      "title": "通知インフラソフトウェア市場規模の成長推移2026：2032年7038百万米ドル到達を予測 - アットプレス",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZHdfOFo1TmxOOUhPTV9QYTBIN2RwUEV1VzFTZW1McWdyMk5zcUtIYjNfTGlZS2ZEMFpaeTlCbnpVRkRhcmRhUzdIZDlLajg?oc=5",
       "description": "通知インフラソフトウェア市場規模の成長推移2026：2032年7038百万米ドル到達を予測&nbsp;&nbsp;アットプレス",
       "source": "アットプレス",
       "publishedAt": "2026-08-28T06:17:00.000Z"
-    },
-    {
-      "title": "アリババがブラジルでDC開設 AI攻勢強化 - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FbXpZVUZSNWtfbEVyN1pUZFduNzlNVHBaR0tHRnhaYnUyVzFXdjkwdGhzWXdHN0o0eW9hRFVkVHc4cjdhcXA2R0l5Y2lva1g1MDJpZUlNaFlieUxIRVV4b3BPTzA1RmZ3dWRYYmlrTktadFFmZ0tSclBn0gGOAUFVX3lxTE84cVBTUGp3TGVxaEpOM3dXVExCYlpPbVhvTFp5VWtVcmVqajA0bnpSUFFjZ1N2OWpucTc1MFUyaTZ4S0RPcmlYcWJLZ0ctcHkzMHlxUzVVZndMWFpWMFMxTjB0TVU4N1dUSW5JWmVBOEVDUTNRdmhtY1Q0VG9JTWNkaWJoc3Z2TDRKY1RUbnc?oc=5",
-      "description": "アリババがブラジルでDC開設 AI攻勢強化 - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
-      "source": "Chosunbiz",
-      "publishedAt": "2026-08-28T04:22:00.000Z"
-    },
-    {
-      "title": "IREN、AIクラウド移行が重しとなり6億8,400万ドルの赤字を計上 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZGdSMnZVVVdpaEw2WkNwZ2JqRUZwWFJRVHJGNWlWWThkR0hIeGFKQXBscEk0NVN2bFNhdHRBak43aldiNjNEVzJBb3A4M0s0Y1l0Y2RKNXdzN0x1TnhIVHFGY1RHcUFxVEo0aHo3VWxBM1Jl?oc=5",
-      "description": "IREN、AIクラウド移行が重しとなり6億8,400万ドルの赤字を計上&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-27T23:35:00.000Z"
     },
     {
       "title": "ディーバ、連結会計クラウドサービス「DivaSystem LCA Cloud」のAI対応ロードマップを発表 - PR TIMES",
@@ -63,13 +70,6 @@
       "description": "Webサイトは「止められない社会インフラ」へ Movable Type クラウド版×さくらのクラウド、“国内プラットフォームの信念”を経営陣に聞く&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-08-26T01:00:00.000Z"
-    },
-    {
-      "title": "Clouderaが5年をかけた技術革新の集大成「Anywhere Cloud」発表 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTbHJSa29oekoySkUyNG05NnJjZU9vSWR4dmpPZl9CaEJ6SWZRVWt4X0V1bk5MblItRWs5M1hQdG5TODVuVWkxSzRidC13VzRwSnowVw?oc=5",
-      "description": "Clouderaが5年をかけた技術革新の集大成「Anywhere Cloud」発表&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-08-26T00:12:06.000Z"
     }
   ]
 }
