@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "CyberCrewが発見・報告した脆弱性、Red Hat公式CVE情報に掲載 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNmdhb2Q0QnV3YkZWbEdMMGl5X2s0c3p3X1I3SGpza0dtU0tUaU03Q3NVLUFTdzNrRHFIdHBUNm1hVi1HVXdUd3R5bmMzSDdfODhEZWhEbndpTVJKWlRlVG5JNVZzd2tFZWc?oc=5",
-      "description": "CyberCrewが発見・��告した脆弱性、Red Hat公式CVE情報に掲載&nbsp;&nbsp;PR TIMES",
+      "title": "OpenAIの新モデル「Astra」、重要サイバー能力の基準に到達——段階的提供へ - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45QVA2MHUwendzMGZ4Rl9WS3lfa1c3NXFuS3dLR0ZNU1Y4Y2RPend4R1ZLb3Q1R2NlcU9DVWxOWUVXdktnb2t5SzF3U0p2bmxBOHdXMEdsMHhWT0ZET0RBQ0hJQUF4U3FzenM0M2JQOVNFZUF0?oc=5",
+      "description": "OpenAIの新モデル「Astra」、重要サイバー能力の基準に到達——段階的提供へ&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-09-02T00:25:00.000Z"
+    },
+    {
+      "title": "【蓄電関連】ブロードバンドセキュリティ：系統用蓄電所向けセキュリティ診断を開始、PCS・EMS・BMSから市場APIまで対象 - みんなの広報宣伝部",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QNW5iUXZSSkpCSzZheGY0bklPVER4Vi1BTUZFbjdOR0QzMzlDSHg4WUdxQnBMdmFMamdIX05HdnkzVG01RzdxQl9nSmd3T1RsN2s1dWJCOWdCZk1xdW01aTZrc2tUSXFmZ25LQ25ERENoZw?oc=5",
+      "description": "【蓄電関連】ブロードバンドセキュリティ：系統用蓄電所向けセキュリティ診断を開始、PCS・EMS・BMSから市場APIまで対象&nbsp;&nbsp;みんなの広報宣伝部",
+      "source": "みんなの広報宣伝部",
+      "publishedAt": "2026-09-01T22:11:35.000Z"
+    },
+    {
+      "title": "Gartner「来年のAIセキュリティ市場は69%急成長…利用制御分野が最高」 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tQTZ0N2NGOFljMDNNb0JUbUxXbHRfaHZiUmMyV3pGUDREMjgwZy1Kc2U2OXJQdFRBalk2cDVKZE5RcEJvVjZZRlFZaUNxdXBMNU54eUttVFlBY0VSZjdOVUhrTm9Gd3FZTVZfYnBjb01kWldD?oc=5",
+      "description": "Gartner「来年のAIセキュリティ市場は69%急成長…利用制御分野が最高」&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-09-01T15:05:00.000Z"
+    },
+    {
+      "title": "テクマトリックス、米国の脆弱性診断プラットフォーム「Ostorlab」を日本語サポートで販売開始 - enterprisezine.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TbFo1aXQ0cUdEVV9kVDJaUFNrUHMwX0ljTndiel9aSmlxdzRmZUdLWTJYX3VoSW43M1MzQkhMMnBLdmNoYmdwQTg3SHB5R1RraFJkV0Nn?oc=5",
+      "description": "テクマトリックス、米国の脆弱性診断プラットフォーム「Ostorlab」を日本語サポートで販売開始&nbsp;&nbsp;enterprisezine.jp",
+      "source": "enterprisezine.jp",
+      "publishedAt": "2026-09-01T09:04:51.000Z"
+    },
+    {
+      "title": "ScreenWatermarkの契約ライセンス数が30,000ライセンスを突破しました - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQXdEQ2d5MF84RzRSbUg2dkZYbHdkNnNiVklTSG1kaDIyd0otSF9oNDJZSFh5YXNWeGxUMUlsZzFpOWxSQ242R3ByX2d0T3NYTUpHbU05LVdMMWlhaExwUF8xdFExc3dKR2c?oc=5",
+      "description": "ScreenWatermarkの契約ライセンス数が30,000ライセンスを突破しました&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
-      "publishedAt": "2026-09-01T01:00:03.000Z"
+      "publishedAt": "2026-09-01T07:20:01.000Z"
     },
     {
-      "title": "まんだらけ、不正アクセスで通販注文者の個人情報漏えいの可能性 通販・オークション停止、カード・パスワードは対象外 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzMtNlJ3cXhFQ2VFREtpZlRzM2F1cTZMU01RXzV6VTlNVy1aMGZlaTJxdGg5ejFjSFBDTjNDR1hSckg0T2FjbmhSdU91UjFXbEtJT3Nxa2w5ZEtqUExQRm5sRjBlS0JPVHh6R1I2WDdPN1JfSDNNa1l0Vk9ObDc1S2ppNGNtZw?oc=5",
-      "description": "まんだらけ、不正アクセスで通販注文者の個人情報漏えいの可能性 通販・オークション停止、カード・パスワードは対象外&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "アイキューブドシステムズ、ワンビの最新情報漏洩対策ソリューション「TRUST DELETE Zero X」を取り扱い開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWmxkUHFnSGJXaTdiZUlnWEZHYTJtZm1CTmRTYm5GTDdWRWF0S2hCNWhTTGppa1dIbjl4QzRtLVVXOVZNbUFkblhOSTIxMWU0UVBKNERVTXR2TUlNWlpkWVFNdUJwZDJJaVE?oc=5",
+      "description": "アイキューブドシステムズ、ワンビの最新情報漏洩対策ソリューション「TRUST DELETE Zero X」を取り扱い開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-09-01T07:00:02.000Z"
+    },
+    {
+      "title": "Nightmare Eclipse、カスペルスキー製品のエクスプロイト「HardBreacher」を公開 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTW5LNUp4NjZHMzBLeW9RbFU2LWc1Ty1GcHFWQ0xvWkJRb0Nna2xPVlZ2ZUdrc0laU05SeHJoY0Mza0pEVlJRY012XzJLeUdiOWRfS3NybVJZQkNOS1hJUGRsakJlUGR6M2d0Y0w0OGpmWklaRVNteTZIQzBjY3NJZU9wOUE?oc=5",
+      "description": "Nightmare Eclipse、カスペルスキー製品のエクスプロイト「HardBreacher」を公開&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-09-01T05:37:43.000Z"
+    },
+    {
+      "title": "Active Directoryがサイ��ー攻撃の標的となる理由とその対策 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yOUpEQzZheEFqZnZXS25odlhDNTRpOGRMQkFRREZIN0dYTU53SEVuMWJGcDVka1JFWkxNbURmb21VTkozYkI2bzdyNk95eFJSTzNEMA?oc=5",
+      "description": "Active Directoryがサイバー攻撃の標的となる理由とその対策&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-09-01T05:00:00.000Z"
+    },
+    {
+      "title": "ペット用品のチャーム、不正アクセスの続報、約39万件の個人情報漏洩を確認 約4万件は漏えいのおそれ、不正ログイン239名も判明|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHNNT0pnMjcwb0Q3VUhRbEF1dXAzUTN3bTFpSGVRbEVDODVNQ05nRkM5dnVSaFBCU0JNSnV0cVJJNEhLajR0R1NIa1RjUWgwSWpjdVBBa3BuNWJGc1hNMWpzX1B4LVJXMXlydVNTeldrUTlYczQ3Wnpib3BzRDc2ZU13?oc=5",
+      "description": "ペット用品のチャーム、不正アクセスの続報、約39万件の個人情報漏洩を確認 約4万件は漏えいのおそれ、不正ログイン239名も判明|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-01T00:00:42.000Z"
+      "publishedAt": "2026-09-01T04:50:50.000Z"
     },
     {
-      "title": "AeyeScan blog 第15回 なぜ米国サイバーセキュリティ株は V 字回復したのか？ - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQTAwdnhfcUZVOGxkVGl4NnpHS29QaFo5cVZLZ0MzSDlqcElYQzFjbEQ5M19yT3VDNnRMMmpWc0VpMGNaQXZsUG85elVDMEhJU18wQlU5ZXB5Unp0S09xQUJLaXBjOEwteUhtNQ?oc=5",
-      "description": "AeyeScan blog 第15回 なぜ米国サイバーセキュリティ株は V 字回復したのか？&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-31T23:15:02.000Z"
-    },
-    {
-      "title": "サンコーテクノのベトナム子会社にランサムウェア攻撃、サーバ及びパソコン内の各種ファイルの暗号化を確認 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT2hCZGZRcWVvYUg1RjdsVzhRV2V2WlFhdHlmSlVETjVtaTFhMHJBR0d5aHZHSHRpQ2hpWWNiN0ZHaEotQmtwZmY2VWRCc3hhc0VnWWt5cHZ4V2szZ290YVEwdTFmZEJYMG9mMw?oc=5",
-      "description": "サンコーテクノのベトナム子会社にランサムウェア攻撃、サーバ及びパソコン内の各種ファイルの暗号化を確認&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-31T23:05:14.000Z"
-    },
-    {
-      "title": "いさぼうネットに不正アクセス、個人情報が外部から閲覧 取得された可能性 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RjhsSWtHQzJvY3pLcDltU2YxVjZzTU1ra2J1eHNtdEU1QWZFMXZmY25QdFd0eWhXc2h3T3ZpTDFMTEF3ZVpLbnJnVk1zOU05OEZFOFJoU0hLN1NfTGhsQ0otd1E1WTM2RHJuMA?oc=5",
-      "description": "いさぼうネットに不正アクセス、個人情報が外部から閲覧 取得された可能性&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-31T23:05:04.000Z"
-    },
-    {
-      "title": "ZeroBytesがZéro Logement Vacantに侵入、フランスの不動産所有者約4800万人のデータが流出 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1FSV1ZmUVhCbjV2MUhoR1NTZmtSY3FpeXZhVEl5QTQ2MTdyWk9UZHlfSEVHam1ULVVla2dRRkY1el9mNUlVSkhYbFMzY0JlX0tQMEFOU0U1UUFWN3hZUkpvMWpPQm0zSDRtemczOHZkNjNXcnU2d0tzcGM0Y2NHN1hxUlBmQ1RpS3NPaEVZSlRneU0?oc=5",
-      "description": "ZeroBytesがZéro Logement Vacantに侵入、フランスの不動産所有者約4800万人のデータが流出&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-08-31T21:46:58.000Z"
-    },
-    {
-      "title": "OpenAI、サイバー領域特化 AI「GPT-5.6-Cyber」を発表 ゼロデイ脆弱性研究を強化、Daybreak Red限定で提供 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUxob25QMWI1UHR5RGN1a0JEcUk0d3V2MUY4V2R1M00xNUNrMm1rTG9JaUdRTzBjb21mZHc1ZENMVEhkbjNZTWJ0NVNEVUhuUWNWXzZsbGhVWHNBOElYMk1PaGxYTEFpYUdPV2hKYzdKMHg5WFY3OWhoRUV2WF9NOVdIaTM?oc=5",
-      "description": "OpenAI、サイバー領域特化 AI「GPT-5.6-Cyber」を発表 ゼロデイ脆弱性研究を強化、Daybreak Red限定で提供&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-08-31T21:00:42.000Z"
-    },
-    {
-      "title": "セキ���リティ対策は、ISMAP対応クラウドを軸にした「総合防御」を - projectdesign.jp",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EYU00VVRmV2NFdTQzTk1nN191Q01NYlpieFlEbUJtVktPMHBoM2pGUTJ5UEZfamt5ZkpIcXptMHlfX29ZTmI2RTVjR1lnM1VlNU8zZWxsTFNUTzZjSE0xUlEwMXdJREhXaFdTSFI3U3N0Z19zNm9PaHpSLWlqVGM?oc=5",
-      "description": "セキュリティ対策は、ISMAP対応クラウドを軸にした「総合防御」を&nbsp;&nbsp;projectdesign.jp",
-      "source": "projectdesign.jp",
-      "publishedAt": "2026-08-31T11:02:39.000Z"
-    },
-    {
-      "title": "穴吹ハウジングサービスのランサム被害、グループ企業の通信機器経由で侵入 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wYlNDTmFNenZhZHhDMHFqYmE3dHBTSzBYNURxTV9uWFgzVXZhTWxzZGl5ZXFBVEV1SE1RbFpuTFhsX3ZaVzNmQktKeGZ1b3EtaTA0TFFpMzE5UEMwOGlhZXNPMHBiT3g2YlFYag?oc=5",
-      "description": "穴吹ハウジングサービスのランサム被害、グループ企業の通信機器経由で侵入&nbsp;&nbsp;日経クロステック",
-      "source": "日経クロステック",
-      "publishedAt": "2026-08-31T08:58:33.000Z"
-    },
-    {
-      "title": "T&K TOKA、ランサムウェアの被害で一部業務を停止 不正アクセスの原因・情報流出は調査中 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0pUVXE3NnVTZ3V3cG5iSDJaQ2NnakhuYjF6NW04MEpaZEZEbFJuZ0FkSkN6TzlubXZYVktaSUtCYWJFNlQ3RUtwWl9BVzE3cXA0NzI0RDhRYUpWLVBWU2JrQjVDbG5KYl9hMkoxUTB4a0VwbzZLNXItOGFleGVjQUQ5NGNpUXdk?oc=5",
-      "description": "T&K TOKA、ランサムウェアの被害で一部業務を停止 不正アクセスの原因・情報流出は調査中&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "���同会社ロケットボーイズ",
-      "publishedAt": "2026-08-31T07:28:06.000Z"
+      "title": "Auroraランサムウェアのアフィリエイト、10組織への攻撃でCursos AIを使用 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlI3V1F6WENQTG9Za1BZRXU1Q1FzS09RRUlMQVhUM3FDcW9aOWptNzNnR1lkbzFWc1NKMkVaNVhrdGFXb1FOWExoY1NHNkhGVHZ6Y2ZBODFXdlJPc3AxS29wUFpjWXRBM3RYQVZvNVBkU3RpRVJBZFBwSVZVQWk4SXVXa08?oc=5",
+      "description": "Auroraランサムウェアのアフィリエイト、10組織への攻撃でCursos AIを使用&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-09-01T02:47:43.000Z"
     }
   ]
 }
