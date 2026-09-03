@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "OpenAIの新モデル「Astra」、重要サイバー能力の基準に到達——段階的提供へ - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45QVA2MHUwendzMGZ4Rl9WS3lfa1c3NXFuS3dLR0ZNU1Y4Y2RPend4R1ZLb3Q1R2NlcU9DVWxOWUVXdktnb2t5SzF3U0p2bmxBOHdXMEdsMHhWT0ZET0RBQ0hJQUF4U3FzenM0M2JQOVNFZUF0?oc=5",
-      "description": "OpenAIの新モデル「Astra」、重要サイバー能力の基準に到達——段階的提供へ&nbsp;&nbsp;BigGo ファイナンス",
+      "title": "「CVSS High以上はすべて対応」はもう限界……1,124万件のアラートを分析した脆弱性トリアージ自動化の現実解 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XODVLLW4wVElPYXk3dHpNbXNfYS1OYTBMcXR0OFZKdEU1T081ZDNCbGxFZTVQVXZaX0dNU2J0NWU1cmtScU83T3FRbEJ6eDBORlk4cE9R?oc=5",
+      "description": "「CVSS High��上はすべて対応」はもう限界……1,124万件のアラートを分析した脆弱性トリアージ自動化の現実解&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-09-03T00:01:50.000Z"
+    },
+    {
+      "title": "エーアイセキュリティラボ、情シスと開発者向けに脆弱性診断「内製化・ハイブリッド化」のポイント解説ウェビナー 9 / 8 開催 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52MFJiS3dvQXZtRUFULU5SU0V0Qlc1RVFaeFdMQ1huSC1neFBnaUV4bUo1d3lINmlYSWh5YnlvanAwUTQzdEdrWVNuSlV3UXY4SkJQMXFfTzZaSVZyNmFZcW5jekhKT2ZyRTZvUA?oc=5",
+      "description": "エーアイセキュリティラボ、情シスと開発者向けに脆弱性診断「内製化・ハイブリッド化」のポイント解説ウェビナー 9 / 8 開催&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-02T23:10:03.000Z"
+    },
+    {
+      "title": "Dropbox Protect提供開始 “過剰なファイル共有”をすべて把握し情報漏洩リスクを低減 (1/2) - ascii.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fQ1hPRWduYjVGX3AxWEIxY28zc2xsc1FFMU01Wi1VWVd1cHNtNWZqOVV4TnFZUTkyalhKUnF4VnF2SThPTVNTU1luYnBHbjRRdmI3Uw?oc=5",
+      "description": "Dropbox Protect提供開始 “過剰なファイル共有”をすべて把握し情報漏洩リスクを低減 (1/2)&nbsp;&nbsp;ascii.jp",
+      "source": "ascii.jp",
+      "publishedAt": "2026-09-02T22:30:00.000Z"
+    },
+    {
+      "title": "ネオクラウドのセキュリティは惨憺たる状況——ClusterMaxが警鐘：Hugging Faceハッキングは13時間の警告だった - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzOUp6aVhLbTVyS0tUN2RocHVIZ2l3Wm1vUWxiRVVRRUZfU3JFX3liMGE5YnpJdmg4N1Z6ZUpPR3JBV0ItSE9keC1hMWU4UFFBQWdvelkxQ3hxZw?oc=5",
+      "description": "ネオクラウドのセキュリティは惨憺たる状況——ClusterMaxが警鐘：Hugging Faceハッキングは13時間の警告だった&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-02T00:25:00.000Z"
+      "publishedAt": "2026-09-02T15:11:28.000Z"
     },
     {
-      "title": "【蓄電関連】ブロードバンドセキュリティ：系統用蓄電所向けセキュリティ診断を開始、PCS・EMS・BMSから市場APIまで対象 - みんなの広報宣伝部",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QNW5iUXZSSkpCSzZheGY0bklPVER4Vi1BTUZFbjdOR0QzMzlDSHg4WUdxQnBMdmFMamdIX05HdnkzVG01RzdxQl9nSmd3T1RsN2s1dWJCOWdCZk1xdW01aTZrc2tUSXFmZ25LQ25ERENoZw?oc=5",
-      "description": "【蓄電関連】ブロードバンドセキュリティ：系統用蓄電所向けセキュリティ診断を開始、PCS・EMS・BMSから市場APIまで対象&nbsp;&nbsp;みんなの広報宣伝部",
-      "source": "みんなの広報宣伝部",
-      "publishedAt": "2026-09-01T22:11:35.000Z"
+      "title": "中堅中小企業・スタートアップのセキュリティ対策 2026 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQcUpVS3h2UEZOcVFFZjg5eWF2THk4NVhmYmtMMno2SklxQ0htaHNSSDdqLTJOMExqYjBHOGZzaFJXcDZ5YWZXMGNTVkJzNWxmS3hUV3d3?oc=5",
+      "description": "中堅中小企業・スタートアップのセキュリティ対策 2026&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-09-02T07:34:07.000Z"
     },
     {
-      "title": "Gartner「来年のAIセキュリティ市場は69%急成長…利用制御分野が最高」 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tQTZ0N2NGOFljMDNNb0JUbUxXbHRfaHZiUmMyV3pGUDREMjgwZy1Kc2U2OXJQdFRBalk2cDVKZE5RcEJvVjZZRlFZaUNxdXBMNU54eUttVFlBY0VSZjdOVUhrTm9Gd3FZTVZfYnBjb01kWldD?oc=5",
-      "description": "Gartner「来年のAIセキュリティ市場は69%急成長…利用制御分野が最高」&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-01T15:05:00.000Z"
+      "title": "OpenAIの次期AI「Astra」投入が秒読み段階。セキュリティ能力「重大」（PC Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdDV4b1F6U2k3OEdBWWs1X0NNcUdhb0xEWk5FUU42aFRHMndQaG11eTNiQks4WTE5R2hCMmtOUWRvbUdMSzU3dThKUlIxU1dqWVJEV09sQWpXSldRWWluVVJMSE11bW4wMFcxbmtkU3N5MjJaSUlyNk1uOXp2bTg?oc=5",
+      "description": "OpenAIの次期AI「Astra」投入が秒読み段階。セキュリティ能力「重大」（PC Watch）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-02T07:30:00.000Z"
     },
     {
-      "title": "テクマトリックス、米国の脆弱性診断プラットフォーム「Ostorlab」を日本語サポートで販売開始 - enterprisezine.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TbFo1aXQ0cUdEVV9kVDJaUFNrUHMwX0ljTndiel9aSmlxdzRmZUdLWTJYX3VoSW43M1MzQkhMMnBLdmNoYmdwQTg3SHB5R1RraFJkV0Nn?oc=5",
-      "description": "テクマトリックス、米国の脆弱性診断プラットフォーム「Ostorlab」を日本語サポートで販売開始&nbsp;&nbsp;enterprisezine.jp",
-      "source": "enterprisezine.jp",
-      "publishedAt": "2026-09-01T09:04:51.000Z"
+      "title": "NEC、AI活用の脆弱性対策マネージドサービスを発表 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUVJyYTh6b1pOcF9kdTZYRExRTFFUZU5rNF80YWQ4UXhDTDN0NWtDZVg4NXNCaHZnbnFmR0JRQUZwQ0RBQVhvOXFFcDJ0V01iUmc?oc=5",
+      "description": "NEC、AI活用の脆弱性対策マネージドサービスを発表&nbsp;&nbsp;ZDNET Japan",
+      "source": "ZDNET Japan",
+      "publishedAt": "2026-09-02T07:16:00.000Z"
     },
     {
-      "title": "ScreenWatermarkの契約ライセンス数が30,000ライセンスを突破しました - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQXdEQ2d5MF84RzRSbUg2dkZYbHdkNnNiVklTSG1kaDIyd0otSF9oNDJZSFh5YXNWeGxUMUlsZzFpOWxSQ242R3ByX2d0T3NYTUpHbU05LVdMMWlhaExwUF8xdFExc3dKR2c?oc=5",
-      "description": "ScreenWatermarkの契約ライセンス数が30,000ライセンスを突破しました&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-01T07:20:01.000Z"
+      "title": "NEC、Anthropic「Project Glasswing」に参画 Mythosで脆弱性対策へ - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SbG1YWURhRkMyTmw3ZVhSU0V4dzVnYUFxYXFNdGU5VWRNUHl4bXBpZVcwc2J3WVZpbVBUdXQzSWNLdS1ReThqWmpBTHdxaFY1TzNwZ0ln?oc=5",
+      "description": "NEC、Anthropic「Project Glasswing」に参画 Mythosで脆弱性対策へ&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-09-02T06:23:47.000Z"
     },
     {
-      "title": "アイキューブドシステムズ、ワンビの最新情報漏洩対策ソリューション「TRUST DELETE Zero X」を取り扱い開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWmxkUHFnSGJXaTdiZUlnWEZHYTJtZm1CTmRTYm5GTDdWRWF0S2hCNWhTTGppa1dIbjl4QzRtLVVXOVZNbUFkblhOSTIxMWU0UVBKNERVTXR2TUlNWlpkWVFNdUJwZDJJaVE?oc=5",
-      "description": "アイキューブドシステムズ、ワンビの最新情報漏洩対策ソリューション「TRUST DELETE Zero X」を取り扱い開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-01T07:00:02.000Z"
+      "title": "セキュアイノベーション、脆弱性診断の計画から改善までを解説するセミナーアーカイブ動画を公開 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZmNlQnJ0elliRmVzOEttTy02eFdzeGJzTUZsSWNqa1J0SjRSTURaSTV2TUQxSmJKOFFKTFh0a2NSUXV3UTVVOVJaNW1va0Z3ZWc?oc=5",
+      "description": "セキュアイノベーション、脆弱性診断の計画から改善までを解説するセミナーアーカイブ動画を公開&nbsp;&nbsp;CNET Japan",
+      "source": "CNET Japan",
+      "publishedAt": "2026-09-02T04:00:00.000Z"
     },
     {
-      "title": "Nightmare Eclipse、カスペルスキー製品のエクスプロイト「HardBreacher」を公開 - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTW5LNUp4NjZHMzBLeW9RbFU2LWc1Ty1GcHFWQ0xvWkJRb0Nna2xPVlZ2ZUdrc0laU05SeHJoY0Mza0pEVlJRY012XzJLeUdiOWRfS3NybVJZQkNOS1hJUGRsakJlUGR6M2d0Y0w0OGpmWklaRVNteTZIQzBjY3NJZU9wOUE?oc=5",
-      "description": "Nightmare Eclipse、カスペルスキー製品のエクスプロイト「HardBreacher」を公開&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-09-01T05:37:43.000Z"
-    },
-    {
-      "title": "Active Directoryがサイ��ー攻撃の標的となる理由とその対策 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yOUpEQzZheEFqZnZXS25odlhDNTRpOGRMQkFRREZIN0dYTU53SEVuMWJGcDVka1JFWkxNbURmb21VTkozYkI2bzdyNk95eFJSTzNEMA?oc=5",
-      "description": "Active Directoryがサイバー攻撃の標的となる理由とその対策&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-09-01T05:00:00.000Z"
-    },
-    {
-      "title": "ペット用品のチャーム、不正アクセスの続報、約39万件の個人情報漏洩を確認 約4万件は漏えいのおそれ、不正ログイン239名も判明|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHNNT0pnMjcwb0Q3VUhRbEF1dXAzUTN3bTFpSGVRbEVDODVNQ05nRkM5dnVSaFBCU0JNSnV0cVJJNEhLajR0R1NIa1RjUWgwSWpjdVBBa3BuNWJGc1hNMWpzX1B4LVJXMXlydVNTeldrUTlYczQ3Wnpib3BzRDc2ZU13?oc=5",
-      "description": "ペット用品のチャーム、不正アクセスの続報、約39万件の個人情報漏洩を確認 約4万件は漏えいのおそれ、不正ログイン239名も判明|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-01T04:50:50.000Z"
-    },
-    {
-      "title": "Auroraランサムウェアのアフィリエイト、10組織への攻撃でCursos AIを使用 - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlI3V1F6WENQTG9Za1BZRXU1Q1FzS09RRUlMQVhUM3FDcW9aOWptNzNnR1lkbzFWc1NKMkVaNVhrdGFXb1FOWExoY1NHNkhGVHZ6Y2ZBODFXdlJPc3AxS29wUFpjWXRBM3RYQVZvNVBkU3RpRVJBZFBwSVZVQWk4SXVXa08?oc=5",
-      "description": "Auroraランサムウェアのアフィリエイト、10組織への攻撃でCursos AIを使用&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-09-01T02:47:43.000Z"
+      "title": "ＮＥＣ、企業のネットワーク脆弱性対処で新サービス 先端ＡＩ活用 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YYUFRS3c3VG1MRnlNZjUyUmU3aUFVWEhpTzV5YWxVN3RJWGJkZ0plWC1SOUZMMXlzWURCRzYxaDk1dE5BUDdOOXFFUi1pSVdkcmRZMkZaTkZKX29naUgxRHBucEpHWFUzTHR5ZXl3?oc=5",
+      "description": "ＮＥＣ、企業のネットワーク脆弱性対処で新サービス 先端ＡＩ活用&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-09-02T03:58:36.000Z"
     }
   ]
 }
