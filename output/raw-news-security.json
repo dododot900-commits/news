@@ -2,6 +2,41 @@
   "topic": "security",
   "articles": [
     {
+      "title": "DAIKO NEXT LINK、旧大興ビジネスのメールシステム不正アクセスを最終報告 旧サーバー停止、個人情報流出は確認されず - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjlEdnpYRHJhSFZmTU45eEtma0ItVk4taGQ5LWdHWGNybmlESHVrLTVuUUIxQ2o2cTlwY3pQLTRoOU9NcmNqbVgzcUx2d0Zpb2xoWDdIUkFEWmRFdlIxRkNlNHBLZjhyVkEwbE11ZVUxQWx0cUhCRVU5ZkFlOWtJaHVOOGJpaU1KMmI4?oc=5",
+      "description": "DAIKO NEXT LINK、旧大興ビジネスのメールシステム���正アクセスを最終報告 旧サーバー停止、個人情報流出は確認されず&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-03T23:30:28.000Z"
+    },
+    {
+      "title": "日本交通への不正アクセス、保有ファイルの一部が外部流出 - scan.netsecurity.ne.jp",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02QTQxTEMwZ09KMHpRVjRvMGpHdEY3aE5fOGR0ZWNWS0F4YzlsVUpSQTVrU01vRk1TTXQwckdZZ0U1a0lsQjFGMV9BdUEzcjhLSWUyNzZtOXhHOFB3dnhzT1FJUDlmbXdPa3hVeg?oc=5",
+      "description": "日本交通への不正アクセス、保有ファイルの一部が外部流出&nbsp;&nbsp;scan.netsecurity.ne.jp",
+      "source": "scan.netsecurity.ne.jp",
+      "publishedAt": "2026-09-03T23:05:20.000Z"
+    },
+    {
+      "title": "メール配信システム「める配くん」の一部サーバに不正アクセス、配信先情報の一部が外部に取得されていた事実を確認 - scan.netsecurity.ne.jp",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdkM2U292MWJNTFBUTnl4cUVYalVIdlM1TlRqM0c5U3BrbURCTEpyVW5pOGRqQzdKaVZZQUZCX2V0VXk1ajUtYXNrTklFbkh1b25fRVY0aE1aak1mamRCeXhWZGpmUU5leFdGaw?oc=5",
+      "description": "メール配信システム「める配くん」の一部サーバに不正アクセス、配信先情報の一部が外部に取得されていた事実を確認&nbsp;&nbsp;scan.netsecurity.ne.jp",
+      "source": "scan.netsecurity.ne.jp",
+      "publishedAt": "2026-09-03T23:05:09.000Z"
+    },
+    {
+      "title": "東京都管工事工業協同組合ウェブサイトが改ざん、CMS の脆弱性を悪用 - scan.netsecurity.ne.jp",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HTGJxVXprVFhxU0NkRGU2RHd2U1JXMmVRdERKcnYwR1JUdnN4eTVITnBkczhLalZpT3FXLUtpZ2xDNVAzLV9hU0diNTNhSDlRT1BqZS0tYVJlU3hLanFoc19WYzBQUGlzVzkxeg?oc=5",
+      "description": "東京都管工事工業協同組合ウェブサイトが改ざん、CMS の脆弱性を悪用&nbsp;&nbsp;scan.netsecurity.ne.jp",
+      "source": "scan.netsecurity.ne.jp",
+      "publishedAt": "2026-09-03T23:05:05.000Z"
+    },
+    {
+      "title": "SNS投稿やPTAの個人情報も！組織がセキュリティインシデントを招く要因とは？ - @DIME アットダイム",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JRDVYYzlPQlRYcEw1eWYzcjljbXBpMFhvcmtoSnFhWHNILVJLbDlJdi1XQm56cWVaa2F2a1ZvRXo1Wm5r?oc=5",
+      "description": "SNS投稿やPTAの個人情報も！組織がセキュリティインシデントを招く要因とは？&nbsp;&nbsp;@DIME アットダイム",
+      "source": "@DIME アットダイム",
+      "publishedAt": "2026-09-03T23:03:27.000Z"
+    },
+    {
       "title": "個人情報保護委員会、第1四半期に141件を指導 ランサムウェア15件、VPN脆弱性放置や弱い認証を問題視 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mcGJnRG55MjdoZHIzeGdMdkVlLW5FVDlEUjktWnRhODRqbU5tS2tJNG1UMnAtYlo3UDBJY3dBSDE5TlBrbkppU29PVlg3TEJtbFh5VHpKRXFtVGRXdWtzZVhzdXhBNEVFMWhkTnhscGY0OTh5OXFRSmVBZGJRQQ?oc=5",
       "description": "個人情報保護委員会、第1四半期に141件を指導 ランサムウェア15件、VPN脆弱性放置や弱い認証を問題視&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -9,9 +44,9 @@
       "publishedAt": "2026-09-03T22:00:40.000Z"
     },
     {
-      "title": "OpenAIのAstraがゼロデイ 脆弱性を発見、サイバーセキュリティの能力がCriticalに達する - 合同会社ロケットボーイズ",
+      "title": "OpenAIのGPT-6 Astraがゼロデイ 脆弱性を発見、サイバーセキュリティの能力がCriticalに達する - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFM4dHFLaC1admZrWGRLX1lvQlhjQjBmem1hMEVoelBlZkNJdzhnRTJQaENrMTdiYy03emNZbmpRRzVBdWY1UGQ5dXFrWHhLdjdiSHJEd19GTWVzMVNsdW1vVWNTaHRDR29MNnRiRG1xUDZHbkI0UUQ4SG5Lb0hQQmdlQVBUbXM?oc=5",
-      "description": "OpenAIのAstraがゼロデイ 脆弱性を発見、サイバーセキュリティの能力がCriticalに達する&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "description": "OpenAIのGPT-6 Astraがゼロデイ 脆弱性を発見、サイバーセキュリティの能力がCriticalに達する&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-09-03T21:00:31.000Z"
     },
@@ -21,13 +56,6 @@
       "description": "シーイーシー、ランサムウェア攻撃の最終報 情報漏えい「なし」を確認、社内調査を完了&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-09-03T20:00:48.000Z"
-    },
-    {
-      "title": "ハッカーが脆弱なワードプレスサイトを攻撃、推定九千万サイトが危険にさらされる - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yU2lFNk9vUU0zRjVpMzIxcTFUQVRkejY4T0c1UEMzWmJNSkhOa3U5am9GOGF4X3YwVWd1TVdhd1h6eHZOMFlOdUlXN3N1ZG5TYXVHNldlbU11SFVBYVVOTTA1UGg5T3ZaZTJj?oc=5",
-      "description": "ハッカーが脆弱なワードプレスサイトを攻撃、推定九千万サイトが危険にさらされる&nbsp;&nbsp;Межа. Новини України.",
-      "source": "Межа. Новини України.",
-      "publishedAt": "2026-09-03T19:00:10.000Z"
     },
     {
       "title": "半導体製造装置メーカーにおけるCRA脆弱性報告義務への対応 - PwC",
@@ -42,34 +70,6 @@
       "description": "【参加無料】AIが「攻撃者」になる時代へ―「AIエージェント×ランサムウェア攻撃」9月14日開催&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-09-03T05:30:22.000Z"
-    },
-    {
-      "title": "情報漏えい防止のために、どのような対策が最も重要だと思いますか？ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yTkJNQjk1Qk01SG9Yb2E5aW5IMkdiT1ZOVnRlX2JCakRUX1pOaEJTeGNzTlV0Q3lRYmdfWVlWY0M1REZQMVczWXNYMkM?oc=5",
-      "description": "情報漏えい防止のために、どのような対策が最も重要だと思いますか？&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-03T05:15:59.000Z"
-    },
-    {
-      "title": "GMOサイバーセキュリティ byイエラエ、AIによる「実証型」脆弱性診断を提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWc0JmbnRxOWJWRjN0X0p3TEhfclZtQkx3X2hPeGRfd2d4S05MMHo2eFhYNDBlbTNPekc5ZlZsbTNNN3k3M2Z4a1hBeHFPN3hBdk1hSnByc1VZU050UUxIMFRNMkJkNzNHYlE?oc=5",
-      "description": "GMOサイバーセキュリティ byイエラエ、AIによる「実証型」脆弱性診断を提供開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-03T02:30:01.000Z"
-    },
-    {
-      "title": "FBIは、史上最大規模の機密情報漏洩事件を捜査している。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2dpTlU3QnRkWVNGM2FIMVh2a3ljU3dpa0tjRXVvbWFVbENzOV9GU2NvcC00dnE0S3JpREFvZGJyd1IyZXFlY1JqOUdRZFJtSmhYd0E2cUxreGNXb29yd1Z2U0Y4cjFmeHpVdEFzUjhxeGxvb3JodGhsR2lEVXBHc2pMY2QxUWxXMGdGaFVpWUdWUkd0bWN3?oc=5",
-      "description": "FBIは、史上最大規模の機密情報漏洩事件を捜査している。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-03T01:43:05.000Z"
-    },
-    {
-      "title": "「Linux」カーネルの脆弱性、攻撃で悪用を確認--修正済みだが多くが未適用 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0YmpvV3N5V0o5dk55UEZSVjJCYnhYTGZveWIzTUhiSXpwMndJc1FhQlFXTEdCbS1XdkdlWmk2VmdLOWRHWGFmaUNIYlg2LVlOSGNoV19DWDB4eUYwVG1Pa2txSXhvVm5RRDJPNVdsTGpQc3dLS24wdzRiR0hjZE0?oc=5",
-      "description": "「Linux」カーネルの脆弱性、攻撃で悪用を確認--修正済みだが多くが未適用&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-03T01:23:00.000Z"
     }
   ]
 }

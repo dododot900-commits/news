@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-04",
     "2026-09-03",
     "2026-09-02",
     "2026-09-01",
@@ -9073,7 +9074,418 @@
           "downCount": 0
         }
       ]
+    },
+    "2026-09-04": {
+      "date": "2026-09-04",
+      "generatedAt": "2026-09-04T00:35:10.165Z",
+      "stats": {
+        "new": 20,
+        "followup": 0,
+        "skipped": 40
+      },
+      "articles": [
+        {
+          "id": "security-1788482053084-0-0",
+          "title_en": "DAIKO NEXT LINK、旧大興ビジネスのメールシステム不正アクセスを最終報告 旧サーバー停止、個人情報流出は確認されず - 合同会社ロケットボーイズ",
+          "title": "DAIKO NEXT LINK、旧大興ビジネスのメールシステム不正アクセスに関する最終報告を発表",
+          "summary": "DAIKO NEXT LINKは、旧大興ビジネスのメールシステムに対する不正アクセス事案について最終報告を行いました。該当する旧サーバーはすでに停止されており、これまでに個人情報の流出は確認されていません。",
+          "importance": "高",
+          "keywords": [
+            "不正アクセス",
+            "メールシステム",
+            "個人情報"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "合同会社ロケットボーイズ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjlEdnpYRHJhSFZmTU45eEtma0ItVk4taGQ5LWdHWGNybmlESHVrLTVuUUIxQ2o2cTlwY3pQLTRoOU9NcmNqbVgzcUx2d0Zpb2xoWDdIUkFEWmRFdlIxRkNlNHBLZjhyVkEwbE11ZVUxQWx0cUhCRVU5ZkFlOWtJaHVOOGJpaU1KMmI4?oc=5",
+          "publishedAt": "2026-09-03T23:30:28.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1788482053085-0-1",
+          "title_en": "日本交通への不正アクセス、保有ファイルの一部が外部流出 - scan.netsecurity.ne.jp",
+          "title": "日本交通への不正アクセス、保有ファイルの一部が外部へ流出",
+          "summary": "日本交通のシステムが外部からの不正アクセスを受け、保有するファイルの一部��漏洩したことが判明しました。同社は影響範囲の特定や被害拡大防止に向けた調査と対応を進めています。",
+          "importance": "高",
+          "keywords": [
+            "不正アクセス",
+            "情報流出",
+            "日本交通"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "scan.netsecurity.ne.jp",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02QTQxTEMwZ09KMHpRVjRvMGpHdEY3aE5fOGR0ZWNWS0F4YzlsVUpSQTVrU01vRk1TTXQwckdZZ0U1a0lsQjFGMV9BdUEzcjhLSWUyNzZtOXhHOFB3dnhzT1FJUDlmbXdPa3hVeg?oc=5",
+          "publishedAt": "2026-09-03T23:05:20.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1788482053085-0-2",
+          "title_en": "メール配信システム「める配くん」の一部サーバに不正アクセス、配信先情報の一部が外部に取得されていた事実を確認 - scan.netsecurity.ne.jp",
+          "title": "メール配信システム「める配くん」に不正アクセス、配信先情報の一部が流出",
+          "summary": "メール配信サービス「める配くん」の一部サーバーが不正アクセスを受け、登録されている配信先情報の一部が外部に取得されたことが確認されました。運営会社は詳細な状況調査とセキュリティ強化を実施しています。",
+          "importance": "高",
+          "keywords": [
+            "不正アクセス",
+            "める配くん",
+            "情報流出"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "scan.netsecurity.ne.jp",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdkM2U292MWJNTFBUTnl4cUVYalVIdlM1TlRqM0c5U3BrbURCTEpyVW5pOGRqQzdKaVZZQUZCX2V0VXk1ajUtYXNrTklFbkh1b25fRVY0aE1aak1mamRCeXhWZGpmUU5leFdGaw?oc=5",
+          "publishedAt": "2026-09-03T23:05:09.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1788482053085-0-3",
+          "title_en": "東京都管工事工業協同組合ウェブサイトが改ざん、CMS の脆弱性を悪用 - scan.netsecurity.ne.jp",
+          "title": "東京都管工事工業協同組合のWebサイトが改ざん被害、CMSの脆弱性が原因",
+          "summary": "東京都管工事工業協同組合の公式ウェブサイトが不正アクセスにより改ざんされる被害が発生しました。Webサイト構築に使われていたCMSの脆弱性が悪用されたと見られています。",
+          "importance": "高",
+          "keywords": [
+            "Webサイト改ざん",
+            "CMS脆弱性",
+            "不正アクセス"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "scan.netsecurity.ne.jp",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HTGJxVXprVFhxU0NkRGU2RHd2U1JXMmVRdERKcnYwR1JUdnN4eTVITnBkczhLalZpT3FXLUtpZ2xDNVAzLV9hU0diNTNhSDlRT1BqZS0tYVJlU3hLanFoc19WYzBQUGlzVzkxeg?oc=5",
+          "publishedAt": "2026-09-03T23:05:05.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1788482053085-0-5",
+          "title_en": "テクバン、Zscalerの「DSAパートナー」認定を取得 - PR TIMES",
+          "title": "テクバンがZscalerの「DSAパートナー」認定を取得",
+          "summary": "システムインテグレーターのテクバンが、クラウドセキュリティ大手のZscalerから「DSAパートナー」認定を取得しました。これにより、同社はZscaler製品を活用したセキュリティソリューションの構築・提供体制を強化します。",
+          "importance": "中",
+          "keywords": [
+            "テクバン",
+            "Zscaler",
+            "パートナー認定"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVW1uZ2xxczBUTWdxdW52TENwVjdZX2lLaWJKQlB0MGtXUEwyUmE2Tmlwdkx6QldZb2FoZkF5cDY4Qm1DRlBKX2lIMTNwa2ZHeXlCQkh1TDJ6MnRiMEpDVC1Rd1JFZk5lZUE?oc=5",
+          "publishedAt": "2026-09-04T00:00:02.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1788482053085-0-6",
+          "title_en": "【Zscaler 2026年第4四半期決算説明会】AIセキュリティ受注が50%急増、オーガニック純新規ARR成長率が17%に加速し株価上昇 - finance.biggo.jp",
+          "title": "Zscaler決算発表：AIセキュリティ受注が50%急増、業績加速で株価上昇",
+          "summary": "Zscalerの決算説明会において、AIセキュリティ関連の受注が前年同期比で50%急増したことが発表されま��た。新規ARR成長率も17%に加速し、市場の好評価を受けて株価が上昇しています。",
+          "importance": "中",
+          "keywords": [
+            "Zscaler",
+            "AIセキュリティ",
+            "決算発表"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "finance.biggo.jp",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIdXR6MmNyaWwzazRHaEE0MlN6N3dhUTN5ME1GUGdlY0pWN2FSS3UzdmNCVjhXcDJxN0pkbUtlYWphY0RBcnM5c0hkUmNORzZpV281cTkxeDJUUQ?oc=5",
+          "publishedAt": "2026-09-03T22:54:00.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1788482096376-1-0",
+          "title_en": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - thinkit.co.jp",
+          "title": "三菱UFJ銀行など4社、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結",
+          "summary": "三菱UFJ銀行、三菱UFJインフォメーションテクノロジー、レッドハット、日本IBMの4社が戦略的パートナーシップを締結しました。AI駆動型開発を活用し、金融システムの変革とエンジニアリング業務の効率化を目指します。",
+          "importance": "中",
+          "keywords": [
+            "AI駆動型開発",
+            "金融システム",
+            "パートナーシップ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "thinkit.co.jp",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+          "publishedAt": "2026-08-29T17:54:55.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "cloud-1788482096376-1-3",
+          "title_en": "ChatGPT、Claude、Grokのいずれも問題が発生した。 - Vietnam.vn",
+          "title": "ChatGPT、Claude、Grokの主要AIサービスで障害が発生",
+          "summary": "ChatGPT、Claude、Grokといった複数の主要生成AIサービスにおいて問題が発生しました。主要プラットフォームでの不具合により、広範囲の利用者に影響が及びました。",
+          "importance": "高",
+          "keywords": [
+            "大規模障害",
+            "生成AI",
+            "サービス障害"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XNUdDT3NDZmdOLXdfWnJLOXpIQ0FUVl9jc041b3VCMnc4eUhlV2dKa1VoUFRDdlZQWkR1d2ZKMnpFR3dnOEtMOGdZWnppaDg3U1Jla2VxckM1OENHYlJKbm9RYk5NcTdaN0lrcXNzZXZrZkFRaGkw?oc=5",
+          "publishedAt": "2026-09-03T23:20:09.000Z",
+          "topic": "cloud",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1788482096376-1-4",
+          "title_en": "「SD-WAN」採用企業が2020年までに6割を超える？ その理由は（画像） - TechTargetジャパン",
+          "title": "SD-WAN採用企業が2020年までに6割を超える見込みとその理由",
+          "summary": "企業ネットワー��におけるSD-WANの採用率が急増し、2020年までに6割を超えるとの予測が示されました。クラウド利用の拡大や運用コストの削減が導入を後押ししています。",
+          "importance": "中",
+          "keywords": [
+            "SD-WAN",
+            "ネットワーク",
+            "ITインフラ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "TechTargetジャパン",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNG0tMTNSNVNpaHdQZGd6M0RCZzQzNXBlaEdZUGJjWFdYX3N6cmV0ZUNjM3lUZ2prMlM1cUgtV3paVEtTVUJjT3oyWGY2RDFjc0Ytc0ZZdEtvNjZLcTQxc2NmWDdzVVA3dE9zUWFiU1pyX2NoRWZzVFp0WHVSTjRWRg?oc=5",
+          "publishedAt": "2026-08-29T04:20:13.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1788482096376-1-5",
+          "title_en": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - Excite エキサイト",
+          "title": "ソディックのサーバへの不正アクセス最終報告：機器の脆弱性を悪用、情報流出なし",
+          "summary": "ソディックは自社サーバへの不正アクセスに関する最終報告を公開しました。ネットワーク機器の脆弱性が悪用されたものの、詳細調査の結果、情報流出の痕跡は確認されませんでした。",
+          "importance": "高",
+          "keywords": [
+            "不正アクセス",
+            "脆弱性",
+            "サイバー攻撃"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Excite エキサイト",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtSEVmV0F5bGU1ZDdseFYwSW1uOVRSaUtKUmpCN3NYOHdZcnJsX3I1dU90RTF0VVZkRXVGT3prN09nREZCak5jTVR6dGtZNjlZX0RPdS02NmVlYms1T2NRX2tEOXc2RmRkMXVXLWRtdkhpQzJneGRB?oc=5",
+          "publishedAt": "2026-08-23T23:05:00.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1788482096376-1-6",
+          "title_en": "Palo Alto Networks Jumped Almost 6% in a Day as AI Hacking Fears Spiked. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+          "title": "AIハッキング懸念の高まりでパロアルトネットワークス株が急騰、2026年の見通し",
+          "summary": "AIを用いたサイバー攻撃への脅威が高まったことを受け、パロアルトネットワークスの株価が1日で約6%急騰しました。AI時代のセキュリティ需要拡大を見据えた2026年に向けた株価見通しが分析されています。",
+          "importance": "中",
+          "keywords": [
+            "パロアルトネットワークス",
+            "AIハッキング",
+            "サイバーセキュリティ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHRjVzRJOFl4bzNycFNvZFlYX05ZaTNTMFZuaU5nSkhZRGdMYjIwcVZsZWxrdnVrOWN6SnhBTmo3Z2ZSUzVNQlRoZVFqWENpcTFHUFh1RnRNVF96Ykp2ZTZXaWl2d25xcXozbFNaSHNNRFBNNktBMVhVUWdNWVYtSURuVGlmYU5SdnBlRHFJYWNFaEt3dnNjR3VtaFhRcWQ3TmJoREgyOXJKSGtMa0xTQTZQRTljRm9PY21XUC15ckNGS2dQYWp3N1hkOW1tRm1rT2FHTQ?oc=5",
+          "publishedAt": "2026-08-11T07:00:00.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1788482110165-2-0",
+          "title_en": "「GMOトラスト・ログイン」、 導入SaaSの管理と統制を支援する「台帳機能」をリリース - GMOインターネットグループ株式会社",
+          "title": "「GMOトラスト・ログイン」、導入SaaSの管理と統制を支援する「台帳機能」をリリース - GMOインターネットグループ株式会社",
+          "summary": "GMOインターネットグループが提供するシングルサインオンサービス「GMOトラスト・ログイン」において、企業が導入しているSaaSを一括管理・統制できる「台帳機能」が追加されました。これにより、シャドーITの把握や情報セキュリティガバナンスの強化が容易になります。",
+          "importance": "中",
+          "keywords": [
+            "GMOトラスト・ログイン",
+            "SaaS管理",
+            "ガバナンス"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "GMOインターネットグループ株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xbXVEZFBqcnRzMjE3N1hVdm5RZzZfc2dWenhQVDVaQWFLX2ZvSlRWenY0NWQxMF9veUxrNk4wZTJoWlN6dG84cWttS1c4UQ?oc=5",
+          "publishedAt": "2026-08-26T02:38:30.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1788482110165-2-1",
+          "title_en": "リホストを選ぶ企業は63％　モダナイゼーションの「第一歩」のはずが、なぜ終着点に変わるのか？ - Infoseek",
+          "title": "リホストを選ぶ企業は63％ モダナイゼーションの「第���歩」のはずが、なぜ終着点に変わるのか？ - Infoseek",
+          "summary": "レガシーシステムのモダナイゼーションにおいて、移行企業の63％が既存構成を維持したままクラウドへ移行する「リホスト」を選択している実態を解説しています。本質的なシステム刷新への第一歩であるはずのリホストが、なぜそのままプロジェクトの終着点となってしまうのかという業界の課題を掘り下げています。",
+          "importance": "中",
+          "keywords": [
+            "モダナイゼーション",
+            "リホスト",
+            "クラウド移行"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zeUMta2VmT01HclEtQ1VxQ1QxcEc2dEdnanRkRGREX0tmbnhna1JmeWV5dkdNRUVhOXp4dDZFYnhqLUlQUW0tYTd0d1VUdUZyM2h5NGJ0ZFpvN0gwcVNBTnA3T3F1bGNNMnlmMm5sVXFlN3dBcGfSAXtBVV95cUxPeHM1ems1WUlsN1FRLXFPTHlQQWJQZTNabWZ4OHh1dEsyZnp6WUJQZlhBc2NCUjc1M1VPMVB3NkUzemZtZnMyNVBWSkozREV4bGdGZWFGRjJVTjl2T0ZTWHdsdWN0ZTNUMkZsQzRqaTR1cnBWM0RRbHBybGM?oc=5",
+          "publishedAt": "2026-08-07T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1788482110165-2-3",
+          "title_en": "Wealthy Design、地方企業向けオンラインIT顧問を開始。AI・AWS・Web・業務システムの相談をオンラインで継続支援 - PR TIMES",
+          "title": "Wealthy Design、地方企業向けオンラインIT顧問を開始。AI・AWS・Web・業務システムの相談をオンラインで継続支援 - PR TIMES",
+          "summary": "Wealthy Designが地方企業を対象に、AIやAWS、業務システム開発などの課題解決を支援する「オンラインIT顧問」サービスを開始しました。IT人材が不足する地方企業に対し、専門家がオンラインで継続的な相談や技術導入を後押しします。",
+          "importance": "中",
+          "keywords": [
+            "IT顧問",
+            "地方企業",
+            "AWS"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaXRrY204WHVkdlJscGdMZW9wSXV6S1RHN2pyVGNkSkRUM2d6S1VqQjAxSy1kNTI5dFh3bjJTdTJrSEtCQWtqTl9zVmw0R2hnQ25rY096X3dtbWhkQ2RYRkJSN3V0bVVwcFE?oc=5",
+          "publishedAt": "2026-07-30T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1788482053085-0-4",
+          "title_en": "SNS投稿やPTAの個人情報も！組織がセキュリティインシデントを招く要因とは？ - @DIME アットダイム",
+          "title": "SNS投稿やPTAの個人情報リスクから探る、組織がセキュリティインシデントを招く要因",
+          "summary": "SNSへの不適切な投稿やPTA活動における個人情報管理など、身近なリスクから組織のインシデント要因を解説する記事です。管理体制の不備やヒューマンエラーが重大な事故につながる背景を分析しています。",
+          "importance": "低",
+          "keywords": [
+            "セキュリティインシデント",
+            "個人情報管理",
+            "組織リスク"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "@DIME アットダイム",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JRDVYYzlPQlRYcEw1eWYzcjljbXBpMFhvcmtoSnFhWHNILVJLbDlJdi1XQm56cWVaa2F2a1ZvRXo1Wm5r?oc=5",
+          "publishedAt": "2026-09-03T23:03:27.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1788482053085-0-7",
+          "title_en": "クラウドストライク・ホールディングス【CRWD】：株価・株式情報 - Yahoo!ファイナンス",
+          "title": "クラウドストライク・ホールディングス【CRWD】の株価・株式情報",
+          "summary": "大手サイバーセキュリティ企業であるクラウドストライク・ホールディングス（CRWD）の株価および株式情報ページです。市場での最新の取引状況や関連する財務データを提供しています。",
+          "importance": "低",
+          "keywords": [
+            "クラウドストライク",
+            "株価情報",
+            "米国株"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Q0J5N015STRnODNqYTJtWDg5ZnhfaHFnYUJza1U4S3dXVUVFZkp1UEhESjdyS2VLRVNsaGtlbkJyMUViY21WWm8yNUF6dXM?oc=5",
+          "publishedAt": "2026-09-03T21:38:49.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1788482096376-1-1",
+          "title_en": "【最新調査】生成AI導入率が44％に倍増？それでも活用が進まない“5つの業務”(2/2) - sbbit.jp",
+          "title": "【最新調査】生成AI導入率は44％に倍増も、活用が進まない「5つの業務」とは",
+          "summary": "企業の生成AI導入率が44％と倍増したことが最新調査で明らかになりました。しかし、導入が進む一方で、依然として活用が進まない5つの業務分野が存在することが示されています。",
+          "importance": "低",
+          "keywords": [
+            "生成AI",
+            "導入率",
+            "業務活用"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "sbbit.jp",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQkhEMmdMZlF0aW5FVkpXekI4QkdiSHhFbGJGdDJTaVZUTlB5MHlBWWJuVU9ET2tRclV6cVJ6YnEtQlV3ZEhTeVZWMkhaY2hWNzhWWGsyTmdaVlZN?oc=5",
+          "publishedAt": "2026-08-25T21:10:00.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1788482096376-1-2",
+          "title_en": "令和8年版 情報通信白書｜生成AIの活用方針等 - soumu.go.jp",
+          "title": "令和8年版 情報通信白書における生成AIの活用方針",
+          "summary": "総務省の令和8年版情報通信白書において、生成AIの活用方針や今後の展望が示されました。社会全体でのデジタル化推進に向けたAI利活用の方向性や課題がまとめられています。",
+          "importance": "低",
+          "keywords": [
+            "情報通信白書",
+            "生成AI",
+            "総務省"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "soumu.go.jp",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTJkUWh3S1NEMTRpbGJ2Y0c0WC1DX1dZdUY1c21uTDNaWWFzQ1FraDM4SHdod19zQmlLY3k1NTlDRjZMVTFpY0l0Zndfd0ZxUDk1UkF6alVkTzA0a1NvN1Q2R2NmSHJvS1M2ZlduMlVrRFU2MWRWMjBBWDY1NUt0ZUtn?oc=5",
+          "publishedAt": "2026-08-25T10:19:48.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1788482096376-1-7",
+          "title_en": "Web アプリケーション ファイア���ォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
+          "title": "Webアプリケーションファイアウォール（WAF）市場規模・シェア予測（2026年〜2034年）",
+          "summary": "Webアプリケーションファイアウォール（WAF）市場に関する2026年から2034年までの予測レポートが発表されました。サイバー攻撃の増加に伴い、セキュリティ対策需要が高まることでWAF市場の継続的な成長が見込まれています。",
+          "importance": "低",
+          "keywords": [
+            "WAF",
+            "市場予測",
+            "サイバーセキュリティ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Fortune Business Insights",
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
+          "publishedAt": "2026-08-10T07:00:00.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1788482110165-2-2",
+          "title_en": "日本企業のDXやAI活用の最新動向を解説「DX動向2026説明会」ウェビナー開催のお知らせ - ipa.go.jp",
+          "title": "日本企業のDXやAI活用の最新動向を解説「DX動向2026説明会」ウェビナー開催のお知らせ - ipa.go.jp",
+          "summary": "IPA（情報処理推進機構）が、日本企業におけるデジタルトランスフォーメーション（DX）やAI活用の最新状況を解説する「DX動向2026説明会」ウェビナーの開催を発表しました。調査・分析に基づく最新の傾向や課題が紹介される予定です。",
+          "importance": "低",
+          "keywords": [
+            "DX",
+            "AI活用",
+            "IPA"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ipa.go.jp",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BRk5fYUdVQzZJRmF6QWFSdWxhWGo1bHRmWF9RYTRoX0ZWOHZmaXBkbGRuamctWHZ2akNWa2drVmVCTjZYWVoyZDdMeWhJby1leFFiWWkyQ3F5UQ?oc=5",
+          "publishedAt": "2026-08-04T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        }
+      ]
     }
   },
-  "lastUpdated": "2026-09-03T22:56:01.161Z"
+  "lastUpdated": "2026-09-04T00:35:10.165Z"
 }
