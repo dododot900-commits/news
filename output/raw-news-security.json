@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "DAIKO NEXT LINK、旧大興ビジネスのメールシステム不正アクセスを最終報告 旧サーバー停止、個人情報流出は確認されず - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjlEdnpYRHJhSFZmTU45eEtma0ItVk4taGQ5LWdHWGNybmlESHVrLTVuUUIxQ2o2cTlwY3pQLTRoOU9NcmNqbVgzcUx2d0Zpb2xoWDdIUkFEWmRFdlIxRkNlNHBLZjhyVkEwbE11ZVUxQWx0cUhCRVU5ZkFlOWtJaHVOOGJpaU1KMmI4?oc=5",
-      "description": "DAIKO NEXT LINK、旧大興ビジネスのメールシステム���正アクセスを最終報告 旧サーバー停止、個人情報流出は確認されず&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "Lenovoログインの欠陥で5000件のDropboxアカウントがパスワードなしで開く - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMENiR1NXdk14dEhNbmM2MEJacnZjeHp1MXh6YWpwUzJoTlpfUkpMcU9IblNqeEFCTndNNUU3bDhXMkprLVN1TFZQYnp5bHpTRS1YclpTQUpTemZaSjRJMDkxU2lWeDJrNkNVSmV4NWtGSnhNVjBiZ2pzVQ?oc=5",
+      "description": "Lenovoログインの欠陥で5000件のDropboxアカウントがパスワードなしで開く&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-04T22:39:36.000Z"
+    },
+    {
+      "title": "DokuWiki に深刻な RCE の脆弱性、過去十年のバージョンが影響を受け早急なパッチが必要 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeU9LSXFFNl90ZWFEOFFqeXU2bnlaTmxfN3dIZmEtYUJlbVhTY1ZkZ3NrSFZPSElzdV8tOHNIckZtTXFKZmhvRWdMcjNqakVjOHgxSDlFYVdJVGFnQVRaYkZyck0yZlc1Z0Njd0JnVl9EQnU5MDVaOEx1SGd3UQ?oc=5",
+      "description": "DokuWiki に深刻な RCE の脆弱性、過去十年のバージョンが影響を受け早急なパッチが必要&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-04T22:39:10.000Z"
+    },
+    {
+      "title": "トレザーのデータ侵害が拡大：物流会社シップモンク経由で米国顧客6万7000人分の情報が新���に流出 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vWjJMbkhuZkh0TzNmWkIwMVJMU0RaYzNRdFpiZTVoanJ2OEJGc3pPSTlrd1RWajgtUldGMUlNdkRnUVN1RkNtYzVsLUFIREticEtZMTFOY01pemdpNE44YkR3OFJnS19Dc3BnZnJocVNBd1dG?oc=5",
+      "description": "トレザーのデータ侵害が拡大：物流会社シップモンク経由で米国顧客6万7000人分の情報が新たに流出&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-09-04T12:28:59.000Z"
+    },
+    {
+      "title": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VUmZwb2oxOUJFc056ejF0NFhCRkZGYnpTWkNMUWREM1duT0RDOW1pcW5DUk5fMTFNdEl3VGN3MHJrSzlETy1FMWJlRjB4OXR1em1EdGRURFZOTndLSHY4SWFQeVJOa0Rua0dCMlVuWW5vc1NYaXdvX3VTaFFTSjA?oc=5",
+      "description": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-04T06:19:00.000Z"
+    },
+    {
+      "title": "OpenAIはサイバー防御者に10億ドルを誓約するも、ビットコインとイーサリアムはリストに含まれず - coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUUJpeFhnS3YzX3R3VjJnV2ZWbXJYdTNERHc5MEhtcXFnTnZ4YTg5RUs5MHhKNzJtVFpzY29iQjRhV0sxVW91TTNaMmJuRVNqQVZzd3AtMHhvWHBBWkdnR09QbFJOeHo1Ri1qUnZjWnRmOWZhVkFEQzZRdUlRNnREanppOWRJVXZnV2hsUWlfbTBJdndLMWJVS09tZ09HdDhRazJ5c19vdzNpNXdOQ0ZoNzdYakliZVpPay1pdTYxZjVfMXpncGlUaTRBMGs?oc=5",
+      "description": "OpenAIはサイバー防御者に10億ドルを誓約するも、ビットコインとイ���サリアムはリストに含まれず&nbsp;&nbsp;coindesk.com",
+      "source": "coindesk.com",
+      "publishedAt": "2026-09-04T06:07:24.000Z"
+    },
+    {
+      "title": "シリコン・モーショ���、EUサイバーレジリエンス法の初期段階を無事達成に成功 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmg3YWp3SDJSSUgxbFM5emVvcTN1cWtyeXRXWThqM1BDQ245V1ZoRVF2SVZvM2h3NlBYX1ZDNW55bzhXWl92NGtMVmZQOXVxbkV5Wk1kZk9CNUltY0k4amNlQVJqWGxkLWZ5R1dDWEg5ejJQQXRqS2lNdXZkekE3R0h3?oc=5",
+      "description": "シリコン・モーション、EUサイバーレジリエンス法の初期段階を無事達成に成功&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-09-04T06:05:31.000Z"
+    },
+    {
+      "title": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52ZXExNHNoeDV1dGpnLTdrOVBJR3JMZzA2cHhkeUJDeTB6YXpaWG5NYzdlZTNxUGRPVmpYa0pQbnRHZXl5TzZsN0l4cEU4NjVoYWdEWk1Md3pQVFpxT3dXZDlMbWs4Rnc?oc=5",
+      "description": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-09-04T05:19:00.000Z"
+    },
+    {
+      "title": "クオリティア、AI×特許技術でメールセキュリティを再設計 「ブラックURL検知」「ドメインAI判定」「QUALITIA MAIL SS」を発表、村上社長に戦略を聞く|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0lfazExV25hLXR1UF9aWXU1MjhNUzZ3QVVFTElfUF93R3hvNHdZaEJ2ZEtSOVlDVkowQ0k5UmEtb2ViVU1UNE44dUQ4d3pzeHBRVEtCMUdpWlVYaEtRSTdrMEJHSy1zOFhxYUxqU3E4RWFURFJZenpoZXRoZnZXR1FZZU1CSTVFN2pqZi1Xa1pRQQ?oc=5",
+      "description": "クオリティア、AI×特許技術でメールセキュリティを再設計 「ブラックURL検知」「ドメインAI判定」「QUALITIA MAIL SS」を発表、村上社長に戦略を聞く|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-03T23:30:28.000Z"
+      "publishedAt": "2026-09-04T04:51:50.000Z"
     },
     {
-      "title": "日本交通への不正アクセス、保有ファイルの一部が外部流出 - scan.netsecurity.ne.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02QTQxTEMwZ09KMHpRVjRvMGpHdEY3aE5fOGR0ZWNWS0F4YzlsVUpSQTVrU01vRk1TTXQwckdZZ0U1a0lsQjFGMV9BdUEzcjhLSWUyNzZtOXhHOFB3dnhzT1FJUDlmbXdPa3hVeg?oc=5",
-      "description": "日本交通への不正アクセス、保有ファイルの一部が外部流出&nbsp;&nbsp;scan.netsecurity.ne.jp",
-      "source": "scan.netsecurity.ne.jp",
-      "publishedAt": "2026-09-03T23:05:20.000Z"
+      "title": "セキュアイノベーション、「なぜ脆弱性は見逃されるのか？」を事例で解説するセミナーアーカイブ動画を公開 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEeFdoSkVuSkx5eEpiNEs4eDNQSDVYVG5qZjZqMUg1Rk9PUkFna0lva1NNeXlNQ1RwblFmYzN1a3FtWlRCQlVuMnh6V2owbktCNEoydVdySDduU2lWQVNCV3ctUmIwazJ1NWJJRTJRODY4Rzh0SzJVQS1Law?oc=5",
+      "description": "セキュアイノベーション、「なぜ脆弱性は見逃されるのか？」を事例で解説するセミナーアーカイブ動画を公開&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-09-04T04:03:18.000Z"
     },
     {
-      "title": "メール配信システム「める配くん」の一部サーバに不正アクセス、配信先情報の一部が外部に取得されていた事実を確認 - scan.netsecurity.ne.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdkM2U292MWJNTFBUTnl4cUVYalVIdlM1TlRqM0c5U3BrbURCTEpyVW5pOGRqQzdKaVZZQUZCX2V0VXk1ajUtYXNrTklFbkh1b25fRVY0aE1aak1mamRCeXhWZGpmUU5leFdGaw?oc=5",
-      "description": "メール配信システム「める配くん」の一部サーバに不正アクセス、配信先情報の一部が外部に取得されていた事実を確認&nbsp;&nbsp;scan.netsecurity.ne.jp",
-      "source": "scan.netsecurity.ne.jp",
-      "publishedAt": "2026-09-03T23:05:09.000Z"
-    },
-    {
-      "title": "東京都管工事工業協同組合ウェブサイトが改ざん、CMS の脆弱性を悪用 - scan.netsecurity.ne.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HTGJxVXprVFhxU0NkRGU2RHd2U1JXMmVRdERKcnYwR1JUdnN4eTVITnBkczhLalZpT3FXLUtpZ2xDNVAzLV9hU0diNTNhSDlRT1BqZS0tYVJlU3hLanFoc19WYzBQUGlzVzkxeg?oc=5",
-      "description": "東京都管工事工業協同組合ウェブサイトが改ざん、CMS の脆弱性を悪用&nbsp;&nbsp;scan.netsecurity.ne.jp",
-      "source": "scan.netsecurity.ne.jp",
-      "publishedAt": "2026-09-03T23:05:05.000Z"
-    },
-    {
-      "title": "SNS投稿やPTAの個人情報も！組織がセキュリティインシデントを招く要因とは？ - @DIME アットダイム",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JRDVYYzlPQlRYcEw1eWYzcjljbXBpMFhvcmtoSnFhWHNILVJLbDlJdi1XQm56cWVaa2F2a1ZvRXo1Wm5r?oc=5",
-      "description": "SNS投稿やPTAの個人情報も！組織がセキュリティインシデントを招く要因とは？&nbsp;&nbsp;@DIME アットダイム",
-      "source": "@DIME アットダイム",
-      "publishedAt": "2026-09-03T23:03:27.000Z"
-    },
-    {
-      "title": "個人情報保護委員会、第1四半期に141件を指導 ランサムウェア15件、VPN脆弱性放置や弱い認証を問題視 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mcGJnRG55MjdoZHIzeGdMdkVlLW5FVDlEUjktWnRhODRqbU5tS2tJNG1UMnAtYlo3UDBJY3dBSDE5TlBrbkppU29PVlg3TEJtbFh5VHpKRXFtVGRXdWtzZVhzdXhBNEVFMWhkTnhscGY0OTh5OXFRSmVBZGJRQQ?oc=5",
-      "description": "個人情報保護委員会、第1四半期に141件を指導 ランサムウェア15件、VPN脆弱性放置や弱い認証を問題視&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "英国 マンチェスター空港へのサイバー攻撃でハッカー グループが犯行声明|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY2ZnSTRYUE44aFNWOEtpQzNOM3hsMEw4RlZaSGdOUDQ4b3ZuTjJucTZaeC1GcG85Tk9uVEVONl9aMVJoOUk0bzZvckhPSjRSMFZWeU91dThwVWlya19MQ2ZzZ3VrZEF4Tkttb3l1aTMyQjJmYjVkNkZwX0xSZ1d5akVkSGpDcWZuM0FhRTdkRHI?oc=5",
+      "description": "英国 マンチェスター空港へのサイバー攻撃でハッカー グループが犯行声明|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-03T22:00:40.000Z"
-    },
-    {
-      "title": "OpenAIのGPT-6 Astraがゼロデイ 脆弱性を発見、サイバーセキュリティの能力がCriticalに達する - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFM4dHFLaC1admZrWGRLX1lvQlhjQjBmem1hMEVoelBlZkNJdzhnRTJQaENrMTdiYy03emNZbmpRRzVBdWY1UGQ5dXFrWHhLdjdiSHJEd19GTWVzMVNsdW1vVWNTaHRDR29MNnRiRG1xUDZHbkI0UUQ4SG5Lb0hQQmdlQVBUbXM?oc=5",
-      "description": "OpenAIのGPT-6 Astraがゼロデイ 脆弱性を発見、サイバーセキュリティの能力がCriticalに達する&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-03T21:00:31.000Z"
-    },
-    {
-      "title": "シーイーシー、ランサムウェア攻撃の最終報 情報漏えい「なし」を確認、社内調査を完了 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HbjVzZmUtTlVNd0Nxa1RVOEFqMVFxYWRWd3RDcXVzQi1kX2FGWEJkdFBEeDBleEN1QzNoYlZNbUtPd2pkLUVzR0Z0MTJLYmtvWi1JcE0xVnBZS3JjbDJYUHBxb0Fwclhhd1ZDOXJ3Sk5PQUNCYWpBbU50blgtQQ?oc=5",
-      "description": "シーイーシー、ランサムウェア攻撃の最終報 情報漏えい「なし」を確認、社内調査を完了&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-03T20:00:48.000Z"
-    },
-    {
-      "title": "半導体製造装置メーカーにおけるCRA脆弱性報告義務への対応 - PwC",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGdOcHE4X29ON211VndkZmRhZlJ0ZFN3Wk4wWl9oRFY3YzF1azFkcnBsVkg2M1dRVVlNWV9ydEx3WUVBU01oOHU5SFFMZXFlb2ZjZU94Mk9xZlRKeFN6dDhsN0MzcDZfbEpUOHBFU1ZVT3ZMM1lpWHdOWHRLN0VKQ2NYQUEzRkFiOGt5U0tNNXp0WWUxU2lTOE1fX2xRNUo3MExwTk9wWU52WDNGTGRlNm4wcmJFNTFtVlZ5aHJ6RHI2Y0hyNzdieHFyVkRoaEJkWnkyeDRteFNha0xDWU1lYTRR?oc=5",
-      "description": "半導体製造装置メーカーにおけるCRA脆弱性報告義務への対応&nbsp;&nbsp;PwC",
-      "source": "PwC",
-      "publishedAt": "2026-09-03T08:54:05.000Z"
-    },
-    {
-      "title": "【参加無料】AIが「攻撃者」になる時代へ―「AIエージェント×ランサムウェア攻撃」9月14日開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wams4aXU5YzBEUW5lSVpXdlZDZkY5eW12ZF9JbVdkVllrUXdLb1M3N1FuTkxENzlTOHJFTHI4WGNUY3V6TXhtd2NqNWtrcEFYRERpNERndXh0VXlwaHhVYXQ0Umd5ZllZRXc?oc=5",
-      "description": "【参加無料】AIが「攻撃者」になる時代へ―「AIエージェント×ランサムウェア攻撃」9月14日開催&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-03T05:30:22.000Z"
+      "publishedAt": "2026-09-04T04:00:30.000Z"
     }
   ]
 }
