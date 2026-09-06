@@ -2,46 +2,67 @@
   "topic": "security",
   "articles": [
     {
-      "title": "Lenovoログインの欠陥で5000件のDropboxアカウントがパスワードなしで開く - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMENiR1NXdk14dEhNbmM2MEJacnZjeHp1MXh6YWpwUzJoTlpfUkpMcU9IblNqeEFCTndNNUU3bDhXMkprLVN1TFZQYnp5bHpTRS1YclpTQUpTemZaSjRJMDkxU2lWeDJrNkNVSmV4NWtGSnhNVjBiZ2pzVQ?oc=5",
-      "description": "Lenovoログインの欠陥で5000件のDropboxアカウントがパスワードなしで開く&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-09-04T22:39:36.000Z"
+      "title": "名鉄協商、不正アクセスでゴントランシェリエのEC利用者の個人情報漏洩のおそれ 配送先の氏名・住所・電話番号が対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDU1cjM5UExxLTg3MHRqb1MxTXdYX3c1SjlUWllfNTA0WEhMblppeGFWUHpzZzJZQjNNQUxMZkVuRHQ4TW9QelVaRXVnV1lfek5vOTBRd1FHNnBPbHZsUmJIUEdCNEY4X0FUaC1zX3QxWkJ3MGFJQ3dSejVkWW5hamFkUXBjZEJfTVNiOUF6MXNRQQ?oc=5",
+      "description": "名鉄協商、不正アクセスでゴントランシェリエのEC利用者の個人情報漏洩のおそれ 配送先の氏名・住所・電話番号が対象&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-06T00:00:31.000Z"
     },
     {
-      "title": "DokuWiki に深刻な RCE の脆弱性、過去十年のバージョンが影響を受け早急なパッチが必要 - Pasquale Pillitteri",
+      "title": "Cloudflare、OpenAIモデル活用の脆弱性検出サービスを早期提供 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHd2WVJMUGVrQ0JFa2ViUm1SWDZQV0QzdHJKZDBUMHJQeE40b3JPc3pGUFIxOWROejJUaWZiYjR2MW4wbzh3V3dLUTd1NTBRSF8xQl9xcG15SHZ4eC1ESjJvT1RLZEFuTWhOX2VaQlpxUjVSQVp0bENocTFaLWxYaU9kYnBoOTR5UHh2SkRDX2JBXzY4NGh1dFZYRGVHanpmSXJ2X3VKT21iekdDU25lUHJFcWpka3lWTEgyV1FuSXpNQmc?oc=5",
+      "description": "Cloudflare、OpenAIモデル活用の脆弱性検出サービスを早期提供&nbsp;&nbsp;디지털투데이",
+      "source": "디지털투데이",
+      "publishedAt": "2026-09-05T22:14:21.000Z"
+    },
+    {
+      "title": "ベルリンはサイバー攻撃を受け、セキュリティデータと重要インフラが漏洩した。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzVJdDdNYkJIY1REdDc0LVJ1VG9WNXMwXzNhY0pIX015cGJWS0lJc2VfZDliVnFpaDJVamVwWmdVOUt3WUxHcEtCOEV4S2hwWjBWTFF5RHFGLXpsZ3l4dnE2OS1pdktrbEg5cVhKZnJiQnllOUlrWFBBR2lJdTBBWVZlVXh2eXBVek04c0hpeHB5dEJ0UVM0?oc=5",
+      "description": "ベルリンはサイバー攻撃を受け、セキュリティデータと重要インフラが漏洩した。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-05T12:42:43.000Z"
+    },
+    {
+      "title": "鳥取県の環境放射線モニタリングシステムにランサムウェア攻撃、副監視局で監視は継続 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fcjFRZ2FIczdRcFFuenZMVWtjSUF0MlRTbGRBR09zTVNQV3RqWTVZRzVaakh3WFNyTUQ2R0ZERzFCemQ1ak5IVHd6bkVRSXNPaXBfUHo1bjdhMU9qWkIyQTB6ZlQ3TFpENEpSMDhaZm1CQlU?oc=5",
+      "description": "鳥取県の環境放射線モニタリングシステムにランサムウェア攻撃、副監視局で監視は継続&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-09-05T10:16:55.000Z"
+    },
+    {
+      "title": "GPT-6 Astraは、重大なセキュリティ脆弱性を独自に検出できる能力を備え、AI競争に参入した。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3gzOFVWV1o2RWVfazBzaEtVUlcybU5Va0FXakh6VFpwaUR1TlNDT21Ja01xd2lZcWx6YmlTOUotNW4zZTk4eFQzZ3BQaGt3V2FUeF91NEhfMFc0SDczRDd1a0pTZkVJX0pMQm5lR1NUVU1LWHAzTkFXSTZuMUV6QkpOS3h5ajE1bklpMElUbVA2bjFwbE9LODdtRldPM1dZZHpXbVVJSi1oMDg?oc=5",
+      "description": "GPT-6 Astraは、重大なセキュリティ脆弱性を独自に検出できる能力を備え、AI競争に参入した。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-05T03:05:06.000Z"
+    },
+    {
+      "title": "DokuWiki に深刻な RCE の脆弱性、過去十年のバージョ���が影響を受け早急なパッチが必要 - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeU9LSXFFNl90ZWFEOFFqeXU2bnlaTmxfN3dIZmEtYUJlbVhTY1ZkZ3NrSFZPSElzdV8tOHNIckZtTXFKZmhvRWdMcjNqakVjOHgxSDlFYVdJVGFnQVRaYkZyck0yZlc1Z0Njd0JnVl9EQnU5MDVaOEx1SGd3UQ?oc=5",
       "description": "DokuWiki に深刻な RCE の脆弱性、過去十年のバージョンが影響を受け早急なパッチが必要&nbsp;&nbsp;Pasquale Pillitteri",
       "source": "Pasquale Pillitteri",
       "publishedAt": "2026-09-04T22:39:10.000Z"
     },
     {
-      "title": "トレザーのデータ侵害が拡大：物流会社シップモンク経由で米国顧客6万7000人分の情報が新���に流出 - BigGo ファイナンス",
+      "title": "トレザーのデータ侵害が拡大：物流会社シップモンク経由で米国顧客6万7000人分の情報が新たに流出 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vWjJMbkhuZkh0TzNmWkIwMVJMU0RaYzNRdFpiZTVoanJ2OEJGc3pPSTlrd1RWajgtUldGMUlNdkRnUVN1RkNtYzVsLUFIREticEtZMTFOY01pemdpNE44YkR3OFJnS19Dc3BnZnJocVNBd1dG?oc=5",
       "description": "トレザーのデータ侵害が拡大：物流会社シップモンク経由で米国顧客6万7000人分の情報が新たに流出&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-09-04T12:28:59.000Z"
     },
     {
-      "title": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VUmZwb2oxOUJFc056ejF0NFhCRkZGYnpTWkNMUWREM1duT0RDOW1pcW5DUk5fMTFNdEl3VGN3MHJrSzlETy1FMWJlRjB4OXR1em1EdGRURFZOTndLSHY4SWFQeVJOa0Rua0dCMlVuWW5vc1NYaXdvX3VTaFFTSjA?oc=5",
-      "description": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-04T06:19:00.000Z"
+      "title": "シリコン・モーション、EUサイバーレジリエンス法コンプライアンスプログラムの最初のマイルストーンを達成 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBISlFDQkV6aU5KVnFjQ0JDQmtzaUplcTZwTVdOanNKMU5iaUxMdTR2VURRUTJxaWF2bWh3LWNqU1RPbDljYjUzbE1YWVdBYzdoUS15bQ?oc=5",
+      "description": "シリコン・モーショ��、EUサイバーレジリエンス法コンプライアンスプログラムの最初のマイルストーンを達成&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-09-04T08:58:39.000Z"
     },
     {
-      "title": "OpenAIはサイバー防御者に10億ドルを誓約するも、ビットコインとイーサリアムはリストに含まれず - coindesk.com",
+      "title": "OpenAIはサイバー防御者に10億ドルを誓約するも、ビットコインとイーサリアムはリストに含まれず - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUUJpeFhnS3YzX3R3VjJnV2ZWbXJYdTNERHc5MEhtcXFnTnZ4YTg5RUs5MHhKNzJtVFpzY29iQjRhV0sxVW91TTNaMmJuRVNqQVZzd3AtMHhvWHBBWkdnR09QbFJOeHo1Ri1qUnZjWnRmOWZhVkFEQzZRdUlRNnREanppOWRJVXZnV2hsUWlfbTBJdndLMWJVS09tZ09HdDhRazJ5c19vdzNpNXdOQ0ZoNzdYakliZVpPay1pdTYxZjVfMXpncGlUaTRBMGs?oc=5",
-      "description": "OpenAIはサイバー防御者に10億ドルを誓約するも、ビットコインとイ���サリアムはリストに含まれず&nbsp;&nbsp;coindesk.com",
-      "source": "coindesk.com",
+      "description": "OpenAIはサイバー防御者に10億ドルを誓約するも、ビットコインとイーサリアムはリストに含まれず&nbsp;&nbsp;CoinDesk",
+      "source": "CoinDesk",
       "publishedAt": "2026-09-04T06:07:24.000Z"
-    },
-    {
-      "title": "シリコン・モーショ���、EUサイバーレジリエンス法の初期段階を無事達成に成功 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmg3YWp3SDJSSUgxbFM5emVvcTN1cWtyeXRXWThqM1BDQ245V1ZoRVF2SVZvM2h3NlBYX1ZDNW55bzhXWl92NGtMVmZQOXVxbkV5Wk1kZk9CNUltY0k4amNlQVJqWGxkLWZ5R1dDWEg5ejJQQXRqS2lNdXZkekE3R0h3?oc=5",
-      "description": "シリコン・モーション、EUサイバーレジリエンス法の初期段階を無事達成に成功&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-09-04T06:05:31.000Z"
     },
     {
       "title": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証 - クラウド Watch",
@@ -49,27 +70,6 @@
       "description": "GMOサイバーセキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱性への攻撃成立までを自動検証&nbsp;&nbsp;クラウド Watch",
       "source": "クラウド Watch",
       "publishedAt": "2026-09-04T05:19:00.000Z"
-    },
-    {
-      "title": "クオリティア、AI×特許技術でメールセキュリティを再設計 「ブラックURL検知」「ドメインAI判定」「QUALITIA MAIL SS」を発表、村上社長に戦略を聞く|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0lfazExV25hLXR1UF9aWXU1MjhNUzZ3QVVFTElfUF93R3hvNHdZaEJ2ZEtSOVlDVkowQ0k5UmEtb2ViVU1UNE44dUQ4d3pzeHBRVEtCMUdpWlVYaEtRSTdrMEJHSy1zOFhxYUxqU3E4RWFURFJZenpoZXRoZnZXR1FZZU1CSTVFN2pqZi1Xa1pRQQ?oc=5",
-      "description": "クオリティア、AI×特許技術でメールセキュリティを再設計 「ブラックURL検知」「ドメインAI判定」「QUALITIA MAIL SS」を発表、村上社長に戦略を聞く|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-04T04:51:50.000Z"
-    },
-    {
-      "title": "セキュアイノベーション、「なぜ脆弱性は見逃されるのか？」を事例で解説するセミナーアーカイブ動画を公開 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEeFdoSkVuSkx5eEpiNEs4eDNQSDVYVG5qZjZqMUg1Rk9PUkFna0lva1NNeXlNQ1RwblFmYzN1a3FtWlRCQlVuMnh6V2owbktCNEoydVdySDduU2lWQVNCV3ctUmIwazJ1NWJJRTJRODY4Rzh0SzJVQS1Law?oc=5",
-      "description": "セキュアイノベーション、「なぜ脆弱性は見逃されるのか？」を事例で解説するセミナーアーカイブ動画を公開&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-09-04T04:03:18.000Z"
-    },
-    {
-      "title": "英国 マンチェスター空港へのサイバー攻撃でハッカー グループが犯行声明|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY2ZnSTRYUE44aFNWOEtpQzNOM3hsMEw4RlZaSGdOUDQ4b3ZuTjJucTZaeC1GcG85Tk9uVEVONl9aMVJoOUk0bzZvckhPSjRSMFZWeU91dThwVWlya19MQ2ZzZ3VrZEF4Tkttb3l1aTMyQjJmYjVkNkZwX0xSZ1d5akVkSGpDcWZuM0FhRTdkRHI?oc=5",
-      "description": "英国 マンチェスター空港へのサイバー攻撃でハッカー グループが犯行声明|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-04T04:00:30.000Z"
     }
   ]
 }
