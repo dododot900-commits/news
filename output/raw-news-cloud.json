@@ -2,6 +2,20 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "ISR、セキュリティキーの統合サブスクサービス「CloudGate SKaaS」を発表 - cloud.watch.impress.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54Z1dJazVENk1OTXRVTGVrMUY2bXdYZTZ2R2Z3U0pKbm1oLV96RFI1N19fUkNDY1d5QW1uaTU3amxoWEZ2WE12UnJBbzJkVzZfS0F0MHJuMU16aXZoWXZjeXlQcUR0Z0k?oc=5",
+      "description": "ISR、セキュリティキーの統合サブスクサービス「CloudGate SKaaS」を発表&nbsp;&nbsp;cloud.watch.impress.co.jp",
+      "source": "cloud.watch.impress.co.jp",
+      "publishedAt": "2026-09-06T21:30:00.000Z"
+    },
+    {
+      "title": "政府、民間AIDCでGPUサービスを直接調達…公共クラウド開放を加速 - korit.jp",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGRfX0wxRWQ3M01xMVQzWWZuR2l3ZXYyZURJakgyREsxM1RDSTdWSFFnbm95ZHNWRDc4b0txVE02SkMyN1JtdVVQc2g2YzBSSlROZmFkUGh3OHFQUVlTMGFlODJuVlNZNFRmTVZzYXRsaTlzR1NpV2Zqd2dGd3psSA?oc=5",
+      "description": "政府、民間AIDCでGPUサービスを直接調達…公共クラウド開放を加速&nbsp;&nbsp;korit.jp",
+      "source": "korit.jp",
+      "publishedAt": "2026-09-06T01:00:47.000Z"
+    },
+    {
       "title": "ワークロードスケジューリングおよび自動化市場は2035年に84.3億米ドルへ、CAGR 6.17％で成長―AI・クラウド活用が加速するIT運用自動化の市場展望 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsc05tZFZIbDQwUjVNNHNnVks2VE9WdzNSVFVpUFJSSVZQWll3ZFpmQVVlUXd5NjUwanlnVWE3V3p1bXNpQy1N?oc=5",
       "description": "ワークロードスケジューリングおよび自動化市場は2035年に84.3億米ドルへ、CAGR 6.17％で成長―AI・クラウド活用が加速するIT運用自動化の市場展望&nbsp;&nbsp;Newscast.jp",
@@ -37,24 +51,17 @@
       "publishedAt": "2026-09-04T14:10:00.000Z"
     },
     {
-      "title": "サウジアラビアのデータセンター競争：同王国は中東のクラウドハブになれるか？ - arabnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TQXNsLUw2cTk4YWFsMDFhenJnVmcxMlJpMkl4SEUtVVhiZ1VEUGx6dGRDOUdlRmk4dEp6RFFrRWxRYkVTT2pLb0pPX0N2djJjRU9FNEJybVpTSEYwOEh1MS16S2NzQ2c?oc=5",
-      "description": "サウジアラビアのデータセンター競争：同王国は中東のクラウドハブになれるか？&nbsp;&nbsp;arabnews.jp",
-      "source": "arabnews.jp",
-      "publishedAt": "2026-09-04T09:09:30.000Z"
+      "title": "4日、特許情報検索サービスのキプリスによると、ビバリパブリカは先月27日、トスクラウド商標を新規出願した。 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LUVNocGdOdzM5ZmJpMUpManNuRXl2bTVkRUJPTVBDczVPMjZ6Z3VCRkVTQ0tKSktRS25YckpjZEdYQ3V4OGRBWHRpUGF1UGx6YWc?oc=5",
+      "description": "4日、特許情報検索サービスのキプリスによると、ビバリパブリカは先月27日、トスクラウド商標を新規出願した。&nbsp;&nbsp;매일경제",
+      "source": "매일경제",
+      "publishedAt": "2026-09-04T03:54:40.000Z"
     },
     {
-      "title": "ユーソナー、「Snowflake AI データクラウド サービス パートナー」のSelectパートナーに認定～LBCでAI時代の企業データ統合・活用を支援、「法人データインフラ企業」へ - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCdmx1c3dxSEpjOXAydHR0SXFlcDl1WVlIRUNtYkxqbFpRVkxjQmVpRUotcENCNG9zeDVYbFBBQ1E0all3M1NTVzEzMTVLNjFyMUtfbXNpcGdYMC1oZHVuRmo2cFJuaXVocWwzT0RsS2ZXU0k?oc=5",
-      "description": "ユーソナー、「Snowflake AI データクラウド サービス パートナー」のSelectパートナーに認定～LBCでAI時代の企業データ統合・活用を支援、「法人データインフラ企業」へ&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-09-04T08:10:00.000Z"
-    },
-    {
-      "title": "日立、フィジカルAIの活用でデータセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供 - クラウド Watch",
+      "title": "日立、フィジカルAIの活用でデータセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供 - cloud.watch.impress.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbTBUdmdjWXd3SUcxOWdOR3MyVUxPOU16Z0VyWUdac0x6elBPazhSYm0yVHJBeXQ2R3hlVVhPQlJ1MldSUVFrcFpHdzhFRFkxa3ZXRkZrU2hmRWZLWjhXM0w5Q1JSUUU?oc=5",
-      "description": "日立、フィジカルAIの活用でデータセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
+      "description": "日立、���ィジカルAIの活用でデータセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供&nbsp;&nbsp;cloud.watch.impress.co.jp",
+      "source": "cloud.watch.impress.co.jp",
       "publishedAt": "2026-09-04T03:29:16.000Z"
     },
     {
@@ -63,13 +70,6 @@
       "description": "NVIDIA と MediaTek、エッジからクラウドまでの AI コンピューティング プラットフォームの構築に向け長年のパートナーシップを強化&nbsp;&nbsp;NVIDIA | Japan Blog",
       "source": "NVIDIA | Japan Blog",
       "publishedAt": "2026-09-04T02:12:33.000Z"
-    },
-    {
-      "title": "ChatGPT、Claude、Grokのいずれも問題が発生した。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XNUdDT3NDZmdOLXdfWnJLOXpIQ0FUVl9jc041b3VCMnc4eUhlV2dKa1VoUFRDdlZQWkR1d2ZKMnpFR3dnOEtMOGdZWnppaDg3U1Jla2VxckM1OENHYlJKbm9RYk5NcTdaN0lrcXNzZXZrZkFRaGkw?oc=5",
-      "description": "ChatGPT、Claude、Grokのいずれも問題が発生した。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-03T23:20:09.000Z"
     }
   ]
 }

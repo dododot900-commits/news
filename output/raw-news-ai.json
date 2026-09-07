@@ -2,39 +2,32 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83NHl6ODQ1RmpZNVI4UGlBVGVqSTR5bE5yYzN3TG5HdUJfV1lpaTVnWnh5Znd2VXFjRnJZRHN1ZHQ5N2dLRXZybTRjRkxNYkJBZlE2WlJhNHRjcm0zMXFDbzBPWm42VFJzZFNUekl4aE5lTUpJM0E?oc=5",
-      "description": "【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-09-04T19:30:16.000Z"
-    },
-    {
       "title": "ベトナムと日本は、人工知能（AI）および戦略技術分野における協力を推進している。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMU9lQm5jY0xYcVQwa2ZMd3Vlem9GSEkzSk1WZlR6TGtqZkNkOUE5MnpBakVNTy1kTHhvN3luTzRpcExCVFI3MFE2aXNmQjltNmZtalRaUTRGSUhxQTVPY0haNWNPWU1ZYk5tNEtoVWdfc0FGdXBBaUpzMUEwRFU4Z0d0ZW5aZUprM2JleA?oc=5",
-      "description": "ベトナムと日本は、人工知能（AI）および戦略技術分野における協力を推進している。&nbsp;&nbsp;Vietnam.vn",
+      "description": "ベトナムと日本は、人工知能（AI）および戦略技術分��における協力を推進している。&nbsp;&nbsp;Vietnam.vn",
       "source": "Vietnam.vn",
       "publishedAt": "2026-09-04T10:56:44.000Z"
     },
     {
-      "title": "ナレッジセンスの法人向け生成AI「ChatSense」がClaudeで画像生成機能を実現 - voix.jp",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ybFFGZExrUWk0QWw2TnpNMmJTdkZXT2V3ZDI4VUxxYmwtMEw4UnRldE9jSjNCenVzemZZZ3gxUmswNHU4LTE4R3pqbklLR0hwNDJTRHJrSVItX3Zpa0J6WGlfTFd0NnVnMW5vcHBGamwwYk0?oc=5",
-      "description": "ナレッジセンスの法人向け生成AI「ChatSense」がClaudeで画像生成機能を実現&nbsp;&nbsp;voix.jp",
-      "source": "voix.jp",
-      "publishedAt": "2026-09-04T08:25:27.000Z"
+      "title": "法人向け生成AI「ChatSense」、Claudeでも「画像生成」を利用可能に - 愛媛新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LaXBGRkdrR2VHekFHa1NXZ1ZJLWJXQWl1dnA1c1BYdUxVbUZaa1l6VGhWOVFOUHowYmhVNU15RmhDRDdmdUdKZ19wdFJ6enVKSTJWbllhY2pGUGlU?oc=5",
+      "description": "法人向け生成AI「ChatSense」、Claudeでも「画像生成」を利用可能に&nbsp;&nbsp;愛媛新聞",
+      "source": "愛媛新聞",
+      "publishedAt": "2026-09-04T08:11:33.000Z"
     },
     {
-      "title": "法人向け生成AI「ChatSense」、Claudeでも「画像生成」を利用可能に - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EOEg5ZmlPWEYyNWQyM283dHFyWDlRNEM3M25URV9aSU9YSlNybVZoYTd4R08wTC1VVzRKNGRHeWY5bHBhN3RCQjZKRzluekN4NzViV3hadDZJQnE1cWs4SXVqaGRNS2hDNFE?oc=5",
-      "description": "法人向け生成AI「ChatSense」、Claudeでも「画像生成」を利用可能に&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-04T07:14:53.000Z"
+      "title": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介 - SHIFT AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTWdwd3BpWmY4a3A0NDhQLWZzRE0zc3dFU2hod2tYOFhsUER0T1ZrMnVCQi0yNjVVZVhzMTdJTUpyc2FLR0RMOQ?oc=5",
+      "description": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介&nbsp;&nbsp;SHIFT AI",
+      "source": "SHIFT AI",
+      "publishedAt": "2026-09-04T07:00:00.000Z"
     },
     {
-      "title": "AIガバナンスプラットフォーム市場、2035年75億米ドルへ、CAGR 33.1％で拡大するAIリスク・規制対応基盤 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HRXJvS2pDc1lldVVZa2pQR2VobmhRR3FSRmFzenA5enp6ekhmeGtpekxMX3ZZaktQVXlhQkxQUG5VbWNGOW1j?oc=5",
-      "description": "AIガバナンスプラットフォーム市場、2035年75億米ドルへ、CAGR 33.1％で拡大するAIリスク・規制対応基盤&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-09-04T01:00:00.000Z"
+      "title": "デジタル化・AI導入補助金（旧IT導入補助金）とは？補助率や申請枠・変更点についても解説【2026年・令和8年度】 - 補助金ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ckhwdUEzVWs0c3RZaU5YcER1NzRGT0FGU2U2NGRoYmdYc2UyZjhUMzRvQ0tDbmhwUzNMVzJBb3JYY29Yak91UTZlS0tZN3ZZODQ5TGZxcDBva1FBTVFmTHYxQQ?oc=5",
+      "description": "デジタル化・AI導入補助金（旧IT導入補助金）とは？補助率や申請枠・変更点についても解説【2026年・令��8年度】&nbsp;&nbsp;補助金ポータル",
+      "source": "補助金ポータル",
+      "publishedAt": "2026-09-04T07:00:00.000Z"
     },
     {
       "title": "2.78兆パラメータなのに「8GBで動く」Kimi K3 それでも企業利用が難しい理由 - ITmedia",
@@ -42,13 +35,6 @@
       "description": "2.78兆パラメータなのに「8GBで動く」Kimi K3 それでも企業利用が難しい理由&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-09-03T22:00:00.000Z"
-    },
-    {
-      "title": "株式会社ラスティックシステムが中小企業向けに社内完結型AI導入支援を大阪・関西で開始 - voix.jp",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sakJtR0tGd0tZMkRjQnZLMmtVa21IY1BFT2xyd2phdW5BNnBxN1RjWi1OOWduS2NYSC1MZTgwWTBuc18tdnNFNUVLV0NrMXdQbDluaWZ3Xzh0Wm5SMXN3RUJSd1BTdG9OeFl3?oc=5",
-      "description": "株式会社ラスティックシステムが中小企業向けに社内完結型AI導入支援を大阪・関西で開始&nbsp;&nbsp;voix.jp",
-      "source": "voix.jp",
-      "publishedAt": "2026-09-03T08:38:04.000Z"
     },
     {
       "title": "OpenAIがAnthropicとの差を縮める、企業向け生成AI利用で追い上げ - Межа. Новини України.",
@@ -70,6 +56,20 @@
       "description": "ChatGPT Businessプランとは？法人導入に必要な機能・料金・注意点を徹底解説&nbsp;&nbsp;AIsmiley",
       "source": "AIsmiley",
       "publishedAt": "2026-09-02T07:00:00.000Z"
+    },
+    {
+      "title": "AIエージェント・生成AI導入の補助金まとめ【2026年9月最新】最大500万円｜愛知・全国の自治体制度と費用相場 - 補助金ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ldXFobGFfcG1rRFBMdDZPRUtISXFsdlBnZ2RVRVh3cmNQcTZualBHYjhqUURxczFjdU9fN3RlUVdSWUU1QlFVZ0NBYTJRQ3hndHZ3R0VKSVhtTTVReWc?oc=5",
+      "description": "AIエージェント・生成AI導入の補助金まとめ【2026年9月最新】最大500万円｜愛知・全国の自治体制度と費用相場&nbsp;&nbsp;補助金ポータル",
+      "source": "補助金ポータル",
+      "publishedAt": "2026-09-01T07:00:00.000Z"
+    },
+    {
+      "title": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OdzVrYUZPMkM0aFNVX1YzdUwwTno3cFhYUnFvOU9pX0pJb3ZKX0JYaU1JdjhQTWtES1dzT2V6NVZJTWFQN2ZZdjJQVQ?oc=5",
+      "description": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力&nbsp;&nbsp;thinkit.co.jp",
+      "source": "thinkit.co.jp",
+      "publishedAt": "2026-08-31T11:29:59.000Z"
     }
   ]
 }
