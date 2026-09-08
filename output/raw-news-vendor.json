@@ -2,6 +2,27 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "なぜCrowdStrike（CRWD）はAIセキュリティの新基準を示したのか？ - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVl9uc3RYRVpqT1pGcGlybXdjQWJsbFBFcmhibmIwZEJPTElvS1FQQU5pQVdLYjVyNmVRWjNjYjNHRFEwQURtQXNNN0FkWVdmNzNWY0ZxR1NvXzBfaXpsZ0VLd0IwWERpNXU4NkhhbkozZGl4ZVVwUGpyWjlWeEVRUVlYYlZIWG0zMGRjNzdDMzRuTkkza0FKYTM1aXQ3M1BMTzZQd9IBpAFBVV95cUxOVl9uc3RYRVpqT1pGcGlybXdjQWJsbFBFcmhibmIwZEJPTElvS1FQQU5pQVdLYjVyNmVRWjNjYjNHRFEwQURtQXNNN0FkWVdmNzNWY0ZxR1NvXzBfaXpsZ0VLd0IwWERpNXU4NkhhbkozZGl4ZVVwUGpyWjlWeEVRUVlYYlZIWG0zMGRjNzdDMzRuTkkza0FKYTM1aXQ3M1BMTzZQdw?oc=5",
+      "description": "なぜCrowdStrike（CRWD）はAIセキュリティの新基準を示したのか？&nbsp;&nbsp;simplywall.st",
+      "source": "simplywall.st",
+      "publishedAt": "2026-09-07T08:35:24.000Z"
+    },
+    {
+      "title": "スカイゲートテクノロジズが提供開始した新型ゼロトラストセキュリティ「Cygiene ECAP」の全貌 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HUFZJYWZjLTNoSDVQQUNOM0xXYlh1M2JfRVdyQTJINHBEcDRGNzhsYzlNYkVoTTc1Ym90UWFlRXl4N2JWU3V0RWNiaFZ3LTN5dXk2WDkwanl6S1lyNW40YlFTUXJQRVhJ?oc=5",
+      "description": "スカイゲートテクノロジズが提供開始した新型ゼロトラストセキュリティ「Cygiene ECAP」の全貌&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-09-07T05:43:30.000Z"
+    },
+    {
+      "title": "EDR回避も攻撃計画も「月額」で買える？ 地下市場に広がるAI犯罪ビジネスの実態：8ドルから利用可能 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrdE9SMTc0ZHAyQ2NKZHQyWTlhaU9aM1pGN3dEbWlHR2JOMVBiTUlDbU52ZTVUVzJjb0ZCcU0tNlpReDBZSmJFaU9hdm5aZnc1cUI4bFRIRE9TYXNKZU1jMTNtRHcyNmExZ1E0NVJBWl91QQ?oc=5",
+      "description": "EDR回避も攻撃計画も「月額」で買える？ 地下市場に広がるAI犯罪ビジネスの実態：8ドルから利用可能&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-09-07T04:00:00.000Z"
+    },
+    {
       "title": "CrowdStrike Falconの権限昇格 PoC:FalconFlankなど複数製品のPoCが公開 -EDR共通の設計リスクか、他製品の過去事例から検証|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVNPaXdzeFgyTXp1ZVdOODFfalk2cWRVZlN6c21WeHY5U0RRWmVGbXJrWEJhOEtuX2JKTzhsa0VQWHJvbGVqM1BDa2lkR1REVkp0eFpwRWw3Y20wS0NITGIyQ2NycGExdDJoTHBXR1l5VUp2UGFuTWd5ZkI0SGxhdFhqeU5LaDFHWkY4UmlNOGJDUQ?oc=5",
       "description": "CrowdStrike Falconの権限昇格 PoC:FalconFlankなど複数製品のPoCが公開 -EDR共通の設計リスクか、他製品の過去事例から検証|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -21,13 +42,6 @@
       "description": "CrowdStrike（CRWD）の新しいAIセキュリティスイートと提携は、同社の成長の根幹となるストーリーを変えることになるのか？&nbsp;&nbsp;simplywall.st",
       "source": "simplywall.st",
       "publishedAt": "2026-09-06T05:32:10.000Z"
-    },
-    {
-      "title": "製品比較も盛り込んで、いま話題の「SASE」に迫ります！ Jacob Bethell (4ThG9cy5tl) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMQXJ2bjI3VWYwSzM1RVY5Y0lZVUFEeml5ZHBCa1BaajhiZHBBZ3FrSXY4Mmt1U1otRkhGaHdiSFRTbXRpT0pVejhEeDBVVjhoN0pwWEQ2dHF0MjA?oc=5",
-      "description": "製品比較も盛り込んで、いま話題の「SASE」に迫ります！ Jacob Bethell (4ThG9cy5tl)&nbsp;&nbsp;Mshale",
-      "source": "Mshale",
-      "publishedAt": "2026-09-05T00:36:07.000Z"
     },
     {
       "title": "CrowdStrike CEOのジョージ・カーツ氏、416万ドル相当の株式を売却 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -56,20 +70,6 @@
       "description": "ロゼンブラット、CrowdStrikeの買い推奨を維持——AI製品を評価 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "publishedAt": "2026-09-04T11:27:00.000Z"
-    },
-    {
-      "title": "Zscaler’s Q4 Earnings Beat On Every Line. The FY27 Guide Didn’t Follow Through. - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1N6T2xTODRCYy1kbk5jS3EzRkhSWmVpN0NGd3Y5V3pSLXI5bFlUOGxqenJZMnlKa0hwcmc3T0NVVUpmMmVJZEZ0OXR0RlhaUWZJTmpubVVLTEg3LUZ0alJrVzVhNGZYMkVKYU1aUzRUeXpfRXRJQ3Z1eFdOY05kMlRfdGJTaDFBZlZRaUFKd3BSdE04SlhvTFotN3N4NWVraXh6VjlGWQ?oc=5",
-      "description": "Zscaler’s Q4 Earnings Beat On Every Line. The FY27 Guide Didn’t Follow Through.&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-09-04T09:08:33.000Z"
-    },
-    {
-      "title": "Nightmare Eclipse、CrowdStrike Falconの特権昇格ゼロデイPoCをリリース - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnUyWUN4ckQtT09sMzhERUtZWi1JaWRFSkRaMXJ2ZTZpY3BFeUc0SGxIVUhaOVFybHhnQ2UtTmRWZHMxUmhVQ0F1RmlXQU1RXzBCNmx6WTlmR0taRmZHc3NRXzhURFpTVmxFMFhGRGFjRnhLMzh3WnlFX2RhNlM3Y253VTQ?oc=5",
-      "description": "Nightmare Eclipse、CrowdStrike Falconの特権昇格ゼロデイPoCをリリース&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-09-04T07:17:59.000Z"
     }
   ]
 }
