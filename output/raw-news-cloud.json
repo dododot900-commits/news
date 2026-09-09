@@ -2,6 +2,34 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "大塚商会、Nutanixソリューションを導入してクラウドインフラを全面刷新し、企業ITイノベーションを加速 - ドリームニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIU2tnMkhGYVBBRXE5SmdyU3B0WTlRaU5HRUpvazY3Q2lPVElxOHhTWHdCQzFrVmxBVExOWGNEalNGSFQ0UFZRenpWQlJ0WFAzNmhV?oc=5",
+      "description": "大塚商会、Nutanixソリューションを導入してクラウドインフラを全面刷新し��企業ITイノベーションを加速&nbsp;&nbsp;ドリームニュース",
+      "source": "ドリームニュース",
+      "publishedAt": "2026-09-08T07:30:00.000Z"
+    },
+    {
+      "title": "ニーズウェル、AI時代を見据えたITインフラモダナイズサービスを強化 - prtimes.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NQkFuZWpMTm9RalgwZWphVDB1SFVCSjVVLUFucVpEcWdyV2NQb3dpeVNRbFNESXVTeDNDdjF3YUFLWl9CUmZHMWlTVVVDUnE5TlJzQmdoMFM0NWxid3Z4Y3FmY21rRmNKU2c?oc=5",
+      "description": "ニーズウェル、AI時代を見据えたITインフラモダナイズサービスを強化&nbsp;&nbsp;prtimes.jp",
+      "source": "prtimes.jp",
+      "publishedAt": "2026-09-08T05:10:02.000Z"
+    },
+    {
+      "title": "AIは「チップ」から「物理限界」の戦いへ――エクイニクスが語るインフラ分散と液冷・地域共生の工学 (1/3) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1Rk93a2tSQUZQZ0dGUkpTaHpyS1RwU2pOSkJTUmJ0N282VkZTeGlEU3NRVzBRZDZ2QlR3ZmlBTzBMOWFmMERUVEJMOXpoYU5PNkkzTQ?oc=5",
+      "description": "AIは「チップ」から「物理限界」の戦いへ――エクイニクスが語るインフラ分散と液冷・地域共生の工学 (1/3)&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-09-08T03:00:00.000Z"
+    },
+    {
+      "title": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zMGtwM28zQzM0aHJhQ1JNeFlkbzFTQ3JvOWVmZkpVTUU1bXliTVVSNmUyMzJqQzRBR0pESVNOMEJpcDUwZDJ5M2oxNA?oc=5",
+      "description": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成&nbsp;&nbsp;thinkit.co.jp",
+      "source": "thinkit.co.jp",
+      "publishedAt": "2026-09-07T11:41:17.000Z"
+    },
+    {
       "title": "日本のクラウドERP市場2026～2035年、市場規模・企業動向・分析レポートを発表 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmanczS1Ytc1lESlI4VVBQQUxOR2xFNWdTT1lMcXlqN3hiSm9GelRBSS1hUXV6YkczOGJpMjh1UzZsWU50MmNCTTd4VTItNVU?oc=5",
       "description": "日本のクラウドERP市場2026～2035年、市場規模・企業動向・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
@@ -9,10 +37,10 @@
       "publishedAt": "2026-09-07T08:00:00.000Z"
     },
     {
-      "title": "パブリッククラウド市場 - 世界予測、2026年～2032年 - アットプレス",
+      "title": "パブリッククラウド市場 - 世界予測、2026年～2032年 - atpress.ne.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rYXlCR0Q4Ujg1ZVduYlRPblRybU5MeDl1c1R2M21XQlIyR2ZwQ00xcVZhR0o2djlKV01ma1RGQTAzclFfTUs3bXAyWHpPeTQ?oc=5",
-      "description": "パブリッククラウド市場 - 世界予測、2026年～2032年&nbsp;&nbsp;アットプレス",
-      "source": "アットプレス",
+      "description": "パブリッククラウド市場 - 世界予測、2026年～2032年&nbsp;&nbsp;atpress.ne.jp",
+      "source": "atpress.ne.jp",
       "publishedAt": "2026-09-07T07:01:00.000Z"
     },
     {
@@ -23,17 +51,10 @@
       "publishedAt": "2026-09-07T05:53:00.000Z"
     },
     {
-      "title": "サーバーワークス、G-gen、BIPROGYの3社　クラウド・生成AI活用支援で業務提携 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pUHAyWDN6akZnbHpsdllLWXhFdmJ2Y0kxVHM2dGFNRWJ3aDhQY2R3WllDVzFna3F3UU5LU250WGtyUDl2a19WcklVaHdXNGtGak0tSDYtSS0yOElsNVJtd1dvSdIBaEFVX3lxTE5nZUpGRXY0QjBDbEFoUmpveGJqaWY0WndzVUdXVmVaUDgtQzYxbEJZZUNJLVhIUjJZTVVjQUJuY1NyZG4yOXktZlQtQk9DajYxQ0FRT2pES0haRFVhb2Nhd1M4a0RSYVoz?oc=5",
-      "description": "サーバーワークス、G-gen、BIPROGYの3社　クラウド・生成AI活用支援で業務提携&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-09-07T05:36:00.000Z"
-    },
-    {
-      "title": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド - EnterpriseZine",
+      "title": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド - enterprisezine.jp",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTWdFVmdZZnhNWlE5bUd4UXFoTjl5M2hxb3B0bVJJbnBuSGRVR2gyX3FrLXBubTM2UG9sd2VtY293cEs0VjA4MEt4RFg2bVBVS2NseXdn?oc=5",
-      "description": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
+      "description": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド&nbsp;&nbsp;enterprisezine.jp",
+      "source": "enterprisezine.jp",
       "publishedAt": "2026-09-07T03:53:50.000Z"
     },
     {
@@ -44,32 +65,11 @@
       "publishedAt": "2026-09-06T21:30:00.000Z"
     },
     {
-      "title": "政府、民間AIDCでGPUサービスを直接調達…公共クラウド開放を加速 - korit.jp",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGRfX0wxRWQ3M01xMVQzWWZuR2l3ZXYyZURJakgyREsxM1RDSTdWSFFnbm95ZHNWRDc4b0txVE02SkMyN1JtdVVQc2g2YzBSSlROZmFkUGh3OHFQUVlTMGFlODJuVlNZNFRmTVZzYXRsaTlzR1NpV2Zqd2dGd3psSA?oc=5",
-      "description": "政府、民間AIDCでGPUサービスを直接調達…公共クラウド開放を加速&nbsp;&nbsp;korit.jp",
-      "source": "korit.jp",
-      "publishedAt": "2026-09-06T01:00:47.000Z"
-    },
-    {
-      "title": "AIデータセンターが「ピンクの銭湯」や「トマト農園」に？…建築家たちが模索する「地域還元インフラ」のデザイン（海外） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UVo1bk84dnVqLTNuejZSNzdIeDkxTnBBYXBSV0oyX3NUVURweW41Q3k1OGlCdW1FTmpmeE1LWXdpOWMwdGM0eGhjdGUxU05CQ0lqZTBIXzFTMTlQc0ZETEVTNEl6by1TVFhFcWdraFgwVTY4MURhTkdwTnFiVU0?oc=5",
-      "description": "AIデータセンターが「ピンクの銭湯」や「トマト農園」に？…建築家たちが模索する「地域還元インフラ」のデザイン（海外）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-05T02:10:01.000Z"
-    },
-    {
       "title": "VerdaのフルスタックAIクラウドが出会うSupermicro NVIDIA Blackwellシステムの最新版 - Supermicro",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxcXdqb2RxTHhnNktlMVJjbS1LUEpsanM4cGd3Z2JxbnJsWTh1UC1ndldaa2dQVE1SeGxXc1ktUm9QS2czV1JvNG93MGgzMlpsZEt0UGV0MURvY1BWZVVqMzJ3?oc=5",
       "description": "VerdaのフルスタックAIクラウドが出会うSupermicro NVIDIA Blackwellシステムの最新版&nbsp;&nbsp;Supermicro",
       "source": "Supermicro",
       "publishedAt": "2026-09-04T14:19:12.000Z"
-    },
-    {
-      "title": "サウジアラビアのデータセンター競争：同王国は中東のクラウドハブになれるか？ - arabnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TQXNsLUw2cTk4YWFsMDFhenJnVmcxMlJpMkl4SEUtVVhiZ1VEUGx6dGRDOUdlRmk4dEp6RFFrRWxRYkVTT2pLb0pPX0N2djJjRU9FNEJybVpTSEYwOEh1MS16S2NzQ2c?oc=5",
-      "description": "サウジアラビアのデータセンター競争：同王国は中東のクラウドハブになれるか？&nbsp;&nbsp;arabnews.jp",
-      "source": "arabnews.jp",
-      "publishedAt": "2026-09-04T09:09:30.000Z"
     }
   ]
 }

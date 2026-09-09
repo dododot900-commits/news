@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "AWSの漏洩したアクセスキーを悪用しAmazon Bedrock��不正利用 AIモデル料金を被害者負担にする「LLMjacking」 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTQ1cnhCaEp3QW5QY1pBR0c5M1FBOUI0NFFtcGdnaXdPTjQ5X05TTnRoV1VFc2p0SGxXcmk2ZE5Ldmt5bjB4QWplZkdtVElzall6c0hyWnREQTFIQndFT2lQUGVxZklSNTdaUEhsSEZtLXhwSXdWZXVacllZSjRLX1VrQ1lhM1I1dlAxR0RB?oc=5",
-      "description": "AWSの漏洩したアクセスキーを悪用しAmazon Bedrockを不正利用 AIモデル料金を被害者負担にする「LLMjacking」&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "東邦通信システムズが利用する外部ホスティングサーバに不正アクセス、一部メールアカウントで設定情報の書き換え - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVzMtaEdyUmNWcUhBN0s1U0pBRkpYZTZNMS1GdkQzN19FM2pYaTVuUG5PMjdjTWo3OVMxaXRBYVhTWTM2NVBvd0lWT0U0VUg0bGN3MWdmM0trWWV2T2t3dlZTV0VHTWF1M3F3aQ?oc=5",
+      "description": "東邦通信システムズが利用する外部ホスティングサーバに不正アクセス、一部メールアカウントで設定情報の書き換え&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-08T23:05:11.000Z"
+    },
+    {
+      "title": "エヌ・イー ケムキャットの社内システムに不正アクセス、端末でマルウェアが実行されたことが原因 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFcEd0QzE2Y2FDMTBXRjJ5aHBvOUhYZGdOTUZzdzgzLVVkejFpcDVYQ29yc3NZVnB1SUY4U1lEeEhkcUpGZi1ub0dra3htXzhmU3hUZk5vM2FWLU03ajFSUzRsYU14VnV6MjVURw?oc=5",
+      "description": "エヌ・イー ケムキャットの社内システムに不正アクセス、端末でマルウェアが実行されたことが原因&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-08T23:05:08.000Z"
+    },
+    {
+      "title": "ジェックスにランサムウェア攻撃、個人情報が一時的に侵入者に閲覧可能な状態に - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUFhFMWFTckZ2ZXY4bE1iSk5BbzBiT213aG5PZDFUY21jdFdjN2RaQmEwRF90ZHFCVmpXcHJuWFpWYXRsQ29kWmFKaGc0ZG9mcEZ5ZG9YdjZlT1lHYmF3NU50SllmV0ZvLXlzVg?oc=5",
+      "description": "ジェックスにランサムウェア攻撃、個人情報が一時的に侵入者に閲覧可能な状態に&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-08T23:05:06.000Z"
+    },
+    {
+      "title": "89%の日本企業がオンプレミス型セキュリティ特化型AIを開発した場合「関心がある」 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNkJqRUhSZnBXZ3hxNEJhWlIzcjY1LVU5TE5ESUZ3bnJnY3Z2LVpFajI1RHRSMU9TTEtYcUk2ZjlNWWpLUDF3RnRXcHpVcEF3V1lrbWp1amIxdk5HbFdXeG9uS2RwLWM4S3ExYw?oc=5",
+      "description": "89%の日本企業がオンプレミス型セキュリティ特化型AIを開発した場合「関心がある」&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-08T23:05:02.000Z"
+    },
+    {
+      "title": "IPA、経営者向けランサムウェア対策ハンドブック公開 国内被害組織のヒアリングから11の教訓 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkN1YmtOS2xXbEhnVV80LUFxSXZzOWdjdHZESFNrTUc2UGpQWWJORUIwMENMY2I1djZQZFMwcXNMNVZ6Y216MGVoQThNXzd2UzVTWmVrMWhUa3BHUUJYMDBwUmIyMEZHRHNDWTVkNURsak51RmN2RmNzWGY2RERqQjZ2M2JWTlFVX0E?oc=5",
+      "description": "IPA、経営者向けランサムウェア対策ハンドブック公開 国内被害組織のヒアリングから11の教訓&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-08T00:30:47.000Z"
+      "publishedAt": "2026-09-08T23:00:43.000Z"
     },
     {
-      "title": "Samsung SDS、OpenAI「Daybreak」のパイロットパートナーに AI活用のサイバー防御事業を拡大 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXhjM2tFc0MyeWxrV3VHTDBSSFpTeUNsdXo2bUpTY0hxQ0h5dkd0T0JidHVpR2dBSFQ4Z3JCN0xaUC1VbnNVYWx3dndzVndrV3dWX3E2dXd5VmZYZDJCRmxhTXlWN3ZNWnhwd2tGejUzd1FJeDRSd1NLM3dFcHQ0aTZPT3gtbGVTVkRDNmliMkoxbGI0c3BMODFUVkFjbzRMbWhVcDdwMkl5V2NiRzNDWF9ZdFBMQQ?oc=5",
-      "description": "Samsung SDS、OpenAI「Daybreak」のパイロットパートナーに AI活用のサイバー防御事業を拡大&nbsp;&nbsp;디지털투데이",
-      "source": "디지��투데이",
-      "publishedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "title": "AI がランサムウェア攻撃全工程を実行、被害企業に 80 ページにわたる“セキュリティ監査報告書”まで提出 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjN2xOVm4wbHRKejRTbW1HZS04bG4yT3RYaTFNcWRpYjNuX01QYmtheGc3M3BHM1U2aFN4aTA5MWlrX3FaWFZNVzR4c2ZYSTc1M1dJc1VJRk5uTC1PcTFHOE9JUURyV3c5NXpFYg?oc=5",
-      "description": "AI がランサムウェア攻撃全工程を実行、被害企業に 80 ページにわたる“セキュリティ監査報告書”まで提出&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-09-07T23:20:03.000Z"
-    },
-    {
-      "title": "教育ソフトウェアの休眠中のレンタルサーバにランサムウェア攻撃、暗号化被害と不正アクセスの痕跡を確認 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vSjVFVmNWYmh0TnRTQWpoQ2FEZDNMMm51TnhjOFVnS01Pd0VZMmVZOFF3SDU1RVlVUlFyYWdjSHZOTzk4TEhVSWY3YUlFMkJ4eG9MVWxPa2pUNHZoUHp1TXlXVjBwNVc3YXA3Vw?oc=5",
-      "description": "教育ソフトウェアの休眠中のレンタルサーバにランサムウェア攻撃、暗号化被害と不正アクセスの痕跡を確認&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-09-07T23:05:11.000Z"
-    },
-    {
-      "title": "宛名と住所が 1 行ズレた状態で発送データ作成 ～ 学校法人でダイレクトメール誤送付 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CM2tvZVM3WWlNQV85VmFMaGlmOWRLZ1pPNlIzbVc2alRaUWsyMmhiWnh5aUZBUjU1N2hGNDZYZEF6V0lGZkRzcDhSU1hyYzlZdzd3VVIzc2d0MTVYUThYckRFM1Q4ay1MY3k5Rw?oc=5",
-      "description": "宛名と住所が 1 行ズレた状態で発送データ作成 ～ 学校法人でダイレクトメール誤送付&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-09-07T23:05:09.000Z"
-    },
-    {
-      "title": "サカタのタネへの不正アクセス、調査結果を公表 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lZU0tbVpnVnAtb2pGRTVOX2RWVlNBVFFMcEhVYXNvQVNTZnpFSnRFZ0JVb0ZXYXhGUDRnSTRsZWxwTk15eXp2WWR4eUw2Um54Mk9xMVczeHhBb0NCYXpFa1hFSFlmeW91UnJKQQ?oc=5",
-      "description": "サカタのタネへの不正アクセス、調査結果を公表&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-09-07T23:05:05.000Z"
-    },
-    {
-      "title": "2026年8月 個人情報漏洩の事例 まとめ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2owdVpUZVhkNXdyd09WT2NBZXJCZjZ5T0YwekdvX3h5Qkk4cVJpZE1Oa0lESUJhTEtLRFl5WnQ5US02MlVuemJIWUtoWkFmNnBQME9IUFVYOEJxSUp2Tm5IRWFlUHJvN3NTYXN4RUk3QWRMZ1hPWmdWaHMzejBQcGVYTERIdjNrS0E?oc=5",
-      "description": "2026年8月 個人情報漏洩の事例 まとめ|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "2026年7月・8月 情報漏洩の事例まとめ（機密情報・営業秘密）|セキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX085TDZxMEpRTVVFbktrMl9tZzlEbkwteVJrejhyb0tYRjRHZUpocUNRY25EaDdSNTZyYkZCQmJHalBqYVh3bzFhSmVSWXpHQk9CVjdWUjdmT0dCWEJGUmluOWZXTk95Y3ZRZUl5eXlHX1RJUHlaMnozbnc3VTFkVzRZNmNsbkhqMVcwYg?oc=5",
+      "description": "2026年7月・8月 情報漏洩の事例まとめ（機密情報・営業秘密）|セキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-07T22:00:19.000Z"
+      "publishedAt": "2026-09-08T22:00:26.000Z"
     },
     {
-      "title": "脆弱性やシャドーITを見逃さない！ 注目のセキュリティサービス「アタックサーフェスマネジメント」（ASM）とは[Sponsored] - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rRXllOGJVNExvNHYzWTl0U1lwTFVLbm9FYWppU054U0toSVFsUEM4YUNILXRSVFg4TzdfYnl5XzBzUnBGU3dHUUpFcWJIQWp5RTJ6U3VXVEtLOEhRaURJeWlwYldSajM3V1hzWTNQdllGeGhxS0E4?oc=5",
-      "description": "脆弱性やシャドーITを見逃さない！ 注目のセキュリティサービス「アタックサーフェスマネジメント」（ASM）とは[Sponsored]&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-09-07T21:00:00.000Z"
+      "title": "正規権限を狙う偽警察官型ソーシャルエンジニアリング 企業の資金流出・情報漏えい事案に見る手口と統制の在り方 - unitis.jp",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBubS1HelJrT0JWa01nX01PaXYxY2JrRmUwMk1ZMkU5NGxkNmN0SmN3NGM2c051M2NfU2VadXRtN3kxRjBBMmhTMQ?oc=5",
+      "description": "正規権限を狙う偽警察官型ソーシャルエンジニアリング 企業の資金流出・情報漏えい事案に見る手口と統制の在り方&nbsp;&nbsp;unitis.jp",
+      "source": "unitis.jp",
+      "publishedAt": "2026-09-08T21:21:59.000Z"
     },
     {
-      "title": "TRUNK、従業員メールアカウントに不正アクセス 個人情報424件が漏えいした可能性、不審メール送信も確認 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1ZjS0JNNWRySHVDQzl6NVpDMzBtUnJpbXNZZnhKR2FfcllwbWZpSnZDd1l1dDFCNkhMdHlCem44YWdqRTRNLXZ5WGFXMlcyeEVlTmFJNDFfU3llUXVLeEVhTUVrOVJzdy1EVXc0VEJrRFZNaEJDV3FtdUQySTR6cExuV3Zwa1pkTVRr?oc=5",
-      "description": "TRUNK、従業員メールアカウントに不正アクセス 個人情報424件が漏えいした可能性、不審メール送信も確認&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "生成AIへの情報漏えいを止める。AI Librarium、AIガバナンス・セキュリティ統合オファリング「AIL Governance X」を提供開始 - rbbtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWUwtMnNJWkY1UWpvS0lIMFpmWHpfQnRCbWVSemhQMVBsN2NhTjJ4aUxxc3dDMTRCRy1oX0RPX19jVFpkOXM4MjNjU2ZIeVQtTTRYSGNNaEJzdENxTGJfaTBJbHpINWJQRlAzSjhLdkUwTGVheEU4eQ?oc=5",
+      "description": "生成AIへの情報漏えいを止める。AI Librarium、AIガバナンス・セキュリティ統合オファリング「AIL Governance X」を提供開始&nbsp;&nbsp;rbbtoday.com",
+      "source": "rbbtoday.com",
+      "publishedAt": "2026-09-08T19:10:02.000Z"
+    },
+    {
+      "title": "Rhysida、ベルリンのmega leakで5.26TBの機密データ流出 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnZsNUJoOXRubHFBQmtGNGs0TFdwUnF6VXFlenIxcjViNUhOVHowYXdidC1vbGtrSEZ2OWNIcmdVNFRGQXE3Tzd4OXFvb3duYmYwREQxdHU4M2JrRTAxM0QzNDNsRlhMZWFIU0Q0bnZTeXB6YWFlY3U2aWlRWW9hdXVUQ0Q?oc=5",
+      "description": "Rhysida、ベルリンのmega leakで5.26TBの機密データ流出&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-08T17:05:42.000Z"
+    },
+    {
+      "title": "美容医療アプリ「カンナムオンニ」不正アクセスで個人情報漏えい 日本利用者 約4.8万人に影響、相談写真・施術情報も対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVJOZXF1eUw1bjJ6ajlheGlCVXd5UnlNQWdFR0p3bkJ0VmlJWDhuS0RjQ3l0Tkg3S2UyRDFsUTdLNkQ3Ul83WS1lc2laNHdlMTFaenRRRkx5LUhFQnJRanFwZ0NEelFNblFBVkJDSHhsblFKaWZCcHllMXRET0RpTy1NbzJqMDFBdS1CcW53Zw?oc=5",
+      "description": "美容医療アプリ「カンナムオンニ」不正アクセスで個人情報漏えい 日本利用者 約4.8万人に影響、相談写真・施術情報も対象&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-07T18:30:08.000Z"
-    },
-    {
-      "title": "AIサイバー攻撃能力が「致命的」水準に到達…OpenAI・Anthropicはアクセス制限、韓国は「亀の歩み」 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yN2NvVnJjdXlfY19ZY2hjNUZGY2hPZWxsRnJSM0w3d3JYal85ZXRia1J5N2RCNHI3S2YyNHJNdFlWWHo5M1hVMHplZjk0blEyXzdHeV9jOWpkTEswOG10MjlEZmRoVFRTTGI3YTl3VWhSZ1c5?oc=5",
-      "description": "AIサイバー攻撃能力が「致命的」水準に到達…OpenAI・Anthropicはアクセス制限、韓国は「亀の歩み」&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-07T10:05:00.000Z"
+      "publishedAt": "2026-09-08T12:07:04.000Z"
     }
   ]
 }
