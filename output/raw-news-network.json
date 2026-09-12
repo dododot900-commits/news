@@ -2,10 +2,24 @@
   "topic": "network",
   "articles": [
     {
+      "title": "デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW9zMUFZejNzZHF5TjBrQjB0U3o1X0tQMkJwcXFtY2t4ZXVOOC1jYktfSHgzRUtYQ0hjX0tzWERVcktHZHMtS2J4bkJxS3laRm9mY1hqempIQ2h2LTdtOUw5NUE4LW1lbnMxTDBxV0xmMG1DdnNOWDFMZkt5ZTctdmE2UkdGcUlpYlBiS1J3?oc=5",
+      "description": "デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-11T03:50:54.000Z"
+    },
+    {
       "title": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZDLUFqelRkZHpiM2JOWlRiSm5MNGdfLWtjS1I5NW53M3dqcmVJUHhJMmtuc1A1TS1abDRSN0RGU201UmM2QkttQlFxY3FSRjVKY0N5UXoxc3JPYTlRY2JMNkp2RHNwNVBLSU95U0ZFWEp4UEU4YjNIZnduSVlPd29RaGhGLTAtWnpVQWtiRQ?oc=5",
       "description": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-10T23:00:29.000Z"
+    },
+    {
+      "title": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS - t.co",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9OZ19GU2NWY3lROUxhMG5HT0diSzBFcDhPMVRqQmFSamkzZGxOM1FtaVdfaEpmVVI5bXV3?oc=5",
+      "description": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS&nbsp;&nbsp;t.co",
+      "source": "t.co",
       "publishedAt": "2026-09-10T23:00:29.000Z"
     },
     {
@@ -23,10 +37,10 @@
       "publishedAt": "2026-09-02T11:29:39.000Z"
     },
     {
-      "title": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ja2VyajNMSzdsZ19ZMjFWdVppRGFqaDZVekt3SzRGMVBUMjZPZFJ1Q1ZBWFQtWXhKWGQ1UkFZa28tUG5BM1dSTnNjX2pPTDg?oc=5",
-      "description": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引&nbsp;&nbsp;アットプレス",
-      "source": "アットプレス",
+      "title": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40TVRGUGxUT2NCZk9FdlY2Y3ZYalVoVERCQklVZy1UQ0lKem5hTjBDYTNRUWU0LUs5RUVicUNJQVNVcW5WOWxN?oc=5",
+      "description": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
       "publishedAt": "2026-08-28T07:00:00.000Z"
     },
     {
@@ -51,25 +65,11 @@
       "publishedAt": "2026-08-19T13:22:20.000Z"
     },
     {
-      "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - fortunebusinessinsights.com",
+      "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
-      "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;fortunebusinessinsights.com",
-      "source": "fortunebusinessinsights.com",
+      "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
+      "source": "Fortune Business Insights",
       "publishedAt": "2026-08-17T07:00:00.000Z"
-    },
-    {
-      "title": "フォーティネット、SASEアウトポスト機能を内蔵した「FortiGate 1200G」ファイアウォールを発表 - BigGo ファイナン���",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ORlNqdFZpZW02UVpGbG5qM3RBVjdLMnNjRngzQlJQWThTam9KWFktejBHWUs5UkRzUlVDVUY4QlI4STU5V0llNHRzQTZ6MkNnS25Qelk4aXZZZGNjU1AzRWhCYXNQbGNLUHlDS2czNVhuNzhU?oc=5",
-      "description": "フォーティネット、SASEアウトポスト機能を内蔵した「FortiGate 1200G」ファイアウォールを発表&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-17T07:00:00.000Z"
-    },
-    {
-      "title": "銀行界の宿願テーマ…vs証券「ファイアウォール規制」の緩和は波乱含み（森岡英樹／経済ジャーナリスト） - article.auone.jp",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ZC1rTmF2U2NNZVR2NTZhLWpPSEhwcUUyQUF1ejVGdGl3ODI0SmhNbWFsUW5SdUJ6R2JWUHp2WlFoQkVvTjJkVWlJSzVkSVVpSkZQN1JFaTRZSGI4Z2M4TTFSWG01N1p3ZFRLdlpiU1dQY2xRSHFudA?oc=5",
-      "description": "銀行界の宿願テーマ…vs証券「ファイアウォール規制」の緩和は波乱含み（森岡英樹／経済ジャーナリスト）&nbsp;&nbsp;article.auone.jp",
-      "source": "article.auone.jp",
-      "publishedAt": "2026-08-10T07:00:00.000Z"
     }
   ]
 }
