@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-13",
     "2026-09-12",
     "2026-09-11",
     "2026-09-10",
@@ -16229,7 +16230,678 @@
           "downCount": 0
         }
       ]
+    },
+    "2026-09-13": {
+      "date": "2026-09-13",
+      "generatedAt": "2026-09-13T00:32:03.740Z",
+      "stats": {
+        "new": 32,
+        "followup": 1,
+        "skipped": 27
+      },
+      "articles": [
+        {
+          "id": "security-1789259452520-0-0",
+          "title_en": "Citrix製品の一部に深刻な脆弱性、すぐさまバージョンアップと侵害有無の確認を—国家サイバー統括室 - GemMed",
+          "title": "Citrix製品に深刻な脆弱性、国家サイバー統括室が即時のアップデートと被害確認を警告",
+          "summary": "Citrix製品の一部で深刻な脆弱性が発見され、国家サイバー統括室が速やかな対応を呼びかけています。利用組織に対しては、最新バージョンへのアップデートおよび侵害ログの確認が強く推奨されています。未対応の場合、重大なサイバー攻撃に繋がるリスクがあります。",
+          "importance": "高",
+          "keywords": [
+            "Citrix",
+            "脆弱性",
+            "サイバーセキュリティ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "GemMed",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DdTJQM1kzVFBMV3h4RnVLVDVubHoyNDZmUU1Ta3hvMkhrNFFjdVgzajI2YWxrd2lSWXBfVWFodTJJNnlheDdQUw?oc=5",
+          "publishedAt": "2026-09-12T23:48:33.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1789259452520-0-1",
+          "title_en": "Deathray がWebページからMacをフリーズ、Appleは脆弱性と認めず - Pasquale Pillitteri",
+          "title": "「Deathray」攻撃がWebページ経由でMacをフリーズさせるも、Appleは脆弱性と認めず",
+          "summary": "Web���ージを閲覧するだけでMacをフリーズさせる攻撃手法「Deathray」が報告されました。しかし、Appleはこの現象をセキュリティ上の脆弱性としては認定していない状況です。ユーザーや研究者の間では、今後の影響や対応についての議論が広がっています。",
+          "importance": "高",
+          "keywords": [
+            "Apple",
+            "Mac",
+            "Deathray"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdU9pbTJvaHZMZHJTZV9qdXhrUmt0NVhHQTNlaWNBMFdWRFFkLTRwbnhTRGthQlhHS1c4MzFMalVtaEVXUWk5dndIaXBzWC1jT1dMQ1h4OElWYXNLZ3phTG1MTENTNWdCcng4d0U1cjREQm04Ymh6S1NnMGxHUQ?oc=5",
+          "publishedAt": "2026-09-12T14:02:21.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1789259452520-0-2",
+          "title_en": "ClopがHarley-Davidsonへの攻撃を主張、Windchillの脆弱性で270GB流出か - Pasquale Pillitteri",
+          "title": "ランサムウェアグループ「Clop」がハーレーダビッドソンへの攻撃を主張、270GBのデータ流出か",
+          "summary": "サイバー犯罪グループ「Clop」が、ハーレーダビッドソンへのサイバー攻撃を実施したと主張しています。Windchillの脆弱性を悪用したとされ、約270GBの機密データが流出した可能性があります。被害規模や影響についての調査と関心が高まっています。",
+          "importance": "高",
+          "keywords": [
+            "Clop",
+            "ハーレーダビッドソン",
+            "情報流出"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjZlSjVtdzM2X3RGOV9BUVFKMS16d3YzSUNkQ1VoYktwbHpBaVdQQU1GSEpmc2w4UkxrZmZtcmo0aWFfUWI3bVU1eE9oTm9ZdTdFYmxkU3owZmRSYVZ0X2VOVDRYR2xtQ3AxOVJ5ZVhGVjRxQlo5MEtKZWktdGxuVktWX0s4R2xhVHpTbGVDRm9ZSkxn?oc=5",
+          "publishedAt": "2026-09-12T13:26:01.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1789259452520-0-3",
+          "title_en": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったか｜入口はCVSS「中」の脆弱性 - innovaTopia",
+          "title": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったのか：侵入経路はCVSS「中」の脆弱性",
+          "summary": "デジタル庁のGSS（政府共通標準システム）で発生した不正アクセス事件の原因について解説しています。侵入口となったのは危険度が「中」レベル（CVSS基準）と判定されていた脆弱性でした。CVSSスコアが低くても深刻な侵入につながるリスクを示しており、運用面の課題が浮き彫りになっています。",
+          "importance": "高",
+          "keywords": [
+            "デジタル庁",
+            "不正アクセス",
+            "CVSS"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "innovaTopia",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS0VSbk1McXdYTkI5QndDOGdYLXN3Q2tqZVlkd0tHNzVReGtTbVpLTjlpR3g4cjZZSF9CZkJ0cG1qMERCZkotOWpVOTVjcGVwbTMzRVA1TzRYbnk1NTVjYXlnT19XU21VdHF0bmRNSllSak0?oc=5",
+          "publishedAt": "2026-09-12T06:29:17.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "security-1789259452520-0-4",
+          "title_en": "メールマーケティングプロバイダーの情報漏洩後、仮想通貨取引顧客が詐欺師の標的に - Malwarebytes",
+          "title": "メールサービス提供元の情報漏洩に伴い、暗号資産取引所の顧客がフィッシング詐欺の標的に",
+          "summary": "メールマーケティングプロバイダーからの顧客情報漏洩を受け、暗号資産取引所の利用者が詐欺師の標的となっています。漏洩したメールアドレスなどを悪用したフィッシング詐欺攻撃が急増しています。対象の顧客に対して、注意喚起と不審なメールへの警戒が呼びかけられています。",
+          "importance": "高",
+          "keywords": [
+            "情報漏洩",
+            "暗号資産",
+            "フィッシング詐欺"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Malwarebytes",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWpCeHluWmdrTjRzY0hzSFhKZlotN3pna2FyUk9pNkpnMzl2Y3lCT1NKZVhkb0ZZaF9yOUhaUUdhemtDYWJDZGJMeUpoWVVaZnAwVXNiUXd0NnJFVU5ocVNXV3NyMWI5bGQxc0ZyaEFtSG5iSEs0bGEtU2xkS0ZjYU01eGp3UDctWkNpc3BxbnRORlhCUWtHR2tfVXdVV21ySTBPTXBpaUsxcGNMY1p5ZlpaUkZDUThWLWkxR2tKSXdWZU0?oc=5",
+          "publishedAt": "2026-09-11T18:56:03.000Z",
+          "topic": "security",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1789259452520-0-5",
+          "title_en": "CrowdStrike Holdings CEOのジョージ・カーツ氏、約419万ドル相当の自社株を売却 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "title": "クラウドストライク最高経営責任者（CEO）のジョージ・カーツ氏、約419万ドル相当の自社株を売却",
+          "summary": "クラウドストライク・ホールディングスのCEOであるジョージ・カーツ氏が、約419万ドル相当の自社株を売却したことが判明しました。インサイダー取引の開示情報に基づくもので、市場関係者の関心を集めています。経営陣の株式売却動向として注目されています。",
+          "importance": "中",
+          "keywords": [
+            "CrowdStrike",
+            "自社株売却",
+            "ジョージ・カーツ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UWnVSTnY5d2xZTlZ6MUtSX3paaTZzQXZzeTJ0S1E1c1h4Q3lNRm14TU9hRUJNLTNXcjJzQXBNcW9oay1IaU1qTW9BT0NRTk9Hc2U5RXdLUk9NVExFT0J6Q3UybEVfNG9kZ2ZncGtrdGRsdWdvcXpsLUNONA?oc=5",
+          "publishedAt": "2026-09-12T01:46:00.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1789259452520-0-6",
+          "title_en": "WedbushがCrowdStrike Holdingsの株式カバレッジを開始、アウトパフォーム評価 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "title": "米ウェドブッシュ、クラウドストライクの株式カバレッジを開始し「アウトパフォーム」と評価",
+          "summary": "金融機関のWedbushがセキュリティ大手クラウドストライク・ホールディングスの株式調査を開始しました。同社に対する投資判断を強気の「アウトパフォーム（市場平均勝ち）」と設定しています。セキュリティ市場における同社の優位性と成長可能性が評価されています。",
+          "importance": "中",
+          "keywords": [
+            "CrowdStrike",
+            "Wedbush",
+            "株式評価"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvVnRqQm9UbmxMaENHR2NiY19WdzJ2eXU2WWJCT2J6T1B2MVRTN1plVUZWcU9UTzVqRkpiaFYyUFFxYlJibnF0OEllbk8wMFFzWnQ1VjFGQkI0NEJ1cWo1QzQtcGpLYm1xWmI3bHFBVHN4X0E3?oc=5",
+          "publishedAt": "2026-09-10T21:19:00.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1789259452520-0-7",
+          "title_en": "CrowdStrikeがシティの2026年グローバルTMT会議でAI主導の成長を強調 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "title": "クラウドストライク、シティ主催のグローバルTMT会議でAI主導による成長戦略を強調",
+          "summary": "クラウドストライクがシティ主催の2026年グローバルTMT会議に登壇し、自社の成長戦略を発表しました。人工知能（AI）を活用したセキュリティソリ���ーションが今後の事業成長を牽引することを強調しました。同社の最新テクノロジーと市場展開に期待が高まっています。",
+          "importance": "中",
+          "keywords": [
+            "CrowdStrike",
+            "AI技術",
+            "企業戦略"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KcTU3R2FkSHZPdHZ5enhZVjVwNEoxREFZNW9ac0JBWHdqT1k5RFB1V1Vrby12MFdvTUVjNHRkZ09ZVE4xcWY4QXRqQVdlOEVaczVrRFdFNi1kSXk1Vm9pTlkxZ2FiNDFmMHFXMFNUUQ?oc=5",
+          "publishedAt": "2026-09-10T17:15:14.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1789259470090-1-0",
+          "title_en": "NVIDIA と CrowdStrike がエージェント型サイバーセキュリティの最前線を強化 - NVIDIA | Japan Blog",
+          "title": "NVIDIAとCrowdStrikeがエージェント型サイバーセキュリティの最前線を強化",
+          "summary": "NVIDIAとCrowdStrikeが連携し、エージェント型サイバーセキュリティの強化に取り組むことを発表しました。AI技術を活用することで、高度化するサイバー脅威への迅速かつ効果的な対応を目指します。",
+          "importance": "中",
+          "keywords": [
+            "NVIDIA",
+            "CrowdStrike",
+            "サイバーセキュリティ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "NVIDIA | Japan Blog",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xR0xTbF85THhTb2tKbXZWZ00yX1oxamJLOEpxQ1BTbGF4MnRfdDl0RzBfTncybERXWDNRazgxVV9mRUwxdGlHWkpXUXdZN056U2Z0eVk0RVVEeFdlYzhVcy1aRGROajRZdmVsUnhfUkdGdw?oc=5",
+          "publishedAt": "2026-09-10T02:01:35.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259470090-1-3",
+          "title_en": "生成AIの利用実態とコストを可視化し、企業のAI活用リスクに備える - PR TIMES",
+          "title": "生成AIの利用実態とコストを可視化し、企業のAI活用リスクに対応する新取り組み",
+          "summary": "企業における生成AIの利用状況やコストを可視化する取り組みが紹介されています。AI運用の実態を把握することで、セキュリティやシャドーAI、費用増大などのリスク抑制を目指します。",
+          "importance": "中",
+          "keywords": [
+            "生成AI",
+            "コスト可視化",
+            "ガバナンス"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tTTk0QzVIU3JkMlhpWFpVV3pDY0ZBMS1fZmE5OEVwWVFlYjhvZXl1Ylk1UklMaTJBUmowb1Nacm84cmc0aWN0bEFtOWxPVW9mSUNjQVI3LVhmVWlNWXQzWkVHR1lrVU1tQWc?oc=5",
+          "publishedAt": "2026-09-10T06:30:01.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259470090-1-6",
+          "title_en": "JR西日本中国メンテック、法人向け生成AI「ChatSense」を全社導入 | 株式会社ナレッジセンスのプレスリリース - PR TIMES",
+          "title": "JR西日本中国メンテック、法人向け生成AI「ChatSense」を全社導入",
+          "summary": "JR西日本中国メンテックがナレッジセンスの法人向け生成AI「ChatSense」を全社導入しました。業務効率化や社員の生産性向上を目的に活用を進める計画です。",
+          "importance": "中",
+          "keywords": [
+            "JR西日本中国メンテック",
+            "ChatSense",
+            "生成AI導入"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uYkQ2S1gxOU96QmZuY3puN05FV3ZkaFJyMmNueDRkUXB0UlZQeG1sd283R2hKUkE4YXMtODlRS1FzSXNXaHg4U3NKTS1oMHdIM0NJM1QxU0ItS2N1R3gwZFF4S0pGdGw3SUE?oc=5",
+          "publishedAt": "2026-09-10T01:00:02.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259470090-1-7",
+          "title_en": "IIJ、企業の生成AI導入・運用を伴走支援する新サービスを提供 Dify連携など2メニューを展開 - クラウド Watch",
+          "title": "IIJ、企業の生成AI導入・運用を伴走支援する新サービスを提供開始",
+          "summary": "IIJが企業の生成AI導入および運用を伴走型で支援する新サービスの提供を開始しました。Dify連携などを含む2つのメニューを用意し、安全かつスムーズなAI活用を後押しします。",
+          "importance": "中",
+          "keywords": [
+            "IIJ",
+            "生成AI",
+            "Dify"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "クラウド Watch",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MEF1a0wtTVRMRVotVnV0aEVrR0VYXzZOcWRLSC1JVmxyUklUYXUzV2x0d3VnZjc2V1kzT0xpZnFTSERZTUFRRWZQa0lnYURPWTdYVDctcnpNY2pVVjZSWlA4MzhQV3c?oc=5",
+          "publishedAt": "2026-09-10T01:00:00.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259497681-2-0",
+          "title_en": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力 - thinkit.co.jp",
+          "title": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力",
+          "summary": "生成AIの導入が進む中で、単にツールを導入するだけでは十分な成果が得られない現状が指摘されています。企業には業務改善や価値創出へ繋げるための具体的な実装力と運用体制が求められています。",
+          "importance": "中",
+          "keywords": [
+            "生成AI",
+            "企業実装力",
+            "業務活用"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "thinkit.co.jp",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OdzVrYUZPMkM0aFNVX1YzdUwwTno3cFhYUnFvOU9pX0pJb3ZKX0JYaU1JdjhQTWtES1dzT2V6NVZJTWFQN2ZZdjJQVQ?oc=5",
+          "publishedAt": "2026-09-09T11:40:50.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259497681-2-1",
+          "title_en": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介 - SHIFT AI",
+          "title": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介",
+          "summary": "日本国内で生成AI事業を展開する主要企業18社を、大手企業から新興ベンチ���ーまで幅広く紹介しています。各企業の強みや提供サービスなど、最新の業界動向がまとめられています。",
+          "importance": "中",
+          "keywords": [
+            "生成AI",
+            "国内企業",
+            "ベンチャー"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "SHIFT AI",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTWdwd3BpWmY4a3A0NDhQLWZzRE0zc3dFU2hod2tYOFhsUER0T1ZrMnVCQi0yNjVVZVhzMTdJTUpyc2FLR0RMOQ?oc=5",
+          "publishedAt": "2026-09-09T07:00:00.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1789259497681-2-6",
+          "title_en": "Palo Alto Networks’ Q4 Earnings Crossed $20 Billion in RPO. Next Year’s Guide Tells a Different Story. - TIKR.com",
+          "title": "パロアルトネットワークスの第4四半期決算は残存パフォーマンス義務（RPO）が200億ドルを突破、一方で来期の見通しは異なる様相に",
+          "summary": "Palo Alto Networksの第4四半期決算にて、残存パフォーマンス義務（RPO）が200億ドルを超獲する好業績が記録されました。一方で、来期の業績見通し（ガイダンス）については慎重な予測が示されており、市場の関心を集めています。",
+          "importance": "中",
+          "keywords": [
+            "Palo Alto Networks",
+            "決算発表",
+            "業績見通し"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV19uNldnYVJfV1d6cER2YUE5cEVDOWJvanFzdWVBNUlhYVNXSjVTRmY2UEx5bmZYMVhtSF9FbDFDMVRHZWdmemRuQ0xEN3htWTA5Y1M3LU9vV0JvUmU2SEV0aHh0TmJQdWZmNGhJcW1WTE5QUXhXRUlkbGNEYnlkUElVb2x3WUtrd1F2OXROd1h4OU5ZRlJMOExZUGdfWDFnSFRwdW9xclJSTUFES1NSeWdPR0JGZnNldDhueXRrUmpvcHli?oc=5",
+          "publishedAt": "2026-09-02T11:29:39.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1789259497681-2-7",
+          "title_en": "フォーティネット、SASEアウトポスト機能を内蔵した「FortiGate 1200G」ファイアウォールを発表 - BigGo ファイナンス",
+          "title": "フォーティネット、SASEアウトポスト機能を内蔵した「FortiGate 1200G」ファイアウォールを発表",
+          "summary": "フォーティネットは、SASEアウトポスト機能を標準内蔵した新世代のファイアウォール製品「FortiGate 1200G」を発表しました。本製品により、企業は拠点間のセキュアなネットワーク接続と効率的なセキュリティ運用を同時に実現できます。",
+          "importance": "��",
+          "keywords": [
+            "フォーティネット",
+            "FortiGate 1200G",
+            "SASE"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ORlNqdFZpZW02UVpGbG5qM3RBVjdLMnNjRngzQlJQWThTam9KWFktejBHWUs5UkRzUlVDVUY4QlI4STU5V0llNHRzQTZ6MkNnS25Qelk4aXZZZGNjU1AzRWhCYXNQbGNLUHlDS2czNVhuNzhU?oc=5",
+          "publishedAt": "2026-08-17T07:00:00.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1789259515206-3-0",
+          "title_en": "ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用 - 合同会社ロケットボーイズ",
+          "title": "ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用",
+          "summary": "ソディックがサーバーへの不正アクセスに関する調査結果を公表しました。ネットワーク機器の脆弱性が悪用されたことが原因であると判明しています。",
+          "importance": "高",
+          "keywords": [
+            "ソディック",
+            "不正アクセス",
+            "脆弱性悪用"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "合同会社ロケットボーイズ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmVXWFVyMHNRZEFrWHVyRWZ5ekdHWFZhQTQ0eVUzR25CamYyLU9VZHQxN2g2OFJmeEpWcFh1cGlLOWhocy1CTVpSSW1mckQtM25CZzh3TGtmT2k3S1VOYzFtckt0RHRmaHAwRUlKN0dYdXNTWXZ3R18tRGpwTy1PckRyTFJ2d05pNkpvSlQ2cDNIMVdfUC04dlVOd1FBZ20zempJU3RXSQ?oc=5",
+          "publishedAt": "2026-08-06T07:00:00.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-1",
+          "title_en": "アイティクラウドとSecureNavi、日本SaaSの「信頼」を成長につなげる共同企画を開始 - ニコニコニュース",
+          "title": "アイティクラウドとSecureNavi、日本SaaSの「信頼」を成長につなげる共同企画を開始",
+          "summary": "アイティクラウドとSecureNaviが共同企画を開始しました。国内SaaSプロダクトの信頼性を高めることで、企業の事業成長を支援することを目指します。",
+          "importance": "中",
+          "keywords": [
+            "アイティクラウド",
+            "SecureNavi",
+            "SaaS"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ニコニコニュース",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zdS02cmEyNUZHWDAyZEp2NzU2Xzh5cXlHUjBaZkV1bFdsM2ZCa0lWajYzUVB0eHM0RGhmNGhNekthNlFiZ3FHZmE3aXdlcUZmRmVXM1NMMmp2aGFGY3VUZ2VXMVRVa09RU1lBRnF4b3VLaGJld2c?oc=5",
+          "publishedAt": "2026-09-04T04:30:50.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-2",
+          "title_en": "「業務を知る人も、AIをつくる人。」Workato、企業で働くAIを共創する「Agentic AI Hackathon - ニコニコニュース",
+          "title": "「業務を知る人も、AIをつくる人。」Workato、企業で働くAIを共創する「Agentic AI Hackathon」を開催",
+          "summary": "Workatoが「Agentic AI Hackathon」の開催を発表しました。業務知識を持つ現場の人々とエンジニアが連携し、実用的なAIエージェントの共創を目指します。",
+          "importance": "中",
+          "keywords": [
+            "Workato",
+            "Agentic AI",
+            "ハッカソン"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ニコニコニュース",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94VkNyTjRFbDlaZFFOcUt3WFE3bXp5QXZvZGhYVl9CRHVMSEktZEFPa2xsbmFRMXp2dGx6YTlqeVBCbXV4RkhFeVRVM0ZnbkJtWVJrMw?oc=5",
+          "publishedAt": "2026-09-02T12:30:20.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-3",
+          "title_en": "「GMOトラスト・ログイン」、導入SaaSの管理と統制を支援する「台帳機能」をリリース【GMOグローバルサイン】 - ASCII.jp",
+          "title": "「GMOトラスト・ログイン」、導入SaaSの管理と統制を支援する「台帳機能」をリリース",
+          "summary": "GMOグローバルサインがシングルサインオンサービス「GMOトラスト・ログイン」にて「台帳機能」の提供を開始しました。企業内で利用されているSaaSの一元管理とガバナンス強化を支援します。",
+          "importance": "中",
+          "keywords": [
+            "GMOトラスト・ログイン",
+            "SaaS管理",
+            "台帳機能"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ASCII.jp",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Wa0dNMHdtSVJWemdRUXAtOWFEVklRZlBaVmRaU0NxY2hTY0Z1TTc0Z2xiQlpCeWdWdFhoVnlrX3RoNzZ3cmx5eGt1NU5nZHVnRWlORA?oc=5",
+          "publishedAt": "2026-08-26T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-5",
+          "title_en": "企業のAI・DX推進を支える『AI白書2026』発売、年間を通じて最新動向を届けるデジタル・サブスクも同日開始 - PR TIMES",
+          "title": "企業のAI・DX推進を支える『AI白書2026』発売、年間を通じて最新動向を届けるデジタル・サブスクも同日開始",
+          "summary": "企業のAIおよびDX推進を支援する『AI白書2026』が発売されました。同日より、最新のAI技術や市場動向を年間通じて配信するデジタルサブスクリプションサービスも開始されています。",
+          "importance": "中",
+          "keywords": [
+            "AI白書2026",
+            "DX推進",
+            "サブスクリプション"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Gb05udzlrNzdqczVkXzhLenZKSjZrRXVncHNoZThadkFoVkIxZ2F4YkNaZjFiS2JnbkdWaUZja3A0Q0J3TUpqeVhVcmg2aHFWWm5mbUdzbGtna0ctWWFzazFvcWhHY294Z1E?oc=5",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-6",
+          "title_en": "企業のAI・DX推進を支える『AI白書2026』発売、年間を通じて最新動向を届けるデジタル・サブスクも同日開始 - ニコニコニュース",
+          "title": "企業のAI・DX推進を支える『AI白書2026』発売、年間を通じて最新動向を届けるデジタル・サブスクも同日開始",
+          "summary": "企業のAI・DX推進を目的とした『AI白書2026』が刊行されました。最新の動向をタイムリーに配信するデジタル版のサブスクリプション提供も同時に開始されています。",
+          "importance": "中",
+          "keywords": [
+            "AI白書2026",
+            "DX推進",
+            "デジタルサービス"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ニコニコニュース",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRHdrRGJZOWV5N2d4bDFvTUtQb3h4eTNtZ21HTTd4bFVwdlh5TGpFZlRlUUNxWHlJcGJUbUFOc2ZNcFNraUMtWEFyU1hkeTV0X1NrNw?oc=5",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-7",
+          "title_en": "favy、モバイルオーダー・サブスクSaaS導入企業向けに「FDE型」の個社カスタム開発サービスを提供開始 - PR TIMES",
+          "title": "favy、モバイルオーダー・サブスクSaaS導入企業向けに「FDE型」の個社カスタム開発サービスを提供開始",
+          "summary": "favyがモバイルオーダーおよびサブスクSaaSを導入する企業向けに「FDE型」カスタム開発サービスの提供を開始しました。各社の個別ニーズに合わせた機能開発を柔軟に支援します。",
+          "importance": "中",
+          "keywords": [
+            "favy",
+            "モバイルオーダー",
+            "カスタム開発"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Jeml0dHdhYWFQUm5VV0V0Tkt2Ny1Nb1NkU1F0cTFrSFpZb2FybTJjSFZJVGhOdjhTcThuMWx2TUx0RzNLTG0tcm1IdFBlYmNCZ0daclI4X1g2OFdGbVlFRkJuQmNYekNiLUE?oc=5",
+          "publishedAt": "2026-08-12T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259523740-4-0",
+          "title_en": "大企業の6分の1のシステム予算で立ち向かう、サミットの「もみくちゃDX」 - マイナビニュース",
+          "title": "大企業の6分の1のシステム予算で立ち向かう、サミットの「もみくちゃDX」",
+          "summary": "食品スーパーのサミットが、大企業のわずか6分の1という限られたシステム予算の中でDX（デジタルトランスフォーメーション）を推進する取り組みについて紹介しています。現場主導で泥臭く試行錯誤を重ねながら、効率的なシステム活用と業務改革に挑む企業戦略を示しています。",
+          "importance": "中",
+          "keywords": [
+            "DX",
+            "サミット",
+            "IT予算"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hcXpsUXN5M3FLckkwTVVkeDBUeTFLazNFamM1bnVxdlpxTVlMd041T3liT3NNTGxodnJlZG5zS1R5ZUtueGpfU2tHc05MN0xCeFhERFVTdUg5djFzVC1paG1QdUlxZTJS?oc=5",
+          "publishedAt": "2026-08-07T07:00:00.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "vendor-1789259470090-1-1",
+          "title_en": "CrowdStrike Holdings CEO ジョージ・カーツ氏、420万ドル相当の自社株を売却 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "title": "CrowdStrikeのジョージ・カーツCEO、420万ドル相当の自社株を売却",
+          "summary": "CrowdStrike HoldingsのCEOであるジョージ・カーツ氏が、約420万ドル相当の自社株を売却したこ���が明らかになりました。経営幹部による定期的な資産売却の一環とみられます。",
+          "importance": "低",
+          "keywords": [
+            "CrowdStrike",
+            "自社株売却",
+            "ジョージ・カーツ"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1MUtXc2ZCc3BCc1gwMHc0bnd1SUNxVzB0SmpNNjNHSDVfbkRDQWtuVzQ0ZkxjbjdXbFNETjhQSkVsRnNGQTZCVm9EUzkzaURvT1JYSjdQaXpRcG4xQzRXOUdiUllHbzVjc1hGVzZrODFrdVd5NWpqN0NIbw?oc=5",
+          "publishedAt": "2026-09-10T01:16:00.000Z",
+          "topic": "vendor",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259470090-1-2",
+          "title_en": "日本パブリッククラウド市場、2035年156,300.6百万米ドルへ成長｜CAGR 11.88％、生成AI・IaaS・エッジ需要が市場を加速 - Newscast.jp",
+          "title": "日本のパブリッククラウド市場、2035年までに1,563億ドル規模へ成長予測",
+          "summary": "日本のパブリッククラウド市場が2035年までに156,300.6百万米ドル規模へ拡大するとの予測が発表されました。生成AIやIaaS、エッジコンピューティングの需要増が市場成長を強力に後押ししています。",
+          "importance": "低",
+          "keywords": [
+            "パブリッククラウド",
+            "市場予測",
+            "生成AI"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Newscast.jp",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKa2E0Q1REUVpyZWMxVzUxOFMyZ3RPS21WbDBaRTlNUHFiMXhSQmVOcHk0TEdmTmFuQmFGeWRHU2UybGRkYTE4TVFXWXJOWjg?oc=5",
+          "publishedAt": "2026-09-11T00:35:00.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259470090-1-4",
+          "title_en": "“割に合わない”AI導入、どう回避？　キホンを歴14年のPKSHAに聞いた - Infoseek",
+          "title": "“割に合わない”AI導入の回避法、PKSHAが語る基本ノウハウ",
+          "summary": "AI開発・導入実績を持つPKSHAが、費用対効果の低いAI導入を避けるためのポイントを解説しています。導入目的の明確化や段階的な検証プロセスの重要性が強調されています。",
+          "importance": "低",
+          "keywords": [
+            "AI導入",
+            "費用対効果",
+            "PKSHA"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdk4xdGZtbXVpUGZmR2pTY0FrMzM1TEg3T01KRXplMTFPWkdONnFCRXRuQUhaS2RNUDFsS3M1U2lvTHpDNUlUYTI2cDJjLVUxRlgwYzQzbTlPOTFQdlVubTYwWGYzVUxBcWNtSnAzejlkSmlEanV4MWJaRFR1eE3SAX9BVV95cUxQTHZOMXRmbW11aVBmZkdqU2NBazMzNUxIN09NSkV6ZTExT1pHTjZxQkV0bkFIWktkTVAxbEtzNVNpb0x6QzVJVGEyNnAyYy1VMUZYMGM0M205TzkxUHZVbm02MFhmM1VMQXFjbUpwM3o5ZEppRGp1eDFiWkRUdXhN?oc=5",
+          "publishedAt": "2026-09-10T03:05:08.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "ai-1789259470090-1-5",
+          "title_en": "生成AI全社定着わずか50.5％！双日テックイノベーション『大企業におけるAI PoC定着に関する実態調査』 - Dtimes",
+          "title": "大企業における生成AIの全社定着率は50.5％にとどまる実態調査",
+          "summary": "双日テックイノベーションの調査により、大企業での生成AI全社定着率が50.5％にとどまることが判明しました。PoC（概念実証）段階から実業務への定着に向けた課題が浮き彫りとなっています。",
+          "importance": "低",
+          "keywords": [
+            "生成AI",
+            "PoC",
+            "定着率"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Dtimes",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tejhTcVkzS01vWjZGc1FqZE5qY0hDWGxKUHVwRWhxSWdOR3RfODR6UTRyWGxfTV9vbkhZNFVuSW1rUlowanc?oc=5",
+          "publishedAt": "2026-09-10T01:04:56.000Z",
+          "topic": "ai",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "cloud-1789259497681-2-2",
+          "title_en": "日本のAIデータセンターGPU市場の需要、市場シェア、トレンド、成長機会、および市場インサイト分析（洞察分析）、202 - ニコニコニュース",
+          "title": "日本のAIデータセンターGPU市場の需要、市場シェア、トレンド、成長機会、および市場インサイト分析（202x年）",
+          "summary": "日本国内におけるAIデータセンター向けGPU市場の需要、シェア、成長機会に関する分析結果が発表されました。生成AIの急速な普及に伴い、データセンター向けインフラ需要が大幅に拡大している背景が分析されています。",
+          "importance": "低",
+          "keywords": [
+            "データセンター",
+            "GPU市場",
+            "市場分析"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ニコニコニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kMm92RzJPcy1mMUdnOTduRS1MODFpMUpTbm9xa2plbGlndHA0MmdVNUh5M1c0eXpUbHh5VUtEU3ZBVTB0UTRSU25sVG05blpObVdDa3JWbFRwblY2UHF0TmVoclJfR294?oc=5",
+          "publishedAt": "2026-09-11T01:03:25.000Z",
+          "topic": "cloud",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "cloud-1789259497681-2-3",
+          "title_en": "日本パブリッククラウド市場、2035年156,300.6百万米ドルへ成長｜CAGR 11.88％、生成AI・IaaS・エッジ需要が市場を加速 - Newscast.jp",
+          "title": "日本のパブリッククラウド市場、2035年に1,563億ドルへ成長｜CAGR 11.88%、生成AI・IaaS・エッジ需要が市場を加速",
+          "summary": "日本のパブリッククラウド市場が2035年までに約1,563億ドル規模へ成長するとの予測が発表されました。生成AIやIaaS、エッジコンピューティングなどの需要拡大が市場全体の成長を強力に牽引しています。",
+          "importance": "低",
+          "keywords": [
+            "パブリッククラウド",
+            "市場予測",
+            "IaaS"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Newscast.jp",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKa2E0Q1REUVpyZWMxVzUxOFMyZ3RPS21WbDBaRTlNUHFiMXhSQmVOcHk0TEdmTmFuQmFGeWRHU2UybGRkYTE4TVFXWXJOWjg?oc=5",
+          "publishedAt": "2026-09-11T00:35:00.000Z",
+          "topic": "cloud",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1789259497681-2-4",
+          "title_en": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル・CAGR 17.67%へ｜Web攻撃高度化とクラウド化が促す次世代WAF需要の拡大 - Newscast.jp",
+          "title": "日本のWebアプリケーションファイアウォール市場、2035年に18億8,250万ドル・CAGR 17.67%へ｜Web攻撃高度化とクラウド化が促す次世代WAF需要の拡大",
+          "summary": "日本のWebアプリケーションファイアウォール（WAF）市場が2035年に約18億8,250万ドル規模に拡大するとの予測が示されました。サイバー攻撃の高度化とシステムのクラウド化に伴い、次世代WAF製品への需要が高まっています。",
+          "importance": "低",
+          "keywords": [
+            "WAF",
+            "セキュリティ市場",
+            "クラウド化"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "Newscast.jp",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yYkNFX1J0cGo1UTBxUkoweFpMS256dEItODFWdTdkSTBseDNfME5mTnNDM050YUEyb0tNbzhqQnhwZlFJRHc4?oc=5",
+          "publishedAt": "2026-09-12T01:00:00.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "enterprise-1789259515206-3-4",
+          "title_en": "Gemini Enterprise Agent Platform| SaaS／業務システムの比較・紹介| ITセレクト - ITmedia",
+          "title": "Gemini Enterprise Agent Platform｜SaaS／業務システムの比較・紹介",
+          "summary": "ITmediaのITセレクトにて「Gemini Enterprise Agent Platform」の紹介と製品比較が掲載されました。企業のAIエージェント導入に向けた機能概要が提供されています。",
+          "importance": "低",
+          "keywords": [
+            "Gemini Enterprise",
+            "AIエージェント",
+            "SaaS比較"
+          ],
+          "is_followup": false,
+          "progress": null,
+          "source": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuMWVOWWhKWlU2M05oV1FBSDFQdjFGd0c4N0NFRnowR2FFeXNOd0NTM0xnM1lvMGJ5Y3Mtb25BM2VxZVJsY2tfenNlZU9ubFRva19OMkFadVBtalU0?oc=5",
+          "publishedAt": "2026-08-23T08:15:23.000Z",
+          "topic": "enterprise",
+          "upCount": 0,
+          "downCount": 0
+        },
+        {
+          "id": "network-1789259497681-2-5",
+          "title_en": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS - 合同会社ロケットボーイズ",
+          "title": "パロアルトネットワークス、PAN-OSの脆弱性 CVE-2026-0310を修正｜PAシリーズで未認証root RCE、VMシリーズではDoSのリスク",
+          "summary": "Palo Alto Networksは、PAN-OSに存在する重大な脆弱性（CVE-2026-0310）の修正情報を公開しました。PAシリーズでの未認証によるリモートコード実行（RCE）やVMシリーズでのサービス拒否（DoS）を引き起こす恐れがあるため、早期のアップデー��が推奨されています。",
+          "importance": "高",
+          "keywords": [
+            "Palo Alto Networks",
+            "PAN-OS",
+            "脆弱性"
+          ],
+          "is_followup": true,
+          "progress": "続報: 前回から更新あり",
+          "source": "合同会社ロケットボーイズ",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZDLUFqelRkZHpiM2JOWlRiSm5MNGdfLWtjS1I5NW53M3dqcmVJUHhJMmtuc1A1TS1abDRSN0RGU201UmM2QkttQlFxY3FSRjVKY0N5UXoxc3JPYTlRY2JMNkp2RHNwNVBLSU95U0ZFWEp4UEU4YjNIZnduSVlPd29RaGhGLTAtWnpVQWtiRQ?oc=5",
+          "publishedAt": "2026-09-10T23:00:29.000Z",
+          "topic": "network",
+          "upCount": 0,
+          "downCount": 0
+        }
+      ]
     }
   },
-  "lastUpdated": "2026-09-12T00:50:39.479Z"
+  "lastUpdated": "2026-09-13T00:32:03.740Z"
 }

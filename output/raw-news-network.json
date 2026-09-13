@@ -2,6 +2,13 @@
   "topic": "network",
   "articles": [
     {
+      "title": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル・CAGR 17.67%へ｜Web攻撃高度化とクラウド化が促す次世代WAF需要の拡大 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yYkNFX1J0cGo1UTBxUkoweFpMS256dEItODFWdTdkSTBseDNfME5mTnNDM050YUEyb0tNbzhqQnhwZlFJRHc4?oc=5",
+      "description": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル・CAGR 17.67%へ｜Web攻撃高度化とクラウド化が促す次世代WAF需要の拡大&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-09-12T01:00:00.000Z"
+    },
+    {
       "title": "デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW9zMUFZejNzZHF5TjBrQjB0U3o1X0tQMkJwcXFtY2t4ZXVOOC1jYktfSHgzRUtYQ0hjX0tzWERVcktHZHMtS2J4bkJxS3laRm9mY1hqempIQ2h2LTdtOUw5NUE4LW1lbnMxTDBxV0xmMG1DdnNOWDFMZkt5ZTctdmE2UkdGcUlpYlBiS1J3?oc=5",
       "description": "デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -13,13 +20,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZDLUFqelRkZHpiM2JOWlRiSm5MNGdfLWtjS1I5NW53M3dqcmVJUHhJMmtuc1A1TS1abDRSN0RGU201UmM2QkttQlFxY3FSRjVKY0N5UXoxc3JPYTlRY2JMNkp2RHNwNVBLSU95U0ZFWEp4UEU4YjNIZnduSVlPd29RaGhGLTAtWnpVQWtiRQ?oc=5",
       "description": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-10T23:00:29.000Z"
-    },
-    {
-      "title": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS - t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9OZ19GU2NWY3lROUxhMG5HT0diSzBFcDhPMVRqQmFSamkzZGxOM1FtaVdfaEpmVVI5bXV3?oc=5",
-      "description": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS&nbsp;&nbsp;t.co",
-      "source": "t.co",
       "publishedAt": "2026-09-10T23:00:29.000Z"
     },
     {
@@ -51,25 +51,25 @@
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
-      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず 1枚目の写真・画像 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Xa1BPNV9aMmVkazRpRm5WdkpUcU1wR05IUG4xREV5UHF0TlA2TlFFcjNHdU83NzcyQUM0TG5FVmJ5VFZ2RlZfbi03QWw0dTI0a3A4Y2dpd29BTVE2MXE5bERsTXFNVDYxdlBDal9oa3JpMjhJLTFjYWd3?oc=5",
-      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず 1枚目の写真・画像&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
-    },
-    {
-      "title": "Palo Alto Networks、Anthropic、OpenAI、OTベンダーを招き、重要インフラ防御を強化 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmJNaVh5YzhJeTVSZ2hVeXRPbHp2WnhQLVZGX1FMQ1VnT2lDMjA4VEh4a05pS1d0eGlJcFNPWGRYRDV4MlBNNndvSWhZVi1RVWFrSVlDWWNLZVlxZDRyOUE2ZnZLOGZXdjNYY3JWODZ3WUpvZXpDbmpydHpSRmluMDZ5XzdNWktqR0MtazVvelR5QlJzN09Jc2E3WTJQSkFyek5JV1NKZG80N1JnZTkxOVBpaGd4bWhXVmRV?oc=5",
-      "description": "Palo Alto Networks、Anthropic、OpenAI、OTベンダーを招き、重要インフラ防御を強化&nbsp;&nbsp;Unite.AI",
-      "source": "Unite.AI",
-      "publishedAt": "2026-08-19T13:22:20.000Z"
-    },
-    {
-      "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
+      "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - fortunebusinessinsights.com",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
-      "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
-      "source": "Fortune Business Insights",
+      "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;fortunebusinessinsights.com",
+      "source": "fortunebusinessinsights.com",
       "publishedAt": "2026-08-17T07:00:00.000Z"
+    },
+    {
+      "title": "フォーティネット、SASEアウトポスト機能を内蔵した「FortiGate 1200G」ファイアウォールを発表 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ORlNqdFZpZW02UVpGbG5qM3RBVjdLMnNjRngzQlJQWThTam9KWFktejBHWUs5UkRzUlVDVUY4QlI4STU5V0llNHRzQTZ6MkNnS25Qelk4aXZZZGNjU1AzRWhCYXNQbGNLUHlDS2czNVhuNzhU?oc=5",
+      "description": "フォーティネット、SASEアウトポスト機能を内蔵した「FortiGate 1200G」ファイアウォールを発表&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-08-17T07:00:00.000Z"
+    },
+    {
+      "title": "ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmVXWFVyMHNRZEFrWHVyRWZ5ekdHWFZhQTQ0eVUzR25CamYyLU9VZHQxN2g2OFJmeEpWcFh1cGlLOWhocy1CTVpSSW1mckQtM25CZzh3TGtmT2k3S1VOYzFtckt0RHRmaHAwRUlKN0dYdXNTWXZ3R18tRGpwTy1PckRyTFJ2d05pNkpvSlQ2cDNIMVdfUC04dlVOd1FBZ20zempJU3RXSQ?oc=5",
+      "description": "ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-08-06T07:00:00.000Z"
     }
   ]
 }

@@ -2,11 +2,39 @@
   "topic": "security",
   "articles": [
     {
-      "title": "デジタル庁GSSに不正アクセス｜個人情報24.6万件が漏えいの可能性 - innovaTopia",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81NEgtT04yTHJka0pvdG55eDNfal8xOU9PZThUck1XOUtMZFJNeHBpQlRiMUIxNWsyd2VXSFQ3U1lfR0daY2pwT2RXWWJuZkxIcmxOTnkwWWV5ODhWcUJ4RDAtWF9HM05VT0FjZ2oyTXo3U1k?oc=5",
-      "description": "デジタル庁GSSに不正アクセス｜個人情報24.6万件が漏えいの可能性&nbsp;&nbsp;innovaTopia",
+      "title": "Citrix製品の一部に深刻な脆弱性、すぐさまバージョンアップと侵害有無の確認を—国家サイバー統括室 - GemMed",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DdTJQM1kzVFBMV3h4RnVLVDVubHoyNDZmUU1Ta3hvMkhrNFFjdVgzajI2YWxrd2lSWXBfVWFodTJJNnlheDdQUw?oc=5",
+      "description": "Citrix製品の一部に深刻な脆弱性、すぐさまバージョンアップと侵害有無の確認を—国家サイバー統括室&nbsp;&nbsp;GemMed",
+      "source": "GemMed",
+      "publishedAt": "2026-09-12T23:48:33.000Z"
+    },
+    {
+      "title": "Deathray がWebページからMacをフリーズ、Appleは脆弱性と認めず - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdU9pbTJvaHZMZHJTZV9qdXhrUmt0NVhHQTNlaWNBMFdWRFFkLTRwbnhTRGthQlhHS1c4MzFMalVtaEVXUWk5dndIaXBzWC1jT1dMQ1h4OElWYXNLZ3phTG1MTENTNWdCcng4d0U1cjREQm04Ymh6S1NnMGxHUQ?oc=5",
+      "description": "Deathray がWebページからMacをフリーズ、Appleは脆弱性と認めず&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-12T14:02:21.000Z"
+    },
+    {
+      "title": "ClopがHarley-Davidsonへの攻撃を主張、Windchillの脆弱性で270GB流出か - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjZlSjVtdzM2X3RGOV9BUVFKMS16d3YzSUNkQ1VoYktwbHpBaVdQQU1GSEpmc2w4UkxrZmZtcmo0aWFfUWI3bVU1eE9oTm9ZdTdFYmxkU3owZmRSYVZ0X2VOVDRYR2xtQ3AxOVJ5ZVhGVjRxQlo5MEtKZWktdGxuVktWX0s4R2xhVHpTbGVDRm9ZSkxn?oc=5",
+      "description": "ClopがHarley-Davidsonへの攻撃を主張、Windchillの脆弱性で270GB流出か&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-12T13:26:01.000Z"
+    },
+    {
+      "title": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったか｜入口はCVSS「中」の脆弱性 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS0VSbk1McXdYTkI5QndDOGdYLXN3Q2tqZVlkd0tHNzVReGtTbVpLTjlpR3g4cjZZSF9CZkJ0cG1qMERCZkotOWpVOTVjcGVwbTMzRVA1TzRYbnk1NTVjYXlnT19XU21VdHF0bmRNSllSak0?oc=5",
+      "description": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったか｜入口はCVSS「中」の脆弱性&nbsp;&nbsp;innovaTopia",
       "source": "innovaTopia",
-      "publishedAt": "2026-09-11T22:05:00.000Z"
+      "publishedAt": "2026-09-12T06:29:17.000Z"
+    },
+    {
+      "title": "メールマーケティングプロバイダーの情報漏洩後、仮想通貨取引顧客が詐欺師の標的に - Malwarebytes",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWpCeHluWmdrTjRzY0hzSFhKZlotN3pna2FyUk9pNkpnMzl2Y3lCT1NKZVhkb0ZZaF9yOUhaUUdhemtDYWJDZGJMeUpoWVVaZnAwVXNiUXd0NnJFVU5ocVNXV3NyMWI5bGQxc0ZyaEFtSG5iSEs0bGEtU2xkS0ZjYU01eGp3UDctWkNpc3BxbnRORlhCUWtHR2tfVXdVV21ySTBPTXBpaUsxcGNMY1p5ZlpaUkZDUThWLWkxR2tKSXdWZU0?oc=5",
+      "description": "メールマーケティングプロバイダーの情報漏洩後、仮想通貨取引顧客が詐欺師の標的に&nbsp;&nbsp;Malwarebytes",
+      "source": "Malwarebytes",
+      "publishedAt": "2026-09-11T18:56:03.000Z"
     },
     {
       "title": "EU、暗号資産ウォレット製造業者に24時間以内の脆弱性報告義務を導入 - BigGo ファイナンス",
@@ -16,24 +44,10 @@
       "publishedAt": "2026-09-11T18:26:00.000Z"
     },
     {
-      "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう） - note",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uT2lOMjNmeHhXbmdJb0NoV3hVNzBkWlphdjd4TFFEMnhlTEFYMldaVzlsN09ZV3pNd2QzQXgybGFjdGhZcHVocnYxVUxCZ3c?oc=5",
-      "description": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）&nbsp;&nbsp;note",
-      "source": "note",
-      "publishedAt": "2026-09-11T17:03:49.000Z"
-    },
-    {
-      "title": "情報セキュリティの課題 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZWZoQmVSWV9JaWlPNUhEVkxRUzR6TVRsUFlDd3l3bUc3NHF6SV95SWJHckN3UzkyR2lpcG5Zb2NMdkNnYWxHR1JWOFhweWZkYjBNeU84ZGJseDRkOFdNcVBTQzNQS0tE?oc=5",
-      "description": "情報セキュリティの課題&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-11T09:53:45.000Z"
-    },
-    {
-      "title": "チェック・ポイントが明らかにしたChatGPTのアカウント間の隠れた通信経路の脆弱性 - ニュースメディアVOIX",
+      "title": "チェック・ポイントが明らかにしたChatGPTのアカウント間の隠れた通信経路の脆弱性 - voix.jp",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ZDQ1aWlHTmNub1plZ2xTVFlqYmJYSDFlb3dhVzEyXzNkWGJ6NGc1aTlpLTBaallJcmhQbHVqUEFZSFRlQmVtRWRXc2lxWEhmd21xckh1NDRKd3ZXMnh6TllBN1JDeWlmN3RrdW5QcHlWd00?oc=5",
-      "description": "チェック・ポイントが明らかにしたChatGPTのアカウント間の隠れた通信経路の脆弱性&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
+      "description": "チェック・ポイントが明らかにしたChatGPTのアカウント間の隠れた通信経路の脆弱性&nbsp;&nbsp;voix.jp",
+      "source": "voix.jp",
       "publishedAt": "2026-09-11T06:51:07.000Z"
     },
     {
@@ -56,20 +70,6 @@
       "description": "政府システムに不正アクセス、個人情報24.6万件漏えいか 原因は「既知のVPN脆弱性」 なぜ防げなかった？&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-09-11T05:20:00.000Z"
-    },
-    {
-      "title": "Fortinet製品におけるコード実行の脆弱性を悪用し、RAT「PivotC2」が展開される（CVE-2025-25249） - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnhYbWx1VkVmZWtWbVVET0xRUHhFa1p0LXJObGNxTVc5NEFOYjNaa19kdWJrUmwteGV1QnZFeXZjb3VtT1BnZ3ltUjlfcnJSaUpEenNReW5IMjRZQ1JMWDFhNDQzYm9uT3VscExSNWVhSGI5eWdqc0dIblctSHZxakZyNUg?oc=5",
-      "description": "Fortinet製品におけ��コード実行の脆弱性を悪用し、RAT「PivotC2」が展開される（CVE-2025-25249）&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-09-11T05:08:50.000Z"
-    },
-    {
-      "title": "デジタル庁GSSに不正アクセス、職員ら約24.6万件の個人情報漏えいの可能性 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SYmNzVS1tUUlpQ1M0SG1HYmxYNVNKV1dKNzBkdHVGbVhNTUdzZXBDZ0piRWFvSzdwUW9TNWFnZEpZVlpoaG8waDRaeVBXYm1hR2VNVjh3?oc=5",
-      "description": "デジタル庁GSSに不正アクセス、職員ら約24.6万件の個人情報漏えいの可能性&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-09-11T04:27:14.000Z"
     }
   ]
 }
