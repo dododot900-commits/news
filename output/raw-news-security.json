@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "Citrix製品の一部に深刻な脆弱性、すぐさまバージョンアップと侵害有無の確認を—国家サイバー統括室 - GemMed",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DdTJQM1kzVFBMV3h4RnVLVDVubHoyNDZmUU1Ta3hvMkhrNFFjdVgzajI2YWxrd2lSWXBfVWFodTJJNnlheDdQUw?oc=5",
-      "description": "Citrix製品の一部に深刻な脆弱性、すぐさまバージョンアップと侵害有無の確認を—国家サイバー統括室&nbsp;&nbsp;GemMed",
-      "source": "GemMed",
-      "publishedAt": "2026-09-12T23:48:33.000Z"
+      "title": "ボストン・サイエンティフィック、サイバー攻撃から全面復旧 2026年業績に重大な影響見込み - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0l1MjJEalhXdWdvRThia1dZcllLWEJzZEFZWkVybWp1WFZtb1RWdnhJdjdkTjcyTGpvdzhKS3JGaV9CXzZaeXlXTk9QM05mM0RhUjhCck1xLTFiQldnaVdOWGo0YUhTRnYzMXVXQU9SV05kLUxzZWlGa3YwVlpFQTZuTEJhVnEtV2RWb3NHQQ?oc=5",
+      "description": "ボストン・サイエンティフィック、サイバー攻撃から全面復旧 2026年業績に重大な影響見込み&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-14T00:18:06.000Z"
     },
     {
-      "title": "Deathray がWebページからMacをフリーズ、Appleは脆弱性と認めず - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdU9pbTJvaHZMZHJTZV9qdXhrUmt0NVhHQTNlaWNBMFdWRFFkLTRwbnhTRGthQlhHS1c4MzFMalVtaEVXUWk5dndIaXBzWC1jT1dMQ1h4OElWYXNLZ3phTG1MTENTNWdCcng4d0U1cjREQm04Ymh6S1NnMGxHUQ?oc=5",
-      "description": "Deathray がWebページからMacをフリーズ、Appleは脆弱性と認めず&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-09-12T14:02:21.000Z"
+      "title": "2026年8月 セキュリティインシデントニュースまとめ さくらインターネット、Eストアー、イエローハットでの発生事案など - unitis.jp",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56QlBhY0g0SWEtX010aURlOE1pel9NMDFBcHktd21DNURSTTdnb3NDTkZrRmU0bnh5TG5yT0FlcUhrZUY4NnFKOQ?oc=5",
+      "description": "2026年8月 セキュリティインシデントニュースまとめ さくらインターネット、Eストアー、イエローハットでの発生事案など&nbsp;&nbsp;unitis.jp",
+      "source": "unitis.jp",
+      "publishedAt": "2026-09-14T00:00:33.000Z"
     },
     {
-      "title": "ClopがHarley-Davidsonへの攻撃を主張、Windchillの脆弱性で270GB流出か - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjZlSjVtdzM2X3RGOV9BUVFKMS16d3YzSUNkQ1VoYktwbHpBaVdQQU1GSEpmc2w4UkxrZmZtcmo0aWFfUWI3bVU1eE9oTm9ZdTdFYmxkU3owZmRSYVZ0X2VOVDRYR2xtQ3AxOVJ5ZVhGVjRxQlo5MEtKZWktdGxuVktWX0s4R2xhVHpTbGVDRm9ZSkxn?oc=5",
-      "description": "ClopがHarley-Davidsonへの攻撃を主張、Windchillの脆弱性で270GB流出か&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-09-12T13:26:01.000Z"
+      "title": "Cloudbase は、もう「クラウド」のためだけのセキュリティ製品ではない ～ Lead Product Engineer 佐藤琢斗 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bd19jVUVqM052ZVBLS09GQ2Y3WGZZdGcwVm9qOWFCbHhDOFRocTNVTkdXVTIzSFFkdC1GcnRUQVhPVjZjX01MOEtaejVpdHhHOElqMjRXaUhVV1QzNHpBUF9FOTlKZ210UEZ5Qg?oc=5",
+      "description": "Cloudbase は、もう「クラウド��のためだけのセキュリティ製品ではない ～ Lead Product Engineer 佐藤琢斗&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-13T23:15:02.000Z"
     },
     {
-      "title": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったか｜入口はCVSS「中」の脆弱性 - innovaTopia",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS0VSbk1McXdYTkI5QndDOGdYLXN3Q2tqZVlkd0tHNzVReGtTbVpLTjlpR3g4cjZZSF9CZkJ0cG1qMERCZkotOWpVOTVjcGVwbTMzRVA1TzRYbnk1NTVjYXlnT19XU21VdHF0bmRNSllSak0?oc=5",
-      "description": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったか｜入口はCVSS「中」の脆弱性&nbsp;&nbsp;innovaTopia",
-      "source": "innovaTopia",
-      "publishedAt": "2026-09-12T06:29:17.000Z"
+      "title": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性（ScanNetSecurity） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLVdLZ0tteDZ5OHZjSGpYNDQ4aDlLbEJSYWhCMlp1WHJ2RWJ2TENtS3UxeWl3YXlERXVUZ2ZjQl9XczZBZ2dfc0FzREZBSE9xUUNmcDNzT056RUpLUVZaWlhFUDZJZ0dXVW51TGlRLW9sQ3VGMDhoVHFaYlJFaEU?oc=5",
+      "description": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性（ScanNetSecurity）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-13T23:05:13.000Z"
     },
     {
-      "title": "メールマーケティングプロバイダーの情報漏洩後、仮想通貨取引顧客が詐欺師の標的に - Malwarebytes",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWpCeHluWmdrTjRzY0hzSFhKZlotN3pna2FyUk9pNkpnMzl2Y3lCT1NKZVhkb0ZZaF9yOUhaUUdhemtDYWJDZGJMeUpoWVVaZnAwVXNiUXd0NnJFVU5ocVNXV3NyMWI5bGQxc0ZyaEFtSG5iSEs0bGEtU2xkS0ZjYU01eGp3UDctWkNpc3BxbnRORlhCUWtHR2tfVXdVV21ySTBPTXBpaUsxcGNMY1p5ZlpaUkZDUThWLWkxR2tKSXdWZU0?oc=5",
-      "description": "メールマーケティングプロバイダーの情報漏洩後、仮想通貨取引顧客が詐欺師の標的に&nbsp;&nbsp;Malwarebytes",
-      "source": "Malwarebytes",
-      "publishedAt": "2026-09-11T18:56:03.000Z"
+      "title": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZU5XRGJPaXgwc1BSMk84cjUzSmljQ1M1bUp6dkwwc29mMXBGV21iaHZINzRINGpkMy1ZR1phc0t2TGczdWRsV3JnS0hhaldEYVJLRUlCZ09MdHF1NnVabWhCYVFvcHpMekZ6MA?oc=5",
+      "description": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-13T23:05:13.000Z"
     },
     {
-      "title": "EU、暗号資産ウォレット製造業者に24時間以内の脆弱性報告義務を導入 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tTGpUNWY1dmZuWVJNZ1Exa3ZWaS1xWTFfZDYycjhEMzBOVXFoWXljRnVucm5NeHhIbnlxNldSZjZPa3JZS2oycjRUNWF6Z0dSM0JNVXVmeXZDV1MtdmU5SFFMTHNiYWh4VmwyT3FGTU94U1RI?oc=5",
-      "description": "EU、暗号資産ウォレット製造業者に24時間以内の脆弱性報告義務を導入&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-11T18:26:00.000Z"
+      "title": "「ファンくる」にリスト型攻撃、2 アカウントで不正なポイント交換を確認 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EUE1mcFJ2OTFOeUdSdndxbG84b3JaZDdWV3RJQUdRcS0zOGx0Skx4Vzd4MDMyWmh1MHk4YmVMcFowWmVMNkh6cGg3NHhVblRvS2d4V3NRdzMweFcxcE5uSHo5UHpKOFV4WWdBTg?oc=5",
+      "description": "「ファンくる」���リスト型攻撃、2 アカウントで不正なポイント交換を確認&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-13T23:05:11.000Z"
     },
     {
-      "title": "チェック・ポイントが明らかにしたChatGPTのアカウント間の隠れた通信経路の脆弱性 - voix.jp",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ZDQ1aWlHTmNub1plZ2xTVFlqYmJYSDFlb3dhVzEyXzNkWGJ6NGc1aTlpLTBaallJcmhQbHVqUEFZSFRlQmVtRWRXc2lxWEhmd21xckh1NDRKd3ZXMnh6TllBN1JDeWlmN3RrdW5QcHlWd00?oc=5",
-      "description": "チェック・ポイントが明らかにしたChatGPTのアカウント間の隠れた通信経路の脆弱性&nbsp;&nbsp;voix.jp",
-      "source": "voix.jp",
-      "publishedAt": "2026-09-11T06:51:07.000Z"
+      "title": "Weverseサービスにセキュリティ脆弱性、韓国インターネット振興院から連絡 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rcVB5ZFlCUldicjNZeTdEM3pxXzc5THU2Q0VYZFRjVW9iSnVJdDlZTDBQbDk1YlZkQ3NfSEo1T0lVOTUtQWxNejdfenhuVmx1VUdZU1pCQ3M3dVA5bU01eEI4QTZqdWhtQ2dwMA?oc=5",
+      "description": "Weverseサービスにセキュリティ脆弱性、韓国インターネット振興院から連絡&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-13T23:05:05.000Z"
     },
     {
-      "title": "デジタル庁のGSSに不正アクセス、約24万6000件の個人情報が漏えいした可能性 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TGpSbVlUdUR2dXY5NmNHNjFMU0Jra1VqS0tlQmhvZG12U1NEZF9mU2pXMUI5MktQR3M1cWwyclNRdE81VUFMM2x2UEU5SldSMThJU1JtM3pzdUl1UmVVQnoydFBBNGJP?oc=5",
-      "description": "デジタル庁のGSSに不正アクセス、約24万6000件の個人情報が漏えいした可能性&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-09-11T06:47:32.000Z"
+      "title": "TRUNK 従業員のメールアカウントに不正アクセス、不審メール送信も確認 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lS3FzcXE4ZmV3d0E3UEJvYmJkNE5FTHEtT3B3QjFOQnliM3Ywc0sxT0RCUE5OZUlvYjBnSU5hLVQtbkJsMW50ajVaOWxPODVNWnRUZVpoNDdvSy1FUk9tNmZTMFd1N1RPV1JwVA?oc=5",
+      "description": "TRUNK 従業員のメールアカウントに不正アクセス、不審メール送信も確認&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-13T23:05:03.000Z"
     },
     {
-      "title": "Jensen Huang氏「AIの次なる市場はサイバーセキュリティ」…Nvidiaの新たな勝負手 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xV1NBdU5YWEZZRWFrc1FfVGFDWUhIZFo2WkhGdFlfQnZTelU4TU1qcTFpcktVbjJkNFdkWFBZVUNTbmt3UEVTTy0ybzhLLVA2ZG9mM1hlMHN2VlRyZkxnd19la3IzZjZRWEpRal9UQVpycmdX?oc=5",
-      "description": "Jensen Huang氏「AIの次なる市場はサイバーセキュリティ」…Nvidiaの新たな勝負手&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-11T05:36:00.000Z"
+      "title": "極東開発工業の子会社 日本トレクスで不正アクセス-ランサムウェア グループが犯行声明 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGlyeEM3UkJhNnNXaXRpU3pPeVlnMU1vTW1JYjRGVkt2RS1yRDdGQ1AzbFIzanRjUEVRRXpHNUtWOHA5U0p3R2FKZGlCQlE5bDEtYkZlQkFOQUQxcVM3ajV0Q1RTSmlmdW5zdWZudVpIOGVlOXZCeUV5VG40azc2VndZVnZROW55M2ZnVTl3?oc=5",
+      "description": "極東開発工業の子会社 日本トレクスで不正アクセス-ランサムウェア グループが犯行声明&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-13T22:30:25.000Z"
     },
     {
-      "title": "政府システムに不正アクセス、個人情報24.6万件漏えいか 原因は「既知のVPN脆弱性」 なぜ防げなかった？ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xcFVaZnF4Q1ZqbXNPbEVyREJGd3pnSHZsb29XM3FEUWNyeFpNU3hIazAta2hhU2hPWDQyUngtckJsNXRwY3FJM2pHd2Y5RHFDMkhpTWR1d3F2blhvcGNKT2NnQlBLY1FKN19WQ3llSG02Zw?oc=5",
-      "description": "政府システムに不正アクセス、個人情報24.6万件漏えいか 原因は「既知のVPN脆弱性」 なぜ防げなかった？&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-09-11T05:20:00.000Z"
+      "title": "『【情シス部長・CISO向け】ダークウェブに漏洩した認証情報を把握していますか？』というテーマのウェビナーを開催 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tMHlLNV9Sckk0Qjd5dzd0ZzBzVm82QnRxZE5jMXdqNTRZVEtLcWF6c1JtSGd0bVVWU1FuOUNUUEd0ZlFwejd3TWtQN1VVUk1WT2F1R0RGT2JKakhPSjNxMm1obXRSTm1OU2JIclJUVWFHUQ?oc=5",
+      "description": "『【情シス部長・CISO向け】ダークウェブに漏洩した認証情報を把握していますか？』というテーマのウェビナーを開催&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-09-13T13:40:00.000Z"
     }
   ]
 }
