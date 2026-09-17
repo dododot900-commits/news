@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "相次ぐ情報漏洩ニュースに見る、企業を狙う「現代のスパイ」の手口と防衛線 - 東京報道新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVG04M3A0aHRMSTJ1czRxMzJtUHc3LWRVVkUzSlJSaERTdGhhcjBudUU0dmNiM1pNMl82YU0wU0NkaFl5WFUzSEZobDdjS3FpSEt3?oc=5",
-      "description": "相次ぐ情報漏洩ニュースに見る、企業を狙う「現代のスパイ」の手口と防衛線&nbsp;&nbsp;東京報道新聞",
-      "source": "東京報道新聞",
-      "publishedAt": "2026-09-16T00:00:20.000Z"
-    },
-    {
-      "title": "『【ランサムウェア対策】SSL VPN/老朽化したネットワーク機器が、攻撃の侵入口に』というテーマのウェビナーを開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ReU5OS21PNmNTUU5UWWMwVndkemRxdERLVnE3U2lJeTB2Zkd1YmhuZmJEWTFPYlRYdzFtNjgxREdVWmRjMDNpa2dRdnNUSDRxUG1jeUZiNHA3ay1yMUZyLTlOcWMtNC1xTmc?oc=5",
-      "description": "『【ランサムウェア対策】SSL VPN/老朽化したネットワーク機器が、攻撃の侵入口に』というテーマのウェビナーを開催&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-16T00:00:01.000Z"
-    },
-    {
-      "title": "保育園運営のさくらさくみらいが利用す���クラウドサービス事業者に不正アクセス、一部サーバのパスワード情報が流出した可能性 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82NnBnMmhmRzVEeDl3M3Z5ZUhQdi13RlBSWjlkR3c2M1hicEdyck9QVmJEaW9IVXBURzNDOEhOWTZoUDJRdWF2cVBNdV9fTXp1aExGN2o0VUZvMnYyUUpYQzd6NFpmazBJMjNmcw?oc=5",
-      "description": "保育園運営のさくらさくみらいが利用するクラウドサービス事業者に不正アクセス、一部サーバのパスワード情報が流出した可能性&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-09-15T23:05:05.000Z"
-    },
-    {
-      "title": "イラン反体制派の情報流出　政敵弾圧にサイバー攻撃か - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wMFlvU29TdGsxbk5PMnNubjNfR29RQ1QxNHlScEJUWjdobGpLQU13X1FkM0luTVpwNk1ERUFFUVhGZE15LW9kNUtsV1g1Z2tBdjFCWjRITlRzVk9PRmpKNHFtUVI2Rld5Q1lLSWJQRdIBdEFVX3lxTE9BbHJNWWl4OUhteElfd2NJMXA3N19HTEt1cWhESno3NnBjU0RZWEw2VEhRbXJ1Y2FnUEJEcUhFWEYyTDNjdXFYM29Ob2o3UGdyYjFEWC13eHJNZkVTV255V0NHV0ZDeDRmMWpxdlgzMHM2Qm1V?oc=5",
-      "description": "イラン反体制派の情報流出　政敵弾圧にサイバー攻撃か&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-09-15T20:59:31.000Z"
-    },
-    {
-      "title": "生命保険協会、3万7,929件の個人情報が閲覧可能になった原因はゲストユーザーへの参照権限付与ミス - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXFJMVFjakc4eVFvRmhiN2wtMXlyMnFIMEFkMk1tR01mRlBET1QyS24zWlFhdkUycEFENHdtTl9zMzdCSC1HTU96Umo0ZTFQRExCVVBsUHlyd3FTaVY4TTA1aTk5ZlhiWE53RG1WY2hZUVpqdDB4YUwtUC1ycUg3Q2MtLVlkLUc5Zm55cmZFQ0ROSDlWMnlGbQ?oc=5",
-      "description": "生命保険協会、3万7,929件の個人情報が閲覧可能になった原因はゲストユーザーへの参照権限付与ミス&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "スコア・ジャパン、Webサイトへの不正アクセスでトップページ改ざん 検索経由で無関係サイトへ誘導 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM2U2bk93ai1GZzM3M3UzWHkxY2R0UGpDcllEUExOcVFtMkl4THJKTGZHZWp3Q3BubHB6VkFjLWRfcjdOa3VCeEJQTjlLU191TzA4SjRYRG1hV2NDYWtESE1HbjJDOFJWUGtLcGtQSFNqd3VyWTg1T0h6YmNsaU5sSHZLRTAtODdzXzIw?oc=5",
+      "description": "スコア・ジャパン、Webサイトへの不正アクセスでトップページ改ざん 検索経由で無関係サイトへ誘導&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-15T20:00:12.000Z"
+      "publishedAt": "2026-09-17T00:30:55.000Z"
     },
     {
-      "title": "「最大の脆弱性は従業員」が8割 AI活用で深まるCISOの孤立と苦悩：増員なきAI推進に悲鳴を上げる防衛現場 - techtarget.itmedia.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mUWRMWVB3VVhmWXhJMUlZWTFtcllHZW1ZWHZlZjdzaXpVODV3RENYbmhTa1JzT2hnQ0RlTnAtQ1dEbHVuVTFxV01NWG5MdFpSdGVEWl93SC1nRnBPandRYXZfcmwtdWl2U3FhTllCZkw?oc=5",
-      "description": "「最大の脆弱性は従業員」が8割 AI活用で深まるCISOの孤立と苦悩：増員なきAI推進に悲鳴を上げる防衛現場&nbsp;&nbsp;techtarget.itmedia.co.jp",
-      "source": "techtarget.itmedia.co.jp",
-      "publishedAt": "2026-09-15T20:00:00.000Z"
+      "title": "Gyazoに不正アクセス、ユーザー情報約2,362万件と画像メタデータ約4.9億件が流出 - innovatopia.jp",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpUDdaLU5PTzdGMzlXUTg5V0lHeUhVeFdRdmZRQXRxT1pQRF9TZEVGdkkzbG9SdVpnUEhXYUE4RkRCNV91RGw3TFZ3WldCR0NBRzdoSU5GdjRpQVhMbm16X29FZWc4d1hmSDhXMnhMNU8wUkU?oc=5",
+      "description": "Gyazoに不正アクセス、ユーザー情報約2,362万件と画像メタデータ約4.9億件が流出&nbsp;&nbsp;innovatopia.jp",
+      "source": "innovatopia.jp",
+      "publishedAt": "2026-09-16T23:08:49.000Z"
     },
     {
-      "title": "AI生成マルウェア「PhantomRaven」が企業を攻撃、脆弱性報奨金制度も悪用 | ウクライナニュース - #Mezha - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ESWtxVkJBd0lTcEVOamo0cjZaTWRETFZtQUVyUFhCcVlVRTZzYmdJbjNYQXUtbDZEOU01NW1za3d1X25wbUVhYU5yU2RYN0w3UENzSkYzUVRnaHByaXlvUFk5SFpRNklyTUxZZg?oc=5",
-      "description": "AI生成マルウェア「PhantomRaven」が企業を攻撃、脆弱性報奨金制度も悪用 | ウクライナニュース - #Mezha&nbsp;&nbsp;Межа. Новини України.",
-      "source": "Межа. Новини України.",
-      "publishedAt": "2026-09-15T19:22:52.000Z"
+      "title": "さくらインターネットが不正アクセス調査結果を発表「さくらのレンタルサーバ」全サーバ再構築など再発防止策を掲げる - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94VlZ1WDBnUTBXT0J4cy16TU9Nd1J3MzNhc2J0VlJLbVlHOVdZdEdlVWtHZmptd3FNekVqaVRpel9sbnduZjNpalBHREh5djBCRk5ETEZuWExKSlFMLXRfcUVqQ1NTQzNza2lsQw?oc=5",
+      "description": "さくらインターネットが不正アクセス調査結果を発表「さくらのレンタルサーバ」全サーバ再構築など再発防止策を掲げる&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-16T23:05:20.000Z"
     },
     {
-      "title": "AIが攻撃時間を「マイナス7日」に圧縮 JPMorgan：サイバーセキュリティ需要は2027年に加速顕在化へ - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hY19IbWpPaTAzdzhDbXdlVVVaTFBoVVhGbzhqTTdmVWJma2hfaWM2NWhzbDllODFpMmswZHhJN29iUU5ZMnVNOEJiUjk0Q05ZOFRjS0ZBcFBySGlPV1REX3I4dmFTOGlNcmRPZ0h1LWNWRGsy?oc=5",
-      "description": "AIが攻撃時間を「マイナス7日」に圧縮 JPMorgan：サイバーセキュリティ需要は2027年に加速顕在化へ&nbsp;&nbsp;finance.biggo.jp",
-      "source": "finance.biggo.jp",
-      "publishedAt": "2026-09-15T18:36:00.000Z"
+      "title": "データベース内の全てのデータを削除 ～「コープやまぐちLINEミニアプリ」に不正アクセス - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QzUwM0p3eGtVZkJVdjktVUFobWw1YXdUX0o2OEh6T29PTzZzX1NLX1dxLVFDNFM0VFh3U2RkQW0xT0lWcHJXUW4tWjMtZnc4Y0FvRUI3c2tCa0xscVJmXzNFY2ZtZk5SOE1KUg?oc=5",
+      "description": "データベース内の全てのデータを削除 ～「コープやまぐちLINEミニアプリ」に不正アクセス&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-16T23:05:17.000Z"
     },
     {
-      "title": "S2W、OpenAI主導のグローバルサイバーセキュリティ・イニシアティブ「Daybreak」に参画 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUXhaMEEyZWsybXVocEhCcW9FVnZHcDdLR3ZTaFBZa0hBRV9aSVVZeWNnVWVLUXNQNE4ySzBieThWSkZMLWtvd0dndmdCVC1iTy0wWkFzbFNzaTZYMjZVWGZKV3BzTE9M?oc=5",
-      "description": "S2W、OpenAI主導のグローバルサイバーセキュリティ・イニシアティブ「Daybreak」に参画&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-09-15T18:15:27.000Z"
+      "title": "表示された連絡先に電話 指示に従いパソコン操作 ～ 大田区民プラザでサポート詐欺被害 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaDRoV29McnZUcWtLVGgtMXYwbXdFOGJqTUR4TEFfdFpGWllsTExtVWV1TDBGbWI0cDU1WjhmNUJfY3NGTXNBWDFMNDZYbEs4bUVscTlaNXBJWUUzYVdlcDBYdDZqNDNGR1h6ZA?oc=5",
+      "description": "表示された連絡先に電話 指示に従いパソコン操作 ～ 大田区民プラザでサポート詐欺被害&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-16T23:05:15.000Z"
     },
     {
-      "title": "アルファネット、AIとホワイトハッカーによるハイブリッド脆弱性診断サービスを提供開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sbDlIZU9BdS1GWF9qUW1tdUZyWWpRVlZKZWxBcGQ2RUVVeXpIYnFnRWtrX01KRlVDZlB4Mi0tYWxUdFVCaWxlZ2Y5WHJGb0ZZd3F1WVNVcGRwUEZUb1pVOHZ3aHRXYXNadjNkdHY3cklaZw?oc=5",
-      "description": "アルファネット、AIとホワイトハッカーによるハイブリッド脆弱性診断サービスを提供開始&nbsp;&nbsp;Infoseek",
+      "title": "プラグインの脆弱性を悪用 ～ 「洛西進学教室」「進学館」に不正アクセス - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5SlROaHhyOFg1Mzh5Ulh2Y2M2em9sX2lfUUZNOG9CelJUOGZOY3V1LUp3ZHljX0hNTFJHUEYwdldTUkFsYy16Z2s4SlNkekhLeVJNTC04Q1BKYUpJVnpXeUVzZUlpQURxRVpVbg?oc=5",
+      "description": "プラグインの脆弱性を悪用 ～ 「洛西進学教室」「進学館」に不正アクセス&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-16T23:05:13.000Z"
+    },
+    {
+      "title": "コロナが施工情報を管理するクラウドサービスに不正アクセス、最大35,000名分の個人情報が漏えいした可能性 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4d0RrRjRjOGpWX1l4bFZ6Wk50WFpzam1lWVlmYjhsSVJsY183SUtodVMzMkc3a3U0RVhTWEhqWWZTdU8tM3Z6ZldWaDc3YjJmVGxxNVFFSXlCcUhva1k1VWJqUDJfUUZiWmFqVw?oc=5",
+      "description": "コロナが施工情報を管理するクラウドサービスに不正アクセス、最大35,000名分の個人情報が漏えいした可能性&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-16T23:05:11.000Z"
+    },
+    {
+      "title": "ランサムウェアは「暗号化より先にバックアップを消す」、OS標準機能の悪用が前月比7割増〜Halcyonがレポート - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jeEpGM2UwM0VQWGtGMGxOQWZoWTBUdnNSbENPdjVrck5lMXNETWt4elZub2ZZYndZcDBBZlR6NWpET2VrRGdWZjJRbUFROEJseTRMRmlNYi10ZVdQeDYxMy1CWVhKX0I4cWtv?oc=5",
+      "description": "ランサムウェアは「暗号化より先にバックアップを消す」、OS標準機能の悪用が前月比7割増〜Halcyonがレポート&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-09-16T23:00:00.000Z"
+    },
+    {
+      "title": "乗っ取られたIPカメラが企業ネットワークへの侵入口に、欧州で8万7000台に悪用済みの脆弱性 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdU5FVTRCdnI1MEsza0RBenY4SWdNb0ZoOHRpQjg3N0tORktRRTA0bHZIYm9tMDlnLWxGYzJpMk1oV3ZWNERGSHVHWUhFbVFsTktZWG4xamdFeU1DcGlpNHgzamFKbWRvSE92MUZLckNrUXBCaDBnZm4xU1ZlMFIyVXhmYUVMdw?oc=5",
+      "description": "乗っ取られたIPカメラ��企業ネットワークへの侵入口に、欧州で8万7000台に悪用済みの脆弱性&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-16T17:57:50.000Z"
+    },
+    {
+      "title": "New Relic、セキュリティ脆弱性管理ソリューション「Security RX」を提供開始｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rYjlkMzR4NFFETnZaWkp4bmktWHZmQUVaM1pzdUFOSUtvQklpU0k1Qm1ZLW56TTRTTWlvaWFBX0JaT3RHZDBjOUs0WFM1WHplWUZnekRVbGU1a2s3M0NoODh6ZEItaGxOVHkzd0k0a1Nkdw?oc=5",
+      "description": "New Relic、セキュリティ脆弱性管理ソリューション「Security RX」を提供開始｜Infoseekニュース&nbsp;&nbsp;Infoseek",
       "source": "Infoseek",
-      "publishedAt": "2026-09-15T13:10:03.000Z"
+      "publishedAt": "2026-09-16T16:10:02.000Z"
     }
   ]
 }
