@@ -2,6 +2,27 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "クラウドインフラは、AI時代におけるデジタル政府の基盤である。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTlnV2p0N3l3MDUtdGRmR05YMjJDVWtFUWR4MXhoMDNGQ0FzXzhwUXN1cnVSbzgzcU1DMjBCWXhTWHh3SF9iRU5MY0dZaGtFZDVxX2JOcHQwaVB1ZndNWU9fRmdMVHhnUUlLS2NDTWVFWnk1eHhNTUQ0TWotMVU5Ym9yZm1tVE1IQXo5MnJUTDg?oc=5",
+      "description": "クラウドインフラは、AI時代におけるデジタル政府の基盤である。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-18T18:18:43.000Z"
+    },
+    {
+      "title": "株式会社KENCOPA、さくらインターネットのGPUクラウドでデジタルツイン技術を推進 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NVE9rWDNsYWJXWHpqNUptVndwUmdOSlRDOW1RVERoUjh2MDJqMzFFTktWN2h6eVhPRFVZYnFvS0xEMVFpeUN4dFVSV0NMWENmc3A1dFdXclB2QnJkQkV1U1RWWHlXQ2Jkak1hY0FsTQ?oc=5",
+      "description": "株式会社KENCOPA、さくらインターネットのGPUクラウドでデジタルツイン技術を推進&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-09-18T08:05:11.000Z"
+    },
+    {
+      "title": "グリー、ゲーム基盤のコスト効率パフォーマンスを“25％以上”向上 「CPU」をどう見直した？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJalU5bHdvWlFVMVprTTh2MVN5RGxDMUNrSGlzM2Q1ZFRYNFhfeGlqTzh4OUJkbnpsUGw4QkRyRFdDM2RsYlJaMmFIeTZsNThwZjl0VzlpQVNpMlZETWZnQjZlUkFzSTRiTkF3RldWcmc3UQ?oc=5",
+      "description": "グリー、ゲーム基盤のコスト効率パフォーマンスを“25％以上”向上 「CPU」をどう見直した？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-09-18T04:00:00.000Z"
+    },
+    {
       "title": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出 - ドリームニュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xR25pODBtbXE2U3AyaHBSei1acE0xRy1Nck5mZjhscU1oZTlnUkhteWlCQmVta24xaVVBRVA4bEM2T25BVXh0WnNFTVdWNmhhNi13?oc=5",
       "description": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
@@ -16,6 +37,13 @@
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
     {
+      "title": "NTTドコモビジネス、1GPUから利用できる従量課金制クラウド「GPUaaS」を9月30日より提供開始 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9leUQ2NXBkb3BiUG5uOGY0dHFpN1N2SjRUXzBkUV9NVGZ2Zm1VR3B5V3hTYS1YTEI1MHRTNE40Ql9yODZqMk53OUVBZWh5d1JyU3o3NzhFcnc2UXRDQ2hMc18zTXJnN1k?oc=5",
+      "description": "NTTドコモビジネス、1GPUから利用できる従量課金制クラウド「GPUaaS」を9月30日より提供開始&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-09-17T21:00:00.000Z"
+    },
+    {
       "title": "ePlus、AMD CPU を使用してよりスマートな AI インフラストラクチャを構築 - AMD",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MZ1JjcFV0UlVsX0ZDcEFzQmZGb1lCTHUyS3ZOOUdla2hnekVRb2N0eF81TExMTlQ3NUtTNl9KY0liREJEcl9yY0VwR193VWdEbkpXS2FnT3J0c1JGMVJxcFlXR19ianpVQmV3V1Y2X3hKZkw4OUVoQQ?oc=5",
       "description": "ePlus、AMD CPU を使用してよりスマートな AI インフラストラクチャを構築&nbsp;&nbsp;AMD",
@@ -23,53 +51,25 @@
       "publishedAt": "2026-09-17T14:30:02.000Z"
     },
     {
-      "title": "プライベートAIとクラウドリパトリエーションの提供が30か国以上に拡大 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeF9KZmIwOWpaYlRubTBYMVQyQm56T1ZQRFpDYlpxTE9zWVJ6Q0pOcFpuNlhfVEkzWm1SdnpfT2M2bmc3SnBoV2k3MWctWnowcmNYRlcySFJUQW5aRk5oWVNFM2w3YzEzNEJzMndpVHFjU2lBNVVKbmpPcDgyamczLVc1akcyUVpfZU9pMEpDT2ZiTkgyTTRIdlRKMXdWMGc?oc=5",
-      "description": "プライベートAIとクラウドリパトリエーションの提供が30か国以上に拡大&nbsp;&nbsp;Unite.AI",
-      "source": "Unite.AI",
-      "publishedAt": "2026-09-17T12:45:30.000Z"
+      "title": "Salesforceが世界規模でダウン、Dreamforce開催中にログインとAPIに障害 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUwyTVBlR2lMUzUxUjNSbGlkMjJLYnBTY1pkeTFBVEFaN25WZm8tVVRKSUdGbEQzVG55TUFmQm8waDkxMG9oZmhMc0ZiTVRZX3NweHRrcnhMaC1CbWF0VFk3OWRqLTIwOGZPZmJ4R0ZPeFRiUUdTYkpwQXdfNG1pdVJBSnFXR3FUSktSdDhjRVQ?oc=5",
+      "description": "Salesforceが世界規模でダウン、Dreamforce開催中にログインとAPIに障害&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-16T15:25:22.000Z"
     },
     {
-      "title": "SB C＆S、シスコと協業でAIインフラ人材育成を強化--ハンズオンメニューを拡充 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nWXl0UWdPS3BMb2FGOWIySTk3ZFVLYWFBM05mbmNGNzNKc0k0Qk1jN2hUbnVzaFB1V25ERXhFc1RrN0NxbHBvWmNfaEJjQzFxYVNZ?oc=5",
-      "description": "SB C＆S、シスコと協業でAIインフラ人材育成を強化--ハンズオンメニューを拡充&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
-      "publishedAt": "2026-09-17T07:00:00.000Z"
+      "title": "Oracleが追加の人員削減、再編費用は28億ドルに拡大　AIインフラ投資と並行 - 財経新聞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wTGhiX2ZGdm1CRml4cVU4azZ2NVFUbzZGSXc0VjF3NXA3RVNTaElYSVdKVUZaT1Q3eDdQUHZ2WW1TbDU2bXd1Wk1CUmg4cWk4YVdGeFowd0VvSGRNVkxhSGd2d9IBaEFVX3lxTE04YUtnSHdpWFAzakx1ZFd0bEp1X281cHAyWjFXbEZyR0dNNnR3aDdya0pDY3hObWF6NzNDYklzY1JNTDNmOE5CTk03eEVQR2FPU3ZGbnF4WjA3UF9ISVBHVnVCaTF6VkU5?oc=5",
+      "description": "Oracleが追加の人員削減、再編費用は28億ドルに拡大　AIインフラ投資と並行&nbsp;&nbsp;財経新聞",
+      "source": "財経新聞",
+      "publishedAt": "2026-09-16T11:08:41.000Z"
     },
     {
-      "title": "韓国Okestro、VMwareウィンバック売上高99.5%急増…AIインフラへの拡大加速 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaDd6NjB2aG14OWJfa3BCRjRsbU9wZ0Z1aVBLd01zZDFWZFJUQXF4MVNDVk1JbG1xM1F2bHotc3NFLURERFBEeW9zWXJCNmhYUjNvR0ZwV0w5d2xDeENGRndXUXJxUUVoZGFvNEFuUWNTcDRx?oc=5",
-      "description": "韓国Okestro、VMwareウィンバック売上高99.5%急増…AIインフラへの拡大加速&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-17T06:36:00.000Z"
-    },
-    {
-      "title": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTWdFVmdZZnhNWlE5bUd4UXFoTjl5M2hxb3B0bVJJbnBuSGRVR2gyX3FrLXBubTM2UG9sd2VtY293cEs0VjA4MEt4RFg2bVBVS2NseXdn?oc=5",
-      "description": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-09-17T04:51:35.000Z"
-    },
-    {
-      "title": "カンボジアデータセンターコロケーション市場、2032年に4億1,556万米ドル規模へ成長予測 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ya0x1M1RGQUZrZEVvZF9yOUozMHlpaTRnRVB1VUtocE5pUWktci1mdlpnSDliSzR1MmpHMlhxRHJCeHYyQTVzVkF0by0zdDZ3Q3pLenhnaDFoTlJSZlJuTjhiMXpuMFlv?oc=5",
-      "description": "カンボジアデータセンターコロケーション市場、2032年に4億1,556万米ドル規模へ成長予測&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-09-17T04:00:54.000Z"
-    },
-    {
-      "title": "インドデータセンター市場、2035年に313.6億米ドル規模へ拡大 ― AI・クラウド・デジタル化が次世代インフラ投資を加速 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXOFREMmxQWkZXV2JmQmRSMWxBUGh2NTJ0NEpyTHZEV3NUOVA3TVRkY01DX3lKdWlZRDcyQnlxaHpmMC1CRi05U3FlTVRPTXY2UWgwaHA0OFJ1TTlhUTVoSEM1eW02ckhG?oc=5",
-      "description": "インドデータセンター市場、2035年に313.6億米ドル規模へ拡大 ― AI・クラウド・デジタル化が次世代インフラ投資を加速&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-09-17T04:00:53.000Z"
-    },
-    {
-      "title": "日本のデータセンター向け光ファイバー市場：AIインフラの拡大、高密度ネットワーク、フォトニック接続が新たな成長機会を創出 - ドリームニュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KbFFySllYYXBoQjZFY1o5X3pIbk1GT1pndk1WVk9uS3hOZnJJcEtmZVJGTEk4cFVIc0hNOFdCbkNCSzY0a0RFMzRJczZpVjQxVlo0?oc=5",
-      "description": "日本のデータセンター向け光ファイバー市場：AIインフラの拡大、高密度ネットワーク、フォトニック接続が新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
-      "source": "ドリームニュース",
-      "publishedAt": "2026-09-17T00:30:00.000Z"
+      "title": "シーイーシー、ソブリンクラウド基盤「BizAxis IaaS」を提供開始 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAySlpZbXVZaTBfTFRjT3hIYXpLc3djemFxWGJSSXpUUjNhNlJGbDRRWkZUbW9tYnBqQ0dEZVdiR2s2NXh3NWtpbXRERGV0WUdncmRYUDNmVTJuQUFJbDd5b1JoSVBHSVU?oc=5",
+      "description": "シーイーシー、ソブリンクラウド基盤「BizAxis IaaS」を提供開始&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-09-16T04:04:00.000Z"
     }
   ]
 }
