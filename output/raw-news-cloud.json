@@ -2,18 +2,32 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正（ITmedia エンタープライズ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jbWFPc1FvaHlQQ045NjBpQjUzZDdGb1hiYUMxRmNaYVplRW1CQzc3U3FvWUdZaFVONU9uYXdGMTlBdXdaWS1KVjBTNHU3dl9LZnM1NWFHamRMaU1la0dZM05RS3RlX1dFcHBfNFdSVUwzbzB6OTN1QnpqUUdURjg?oc=5",
+      "description": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正（ITmedia エンタープライズ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-19T22:09:35.000Z"
+    },
+    {
+      "title": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約 - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90MnRmc2NkaEU5TGtvTlFfMHNLQl9ZQ3FDOUw5MTFpcHhoMXp0bXNxTFQwYlJoT255SS1QVnVvZ3BOZnBsekQ3SFIySTlySHh6blNmeUNhcUFpUkR4cFVR?oc=5",
+      "description": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約&nbsp;&nbsp;東洋経済オンライン",
+      "source": "東洋経済オンライン",
+      "publishedAt": "2026-09-19T22:00:00.000Z"
+    },
+    {
+      "title": "クラウドコンピューティング：技術選択からデジタル政府の基盤へ。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm9MWnZzZktvdjFqTW1tQzZYYkJZMlluY3BiX1VvOEwxNVBhcUVxV3h3UG1aMWhib0pWRVRYVjBaV2RQcDdZM1dRVTJ1WGVqUUw5ME04WjJSUjl3aHFLNUw1d2N6cjRsSHNqM090UjlKWlh5MzdrX3Z5bWF2a25LcHc5SXdYMUFTeXZQemx4NmFIS3QwUGd1TlVKbzFvUQ?oc=5",
+      "description": "クラウドコンピューティング：技術選択からデジタル政府の基盤へ。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-19T12:47:37.000Z"
+    },
+    {
       "title": "クラウドインフラは、AI時代におけるデジタル政府の基盤である。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTlnV2p0N3l3MDUtdGRmR05YMjJDVWtFUWR4MXhoMDNGQ0FzXzhwUXN1cnVSbzgzcU1DMjBCWXhTWHh3SF9iRU5MY0dZaGtFZDVxX2JOcHQwaVB1ZndNWU9fRmdMVHhnUUlLS2NDTWVFWnk1eHhNTUQ0TWotMVU5Ym9yZm1tVE1IQXo5MnJUTDg?oc=5",
       "description": "クラウドインフラは、AI時代におけるデジタル政府の基盤である。&nbsp;&nbsp;Vietnam.vn",
       "source": "Vietnam.vn",
       "publishedAt": "2026-09-18T18:18:43.000Z"
-    },
-    {
-      "title": "株式会社KENCOPA、さくらインターネットのGPUクラウドでデジタルツイン技術を推進 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NVE9rWDNsYWJXWHpqNUptVndwUmdOSlRDOW1RVERoUjh2MDJqMzFFTktWN2h6eVhPRFVZYnFvS0xEMVFpeUN4dFVSV0NMWENmc3A1dFdXclB2QnJkQkV1U1RWWHlXQ2Jkak1hY0FsTQ?oc=5",
-      "description": "株式会社KENCOPA、さくらインターネットのGPUクラウドでデジタルツイン技術を推進&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-09-18T08:05:11.000Z"
     },
     {
       "title": "グリー、ゲーム基盤のコスト効率パフォーマンスを“25％以上”向上 「CPU」をどう見直した？ - ITmedia",
@@ -23,6 +37,13 @@
       "publishedAt": "2026-09-18T04:00:00.000Z"
     },
     {
+      "title": "日本企業の基幹情報システムを安全にクラウドに移行 日本ティーマックスソフトがキンドリルジャパンと覚書締結 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0WDYwZ1h0SzdZWERpaE83ZjQ3ci04R1JXRHBVWUExMG5JOXdSM0gwNlB3R2ZnVTNTWjAtRUo0TF80X1Q0NnRqeklrd3BRTk41bnVaVVYzTmZVRDBCVkE?oc=5",
+      "description": "日本企業の基幹情報システムを安全にクラウドに移行 日本ティーマックスソフトがキンドリルジャパンと覚書締結&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-09-18T00:30:00.000Z"
+    },
+    {
       "title": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出 - ドリームニュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xR25pODBtbXE2U3AyaHBSei1acE0xRy1Nck5mZjhscU1oZTlnUkhteWlCQmVta24xaVVBRVA4bEM2T25BVXh0WnNFTVdWNmhhNi13?oc=5",
       "description": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
@@ -30,7 +51,7 @@
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "title": "日本の病院デジタルツイン市場：AI病院、患者フローシミュレーション、スマートヘルスケアインフラが新たな成長機会を創出 - ドリームニュース",
+      "title": "日本の病院デジタルツイン市場：AI病院、患者フローシミュレーション、スマートヘルスケアインフラが新たな成長機会を創出 - ドリーム��ュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnYlAwTXUyYmJ3cWNkbGVPNFNUZC04TGxBNFFFeEFjYnVIT2NlNnZYcnlOckVucFpWT29EMUQxZEZQN2p5aG42aGFYOUdqNlNXVEYw?oc=5",
       "description": "日本の病院デジタルツイン市場：AI病院、患者フローシミュレーション、スマートヘルスケアインフラが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
       "source": "ドリームニュース",
@@ -49,27 +70,6 @@
       "description": "ePlus、AMD CPU を使用してよりスマートな AI インフラストラクチャを構築&nbsp;&nbsp;AMD",
       "source": "AMD",
       "publishedAt": "2026-09-17T14:30:02.000Z"
-    },
-    {
-      "title": "Salesforceが世界規模でダウン、Dreamforce開催中にログインとAPIに障害 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUwyTVBlR2lMUzUxUjNSbGlkMjJLYnBTY1pkeTFBVEFaN25WZm8tVVRKSUdGbEQzVG55TUFmQm8waDkxMG9oZmhMc0ZiTVRZX3NweHRrcnhMaC1CbWF0VFk3OWRqLTIwOGZPZmJ4R0ZPeFRiUUdTYkpwQXdfNG1pdVJBSnFXR3FUSktSdDhjRVQ?oc=5",
-      "description": "Salesforceが世界規模でダウン、Dreamforce開催中にログインとAPIに障害&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-09-16T15:25:22.000Z"
-    },
-    {
-      "title": "Oracleが追加の人員削減、再編費用は28億ドルに拡大　AIインフラ投資と並行 - 財経新聞",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wTGhiX2ZGdm1CRml4cVU4azZ2NVFUbzZGSXc0VjF3NXA3RVNTaElYSVdKVUZaT1Q3eDdQUHZ2WW1TbDU2bXd1Wk1CUmg4cWk4YVdGeFowd0VvSGRNVkxhSGd2d9IBaEFVX3lxTE04YUtnSHdpWFAzakx1ZFd0bEp1X281cHAyWjFXbEZyR0dNNnR3aDdya0pDY3hObWF6NzNDYklzY1JNTDNmOE5CTk03eEVQR2FPU3ZGbnF4WjA3UF9ISVBHVnVCaTF6VkU5?oc=5",
-      "description": "Oracleが追加の人員削減、再編費用は28億ドルに拡大　AIインフラ投資と並行&nbsp;&nbsp;財経新聞",
-      "source": "財経新聞",
-      "publishedAt": "2026-09-16T11:08:41.000Z"
-    },
-    {
-      "title": "シーイーシー、ソブリンクラウド基盤「BizAxis IaaS」を提供開始 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAySlpZbXVZaTBfTFRjT3hIYXpLc3djemFxWGJSSXpUUjNhNlJGbDRRWkZUbW9tYnBqQ0dEZVdiR2s2NXh3NWtpbXRERGV0WUdncmRYUDNmVTJuQUFJbDd5b1JoSVBHSVU?oc=5",
-      "description": "シーイーシー、ソブリンクラウド基盤「BizAxis IaaS」を提供開始&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-09-16T04:04:00.000Z"
     }
   ]
 }
