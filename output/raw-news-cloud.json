@@ -2,11 +2,25 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド - enterprisezine.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTWdFVmdZZnhNWlE5bUd4UXFoTjl5M2hxb3B0bVJJbnBuSGRVR2gyX3FrLXBubTM2UG9sd2VtY293cEs0VjA4MEt4RFg2bVBVS2NseXdn?oc=5",
+      "description": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド&nbsp;&nbsp;enterprisezine.jp",
+      "source": "enterprisezine.jp",
+      "publishedAt": "2026-09-20T10:08:02.000Z"
+    },
+    {
+      "title": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正 (ITmedia エンタープライズ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlMxb2llb2tROHRxc3dBdEYydGVPZnd0Und3WFVoTGNBTm4yV1JuMl9HRmFzZ1hOYUdIRXdKVnUzVG00NTVXUkhENkVkM1k2cm53WENtbUh6VlFfX1FsRG5fNHBMc1lwd3YtMUlTY3ZDTUZPSDBxYnNaT09qbGc0RGlvN25WRDN2b1J0SEd3?oc=5",
+      "description": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正 (ITmedia エンタープライズ)&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-19T22:23:23.000Z"
+    },
+    {
       "title": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正（ITmedia エンタープライズ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jbWFPc1FvaHlQQ045NjBpQjUzZDdGb1hiYUMxRmNaYVplRW1CQzc3U3FvWUdZaFVONU9uYXdGMTlBdXdaWS1KVjBTNHU3dl9LZnM1NWFHamRMaU1la0dZM05RS3RlX1dFcHBfNFdSVUwzbzB6OTN1QnpqUUdURjg?oc=5",
       "description": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正（ITmedia エンタープライズ）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-19T22:09:35.000Z"
+      "publishedAt": "2026-09-19T22:00:11.000Z"
     },
     {
       "title": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約 - 東洋経済オンライン",
@@ -14,13 +28,6 @@
       "description": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約&nbsp;&nbsp;東洋経済オンライン",
       "source": "東洋経済オンライン",
       "publishedAt": "2026-09-19T22:00:00.000Z"
-    },
-    {
-      "title": "クラウドコンピューティング：技術選択からデジタル政府の基盤へ。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm9MWnZzZktvdjFqTW1tQzZYYkJZMlluY3BiX1VvOEwxNVBhcUVxV3h3UG1aMWhib0pWRVRYVjBaV2RQcDdZM1dRVTJ1WGVqUUw5ME04WjJSUjl3aHFLNUw1d2N6cjRsSHNqM090UjlKWlh5MzdrX3Z5bWF2a25LcHc5SXdYMUFTeXZQemx4NmFIS3QwUGd1TlVKbzFvUQ?oc=5",
-      "description": "クラウドコンピューティング：技術選択からデジタル政府の基盤へ。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-19T12:47:37.000Z"
     },
     {
       "title": "クラウドインフラは、AI時代におけるデジタル政府の基盤である。 - Vietnam.vn",
@@ -37,13 +44,6 @@
       "publishedAt": "2026-09-18T04:00:00.000Z"
     },
     {
-      "title": "日本企業の基幹情報システムを安全にクラウドに移行 日本ティーマックスソフトがキンドリルジャパンと覚書締結 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0WDYwZ1h0SzdZWERpaE83ZjQ3ci04R1JXRHBVWUExMG5JOXdSM0gwNlB3R2ZnVTNTWjAtRUo0TF80X1Q0NnRqeklrd3BRTk41bnVaVVYzTmZVRDBCVkE?oc=5",
-      "description": "日本企業の基幹情報システムを安全にクラウドに移行 日本ティーマックスソフトがキンドリルジャパンと覚書締結&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-09-18T00:30:00.000Z"
-    },
-    {
       "title": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出 - ドリームニュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xR25pODBtbXE2U3AyaHBSei1acE0xRy1Nck5mZjhscU1oZTlnUkhteWlCQmVta24xaVVBRVA4bEM2T25BVXh0WnNFTVdWNmhhNi13?oc=5",
       "description": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
@@ -51,7 +51,7 @@
       "publishedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "title": "日本の病院デジタルツイン市場：AI病院、患者フローシミュレーション、スマートヘルスケアインフラが新たな成長機会を創出 - ドリーム��ュース",
+      "title": "日本の病院デジタルツイン市場：AI病院、患者フローシミュ���ーション、スマートヘルスケアインフラが新たな成長機会を創出 - ドリームニュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnYlAwTXUyYmJ3cWNkbGVPNFNUZC04TGxBNFFFeEFjYnVIT2NlNnZYcnlOckVucFpWT29EMUQxZEZQN2p5aG42aGFYOUdqNlNXVEYw?oc=5",
       "description": "日本の病院デジタルツイン市場：AI病院、患者フローシミュレーション、スマートヘルスケアインフラが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
       "source": "ドリームニュース",

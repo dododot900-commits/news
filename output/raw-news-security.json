@@ -2,11 +2,39 @@
   "topic": "security",
   "articles": [
     {
-      "title": "TISI、「フロンティアAIを悪用したサイバー攻撃」に対抗するセキュリティ運用基盤モデルを発表 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11SUxGNHZibG9CdGZQYkdITnFHdVlqdUtsOXBldnVFV2lyS3Q4M1R3dXlneWlhY2d5cy1uMWZYYWVLeGs1YVdBaHRQU1ZzOEZlRHdMaHdR?oc=5",
-      "description": "TISI、「フロンティアAIを悪用したサイバー攻撃」に対抗するセキュリティ運用基盤モデルを発表&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-09-19T19:43:19.000Z"
+      "title": "「Mythos」が見せたサイバーセキュリティの一大変革【第108回】 - デジタルクロス",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FTjgyMjI2UDdHSGphbGVtcGhPal9nTjBnd1MweHJSaGdrRW5kOHVQOXREdldqWnNzMzFocXZJNnI2NzVPYjhvMVVpaDZFQTBTaFdQMEtNMUNkMkREMUZSR2IzaHhnOUJNY0E4c0pOTHAxekdJRVVaNA?oc=5",
+      "description": "「Mythos」が見せたサイバーセキュリティの一大変革【第108回】&nbsp;&nbsp;デジタルクロス",
+      "source": "デジタルクロス",
+      "publishedAt": "2026-09-20T21:00:00.000Z"
+    },
+    {
+      "title": "Click2Shell、リンク一つでテーマをインストールさせるWordPressのバグ - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2NQNlNTbVpyUzUzclJJU1d1dDM4Y0JmempMMHhlX1J4OHFnenMtT19QYjJWWkppaHRhVHF6X3Q5TzhnS1h0d253OG54QmtfVGZqMFNFc1ZON3hyaVNYM1hRQ1ZpSFBmM2VEVDZ4cUg1QmpqeE45ZVlsQXJCNEFHbFZ4aU0xWmhqbEtoeVhXenJVS0lwUmlwUw?oc=5",
+      "description": "Click2Shell、リンク一つでテーマをインストールさせるWordPressのバグ&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-20T12:00:40.000Z"
+    },
+    {
+      "title": "AIの脆弱性発見能力が爆発 世界のソフトウェア脆弱性件数が1年で倍増し過去最高を更新 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WVmZXTWVXbDlUOWpNcnJxc2FsbzFpUUFGMlR4eU5sNUxjNG1ucEd2cFk0dDNwSTJLamhfbjR2RXVNVFRoWTZ5RTM4cW94UElfTGxVOUNUc2VJRlBxTXd5ejkwSlNPN0w4OXpxUU5zUjZDb1Ux?oc=5",
+      "description": "AIの脆弱性発見能力が爆発 世界のソフトウェア脆弱性件数が1年で倍増し過去最高を更新&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-09-20T09:35:00.000Z"
+    },
+    {
+      "title": "ポイント機構の竹内祐樹が発明したAI攻撃・ランサムウェア対策につながる「無数鍵多重時変成立点理論」をKトラストと越智今治農業協同組合（JAおちいまばり）が普及推進で業務提携を締結 - sanyonews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MTWprdjcwN2tEdDdiMVVXUmd5ZGlGM0xsTkZ6T1VHc2N2TS1nV2RENldhVzBsS1Y1SWpBSkp4eXdXeHRyeDFiQ1FUU1NRVmgtZFE?oc=5",
+      "description": "ポイント機構の竹内祐樹が発明したAI攻撃・ランサムウェア対策につながる「無数鍵多重時変成立点理論」をKトラストと越智今治農業協同組合（JAおちいまばり）が普及推進で業務提携を締結&nbsp;&nbsp;sanyonews.jp",
+      "source": "sanyonews.jp",
+      "publishedAt": "2026-09-20T09:28:22.000Z"
+    },
+    {
+      "title": "ランサムウェア グループ SafePayが両毛システムズへの不正アクセスで窃取したデータを公開 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNE1fZTI4eEwtYXdFa0ZaYlBOY2NHUE5teFpfY09hUTdsR0RROGdlODM2eENVYXU1LWVvVEVVSy04TWRGQXVHZ29JNGlhelpJeHVKN3hMMTFQbmhTTG8wV1FIQkVlRFdIeTVaNFMzSzJwTmFfX1o1bkdRbVBjeXQxUVdsOThJUQ?oc=5",
+      "description": "ランサムウェア グループ SafePayが両毛システムズへの不正アクセスで窃取したデータを公開&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-20T01:54:47.000Z"
     },
     {
       "title": "Google Pixelのモデム脆弱性、すでに悪用され、クリック不要で攻撃可能 - Pasquale Pillitteri",
@@ -18,23 +46,9 @@
     {
       "title": "ニチレイ、サイバー攻撃で個人情報5万3866件漏洩 カード情報は含まれず - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91Y2UxdlMxc3ZZdEVycXUydkVWTDVaY3pxWUJZblFIWFhqeVhOZUhpbklwM0JGUW9Pc29Md2MxSFB4cktQc0NqamVobFJVNmE3dVpTX3llOFRZU2xkMTlpTmVIajgwYU5WcXhhY0NqZ3kxR0Ju?oc=5",
-      "description": "ニチレイ、サイバー攻撃で個人情報5万3866件漏洩 カード情報は含���れず&nbsp;&nbsp;BigGo ファイナンス",
+      "description": "ニチレイ、サイバー攻撃で個人情報5万3866件漏洩 カード情報は含まれず&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-09-19T05:55:00.000Z"
-    },
-    {
-      "title": "ニチレイ、サイバー攻撃で配送先顧客・取引先・従業員等の個人情報53,866件が漏えい 給与・賞与情報も - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdldlUVVCZWhVRnJ3UHExc2Fjc1hSeXY4VWRlM1dKUlpzcVdoV1YyZkpCVnZGWWQyZ1I1WWxWWXFBcUFPSnFRWHYzMlNaaUJYQ0xNOXBYbmhza1ZMZzE1UUlZQVdLYm5ydGs5ZGs4cHRGcEIwd2ZYVTdWRlBWUnVURmhneTJyS19fdmkxb0xhRzNMeDQ0MGtmMkpR?oc=5",
-      "description": "ニチレイ、サイバー攻撃で配送先顧客・取引先・従業員等の個人情報53,866件が漏えい 給与・賞与情報も&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-19T01:33:13.000Z"
-    },
-    {
-      "title": "韓国でAIサイバー攻撃に警戒、脆弱性発見から攻撃まで「数十分」…国境越えた共同防御へ - KOREA WAVE",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdnFmMDVod2ptMnBhTnotcGs2RjQ1eWxGYlJBc2FaRUx4eEFPN2hRWjR0RENhT2hidERaUGtSU0JMS01OMHBCMkhtQTdSbTllc3V5ZG51cXN0SnI5T1lBaEYtTmxTU0lERG9TcVk5TmZPT2NkMUpXQ1lCTXZab2VuZTl3SjBwc201em1YTnF1WFBWR3Fmd2gzZGQtZGlpWjlnWVVaQktGLVVGMU12Ump2RzU1dFdFR25RSkVFMnViNlkwekRaOW53eDdoZGRibHpfbDlUbzJpdFdxUGxqNXJYRHFpeV9fTnJuVEpvZnZSSnNhREZSUFJDQUJPNTcybUNTcVZjdWFWd2tWbTdwY19sSUFXaUdWZ2VJa01vbzFxdkhOREVuaHRjNXFoSTZmSXFNMFlBWEsybElDZFZvZWJDTDRYcFA?oc=5",
-      "description": "韓国でAIサイバー攻撃に警戒、脆弱性発見から攻撃まで「数十分」…国境越えた共同防御へ&nbsp;&nbsp;KOREA WAVE",
-      "source": "KOREA WAVE",
-      "publishedAt": "2026-09-18T08:00:47.000Z"
     },
     {
       "title": "Google Pixelの脆弱性、クリック不要で乗っ取り可能だった問題 - Korben",
@@ -46,30 +60,16 @@
     {
       "title": "台湾TRAPA Securityへ出資 実戦型サイバー演習サービスを日本国内で独占提供へ～攻撃者視点の知見を生かし - gmo-cybersecurity.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyYmlua2tJOFVvUmFRVWZIMmdpbTllSXpwVlNDZXlySTg0cHRqM2VZVTZHTUdjQjRXZG8wcVh5MldjemI5R1pyVGRGRjRqSVYyZ1dhTXM1RQ?oc=5",
-      "description": "台湾TRAPA Securityへ出資 実戦型サイバー演習サービスを日本��内で独占提供へ～攻撃者視点の知見を生かし&nbsp;&nbsp;gmo-cybersecurity.com",
+      "description": "台湾TRAPA Securityへ出資 実戦型サイバー演習サービスを日本国内で独占提供へ～攻撃者視点の知見を生かし&nbsp;&nbsp;gmo-cybersecurity.com",
       "source": "gmo-cybersecurity.com",
       "publishedAt": "2026-09-18T06:59:56.000Z"
     },
     {
-      "title": "サプライチェーンセキュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策 - ASCII.jp",
+      "title": "サプライチェーン��キュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策 - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TYkQ5bVVHR3JOSDZZeEp1TG1GclFZVU51TWl5YUE5OG1nT3RxVFNsR3oydWFuRWJQSXo4MHRhTGk2QkZhUFJFN1ZYbURhdzR2aXBBTg?oc=5",
       "description": "サプライチェーンセキュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策&nbsp;&nbsp;ASCII.jp",
       "source": "ASCII.jp",
       "publishedAt": "2026-09-18T04:00:00.000Z"
-    },
-    {
-      "title": "シスコ、悪用が確認されたISEのゼロデイについて警告（CVE-2026-76460） - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjJLek5QM19SM2x1SkhNN3MybTFxbnYxX0w3Q0QzZFlGWVVmZUJQVmM3RUdBZFZZd2ZMTm9GZ0VoZVNFZHUwY0RWdGRlMEhESXprOW1wZUxtLUJpMHlkbGpwSm9uTnVZdkswb3lvUk1wOVplSEVIZlFzSHY5Ti0wTnFDVmc?oc=5",
-      "description": "シスコ、悪用が確認されたISEのゼロデイについて警告（CVE-2026-76460）&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-09-18T03:32:07.000Z"
-    },
-    {
-      "title": "日本化粧品工業会、Microsoft 365に不正アクセス 4,026通のフィッシングメール送信、475通流出の可能性 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3dGV01lZThqcDQ2ZWtPRW8wTi1OLWxIUkxXb0FaUXV6M3owbUZWb0Mwb25OQVprUWJqelFCaWxxM29mNjF0UHVNa2RLM2pjRTY3N1JqQnNVelJ4bmhaeTRrMmdQb1VqZVpQVWNMdFlLbUljekg0WWszQ0Q3NFh3UXl0XzZ2QmM?oc=5",
-      "description": "日本化粧品工業会、Microsoft 365に不正アクセス 4,026通のフィッシングメール送信、475通流出の可能性&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-18T01:30:39.000Z"
     }
   ]
 }
