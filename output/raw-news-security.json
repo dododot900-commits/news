@@ -2,6 +2,27 @@
   "topic": "security",
   "articles": [
     {
+      "title": "Telegram Desktopの脆弱性、HTMLエクスポートにJavaScriptを隠せた - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTlrNEVxYmZCbDJQeGV0V3BmakFLM0FoMFotXy1JZE9nSEdpMmdPVTRjUUxrSk1YQ0QtaXBWc1NMVmEyWHIxcmh5WG55ZTJ0d3NBU2hENzV3c2haTWRnTFdTVzQ1bFNfSGNZbjVxZlpPbFd3bWp0T3FTSGhkT2dpXzgtV0cxSWZZeFdPTDhnNHRCYU9PS3FmS0JB?oc=5",
+      "description": "Telegram Desktopの脆弱性、HTMLエクスポートにJavaScriptを隠せた&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-21T17:38:28.000Z"
+    },
+    {
+      "title": "ChatMinervaに不正侵入、利用者のチャットを含むデータベースにアクセス - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmtLLTliWDBJN0Q1YjUxZ05vNXI0R0poMHc5ZDVMMkVUR2NrZ0N1ZlA2V05RYjNpZzRQME8wVEtERUYzZVE4YkNiLUoxdUhxRnlob25SWXZFMGw2XzcyV1VkN19sZDFEU0ZPS3VQSUVsZXkyYjI2Vi1PSlY4X2xmX0Izb2x4eEJ3ZTA1VEhKdw?oc=5",
+      "description": "ChatMinervaに不正侵入、利用者のチャットを含むデータベースにアクセス&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-09-21T09:07:20.000Z"
+    },
+    {
+      "title": "PFU、旧EC利用者の個人情報漏えいを確認 ショップサーブ不正アクセスで最大169,355件の注文データが対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUxXRm1tYjF3MUF2ZGVOcVMycHVxX0tKVFdsV3R5TW1JQTVkOXptUzBTVTJMTFdHb2UzVFcwRG0ySXBNUkV2emljOHBZNjJHby12d29KSjk5dDVWSURNc1IzLXI0NVU3TUtIVWhPV2JlVnZ1dWhUMHlXTzlkam56WkNjQnQ2LVk?oc=5",
+      "description": "PFU、旧EC利用者の個人情報漏えいを確認 ショップサーブ不正アクセスで最大169,355件の注文データが対象&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-21T02:00:13.000Z"
+    },
+    {
       "title": "「Mythos」が見せたサイバーセキュリティの一大変革【第108回】 - デジタルクロス",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FTjgyMjI2UDdHSGphbGVtcGhPal9nTjBnd1MweHJSaGdrRW5kOHVQOXREdldqWnNzMzFocXZJNnI2NzVPYjhvMVVpaDZFQTBTaFdQMEtNMUNkMkREMUZSR2IzaHhnOUJNY0E4c0pOTHAxekdJRVVaNA?oc=5",
       "description": "「Mythos」が見せたサイバーセキュリティの一大変革【第108回】&nbsp;&nbsp;デジタルクロス",
@@ -9,25 +30,25 @@
       "publishedAt": "2026-09-20T21:00:00.000Z"
     },
     {
-      "title": "Click2Shell、リンク一つでテーマをインストールさせるWordPressのバグ - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2NQNlNTbVpyUzUzclJJU1d1dDM4Y0JmempMMHhlX1J4OHFnenMtT19QYjJWWkppaHRhVHF6X3Q5TzhnS1h0d253OG54QmtfVGZqMFNFc1ZON3hyaVNYM1hRQ1ZpSFBmM2VEVDZ4cUg1QmpqeE45ZVlsQXJCNEFHbFZ4aU0xWmhqbEtoeVhXenJVS0lwUmlwUw?oc=5",
-      "description": "Click2Shell、リンク一つでテーマをインストールさせるWordPressのバグ&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-09-20T12:00:40.000Z"
+      "title": "KELAグループの防衛技術が、米国の大規模な学区をサイバー攻撃から確実に守った - KELA Cyber",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS05BUTZTSHp0T212NnBqQnJCQkdWWm5BNjc4OU1BUDhBRVFscnlsMTF3WXJNMWhnYnkyZDdoLVROTUYxZ09sOHl5Wm81Ti1Ob0hYUjM2TEVHZDd4bTVSTHJCMG4yb2VaMnBsRnliWV9GQjdaQWpidFVTeDE5X1RQUmtYeExfUS1DRTJfMldXbVR1dnh0dk04Zmd5UllUY1hhMDNlQUZOelV0YUU4Ung3bXpiQ0l0OWk5Y01iVmtXNk9UNHZHcjNtdkJGNjUwdmI2V2lfVEdwMHUxZk1mQi1Scm15RW9PN2p4RnNBbTB5alQ?oc=5",
+      "description": "KELAグループの防衛技術が、米国の大規模な学区をサイバー攻撃から確実に守った&nbsp;&nbsp;KELA Cyber",
+      "source": "KELA Cyber",
+      "publishedAt": "2026-09-20T17:24:57.000Z"
     },
     {
-      "title": "AIの脆弱性発見能力が爆発 世界のソフトウェア脆弱性件数が1年で倍増し過去最高を更新 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WVmZXTWVXbDlUOWpNcnJxc2FsbzFpUUFGMlR4eU5sNUxjNG1ucEd2cFk0dDNwSTJLamhfbjR2RXVNVFRoWTZ5RTM4cW94UElfTGxVOUNUc2VJRlBxTXd5ejkwSlNPN0w4OXpxUU5zUjZDb1Ux?oc=5",
-      "description": "AIの脆弱性発見能力が爆発 世界のソフトウェア脆弱性件数が1年で倍増し過去最高を更新&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-20T09:35:00.000Z"
-    },
-    {
-      "title": "ポイント機構の竹内祐樹が発明したAI攻撃・ランサムウェア対策につながる「無数鍵多重時変成立点理論」をKトラストと越智今治農業協同組合（JAおちいまばり）が普及推進で業務提携を締結 - sanyonews.jp",
+      "title": "ポイント機構の竹内祐樹が発明したAI攻撃・ランサムウェア対策につながる「無数鍵多重時変成立点理論」をKトラストと越智今治農業協同組合（JAおちいまばり）が普及推進で業務提携を締結 - 山陽新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MTWprdjcwN2tEdDdiMVVXUmd5ZGlGM0xsTkZ6T1VHc2N2TS1nV2RENldhVzBsS1Y1SWpBSkp4eXdXeHRyeDFiQ1FUU1NRVmgtZFE?oc=5",
-      "description": "ポイント機構の竹内祐樹が発明したAI攻撃・ランサムウェア対策につながる「無数鍵多重時変成立点理論」をKトラストと越智今治農業協同組合（JAおちいまばり）が普及推進で業務提携を締結&nbsp;&nbsp;sanyonews.jp",
-      "source": "sanyonews.jp",
+      "description": "ポイント機構の竹内祐樹が発明したAI攻撃・ランサムウェア対策につながる「無数鍵多重時変成立点理論」をKトラストと越智今治農業協同組合（JAおちいまばり）が普及推進で業務提携を締結&nbsp;&nbsp;山陽新聞",
+      "source": "山陽新聞",
       "publishedAt": "2026-09-20T09:28:22.000Z"
+    },
+    {
+      "title": "TP-Link Tapoカメラに深刻な脆弱性があり、ユーザーが盗撮される可能性がある。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEx4akwyY2tYZmlSTTZHeXpRSk93dFJWYVFpNVZrSWRfdVZtR25ObHBVM1BlSzZaUmp5NnIzZy1CM2F3YnJHSTZKYlU2VWRUdWZDT0l1RGRVQnZZb2FsZk1KYTZLQlBSN01NQ0xKUFJSNUt6eDhmalZrUVUtZEptd25LU25uUTA3RjRTTFFmR1psT2Y4S3YzbzNuN1lsN2JMek5fWUhOQW01WjQ?oc=5",
+      "description": "TP-Link Tapoカメラに深刻な脆弱性があり、ユーザーが盗撮される可能性がある。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-20T02:31:15.000Z"
     },
     {
       "title": "ランサムウェア グループ SafePayが両毛システムズへの不正アクセスで窃取したデータを公開 - 合同会社ロケットボーイズ",
@@ -49,27 +70,6 @@
       "description": "ニチレイ、サイバー攻撃で個人情報5万3866件漏洩 カード情報は含まれず&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-09-19T05:55:00.000Z"
-    },
-    {
-      "title": "Google Pixelの脆弱性、クリック不要で乗っ取り可能だった問題 - Korben",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NeE1FT01ZVUdqWG9kUmI2eHBWWnpYUDJnaTBRVUxsR0NTYk5UREFNUjBCajN0dGxzYWQwU3lhamRNWk9mT3ZzdWFYdkpTVEJwU1N2dk1aQzE3SER6SjBYa0NoSjhJVXQtT0ZzS2JaSTBlSXptMmFoczBTSQ?oc=5",
-      "description": "Google Pixelの脆弱性、クリック不要で乗っ取り可能だった問題&nbsp;&nbsp;Korben",
-      "source": "Korben",
-      "publishedAt": "2026-09-18T07:43:41.000Z"
-    },
-    {
-      "title": "台湾TRAPA Securityへ出資 実戦型サイバー演習サービスを日本国内で独占提供へ～攻撃者視点の知見を生かし - gmo-cybersecurity.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyYmlua2tJOFVvUmFRVWZIMmdpbTllSXpwVlNDZXlySTg0cHRqM2VZVTZHTUdjQjRXZG8wcVh5MldjemI5R1pyVGRGRjRqSVYyZ1dhTXM1RQ?oc=5",
-      "description": "台湾TRAPA Securityへ出資 実戦型サイバー演習サービスを日本国内で独占提供へ～攻撃者視点の知見を生かし&nbsp;&nbsp;gmo-cybersecurity.com",
-      "source": "gmo-cybersecurity.com",
-      "publishedAt": "2026-09-18T06:59:56.000Z"
-    },
-    {
-      "title": "サプライチェーン��キュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TYkQ5bVVHR3JOSDZZeEp1TG1GclFZVU51TWl5YUE5OG1nT3RxVFNsR3oydWFuRWJQSXo4MHRhTGk2QkZhUFJFN1ZYbURhdzR2aXBBTg?oc=5",
-      "description": "サプライチェーンセキュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-09-18T04:00:00.000Z"
     }
   ]
 }

@@ -2,11 +2,39 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド - enterprisezine.jp",
+      "title": "Eコマースに陰りのアリババ AI・クラウドに業態シフト - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTGl1U3NTbi1EUC0zZE1DN3YxblV3enhjOTVYWWxrN1hCZW1wVVJ3TVgtQm53NDEzeFhZYng3SmJ5bUNGaE5qSlMtRWp4aEhXOGR6bnZud3NSLWw5ZzFwOVltUVNuVGRlQllPMjNFZWdqbDN3SWI2WGt6YTFzWUk?oc=5",
+      "description": "Eコマースに陰りのアリババ AI・クラウドに業態シフト&nbsp;&nbsp;毎日新聞",
+      "source": "毎日新聞",
+      "publishedAt": "2026-09-21T21:30:00.000Z"
+    },
+    {
+      "title": "KTグループが通信·クラウドなどインフラを越えて金融とコンテンツ製作まで人工知能(AI)転換適用領域を広げる。 カード決済データを活用したグルメとショッピング推薦から���生成 AIを活用した放送プログラ.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QY0I2cTkyVWM2M2gzcU1jWE5KV3ZOdDFtMWtXU2hWU2Z1NEdYbm5Gbm15d0NyOFdraHdiUE1WTllERmhFZWN6VkpwMA?oc=5",
+      "description": "KTグループが通信·クラウドなどインフラを越えて金融とコンテンツ製作まで人工知能(AI)転換適用領域を広げる。 カード決済データを活用したグルメとショッピング推薦から、生成 AIを活用した放送プログラ..&nbsp;&nbsp;매일경제",
+      "source": "매일경제",
+      "publishedAt": "2026-09-21T08:33:37.000Z"
+    },
+    {
+      "title": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTWdFVmdZZnhNWlE5bUd4UXFoTjl5M2hxb3B0bVJJbnBuSGRVR2gyX3FrLXBubTM2UG9sd2VtY293cEs0VjA4MEt4RFg2bVBVS2NseXdn?oc=5",
-      "description": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflareが体現する新時代のクラウド&nbsp;&nbsp;enterprisezine.jp",
-      "source": "enterprisezine.jp",
-      "publishedAt": "2026-09-20T10:08:02.000Z"
+      "description": "Webもインフラも「エージェント」向けに再設計せよ──Cloudflare��体現する新時代のクラウド&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-09-21T06:20:59.000Z"
+    },
+    {
+      "title": "人工知能(AI)インフラとクラウド、産業別ソリューションを提供するAIフルスタック企業エリスグループが「2026年人的資源開発優秀機関(Best HRD)」中小企業部門認証を獲得したと21日明らかにし.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zWEsxUEJGUzJEVnItcXdjUnI1NVhKdkhWckswM1VxZmp3bzdDcUVsbnFyeThRR2o0c3lzLVFhTkNLdWtucDB5Q3Q5VQ?oc=5",
+      "description": "人工知能(AI)インフラとクラウド、産業別ソリューションを提供するAIフルスタック企業エリスグループが「2026年人的資源開発優秀機関(Best HRD)」中小企業部門認証を獲得したと21日明らかにし..&nbsp;&nbsp;매일경제",
+      "source": "매일경제",
+      "publishedAt": "2026-09-21T05:21:08.000Z"
+    },
+    {
+      "title": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zMGtwM28zQzM0aHJhQ1JNeFlkbzFTQ3JvOWVmZkpVTUU1bXliTVVSNmUyMzJqQzRBR0pESVNOMEJpcDUwZDJ5M2oxNA?oc=5",
+      "description": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成&nbsp;&nbsp;thinkit.co.jp",
+      "source": "thinkit.co.jp",
+      "publishedAt": "2026-09-20T02:02:16.000Z"
     },
     {
       "title": "Microsoftが9月セキュリティ更新を発表 クラウドサービス複数でCVSS 10.0を含む脆弱性を修正 (ITmedia エンタープライズ) - Yahoo!ニュース",
@@ -24,7 +52,7 @@
     },
     {
       "title": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約 - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90MnRmc2NkaEU5TGtvTlFfMHNLQl9ZQ3FDOUw5MTFpcHhoMXp0bXNxTFQwYlJoT255SS1QVnVvZ3BOZnBsekQ3SFIySTlySHh6blNmeUNhcUFpUkR4cFVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRTnJmY0pHb29tcXNFeDByRjBGRXc5cDhuZWhDZjhvZ1c5SFdXc0VVMFZKbUZXZzhRbXM0NmNKMkJZd0hGRVFuV3k1TzdwVjBob200SVRYY1pERkU?oc=5",
       "description": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約&nbsp;&nbsp;東洋経済オンライン",
       "source": "東洋経済オンライン",
       "publishedAt": "2026-09-19T22:00:00.000Z"
@@ -42,34 +70,6 @@
       "description": "グリー、ゲーム基盤のコスト効率パフォーマンスを“25％以上”向上 「CPU」をどう見直した？&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-09-18T04:00:00.000Z"
-    },
-    {
-      "title": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出 - ドリームニュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xR25pODBtbXE2U3AyaHBSei1acE0xRy1Nck5mZjhscU1oZTlnUkhteWlCQmVta24xaVVBRVA4bEM2T25BVXh0WnNFTVdWNmhhNi13?oc=5",
-      "description": "日本のAIデータセンターGPU市場：ソブリンAIインフラ、次世代GPU、高密度コンピューティングが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
-      "source": "ドリームニュース",
-      "publishedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "title": "日本の病院デジタルツイン市場：AI病院、患者フローシミュ���ーション、スマートヘルスケアインフラが新たな成長機会を創出 - ドリームニュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnYlAwTXUyYmJ3cWNkbGVPNFNUZC04TGxBNFFFeEFjYnVIT2NlNnZYcnlOckVucFpWT29EMUQxZEZQN2p5aG42aGFYOUdqNlNXVEYw?oc=5",
-      "description": "日本の病院デジタルツイン市場：AI病院、患者フローシミュレーション、スマートヘルスケアインフラが新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
-      "source": "ドリームニュース",
-      "publishedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "title": "NTTドコモビジネス、1GPUから利用できる従量課金制クラウド「GPUaaS」を9月30日より提供開始 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9leUQ2NXBkb3BiUG5uOGY0dHFpN1N2SjRUXzBkUV9NVGZ2Zm1VR3B5V3hTYS1YTEI1MHRTNE40Ql9yODZqMk53OUVBZWh5d1JyU3o3NzhFcnc2UXRDQ2hMc18zTXJnN1k?oc=5",
-      "description": "NTTドコモビジネス、1GPUから利用できる従量課金制クラウド「GPUaaS」を9月30日より提供開始&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-09-17T21:00:00.000Z"
-    },
-    {
-      "title": "ePlus、AMD CPU を使用してよりスマートな AI インフラストラクチャを構築 - AMD",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MZ1JjcFV0UlVsX0ZDcEFzQmZGb1lCTHUyS3ZOOUdla2hnekVRb2N0eF81TExMTlQ3NUtTNl9KY0liREJEcl9yY0VwR193VWdEbkpXS2FnT3J0c1JGMVJxcFlXR19ianpVQmV3V1Y2X3hKZkw4OUVoQQ?oc=5",
-      "description": "ePlus、AMD CPU を使用してよりスマートな AI インフラストラクチャを構築&nbsp;&nbsp;AMD",
-      "source": "AMD",
-      "publishedAt": "2026-09-17T14:30:02.000Z"
     }
   ]
 }
