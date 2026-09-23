@@ -2,13 +2,6 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "ENCORE、OpenAI Select Partnerに選定 生成AI導入支援を強化 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVRnVVFvRGtZRldRMXRhckV1YnRpekdLLUV6aVNJVklGbDVoNURaOVJ2OEZVc2VTc2pQaWZ6UldSeWJXanpIZjNFbXhrZ2lRZ3dFRjJmLTFQQm1pYjkzaG44UngxdHNKZXJVQkNYT0owQ0haWkpkQS1YdDdDVmx0dFM5WHN5V3dZTW5GMlZiNEFlRGdZVFF5azVrRXVFZE9ZV3gtZGZzWTItU2dfaWRpNWVCaw?oc=5",
-      "description": "ENCORE、OpenAI Select Partnerに選定 生成AI導入支援を強化&nbsp;&nbsp;디지털투데이",
-      "source": "디지털투데이",
-      "publishedAt": "2026-09-21T23:35:28.000Z"
-    },
-    {
       "title": "Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sN0MyaU4xSlkxc2FmMG1MUVJ1dFlqRWo1dnlIUzVid01VZ21ySTNseEJlSU5JLUs0eXg5T0gtdUVJaXMxQk5nSExxc1VOQmdQTW5hZTlPWEFkSzNaLV9zQl9tVTg4NkRXaEE?oc=5",
       "description": "Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始&nbsp;&nbsp;PR TIMES",
@@ -16,11 +9,18 @@
       "publishedAt": "2026-09-21T04:07:08.000Z"
     },
     {
-      "title": "なぜAIスカウトは見抜かれるのか…生成AI導入率57.7%でも返信率は6.7%止まり - biz-journal.jp",
+      "title": "なぜAIスカウトは見抜かれるのか…生成AI導入率57.7%でも返信率は6.7%止まり - ビジネスジャーナル",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwbXF1eUQxcDJiYXBOTlRrYVNnOF9hVWx2ZU9QblhNQjIzRzJ5Nk9JN3hsRm5zTjlibXBfbVRVbkI3ekRGMFRSeTNxN05yQVpyY1o4M2VJdnY1QTA?oc=5",
-      "description": "なぜAIスカウトは見抜かれるのか…生成AI導入率57.7%でも返信率は6.7%止まり&nbsp;&nbsp;biz-journal.jp",
-      "source": "biz-journal.jp",
+      "description": "なぜAIスカウトは見抜かれるのか…生成AI導入率57.7%でも返信率は6.7%止まり&nbsp;&nbsp;ビジネスジャーナル",
+      "source": "ビジネスジャーナル",
       "publishedAt": "2026-09-20T20:55:47.000Z"
+    },
+    {
+      "title": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OdzVrYUZPMkM0aFNVX1YzdUwwTno3cFhYUnFvOU9pX0pJb3ZKX0JYaU1JdjhQTWtES1dzT2V6NVZJTWFQN2ZZdjJQVQ?oc=5",
+      "description": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力&nbsp;&nbsp;thinkit.co.jp",
+      "source": "thinkit.co.jp",
+      "publishedAt": "2026-09-20T20:45:44.000Z"
     },
     {
       "title": "IIJ、生成AIの導入から定着までを包括支援する「AI活用支援ソリューション」提供開始 - EnterpriseZine",
@@ -28,13 +28,6 @@
       "description": "IIJ、生成AIの導入から定着までを包括支援する「AI活用支援ソリューション」提供開始&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-09-20T09:05:22.000Z"
-    },
-    {
-      "title": "AIを導入しても「チャットどまり」？中小企業の課題と「AIクラウドワークス」が目指す未来 - getnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubzVQbktxMjhicVZDQ1VwUS0yRXEzN1o5QXV2RERBWXVPeVlLR3FXSlJnUFFyX1hsZEhzSjc3ZTNnWTBPZU9Ha2lDWQ?oc=5",
-      "description": "AIを導入しても「チャットどまり」？中小企業の課題と「AIクラウドワークス」が目指す未来&nbsp;&nbsp;getnews.jp",
-      "source": "getnews.jp",
-      "publishedAt": "2026-09-20T06:00:44.000Z"
     },
     {
       "title": "AI導入でつまずく中小企業、「何を・誰が・どう変えるか」を丸ごと支援 - キーマンズネット",
@@ -51,17 +44,10 @@
       "publishedAt": "2026-09-19T22:00:00.000Z"
     },
     {
-      "title": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OdzVrYUZPMkM0aFNVX1YzdUwwTno3cFhYUnFvOU9pX0pJb3ZKX0JYaU1JdjhQTWtES1dzT2V6NVZJTWFQN2ZZdjJQVQ?oc=5",
-      "description": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力&nbsp;&nbsp;thinkit.co.jp",
-      "source": "thinkit.co.jp",
-      "publishedAt": "2026-09-18T15:54:30.000Z"
-    },
-    {
-      "title": "日本生成AI市場、2035年に5,388億8,794万米ドルへ｜企業の業務効率化・AI活用拡大で市場成長が加速 - newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MSU84a09mYVdWRjluQ0VKM0NOUlRNbXVnQlBTZWZZS2NyUnBGRm1vVzA5SHN0NEthNEZkenB6R3RQWFNwQTg4?oc=5",
-      "description": "日本生成AI市場、2035年に5,388億8,794万米ドルへ｜企業の業務効率化・AI活用拡大で市場成長が加速&nbsp;&nbsp;newscast.jp",
-      "source": "newscast.jp",
+      "title": "日本生成AI市場、2035年に5,388億8,794万米ドルへ｜企業の業務効率化・AI活用拡大で市場成長が加速 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Nkp6dGRaNE8yYkdmOVZ1cUZlSGs2WTFKZ21SQUViN0xEamZGQl9weHNnUmxYc1JtRHpoaXFfZkVENm5xN2VLUW1pR0FPWVk?oc=5",
+      "description": "日本生成AI市場、2035年に5,388億8,794万米ドルへ｜企業の業務効率化・AI活用拡大で市場成長が加速&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
       "publishedAt": "2026-09-18T00:30:00.000Z"
     },
     {
@@ -70,6 +56,20 @@
       "description": "【生成AIの事例トレンド】「試用」から「本格的な組み込み」のフェーズへ&nbsp;&nbsp;thinkit.co.jp",
       "source": "thinkit.co.jp",
       "publishedAt": "2026-09-17T14:50:17.000Z"
+    },
+    {
+      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+      "description": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結&nbsp;&nbsp;thinkit.co.jp",
+      "source": "thinkit.co.jp",
+      "publishedAt": "2026-09-17T12:07:33.000Z"
+    },
+    {
+      "title": "【ウェビナー】10/8（木） 生成AIを導入したのに ”成果が出ていない” 多くの企業が抱える課題と「活用定着へのヒント」 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYMDlnYnoyb2dIRzl6TVBPSXR5Vmg5UmRwNXV3UGpLYng3aXQ5VlpER0d3U3laY0xYVk5kZFhKeG5OeUgzTER0ZjRtYTB2a29rTGUxRS1BMFdKTl9ncllJaG55NXIwUWRmdUE?oc=5",
+      "description": "【ウェビナー】10/8（木） 生成AIを導入したのに ”成果が出ていない” 多くの企業が抱える課題と「活用定着へのヒント」&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-09-17T02:00:03.000Z"
     }
   ]
 }
