@@ -2,10 +2,31 @@
   "topic": "security",
   "articles": [
     {
-      "title": "Webアプリの乱立でリスクが見えなくなっている!?―継続的な脆弱性診断が実現する統合セキュリティ管理 - news.mynavi.jp",
+      "title": "WordPressの重大な脆弱性、公開直後に悪用される（CVE-2026-87902） | Codebook｜Security News - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGk0SWItenFqYzdJNUJ0a1pKbDVsX1NUX1RRNVR0TEJmU3M4SEdvRXlRQkg1N3BPTE13OEJic0o3VFNiNWFiQ0RVMGtJbDljLWNQOVduQlVvZXZ2S1Z6RXY1NEhDMkxTSVkxam5aNUVxc3BJaGRRT2NyNEcxWXVXdzVNN2c?oc=5",
+      "description": "WordPressの重大な脆弱性、公開直後に悪用される（CVE-2026-87902） | Codebook｜Security News&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-09-25T04:05:25.000Z"
+    },
+    {
+      "title": "Roundcubeの重大な脆弱性、攻撃で悪用されるように：CVE-2026-48842 | Codebook｜Security News - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYW1BcklZWWdJSDZ5d0tJVGdDbFBMQUcyOUYxQlBDUDE5b3BGeHlJX1JoWXpxd2JROTJLZm9RVV9DNGhIclVtc0hYd1N4dDdSRjNXVHEtdW4xdUtZSTUwemlsdnNkOXJZMkxSQmJDV3VJd2txemlMMnRfMkszZWs2Ni14dkY?oc=5",
+      "description": "Roundcubeの重大な脆弱性、攻撃で悪用されるように：CVE-2026-48842 | Codebook｜Security News&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-09-25T03:45:07.000Z"
+    },
+    {
+      "title": "中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0dKZVVSekJlZXB2VWFVckY0b0JMaWJ5ZUlWYVNFYjRTN3B2cEhSODZFS1dNdTZzVEFqa3VYNjBxZXFFR0tXZmY5MXFMQjgta2k4aElvbmp6QkpyN1NIZUVfY2QxRlNuSms2NDNiUlZySFdiNjk2V3BlLTg5OWI2YklRX2F6NWl3eGduWg?oc=5",
+      "description": "中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-09-25T00:30:49.000Z"
+    },
+    {
+      "title": "Webアプリの乱立でリスクが見えなくなっている!?―継続的な脆弱性診断が実現する統合セキュリティ管理 - マイナビニュース",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTW1wN3lnS2Y1V2pfd1ZRUm9YQ1FGTFhHUTFHN0tMU1dZX29FSFZOTnk2elBtVk83d1BjS3l0SkthQ0xKZ2o0VmxhWWFVVmtfR0VuUmd2TWJmTmQxNkdRZndvUzdjZW8?oc=5",
-      "description": "Webアプリの乱立でリスクが見えなくなっている!?―継続的な脆弱性診断が実現する統合セキュリティ管理&nbsp;&nbsp;news.mynavi.jp",
-      "source": "news.mynavi.jp",
+      "description": "Webアプリの乱立でリスクが見えなくなっている!?―継続的な脆弱性診断が実現する統合セキュリティ管理&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
       "publishedAt": "2026-09-25T00:00:00.000Z"
     },
     {
@@ -16,6 +37,13 @@
       "publishedAt": "2026-09-24T23:05:10.000Z"
     },
     {
+      "title": "VIP・GOLDランク顧客の情報流出の可能性 ～ ファイブフォックスへのランサムウェア攻撃 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fcjNqb1kzUWJuTnN0aVkwck00eXB3ODZ2Z2dNNWpQQk16ZU1pbzQwM2VHenRYazFFSXNpdkNkMVhWSVpjYTh6cUtnUFhTR29fU2hiZDBfc1VNQ3FOTU9LeWh5UEtBaFRsbjVaRg?oc=5",
+      "description": "VIP・GOLDランク顧客の情報流出の可能性 ～ ファイブフォックスへのランサムウェア攻撃&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-09-24T23:05:05.000Z"
+    },
+    {
       "title": "実行犯が示唆したダークウェブでの情報公開は確認されず ～ ワシントンホテルにランサムウェア攻撃 - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0dWNfQTZ5YVVOLUJDWW1FSnJtUFVmUEV3c1VDY01aNGh1UnM4Tk5vSElmUHdtOHUxM293cUJCRGtqYnNiMjd4N0pUZjI2YlpDQkZCUjRrbGpNcFp6NDhTSlVabWtzYmNzdzVveQ?oc=5",
       "description": "実行犯が示唆したダークウェブでの情報公開は確認されず ～ ワシントンホテルにランサムウェア攻撃&nbsp;&nbsp;ScanNetSecurity",
@@ -23,7 +51,7 @@
       "publishedAt": "2026-09-24T23:05:02.000Z"
     },
     {
-      "title": "レボリュート利用者、1か月で2度目の情報流出 - BeInCrypto",
+      "title": "レボリュート利用者、1か��で2度目の情報流出 - BeInCrypto",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DRTZsQUV0TURWeDBwSTN3T1hTMHkxNTBIdmJNeHZNMjVDQmt3S0hjYl9JVmJWbF9oVmloUVZKWGs4ZFdxS3dzRk1HZ2JPNzI4NEV2RlpzaEdCY0pxMkYyRDNoNmVoUVBUYUlLcTdqUEVDZnZJcldR?oc=5",
       "description": "レボリュート利用者、1か月で2度目の情報流出&nbsp;&nbsp;BeInCrypto",
       "source": "BeInCrypto",
@@ -37,39 +65,11 @@
       "publishedAt": "2026-09-24T22:00:15.000Z"
     },
     {
-      "title": "ミラクシア、Security Days Fall 札幌に出展― EUサイバーレジリエンス法（CRA）対応を支える「製品脆弱性保守ソリューション」を参考出品 ― - prtimes.jp",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvR2Y3ZnhCQ2VNVENvZk1VZlNMRHFTVWUwVHRZamlQUVFMOUthWGNMRmxkcmcwTWtBZXdKbTZ0YnlVeWZzZ3Q2UW5OU2d4UV83RGpwdW1oU2tZVGQ4ODlTT2NmVlR1cThpbFE?oc=5",
-      "description": "ミラクシア、Security Days Fall 札幌に出展― EUサイバーレジリエンス法（CRA）対応を支える「製品脆弱性保守ソリューション」を参考出品 ―&nbsp;&nbsp;prtimes.jp",
-      "source": "prtimes.jp",
-      "publishedAt": "2026-09-24T11:45:40.000Z"
-    },
-    {
-      "title": "AIの脅威封じ込めは、より優れたサイバーセキュリティが担うべきだ - Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQRnFCdmtROUd5U055TTQ2U3djV3NJSU03SGtYcmZVdmRSdzFrMmZRZjhCRnVTXzY4THNJLU1MekNWTkwwVGNoLWdMQjcyenN1a0xyazFmeGItdw?oc=5",
-      "description": "AIの脅威封じ込めは、より優れたサイバーセキュリティが担うべきだ&nbsp;&nbsp;Forbes JAPAN",
-      "source": "Forbes JAPAN",
-      "publishedAt": "2026-09-24T11:31:00.000Z"
-    },
-    {
-      "title": "ShinyHuntersがランサムウェア グループ Cl0p(Clop)リークサイトを改ざんし逆に恐喝 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHN5a3hWbjRfVjd4b3ctcFZSaFlsLTU2aFN5bnctMlhBbHk5ZHljZzRMeHlqSzNoaUUwTkpBSW50SXlqNmRZRkhKbVptQVRZMkdTektLNHlIUGZKejlfMnkzVE9QeE5JMHZJN3hQeFhJT2p6bHVWVGNvdnBmZGhYQ3F4eVNXaVRWQUE?oc=5",
-      "description": "ShinyHuntersがランサムウェア グループ Cl0p(Clop)リークサイトを改ざんし逆に恐喝&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-09-24T07:00:40.000Z"
-    },
-    {
-      "title": "ShinyHuntersがOracle PeopleSoftのゼロデイを悪用してFBIからデータ盗んだと主張 - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEVXRU5KVTI5eWhmb1RManFQc0Rpa3I3NHB3ZFhZWWZaX3ppa1lERVBuSHRiRjdVTUFZVWQ3cFhTcTg3SGFYYVJqRHA4TE93RXlRWVVUMFZOUmpGUldkSUw5LVBZdG9YYVpJS19zWjdqU2RCZjUxVVNLQkVGWGVfS0xUOUI?oc=5",
-      "description": "ShinyHuntersがOracle PeopleSoftのゼロデイを悪用してFBIからデータ盗んだと主張&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-09-24T06:48:21.000Z"
-    },
-    {
-      "title": "F5 BIG-IP APMに悪用確認の脆弱性 認証なしでリモートコード実行の恐れ - 株式会社アクト",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5YVNMd0x5ZDAtRTV0Unl0RmdjQzctWGdTTXpuUkVrektfaVlYZktIc2o0clh5QXhkTEtYa3ltRnNuSkVhS3JoTQ?oc=5",
-      "description": "F5 BIG-IP APMに悪用確認の脆弱性 認証なしでリモートコード実行の恐れ&nbsp;&nbsp;株式会社アクト",
-      "source": "株式会社アクト",
-      "publishedAt": "2026-09-24T06:30:37.000Z"
+      "title": "グーグル、「Chrome」のパッチ適用を高速化する新戦略--リリース責任者に聞く狙い - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aR2N0Q3JiamZyWkJfT2ZpYnFDemN2MVBqSlc0MDBoWmxDRXBNWG8zc3dhNVBHdFVGNVBtWC11dVA3NUtIbTB6LUtGRW5HWGVrWUN1YWplcERtUVlWMGs1bkl1RDI4bVYxb0p5dExaNUlJT0h5VG51RVBoUUVwdjQ?oc=5",
+      "description": "グーグル、「Chrome」のパッチ適用を高速化する新戦略--リリース責任者に聞く狙い&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-24T22:00:00.000Z"
     }
   ]
 }
