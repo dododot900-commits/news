@@ -2,18 +2,32 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "グループ共通SaaS・ITインフラ費用配賦の運用設計｜動的データ管理と部署間連携 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblVxMTJUdWFsbVdRRWhDOVhWQmpiRVJGRllxNDFSNFRETmJnU3NtUHpteVU1S1hBVU0tb1QwT3c2MFJzdXg4LTVibkhJXzNvY3FOQzVyQURPNl9yU0xNTVlzczBxX1pUSzhJRlFZREQ2d3FQVy1EWXMtLU5yTkNZQ1dYZVQ1Um5PckHSAXxBVV95cUxQaDJjMnhOTTB4N3VXemxzTGpUTWMzczBJRDdualVhMllSQzJVTnZQMjFXbDQyRXA1SGxjRDRudWQ5Vm1teERQcm5OdjRSN25IOE1LZXVFNExjMzRDQ3Zuczl6REhEX1J1eHBTX2lnZnNKWkpBSXFab2xwUmRN?oc=5",
-      "description": "グループ共通SaaS・ITインフラ費用配賦の運用設計｜動的データ管理と部署間連携&nbsp;&nbsp;ｄメニューニュース",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-09-26T14:00:00.000Z"
+      "title": "レノボ×AMD AIインフラ本格導入時代、水冷「Neptune」とAMD EPYCが支えるエンタープライズ基盤のあるべき姿 - 週刊BCN＋",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93Y0xiQURrcHZHMFpBZlFMVGgzcTI3bTI1QXkyenByTXN0WUU2NC1CalZnbXFsTUY4WjRabm5NaHkxdHpxSVZuSlhFVDluWHQ3QkpiSG9yb2QzQ2twVHlsTEVic014dy1ZMTVubDhydlRJLXR3eUE?oc=5",
+      "description": "レノボ×AMD AIインフラ本格導入時代、水冷「Neptune」とAMD EPYCが支えるエンタープライズ基盤のあるべき姿&nbsp;&nbsp;週刊BCN＋",
+      "source": "週刊BCN＋",
+      "publishedAt": "2026-09-28T00:00:00.000Z"
     },
     {
-      "title": "クラウドマネージドサービス市場の主要10社まとめ - pando.life",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBla2loR3pLaS1LSEw2bkx0b3J0QlB0S0xEdmZ2cUNseWVBUWRvOUZ1Mlh1TGI5bUtUU0NxYzZJWDZMOWNHRElwb1RB?oc=5",
-      "description": "クラウドマネージドサービス市場の主要10社まとめ&nbsp;&nbsp;pando.life",
-      "source": "pando.life",
-      "publishedAt": "2026-09-25T09:48:46.000Z"
+      "title": "インフラストラクチャがクラウドに「開放」されるとき：ハイブリッドアーキテクチャにおけるデータセンターの新たな役割 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWc3Ni1WYjhXZjRNTzNJcmlGWVZiVldTRGJEckxQN0dwZ0xDa0ZkUnlwZUxOOXdPamdZenplWmJlMEZsX3JWekFEazdOVFRRcW0wQmZmT000WHZXV0J4ZjZKRmNUV0VTaEZzemtzWHdDSFJKeVVDVjk2aUJ1bzQ5c1picHV6QUhtblJIUlNSZ2VzZHZNcm05RVloU2hacnJOUzZLc1h3?oc=5",
+      "description": "インフラストラクチャがクラウドに「開放」されるとき：ハイブリッドアーキテクチャにおけるデータセンターの新たな役割&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-09-27T18:03:59.000Z"
+    },
+    {
+      "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aZUNyLVMwU3B2RGg0X1VUTTJYaWRtRmRKS0ZvMDVlVmhCdjJwVjB6ekwxMWlUVW92N3RwZzFzYUdZUXVoV2FSZnhWOFZMb19pVXVwNVFzUjdiMVZLQVdhcUFnekptaHhYbHhXdzVoSkk?oc=5",
+      "description": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-09-27T14:05:30.000Z"
+    },
+    {
+      "title": "Oracle、ニューメキシコ州データセンターの賃料支払い延期を通知——AIインフラ金融に「警鐘」 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPN0FybVYyVU5fdkVYVnFiQmhUdDRYSG5MVl9TXzRQNUlXdWRNcXFhRWlRTTAtWnRZN0s1c0otdVlGZmwwcFlrVHVyUTFmcW1RZjE2UDJQNFlHeFI0VFFUZnJqek41UjlhaVhvaXRzeHNWczlO?oc=5",
+      "description": "Oracle、ニューメキシコ州データセンターの賃料支払い延期を通知——AIインフラ金融に「警鐘」&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-09-27T09:55:00.000Z"
     },
     {
       "title": "Alibaba Cloudはグローバルインフラストラクチャを拡大し、3つの新しいAIソリューションをローンチ - VOI.ID",
@@ -30,18 +44,18 @@
       "publishedAt": "2026-09-25T02:40:08.000Z"
     },
     {
-      "title": "アカマイ、アンソロピックと116億ドルのクラウド契約 株価22％高 | ロイター - Reuters",
+      "title": "アカマイ、アンソロピックと116億ドルのクラウド契約 株価22％高 | ロイター - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSElTbnpKb3hiVl8zeHFSR0xUbEFKdWx2SmNYb3QtWS15YU4tOF9meWU2eHVJQmI2ZUU0UmxhUDQwSWZzSWxqaC0xUVgwZ0lTN1pyNUFZYlZ2Zm43Vm5uTmtZdGxLUzhRNk03VGRGUDJlN0lFLUJCMGxmb3JoR2FtOEc5cjdHUQ?oc=5",
-      "description": "アカマイ、アンソロピックと116億ドルのクラウド契約 株価22％高 | ロイター&nbsp;&nbsp;Reuters",
-      "source": "Reuters",
+      "description": "アカマイ、アンソロピックと116億ドルのクラウド契約 株価22％高 | ロイター&nbsp;&nbsp;reuters.com",
+      "source": "reuters.com",
       "publishedAt": "2026-09-24T23:27:43.000Z"
     },
     {
-      "title": "デジタルインフラストラクチャ市場トップ10企業 - pando.life",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DVzk1QVpEV1llRlBydFE4UEpjS0VPOGdmYUJFcG9XcVI1UTltdHNEamk1RTctT0poVllaSDRMN0lMX0YzQ2ItSFRn?oc=5",
-      "description": "デジタルインフラストラクチャ市場トップ10企業&nbsp;&nbsp;pando.life",
-      "source": "pando.life",
-      "publishedAt": "2026-09-24T22:50:03.000Z"
+      "title": "Akamai、Anthropicとの拡大された7年クラウド契約に署名 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2dDQ1lyaDNLQ0pqYVFVXzQ4LTBCdFRhbjNGRXFHR0dqdDZwRFpOVnN3SkdJQ2laX0lINU9ZQVpuZnlhVGNkYUdoMkdNWXZ5X1lwVUhScWh0TjZRNjl3OC1DMEZfanJRa3hNdnBhamNGV1h1SVN1S19XSnFxNC01dzNudk9tSDJVV1RoQ0JvX2EzQQ?oc=5",
+      "description": "Akamai、Anthropicとの拡大された7年クラウド契約に署名&nbsp;&nbsp;Unite.AI",
+      "source": "Unite.AI",
+      "publishedAt": "2026-09-24T20:58:19.000Z"
     },
     {
       "title": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成 - thinkit.co.jp",
@@ -53,23 +67,9 @@
     {
       "title": "EPAMシステムズ、EUの統合テープ向けクラウドインフラを構築 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMYmdoM0pBaUszOU44dlZTSjg3SE02T3ZOeW9aMHZHX0VlblZ1Qk5jbUpoaHIxVVd0bWJONnY1dkVDRV9vTGpYOE5POFVUa0h3a0s3aDhyeUhnVHJxeml3Yl9qTUZ3ZjBIeG9BTHJ5N0Y?oc=5",
-      "description": "EPAMシ��テムズ、EUの統合テープ向けクラウドインフラを構築 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "description": "EPAMシステムズ、EUの統合テープ向けクラウドインフラを構築 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ��ァイナンス | 金融ニュース",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "publishedAt": "2026-09-24T12:13:00.000Z"
-    },
-    {
-      "title": "ロクシタンと筑波大学が連携協定を締結 視覚障害者教育の充実を目指し、クラウドファンディングを実施中 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtbHNJdE5PSzMtVEZqcXFEdjJCc1YxN1J6bHN3ekNoTWw1X2YwX0ZzQ2JDeFhjRXpGdGxpM2lvQS1KWHFuTzdKYjl5UW92RzY0YVZxbjdvdXhIbW9YbG5VOFJCQXc0am9ZR1E?oc=5",
-      "description": "ロクシタンと筑波大学が連携協定を締結 視覚障害者教育の充実を目指し、クラウドファンディングを実施中&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-09-24T09:17:47.000Z"
-    },
-    {
-      "title": "ファーウェイクラウドが万カード級クラスター運用保守の実践を公開、障害復旧時間を約9割短縮 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lb3A4TjJDbjdyOWhSLWZTM0FJQmxJRjc2TnBmdEtMckpCNFctWDRCSEtMY3liSEJtNThhNkdIbkM1QVlJaVZzOURPNVlzdDBocjFuOV9acmM5M3FRWVhvVjhFdzUtaUl3NkNMOGFKWTY0eG1Q?oc=5",
-      "description": "ファーウェイクラウドが万カード級クラスター運用保守の実践を公開、障害復旧時間を約9割短縮&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-09-24T08:05:00.000Z"
     }
   ]
 }
