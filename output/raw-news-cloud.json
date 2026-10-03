@@ -2,6 +2,34 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "【インフラエンジニアの悩み】クラウドの実務経験を積める確率を上げる方法3選【AWS 資格勉強】【CloudTech】 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZS3ZMWWJJT2xwdXV0MWMwQXMwNXg2MGlPTG1xdDhmMWZpR2xoS0ZUaGRrbV96LXdyVFFYOEgxcjhraTdjZUVkSjJzNm4wYzRjSmJVLXV3MWljLW9E?oc=5",
+      "description": "【インフラエンジニアの悩み】クラウドの実務経験を積める確率を上げる方法3選【AWS 資格勉強】【CloudTech】&nbsp;&nbsp;YouTube",
+      "source": "YouTube",
+      "publishedAt": "2026-10-02T10:15:38.000Z"
+    },
+    {
+      "title": "TraysarとArmadaが提携し、地下AIインフラを構築 - データセンターカフェ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1Q5WTB1NXF3Y2I2MmdFak5BN2txWHhKelBTLUprRTJtM19MQndtc3BDeWE1NGZDVnptLXUxVFJQSWJMcndoM2dPRHNfTE42YmJGWU5lRldpWHluRzYxdTB0Nk9pREx5UzdhdFl4d0hHR1RSTDdEX2p2VHBOdms2N1JwX2xXYUVjVHVkdE9IMFhTdw?oc=5",
+      "description": "TraysarとArmadaが提携し、地下AIインフラを構築&nbsp;&nbsp;データセンターカフェ",
+      "source": "データセンターカフェ",
+      "publishedAt": "2026-10-02T08:33:50.000Z"
+    },
+    {
+      "title": "韓国産AI半導体・クラウド統合…KACI、産業現場での実証成果を公開 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYUMzNkRtZ01VR3JvY0ROUUw1R1dFTERIYzh5ck40U0RCWllqbkF4NWJvMWpURWxKYzRBU1BMN29JNVhOeXdGTS1Fa05UZldsMXdMWnFRalgxV1lITGtJR2ZuYzhNOFZiZ0xJazdncE9MX1pn?oc=5",
+      "description": "韓国産AI半導体・クラウド統合…KACI、産業現場での実証成果を公開&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-02T06:35:00.000Z"
+    },
+    {
+      "title": "Colt、OCI FastConnectを通じ、Oracle EU Sovereign Cloudへの 接続提供開始を発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96Y0RtX0d3SWwtcTY5bVVQck9NbzdKR2xhQWlOUTRpMC1HTGh5c0JwMUhaVi1LU1VXQ1hNblJYRXdlQkxMeHBVVEx6LWYtYzA?oc=5",
+      "description": "Colt、OCI FastConnectを通じ、Oracle EU Sovereign Cloudへの 接続提供開始を発表&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-02T02:00:00.000Z"
+    },
+    {
       "title": "LINEヤフーはなぜ「社内の管理者」すら信用しないインフラを作ったのか：「機密VM」でAIのプライバシー侵害リスクを防ぐ - TechTargetジャパン",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWXJFdlBjQWRWanFUdHV4bTZPQVd1c1dFSVB6SUxlY1Fia01laTR2cHpud3BDSF9rZzg3UDA2SWJEQXRteVphQUdVd0FldENRM2gyU1VpcHVMTzBuYkxzcm1oVW5WOUp6ekNLVDFnM2c?oc=5",
       "description": "LINEヤフーはなぜ「社内の管理者」すら信用しないインフラを作ったのか：「機密VM」でAIのプライバシー侵害リスクを防ぐ&nbsp;&nbsp;TechTargetジャパン",
@@ -9,52 +37,17 @@
       "publishedAt": "2026-10-01T20:00:00.000Z"
     },
     {
-      "title": "VNPT Cloudは、ベトナムにおけるAWSサービス機能とマルチクラウドソリューションの拡大を目指し、Westcon-Comstorと提携しました。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjNXQmdIbTNta0JJTWM3ZDQxR0FfdEN4WUU0eHdVQWlUYllLUGRqaFAzSFBSV2FjNFQzOUhfWlplMU5FRkUwcVJDU1NOTlRSQ25vS3d5anMybjRKdVFaZ0J1MkhlUF9pWHZXVGkwMFZjdERteXNPX1h5Yjd0eGU3UTNWSEQybGlwRHRNMHhjT2d2SUJROEtpWG9MLXBreUpTaHdIbVZpQ1EwRDdPRE9fNW94cEh6ZWFxbXRYMVFxNVAzZUtaS3VSVEpfWGc?oc=5",
-      "description": "VNPT Cloudは、ベトナムにおけるAWSサービス機能とマルチクラウドソリューションの拡大を目指し、Westcon-Comstorと提携しました。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-01T11:33:29.000Z"
-    },
-    {
-      "title": "日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進 - dreamnews.jp",
+      "title": "日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進 - ドリームニュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XWG12eHB5aEpTYzNmemxKWmdKRFNwZjJ2TGVXTXlaVHh5YTdkYjJJR2g3V0hlRlVKb01kMmRFZU1zaWRtZ2FiTEtqakZxTmhHbzlj?oc=5",
-      "description": "日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進&nbsp;&nbsp;dreamnews.jp",
-      "source": "dreamnews.jp",
+      "description": "日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進&nbsp;&nbsp;ドリームニュース",
+      "source": "ドリームニュース",
       "publishedAt": "2026-10-01T08:30:00.000Z"
     },
     {
-      "title": "GMI Cloud、NVIDIA参加のシリーズBで660億ドルを調達しAIインフラ拡大を加速した事例 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSVNleGtpUlNySnl1VFpBQldSTmNkdnhycFBuZUlyYjcxZHd2eUU2b3NhTzExdE1aU2JyQ3pLMkJNMGdhaFVta0ZLQXRBVC1aTmdza3hMaVBHNDlzUExEcU1iYzVZQkxQT1BF?oc=5",
-      "description": "GMI Cloud、NVIDIA参加のシリーズBで660億ドルを調達しAIインフラ拡大を加速した事例&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-01T07:12:18.000Z"
-    },
-    {
-      "title": "GMI Cloud、NVIDIAとの連携で6億6,800万���ル調達しAIインフラの拡大を加速する計画 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaUtyeFItM0ZibEJvZWdjMHNqZTZBRG1wQXRoSVF1WGEtQ3A1bmNaZEFhbDJUUXdnQ05KWml1WWRLa2VEZVlEdGVqRjUzS25GLVQwX3c1MXVzTTA3OGVpNGFyWGJnRmV5NENIX2x3SWp4c2dtOUNNcmFNMXJ4Sm83TVJ6bjE?oc=5",
-      "description": "GMI Cloud、NVIDIAとの連携で6億6,800万ドル調達しAIインフラの拡大を加速する計画&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-01T06:54:21.000Z"
-    },
-    {
-      "title": "GPUボトルネック解消でデータセンターが新たな障壁に…韓国KTクラウド「2029年まで完売」 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hUmVEME9EWWkxTnJGblgxRi03cEkxcmw1NHNLd3MwRjZqSDV4RFgzZk5NSTdPOGF3cG5za2tSZHRmeTdOTlpTeVBEV2RDYkN4eWdnM1o1b1gxekpyOWR2RkxiRmtLSXIzRHliblVsVXhZdWdr?oc=5",
-      "description": "GPUボトルネック解消でデータセンターが新たな障壁に…韓国KTクラウド「2029年まで完売」&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-01T06:35:00.000Z"
-    },
-    {
-      "title": "韓国Innogrid、中小ベンチャー企業研究院にGPU仮想化統合AI分析環境を構築 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JX2tkdmk3bmE3cS1VdlFqM0xvbl9Udi1nQnVGRjhLRWcydGt6Zmg2TklKMmNaTjBQTmtIWGgtZlA2ZE1TZGszUlRpZXFGaG0yM2t0TmxwTGRVYVVNcDNhZFpCX2NpUGFQdXNCVTczNmkycGQz?oc=5",
-      "description": "韓国Innogrid、中小ベンチャー企業研究院にGPU仮想化統合AI分析環境を構築&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-01T05:55:00.000Z"
-    },
-    {
-      "title": "AI推論時代に求められる「分散型AI」とは--エクイニクスが提示するインフラ戦略 - ZDNET Japan",
+      "title": "AI推論時代に求められる「分散型AI」とは--エクイニクスが提示するインフラ戦略 - japan.zdnet.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWUtuWFRxbEpnM1p3YllrTmx4MnFMSkVDZVk3ak5MWnFnaGxienVQWmFEVjVJUWRvS3ctQmVyM1RPQkluU0dSRDJEREc5aGNLZDQ4?oc=5",
-      "description": "AI推論時代に求められる「分散型AI」とは--エクイニクスが提示するインフラ戦略&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
+      "description": "AI推論時代に求められる「分散型AI」とは--エクイニクスが提示するインフラ戦略&nbsp;&nbsp;japan.zdnet.com",
+      "source": "japan.zdnet.com",
       "publishedAt": "2026-10-01T03:43:00.000Z"
     },
     {
@@ -65,11 +58,18 @@
       "publishedAt": "2026-10-01T03:35:00.000Z"
     },
     {
-      "title": "GMI Cloud、NVIDIAが参加するシリーズBを含む総額6億6,800万ドル（約1,052億円）を調達 — グローバルなAIインフラの拡大を加速 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LOUtnel9KREpZaElHT2ZQODAxbEJuN2F3VDJHTnpodHdEWG5ycE9yODAtRDFwdFhQNHpGS1IxdnlMVGgwdlNRbDdDUG1EY2NORk1KYTV3ZVNldm9LeUpMMlQya0VKSWlLdVE?oc=5",
-      "description": "GMI Cloud、NVIDIAが参加するシリーズBを含む総額6億6,800万ドル（��1,052億円）を調達 — グローバルなAIインフラの拡大を加速&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-01T01:00:03.000Z"
+      "title": "AIとの対話でクラウドコストの分析ができる新機能を提供開始、srestがガバメントクラウドのFinOpsを支援 - prtimes.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTUNhN1k3SVRtN0wtbnA1NDlfcmgzQ2V2aDkzV25GdUlWbUItMFlWS01iYjlUODlrSUlSVThRMVdLQkRCUUZYWlVkbWdSR2JNeFZBWVlVZHBER0dId0JCRHoyWFVNOVNlUkE?oc=5",
+      "description": "AIとの対話でクラウドコストの分析ができる新機能を提供開始、srestがガバメントクラウドのFinOpsを支援&nbsp;&nbsp;prtimes.jp",
+      "source": "prtimes.jp",
+      "publishedAt": "2026-10-01T03:00:02.000Z"
+    },
+    {
+      "title": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zMGtwM28zQzM0aHJhQ1JNeFlkbzFTQ3JvOWVmZkpVTUU1bXliTVVSNmUyMzJqQzRBR0pESVNOMEJpcDUwZDJ5M2oxNA?oc=5",
+      "description": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成&nbsp;&nbsp;thinkit.co.jp",
+      "source": "thinkit.co.jp",
+      "publishedAt": "2026-10-01T01:08:44.000Z"
     }
   ]
 }
