@@ -2,6 +2,13 @@
   "topic": "enterprise",
   "articles": [
     {
+      "title": "システム刷新の前に、「WHY」から業務・組織・基盤を描け - 元カシオCIO・矢澤氏が語る、企業変革の設計図 - news.mynavi.jp",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bckh4NU9zeXBzX2VnbnpjSUtiY292eGJZN1FzZklydkROOUktYks5R0pKclA5c29OLXp1UHRxNGdZUmxnMWw2OFI4bGpMcE5lTE44aDVXUXF0RjBudlNIMnFkSWVHVHR4?oc=5",
+      "description": "システム刷新の前に、「WHY」から業務・組織・基盤を描け - 元カシオCIO・矢澤氏が語る、企業変革の設計図&nbsp;&nbsp;news.mynavi.jp",
+      "source": "news.mynavi.jp",
+      "publishedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
       "title": "IT部門は「止める判断」を下せるか？ フロンティアAIによって変わる脅威への対応法：「新しい乱世」を生き抜くためのIT羅針盤 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LLWFPTWZlaTlfUWpiNURQZXhwOGc3R1ZTQndPZ0QtZjh0dEk3Y21hd1ZlUFhFby1Jbnp0dmxDa1AzOHB0Y2pnd1pYR2NmTFZlNUJMT3B2T0JFM0VpeEdXWDliV25KdlA3QUtHbXFHSDBpTloy?oc=5",
       "description": "IT部門は「止める判断」を下せるか？ フロンティアAIによって変わる脅威への対応法：「新しい乱世」を生き抜くためのIT羅針盤&nbsp;&nbsp;ITmedia",
@@ -9,31 +16,38 @@
       "publishedAt": "2026-10-01T23:00:00.000Z"
     },
     {
-      "title": "医療 AI・DX、AI セキュリティ、生成 AI の最新動向を専門家が解説 医療 AI プラットフォーム技術研究組合が 10 月 8 日にセミナー開催 - prtimes.jp",
+      "title": "医療 AI・DX、AI セキュリティ、生成 AI の最新動向を専門家が解説 医療 AI プラットフォーム技術研究組合が 10 月 8 日にセミナー開催 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yVXNkWXVtVDBmQjNOd0hmMUdLdnN1aGFxSTUyY2NiQ0tPM2VuNDk0UW8zYVp2SEUzeFBldnNrXzNfN3hVTEp3MHFuYzhuMDE1QW5jMTRRZTA4NS1oX29KQW1xT1YzclFhTnc?oc=5",
-      "description": "医療 AI・DX、AI セキュリティ、生成 AI の最新動向を専門家が解説 医療 AI プラットフォーム技術研究組合が 10 月 8 日にセミナー開催&nbsp;&nbsp;prtimes.jp",
-      "source": "prtimes.jp",
+      "description": "医療 AI・DX、AI セキュリティ、生成 AI の最新動向を専門家が解説 医療 AI プラットフォーム技術研究組合が 10 月 8 日にセミナー開催&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
       "publishedAt": "2026-10-01T08:51:24.000Z"
     },
     {
-      "title": "2026年秋を代表するSaaS導入事例24件を表彰｜「SUCCESS STORY AWARD 2026 Autumn byデジタル化の窓口」受賞事例を発表 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ROTdQR2xzLW1jSWNBVXZhakFzNW5LcklmRDBmT19UdHI2bUVsejlCV3hjUmZXeGdnNnIybklwbVVJWGdsVFlvSE9vckE1dTJxTlQxVk53YUFmaUhzcEJ1UWdtMHk4NDFfRHIwdVJzWnVOZw?oc=5",
-      "description": "2026年秋を代表するSaaS導入事例24件を表彰｜「SUCCESS STORY AWARD 2026 Autumn byデジタル化の窓口」受賞事例を発表&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-09-30T07:45:55.000Z"
+      "title": "デロイト トーマツ、エンタープライズ領域のセキュリティ運用管理・技術支援に強みを持つエイ・シームジャパンの全株式を取得 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zT2otX0Z5SDBkZ1paWXAwV3UtZGJLNzRBaUx2SFRqbGt4MHZQTmthTXdSckgzR0NDQVJmNGVuNU9hdnVVQjVwb011WGhjSWEwMU5R?oc=5",
+      "description": "デロイト トーマツ、エンタープライズ領域のセキュリティ運用管理・技術支援に強みを持つエイ・シームジャパンの全株式を取得&nbsp;&nbsp;ZDNET Japan",
+      "source": "ZDNET Japan",
+      "publishedAt": "2026-10-01T05:10:00.000Z"
     },
     {
-      "title": "FRONTEOグループのアルネッツ、DXテーマの優先順位付けを支援する「ポートフォリオワークショップ」を提供開始 - prtimes.jp",
+      "title": "FRONTEOグループのアルネッツ、DXテーマの優先順位付けを支援する「ポートフォリオワークショップ」を提供開始 - news.nicovideo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdjR4Zmp6QUlBQmkxM0REeUxzSVZBOUFBLWNGYzNJNzhCZVJ3bUpqMERkYzFOU3RsR3dZR3IwMmFTcU1UMWxFUWU5Z21tMGxxQktIRQ?oc=5",
+      "description": "FRONTEOグループのアルネッツ、DXテーマの優先順位付けを支援する「ポートフォリオワークショップ」を提供開始&nbsp;&nbsp;news.nicovideo.jp",
+      "source": "news.nicovideo.jp",
+      "publishedAt": "2026-09-30T19:45:26.000Z"
+    },
+    {
+      "title": "FRONTEOグループのアルネッツ、DXテーマの優先順位付けを支援する「ポートフォリオワークショップ」を提供開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53dlEyVk5wSnNhcHBhQlR4WVBQLVZtd2xwWXNPdUtnX2todlFpVGpId2gxZGcybnlzalkySm0xSU1CbHFxNXpqZk82aFF6RUxKc1JIVmcxYmVCS2JfU2cwajBvNmNwMWZKd3c?oc=5",
-      "description": "FRONTEOグループのアルネッツ、DXテー���の優先順位付けを支援する「ポートフォリオワークショップ」を提供開始&nbsp;&nbsp;prtimes.jp",
-      "source": "prtimes.jp",
+      "description": "FRONTEOグループのアルネッツ、DXテーマの優先順位付けを支援する「ポートフォリオワークショップ」を提供開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
       "publishedAt": "2026-09-30T05:00:02.000Z"
     },
     {
-      "title": "2026年秋を代表するSaaS導入事例24件を表彰｜「SUCCESS STORY AWARD 2026 Autumn byデジタル化の窓口」受賞事例を発表 - prtimes.jp",
+      "title": "2026年秋を代表するSaaS導入事例24件を表彰｜「SUCCESS STORY AWARD 2026 Autumn byデジタル化の窓口」受賞事例を発表 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pY0F4Y0xKSmZHbVF4VzNoR3VXbmFVYkY1R0FyRXJ2WXF2b0VqUjJyMGxRU3dSb1AzQnd6ci1OZ1R3eG1QempDcDJlbUpmWTc4cEN4ZUxVLW5XSzY1Y1dwX2JyUndycjNGTmc?oc=5",
-      "description": "2026年秋を代表するSaaS導入事例24件を表彰｜「SUCCESS STORY AWARD 2026 Autumn byデジタル化の窓口」受賞事例を発表&nbsp;&nbsp;prtimes.jp",
-      "source": "prtimes.jp",
+      "description": "2026年秋を代表するSaaS導入事例24件を表彰｜「SUCCESS STORY AWARD 2026 Autumn byデジタル化の窓口」受賞事例を発表&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
       "publishedAt": "2026-09-30T04:00:02.000Z"
     },
     {
@@ -56,20 +70,6 @@
       "description": "Emro、欧州で初受注 SRM SaaS「Caidentia」を導入&nbsp;&nbsp;디지털투데이",
       "source": "디지털투데이",
       "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
-      "title": "「GMOトラスト・ログイン」、導入SaaSの管理と統制を支援する「台帳機能」をリリース【GMOグローバルサイン】 - prtimes.jp",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLUVpvUHE3LUtkZkJHT0ptaTlUQkZZMkR2SFV0NWZFN3hzTWt2ZTc2X1JUNEpxd3d4d1A3M01OM3NGWFVEakZ5eVZQOGI4ak1EQWx5VDVBeXgtRmFEbkd5MGdHQUkyeFdRV1E?oc=5",
-      "description": "「GMOトラスト・ログイン」、導入SaaSの管理と統制を支援する「台帳機能」をリリース【GMOグローバルサイン】&nbsp;&nbsp;prtimes.jp",
-      "source": "prtimes.jp",
-      "publishedAt": "2026-08-26T07:00:00.000Z"
-    },
-    {
-      "title": "両備システムズ、2026年度の売上高が計画上振れへ - 公共DXと物流を成長軸に - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4Y3d1REY5WDFCS3RNRTZZX1ZKNDJVTU5vSWpwYnFXTi04d2xoU2xiLXk2emJ0TVV5YjVaVjNtdzE1b19CNnowSjBtanZxMzIxQThZZUFyTzZCU1BqT2dsTElUd3YxdjNY?oc=5",
-      "description": "両備システムズ、2026年度の売上高が計画上振れへ - 公共DXと物流を成長軸に&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-08-26T07:00:00.000Z"
     }
   ]
 }
