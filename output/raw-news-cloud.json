@@ -2,6 +2,55 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "APIでクラウド間をオンデマンド専用線接続 4大クラウドやEquinixが採用するオープン仕様とは - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aZWJFRVl5dVJya3c5VGF4eVBxM2RhVnVJaTdjT0NPa1ZSRVp6MzJsTXpGelZZS0czQXBaZEhsWnBHY0lLdGMzcnJMS2FzSEkwR1FFSFpYaDctMDlFNE90VEwtNG5JbTc4cXZhMG03TG1wUQ?oc=5",
+      "description": "APIでクラウド間をオンデマンド専用線接続 4大クラウドやEquinixが採用するオープン仕様とは&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-10-06T20:00:00.000Z"
+    },
+    {
+      "title": "SAPの手探り“クラウド間移行” 丸紅グループが業務停止を1営業日に抑えた方法：立ちはだかる技術的制約 - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjWmtFZXZRY2xJVWZGSldUZ0V0dWZxUW5mdzVoekxhVFotREI2UTEzbWRsQUp5dFhGZHpHMmpNbG1pUmduYi1XalNaLXpHWUo5WDZhUENMSlRBVXFJLVYxV3JWeWFKWWJ5blMwcTh2RDc?oc=5",
+      "description": "SAPの手探り“クラウド間移行” 丸紅グループが業務停止を1営業日に抑えた方法：立ちはだかる技術的制約&nbsp;&nbsp;TechTargetジャパン",
+      "source": "TechTargetジャパン",
+      "publishedAt": "2026-10-06T20:00:00.000Z"
+    },
+    {
+      "title": "JERA、Dell Technologies、Rhaelmが日本でオンサイト型電力供給AIインフラ構築に向け提携 - データセンターカフェ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnhaVHVfMWtHN2tNTnBSR2xxZmt5a2s4VWFqYlNmZU5UMHJGMVQ0RHRHa29LY1laM0VnS1lBcFVBOWI4T3pyenRVSFF4MUZJWjZLVndxVjlIeXVtOGMtOEpySVlialh6OEh2TWpmZUgwbVd4RDFmRC1Xc0k5Q2lIaWVOVHBOZzN4X0FxNHhvajB1aXhlemUwTlpzSGlqQXRic0NCNDFzVGpxSy1ZY1ZHLXBkRXV3c00?oc=5",
+      "description": "JERA、Dell Technologies、Rhaelmが日本でオンサイト型電力供給AIインフラ構築に向け提携&nbsp;&nbsp;データセンターカフェ",
+      "source": "データセンターカフェ",
+      "publishedAt": "2026-10-06T09:28:15.000Z"
+    },
+    {
+      "title": "パーソナルクラウド市場：サービスタイプ、デバイスタイプ、エンドユーザー、業界別―2026年～2032年の世界市場予測 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRMlBmVmN5bWNWQ3NHa3BMd1FnalZfTVJPdUVnLTBKZDVEWVNZR2NYckxGY0NKMVJnb2dvYjNJU2RLbHdZd2YxR2pPU2M4aG8?oc=5",
+      "description": "パーソナルク���ウド市場：サービスタイプ、デバイスタイプ、エンドユーザー、業界別―2026年～2032年の世界市場予測&nbsp;&nbsp;アットプレス",
+      "source": "アットプレス",
+      "publishedAt": "2026-10-06T05:24:00.000Z"
+    },
+    {
+      "title": "AIとクラウドを活用して、教室とビジネスの世界のギャップを埋める。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOU5ZdFJORGdPVVlReVUzdFpCY251WE1wamNKb3lyS1ZnR2pjdV9Yc3dsUnMySHo2WHNiZkd0dWx2eE1JdVl2dFYyWU9iS3I2d3ZyTkRlbnZGVzFOZ2JpMWRTdUtIWVdpRkE5MEQ0cjBFZ0thS1cwR01qeE1sV191ZUxTVGNLanp5YWVnZGVSUnpTUmlJc2xnRg?oc=5",
+      "description": "AIとクラウドを活用して、教室とビジネスの世界のギャップを埋める。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-06T04:24:25.000Z"
+    },
+    {
+      "title": "NHNクラウドがAIフェスタでAIインフラとGPUサービス披露 - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNaWc4LS11cDZSLWpqTjJtTTYtdnF1SVVOcTI1TnZEUmRNYm83N0VKQkhRWXZKV2Vrd1Nka2pka1pocjlzWnRjMXNidEJMWHd6akpNOEJoWGNXcXd5VUxfOG4ycG5DMklZRGJCZGZWa3BmYkpaSEFGcE1n0gGOAUFVX3lxTFBwWlRIMWk0aG5aWXdYMkkwZzB0M2t5TEFrWVJwRzA4VmxFX1hESTkzVHh6Qy02Y041MUdfU0w1Qnd3X3htQmZYV0hKT2FjMTdUTzVRMHRDNktyNnNTME1qRXRieDAyLTlET2FEMEt0OFZhWmplQlZrV3EzSzhYTlhmRGdOTmEtQ1Z6VTFpNWc?oc=5",
+      "description": "NHNクラウドがAIフェスタでAIインフラとGPUサービス披露 - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-10-06T02:40:00.000Z"
+    },
+    {
+      "title": "AI時代の電力インフラを支える次世代技術、データセンター用ソリッドステートトランス市場が2035年に65億ドル規模へ拡大 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UmhMbzM1T3dhMWZQRWgwektfeGN5RUFmZFZqWjZrbkdRLWhDaGJkaFJCXzhVZGM5RC1xaU9UR3ZVVnFVUC1pQzlfMkJNNUE?oc=5",
+      "description": "AI時代の電力インフラを支える次世代技術、データセンター用ソリッドステートトランス市場が2035年に65億ドル規模へ拡大&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-06T02:04:00.000Z"
+    },
+    {
       "title": "鹿島建設のDXを阻む「10年前のAWS」 安全性と自由度を両立したモダナイズ：使えたのは「EC2」「RDS」だけ - TechTargetジャパン",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51aC01dGRnWG5OLU5RVzJodFhPVGdhUUktVW9hMmxtUUtlQ0lHZzE0NHhsRjdROGw1bnlKMUs2djJrXzZsMVpxVDc5d0pWempyNG9XZjNyc3VZY2JkX2QyNDIxamo1dktiV1ctY3pPLWI?oc=5",
       "description": "鹿島建設のDXを阻む「10年前のAWS」 安全性と自由度を両立したモダナイズ：使えたのは「EC2」「RDS」だけ&nbsp;&nbsp;TechTargetジャパン",
@@ -9,67 +58,18 @@
       "publishedAt": "2026-10-05T20:00:00.000Z"
     },
     {
-      "title": "「歴史は繰り返す。AIネットワークもEthernetへ」 アリスタ兵頭氏が4領域での進化を徹底解説 - ビジネスネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TVFNjVUpRa2VJQnB5NTJMbmxFZVRhY1dXSGFsQ3ZtS1JCMU1KNG9vMU4zVzZDb2xVVDAwRktNbVBuNnpHS0ZXTlNrb0VwYVhpWUgw?oc=5",
-      "description": "「歴史は繰り返す。AIネットワークもEthernetへ」 アリスタ兵頭氏が4領域での進化を徹底解説&nbsp;&nbsp;ビジネスネットワーク",
-      "source": "ビジネスネットワーク",
-      "publishedAt": "2026-10-05T17:03:17.000Z"
+      "title": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zMGtwM28zQzM0aHJhQ1JNeFlkbzFTQ3JvOWVmZkpVTUU1bXliTVVSNmUyMzJqQzRBR0pESVNOMEJpcDUwZDJ5M2oxNA?oc=5",
+      "description": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-10-05T17:22:50.000Z"
     },
     {
       "title": "アリババクラウド、向こう12カ月で8カ国・地域にデータセンター新設へ - 36Kr Japan",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BLVVLbElJNHVZOVBUSXUwMG9QR2JkaGtjY19CMUJTejJyU2hmaVVjbXQzcjRFQjl6MHN3?oc=5",
       "description": "アリババクラウド、向こう12カ月で8カ国・地域にデータセンター新設へ&nbsp;&nbsp;36Kr Japan",
       "source": "36Kr Japan",
-      "publishedAt": "2026-10-05T16:02:46.000Z"
-    },
-    {
-      "title": "ハイブリッドクラウド市場の未来を解明：分析と予測、2026年から2033年までの年平均成 - pando.life",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wOXlBNllsZEpuODV6X2Y4cjZ3bG5CWDUyYU5mWFp6QXdxUEpRdHVmVjdNdmZpd3YwXzViYndPNUk5enNnM1hUOGJn?oc=5",
-      "description": "ハイブリッドクラウド市場の未来を解明：分析と予測、2026年から2033年までの年平均成&nbsp;&nbsp;pando.life",
-      "source": "pando.life",
-      "publishedAt": "2026-10-05T07:01:41.000Z"
-    },
-    {
-      "title": "能登復興と、障害のある作り手の仕事づくりを金沢から。烏鶏庵『お客様感謝祭』11/7(土)・8(日)開催、今年は福祉施設3者が出店 地元企業向け「社名入りノベルティ協賛」を募集、クラウドファンディング実施中 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rd2E3cXdSZE5Pd0dzaHkzNXNRLWFvOERWaDBTalJ6ZDd3WmN3dE5oLTdLalBNa1JFUm9oQVFJT2pCY2oxYnVhd3pfd2xGZnhuTU92aDFqc1k2OG5jWkVKYnBn?oc=5",
-      "description": "能登復興と、障害のある作り手の仕事づくりを金沢から。烏鶏庵『お客様感謝祭』11/7(土)・8(日)開催、今年は福祉施設3者が出店 地元企業向け「社名入りノベルティ協賛」を募集、クラウドファンディング実施中&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-05T01:00:00.000Z"
-    },
-    {
-      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
-      "description": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;thinkit.co.jp",
-      "source": "thinkit.co.jp",
-      "publishedAt": "2026-10-02T11:58:49.000Z"
-    },
-    {
-      "title": "Colt、OCI FastConnectを通じ、Oracle EU Sovereign Cloudへの 接続提供開始を発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96Y0RtX0d3SWwtcTY5bVVQck9NbzdKR2xhQWlOUTRpMC1HTGh5c0JwMUhaVi1LU1VXQ1hNblJYRXdlQkxMeHBVVEx6LWYtYzA?oc=5",
-      "description": "Colt、OCI FastConnectを通じ、Oracle EU Sovereign Cloudへの 接続提供開始を発表&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-02T02:00:00.000Z"
-    },
-    {
-      "title": "AI推論時代に求められる「分散型AI」とは--エクイニクスが提示するインフラ戦略 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsRGY2cnBEYXpManZqbzFwN21nUVRyNFpqOWp2RUxNZlA1NXoxYzExNUd4dWRaVDY1VzBzSFJSdVJqSjBFOHlRWHRyQkVLOHRVTEdhaTMwYUVVNUxMdWpHa0VORmowdHVUS2FTczJGazNhVUF6YmZoekl5U1BlWDA?oc=5",
-      "description": "AI推論時代に求められる「分散型AI」とは--エクイニクスが提示するインフラ戦略&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-01T03:43:00.000Z"
-    },
-    {
-      "title": "AIとの対話でクラウドコストの分析ができる新機能を提供開始、srestがガバメントクラウドのFinOpsを支援 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTUNhN1k3SVRtN0wtbnA1NDlfcmgzQ2V2aDkzV25GdUlWbUItMFlWS01iYjlUODlrSUlSVThRMVdLQkRCUUZYWlVkbWdSR2JNeFZBWVlVZHBER0dId0JCRHoyWFVNOVNlUkE?oc=5",
-      "description": "AIとの対話でクラウドコストの分析ができる新機能を提供開始、srestがガバメントクラウドのFinOpsを支援&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-01T03:00:02.000Z"
-    },
-    {
-      "title": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zMGtwM28zQzM0aHJhQ1JNeFlkbzFTQ3JvOWVmZkpVTUU1bXliTVVSNmUyMzJqQzRBR0pESVNOMEJpcDUwZDJ5M2oxNA?oc=5",
-      "description": "【クラウドネイティブ会議】ソブリンAI時代に求められるクラウド基盤とは The Linux Foundationの福安氏が語る「ソブリンなインフラ」と人材育成&nbsp;&nbsp;thinkit.co.jp",
-      "source": "thinkit.co.jp",
-      "publishedAt": "2026-10-01T01:08:44.000Z"
+      "publishedAt": "2026-10-05T14:43:35.000Z"
     }
   ]
 }
