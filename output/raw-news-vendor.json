@@ -2,6 +2,55 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "CrowdStrike、韓国金融機関へのAI悪用のサイバー攻撃を分析―ARTEX・Claude Codeの履歴から中国語プロンプトと攻撃者の痕跡|セ��ュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVRiNGFFSUN0X3dYUnVFMzJ6Z3FCbWpxYzB6Q05iNUEwWXd5X0x2SzdPYU5USTdyeXlLRDNtcG1vYThla3NXbkZNeWpjYUVMVHdCbXhsZ21CTjY3QWVQQ0VzdVJMcWxfMTZDalM5WEJCQ3FkQWJVZ3JsdlNIbWZSYTlrVUZ6SmVjNDg2b082eFpNam1DRDZhLV92X3lYb3BEVGc?oc=5",
+      "description": "CrowdStrike、韓国金融機関へのAI悪用のサイバー攻撃を分析―ARTEX・Claude Codeの履歴から中国語プロンプトと攻撃者の痕跡|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-09T02:15:12.000Z"
+    },
+    {
+      "title": "『EDRでは防ぎきれないランサムウェア、防御力とコストを両立する統合的セキュリティ対策とは』というテーマのウェビナーを開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Gd1p3OFlHelRROWl5Sy1VdVZQSWFfdkVGdWdlOUFWRHJTUmxSdG1FY2ZNSEN1V0dOa2psUUloZG03WFRNZW9Xb0QtaTRsRGxqaWlCdDZYVEdrV2hGOENFTV9tWUxVN0lFSVpBRlQzZ0VRcDJqVk83a0gxcw?oc=5",
+      "description": "『EDRでは防ぎきれないランサムウェア、防御力とコストを両立する統合的セキュリティ対策とは』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-09T01:45:37.000Z"
+    },
+    {
+      "title": "不正アクセスが多発、「狙われるのはAIエージェント」 - Zscaler創業者が語るゼロトラストの進化 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsc0dlNlhTQXlTaHBFZmduTWEyQmdvbHhpcG1PQXBZcmZQR18tRzdMTEtCT0tZcVhMc0dxT2o4c2N3bmlxVzl2bXdZTnJuX3hDd01hQ1hUelVwNDZPeUNiTkNPTndsb1B0NHlaQXpYb0xkRWRWc3pwV09IV2HSAXxBVV95cUxQbHNHZTZYU0F5U2hwRWZnbk1hMkJnb2x4aXBtT0FwWXJmUEdfLUc3TExLQk9LWXFYTHNHcU9qOHNjd25pcVc5dm13WU5ybl94Q3dNYUNYVHpVcDQ2T3lDYk5DT053bG9QdDR5WkF6WG9MZEVkVnN6cFdPSFdh?oc=5",
+      "description": "不正アクセスが多発、「狙われるのはAIエージェント」 - Zscaler創業者が語るゼロトラストの進化&nbsp;&nbsp;ｄメニューニュース",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-10-08T22:00:00.000Z"
+    },
+    {
+      "title": "CrowdStrike・AWS・NVIDIA、サイバーセキュリティスタートアップ支援を拡大―Agentic AI時代の新興企業を世界で募集 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTW9uaGpnVWl3MGg2Ty0xMS1TWGtFSUtWMlZLem95RkhpQWdHX0VHNE12UFVJSXNxUThXaXhWMXFWS2xlSWNUeUVicV80cTBNVUVFT1FHSUhuU2ZoV25URlZ6Q1lBcHdZVFNHMkV5U3JHQ1hRbHI3bHVMVHhjV2xEclpwN2phMk1wb200VDhlWHNvTURhcXlfRVdHRnVDeEdhTlZrR2E4Mko?oc=5",
+      "description": "CrowdStrike・AWS・NVIDIA、サイバーセキュリティスタートアップ支援を拡大―Agentic AI時代の新興企業を世界で募集&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-08T20:00:31.000Z"
+    },
+    {
+      "title": "【CrowdStrike決算】Mythosショック！AI攻撃でセキュリティの常識が変わる Veleno Habs (tPjTodi3U5) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ueFBnZTA4cXBVVFUtOXE3eWZkMWl5MERrNjgzVzc2QWRTU0hSZ29vVDk3cUNLSXRfRllrZnVLR0dnMURfYnpPVTREZGJUaEFsSG9NbHRuRlZVQkJoLVJXNnVSdDhhdw?oc=5",
+      "description": "【CrowdStrike決算】Mythosショック！AI攻撃でセキュリティの常識が変わる Veleno Habs (tPjTodi3U5)&nbsp;&nbsp;Unisba Media",
+      "source": "Unisba Media",
+      "publishedAt": "2026-10-08T18:05:35.000Z"
+    },
+    {
+      "title": "AIがセキュリティ株を救った…Palo Alto Networks・CrowdStrikeが揃って上場来高値 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TVlk5Ty1WNGZDQl8wdGRvdWpUMDc3eUpSYkRzMHdkMGhVM0JyTk9lcDY0MFBUSVZJNkdzVzdfQm1UUFZjQ2lObkpNaU8xVkRqR0hlX3NqajQyeWYxODdiU0xUVU81dTBtMWVaVVlTazBqT0ZT?oc=5",
+      "description": "AIがセキュリティ株を救った…Palo Alto Networks・CrowdStrikeが揃って上場来高値&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-08T10:56:00.000Z"
+    },
+    {
+      "title": "「Claude Code」利用の韓国銀行サイバー攻撃、 中国在住26歳関与の疑いとCrowdStrike - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldXV29qVmVpWG1BU3dLc2ZMdWo1YTJ4aWx6OUhOSDg0NWRIQWNhamx2OTRpUGhZc3NfbVl6T3oyUkh4OFhKRW1Kb0E0Y1d2R2tXUnpKR05uendWSmE5SHBDNFZjQ1ptaTdONWhZWVM5blBMeGJRZjlsakFUS1ZqUXd0NW0tYkFLWWpVOFlDWm04NGRXX1dPZS1fdDR0b2Z4Y3p0eG9qRjc3dnQzVlg1bXcwWXNiWlpPNllWZmt3MnRKZmQzX1ZGbzVUaFBNNlFyY0VTcmZhQVczSWxFWUUwUU5WMG9CNTFTY2U0Y2lJRU5kTmp0Y2xPUmdVZnhPQWR5WXFOSHFIR3NoRlF5UzR4X0tFNlJ5ZVRGek8xNFB6UGFKZm5UUjdXbS12SzJIZXJVd2g3a0lMNk5NT05TX1JnNWI0TlJKWnlISmV5MzBHcl9BRlE5bl9YQ3kyVWZVbm5NZllUa0FFd0R4MGc5WUNtWmV2WVBBUVN6XzV1U0VWZVdVTGhXQ29qeHlRVEgyVzJpSnFXT3h1WjlSM2RTUGlaLTR0dHhTZw?oc=5",
+      "description": "「Claude Code」利用の韓国銀行サイバー攻撃、 中国在住26歳関与の疑いとCrowdStrike&nbsp;&nbsp;Yellow.com",
+      "source": "Yellow.com",
+      "publishedAt": "2026-10-08T05:25:26.000Z"
+    },
+    {
       "title": "Soliton SecureDesktop、IDCFへのランサムウェア攻撃の影響で停止―バックアップも利用不能、別環境で再構築へ - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjQxUnd4cDNqcll3Tmh2dTFzSDAtd1I4cFY1VS1LdnlDMl9xV2xrUWE2bnRZWDdNel9CVXF6QmtuZDE0YVJTdWRPcVAxalpPR2tVNElLcUJaRjdzOTVLZ3BIbkg0NjMxM1E3aHNMQV9sRHJYRjJKUjgwbldVTy1SaFVYQVc2dmxOSjNySGhjWFB1RUFzdmNHRw?oc=5",
       "description": "Soliton SecureDesktop、IDCFへのランサムウェア攻撃の影響で停止―バックアップも利用不能、別環境で再構築へ&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -16,60 +65,11 @@
       "publishedAt": "2026-10-07T23:33:01.000Z"
     },
     {
-      "title": "10月7日のCrowdStrike Holdings Inc (CRWD) 値動きは3.12%下落：完全な分析 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORC1vTjFMczBTaFBjdURTUDYzWFl4X0RmNk1jVWlveEtaNkFvOWpobUtTd2pQUC1mTW9hY0dqWFhqczk5MUxmSnptVDRWTFlzWlJkZF92VlBPeE9CWUtBbm16VXpOMlI0ZWphWXduZ1BYdDVlNU5ic2JCYkNjSUVSb18xVFRnU1dYLUdVNVllZw?oc=5",
-      "description": "10月7日のCrowdStrike Holdings Inc (CRWD) 値動きは3.12%下落：完全な分析&nbsp;&nbsp;TradingKey",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-07T14:16:16.000Z"
-    },
-    {
-      "title": "CRWD|CrowdStrike Holdings Inc|株価:265.340|変動率:-13.520 - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBscjJaZDFocHVueGJOOWFMZy1YRzFrTkhkQjQtM1NRUkxJNW9BM3BnMHo2dzZNTGlTaEJnZnpTVFFTQXJfbDlTVUhjcTJKMjA5SzJWT0tkX0pLWU1RX1E?oc=5",
-      "description": "CRWD|CrowdStrike Holdings Inc|株価:265.340|変動率:-13.520&nbsp;&nbsp;TradingKey",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-07T14:01:53.000Z"
-    },
-    {
-      "title": "オールステート、カリブー・バイオサイエンシズ、Zscaler - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRHlTb3ZaOHlFR3VpaWIwQ2ExNm1zNWxZWDIzQ0JvUXRqX2JBZWo5WGNoUUg5dzFBQUxiWVNlZXBZVy0zM2RaeE42eWZBTTJxM0had0tXbjAtNlRPZHl2ZUthV0VhMmgzcDF5QjVBczkzZlI3aWJnbg?oc=5",
-      "description": "オールステート、カリブー・バイオサイエンシズ、Zscaler&nbsp;&nbsp;TradingView",
-      "source": "TradingView",
-      "publishedAt": "2026-10-07T10:26:35.000Z"
-    },
-    {
-      "title": "CrowdStrike Has More Than Doubled in 2026, but Wall Street Has Barely Raised Its Revenue Estimates. Here’s What Could Move Them - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWkFVZVgydUNtLTU0Y09OMk1URWNDalM2N1Z1SlNsZllRY0NQNFpHazR1MHBPd1BMZUVzc1hwaHZpQUd2XzMyaXFMTl9qYkJfMWlxeS12WFhSZGlYU2QtbXVMcGd2VXUzcDUzaVdwSl9yZjZNVWVTMm5STk1CM243MXJxd2hFM055VEZfT1ZLTlNQZkxrS2xza3Q4NXY1SU9pZWVyOHB3bzVxSmZJQWN5NW1XRVJDbDZfWUw5Rl9ycnljYzNVX09OaXFQN1hFaEtwSEVBWTk5T1JBSlJlWWhjd25uN3BIdEhOLVE?oc=5",
-      "description": "CrowdStrike Has More Than Doubled in 2026, but Wall Street Has Barely Raised Its Revenue Estimates. Here’s What Could Move Them&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-10-06T14:48:45.000Z"
-    },
-    {
-      "title": "10月6日のCrowdStrike Holdings Inc (CRWD) 始値は3.78%上昇：主な推進要因が明らかにされました - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmd5SFo3ZXkyOVZWZ25QbUtZcXlONHBqZ1dDVlFISHFqeXFNZEVYakZHSWdJM3lNeGRuU200NlZwM3JMZ1NmV3ViaGhyN3lDOFZkRk84YzdNZDNXVVVCRjZXX1dlbUhDRmxOREFoRlgtUEVUV1RJd3BFZXE1aV9BQ2FNblMxdC1GXzN1bnIxQQ?oc=5",
-      "description": "10月6日のCrowdStrike Holdings Inc (CRWD) 始値は3.78%上昇：主な推進要因が明らかにされました&nbsp;&nbsp;TradingKey",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-06T13:48:02.000Z"
-    },
-    {
-      "title": "CROWDSTRIKE : STONEX RAISES TARGET PRICE TO $325 FROM $250 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcEctUEM1bXFqZy1fejU1WVdYd0YyeXRKdGNhN2pxb0U4aEc1YmdiNm9FZmFHT2NqNi1YWDZDdm4yZ2hLek9wbUlJeDlYVzZxUm1Vbkk1RGlZbWo1cVZYN2NnZTBrUklFWVVhbUJfaWpzSDVyUmF4V2hSV2JwdTRXWEc3b2l1eU9ocENlMVZvWUx4bW5zN1JmcVZwV0RQMzh2?oc=5",
-      "description": "CROWDSTRIKE : STONEX RAISES TARGET PRICE TO $325 FROM $250&nbsp;&nbsp;Moomoo",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-06T11:47:36.000Z"
-    },
-    {
-      "title": "スプラッシュトップ、Soliton SecureDesktopシリーズの販売・サポート終了に伴う移行相談を受付開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tQ0lTUk85eFdXSzZ3TElxeWhyZGk1Q1cyMWNQbWI0b1dlSUJKYWd2TEw3aF93S25aRk05ZGdKSTd6N21lMlBzUk5BcGxiZldqbW1WT0hxcnhpZEdoT2dIV09CWGFnRnhjblUtWkJoY1FUTGdPcGwwMGszOA?oc=5",
-      "description": "スプラッシュトップ、Soliton SecureDesktopシリーズの販売・サポート終了に伴う移行相談を受付開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-06T08:51:48.000Z"
-    },
-    {
-      "title": "CrowdStrike Holdingsの取締役、サミール・K・ガンジー氏が約143億円相当の株式を売却 執筆 - Investing.com 日本",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82ejlob2JZdXYwREVzZ3VkQ2N5OG0tekdCNG5HMzZpbDNqYnZ5WVVrV0dSeVk0NUVOY3RJa0hOakwwZFBlenM4TzBHV2RDa1NyaUgtbHY3S1F1RUkwdEE4TTU4RzI0TktMRjR6QTB3SXkzc0tfNXE4V3NGSQ?oc=5",
-      "description": "CrowdStrike Holdingsの取締役、サミール・K・ガンジー氏が約143億円相当の株式を売却 執筆&nbsp;&nbsp;Investing.com 日本",
-      "source": "Investing.com 日本",
-      "publishedAt": "2026-10-06T00:32:00.000Z"
+      "title": "個人情報保護委員会、大規模な情報漏えいを受け注意喚起 MFA・EDR・ログ監視など安全管理措置の見直し案を先行提示 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEpqSDkyN3VOdFF2SVg0VFczREt4cTlQMXN1a2Q5eXktLXQ3SHBZQmhlSkhrLUlnenF0STJzLTUxYjRUSFRvTDV0RWdFX0dIZnhQanc4bGp6dTBNWDEzMUJyUXNVeDZRdkpoZFFuNzVsZVVmSGh3Y190OVMtNW01MWZ0V3gydVUwNHJJM1EyMWpxUVVx?oc=5",
+      "description": "個人情報保護委員会、大規模な情報漏えいを受け注意喚起 MFA・EDR・ログ監視など安全管理措置の見直し案を先行提示&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-07T23:30:27.000Z"
     }
   ]
 }
