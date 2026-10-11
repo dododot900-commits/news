@@ -1,4 +1,75 @@
 {
   "topic": "security",
-  "articles": []
+  "articles": [
+    {
+      "title": "【更新中】《サイバー空間の有事》JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+      "description": "【更新中】《サイバー空間の有事》JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞&nbsp;&nbsp;テレ朝NEWS",
+      "source": "テレ朝NEWS",
+      "publishedAt": "2026-10-11T00:50:44.000Z"
+    },
+    {
+      "title": "【解説】IPA・NCOなどが不正アクセスで一斉に注意喚起、事業者に3つの点検を要請 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3YmozVDdlWHE1NkdHbTdWekVmNUUtR1FRSXRhUk52S2RTZU5xdzBiTUdnQ3RqaHZObXVEX0p6OVdGVzlfcmpSMGRzM0h3ajZPYzRsYXdmOUxoZVlEamc1eHNhZlBXUHh1YktjTEZWa01tT2c?oc=5",
+      "description": "【解説】IPA・NCOなどが不正アクセスで一斉に注意喚起、事業者に3つの点検を要請&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-10-10T09:49:42.000Z"
+    },
+    {
+      "title": "茨城県と茨城県警のHP閲覧不可に SB子会社にランサムウェア攻撃（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ENVlUWUc4ZzhBbTNNdV81eGRwUXB2VHJpdEtqSWdqekYyQlJVYUE4WXh6NURwTnlGLVhqNGpBdTB5THZnMTlyN0V6N1p5akZRSW1pNXVrZkxoU1FnZ0tScG5wQ1NYcHh1S0I1UWtEMElIeHZnUXdBY1hoNU0taVk?oc=5",
+      "description": "茨城県と茨城県警のHP閲覧不可に SB子会社にランサムウェア攻撃（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-10T04:15:00.000Z"
+    },
+    {
+      "title": "手間いらず「TEMAIRAZU」、不正アクセスによるサイ��ー攻撃で最大約445万人の個人情報漏洩の恐れ - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlk5UFEyRWlrTW1henozZjhTV29Sa24ya2NCSHJjay1lcWkycy15czRabU90Z0FOdl9qU0g0eWhBUGxkSHZOYUVvbGtkREcwTG52SmUwNmRpN3RiZ1JqRHNpMW1kQmpnQzh2bS1US2dEcDZWUEpLdGNDNThyS2RPZjE4bmR5eXkyanFNTTZMT0pnUldJQUtSZQ?oc=5",
+      "description": "手間いらず「TEMAIRAZU」、不正アクセスによるサイバー攻撃で最大約445万人の個人情報漏洩の恐れ&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-10T00:36:09.000Z"
+    },
+    {
+      "title": "千葉西総合病院、看護師が患者の映る動画をSNSで無断共有―3人を出勤停止、個人情報保護委員会に報告 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTNERGgtMlhRaE85M2V6NzUzM1pQamxDdFNDZkJGaThtODZveEp3RGZ2QUMwX1ozN0NycVlfTXdqVkZhRHlIZDhSLWJ0c1FpWHRDQzIxbndIVGRJQ05RX1c5OURGTVR5a05pdUotU2NHNlpsU2VEUW1XQzJZWTFxcGNtbDNxaHl2Rl9femRpa0NuVW9XQmo2cHdENnNiNFVhVVNzdXZnTFpWZw?oc=5",
+      "description": "千葉西総合病院、看護師が患者の映る動画をSNSで無断共有―3人を出勤停止、個人情報保護委員会��報告&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-09T23:51:34.000Z"
+    },
+    {
+      "title": "ディップ「バイトル」「バイトルNEXT」に不正アクセスによるサイバー攻撃、最大約388万件のメールアドレス漏えいの可能性 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY19SNkdIWW1WZjBVRTNVcE00dWpKbzhIcDBxcUh2Wm5XWEo3QThBUWNCblJwZ1lLSFJlQ1cyR242dHhXV1VTUjY3NGhZclFMLTVUV0JiRlZvODZzUENiT2cxNkZMSmI3ZE5EOU5nYXNxN2hibmQtSlI2VnpjSF9QVUNsbWJhaVc5UjlVXzFCOWJFalpxT0Nma0FuNWdHek5GZVZGUw?oc=5",
+      "description": "ディップ「バイトル」「バイトルNEXT」に不正アクセスによるサイバー攻撃、最大約388万件のメールアドレス漏えいの可能性&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-09T23:43:40.000Z"
+    },
+    {
+      "title": "サイバー攻撃 なぜ日本が標的に - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSEM1SkhrdExEU00yeFdSR01LTDV1ZDVwX3RyMkI5QlhzV0ljS3VmbG1yNlRiQlo4OC11NV9yTHpkZGhoamNPN1Z3VXFLenFt?oc=5",
+      "description": "サイバー攻撃 なぜ日本が標的に&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-09T23:42:21.000Z"
+    },
+    {
+      "title": "LINEヤフー、委託先「Commune」への不正アクセスで1,750名の情報漏えいの恐れ―「DS.LAB」が対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjZ4VFNKa3VHaHNheGZvZG04YzRJNmJjbFQtNGtKRHA4bTJuMlJIcVlsWlZyOUQyVTFNakdFZ2k2TXduRFRKOC10R2QxbG9kYUZFWHp6VzZvVnk3OG51Y2d1OGo3T1RuVzluNDdqQk8tQkdGODY0TTJwMGhOaVdwUmRWcXFzOXJLa25sZUlB?oc=5",
+      "description": "LINEヤフー、委託先「Commune」への不正アクセスで1,750名の情報漏えいの恐れ―「DS.LAB」が対象&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-09T23:39:13.000Z"
+    },
+    {
+      "title": "スズキ「スズキヴィレッジ」で会員約3,000名の情報漏えいの恐れ―委託先コミューンへの不正アクセスが波及 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ05MRlhkc0w2MzNMSDRoSmptUlVvSlRZeFljZmxmNzE5STJ5X2RRdXRJOU1jeElNWWE3ZjRUbUY0dzVVTEp3VWRHdnVyTFkzdDc4cTQtS0xtczF1VmREOFdjSlBnVVZSQ3lZZWJydzFIZG9rQkhxanJUTVhxbzZPX2s0RHN6dXRCTnFYaVRZX2trUGdkcVE?oc=5",
+      "description": "スズキ「スズキヴィレッジ」で会員約3,000名の情報漏えいの恐れ―委託先コミューンへの不正アクセスが波及&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-09T23:25:40.000Z"
+    },
+    {
+      "title": "リゾートトラストに不正アクセス、約6万2,000件の個人情報漏えいを確認―ザ・カハラ横浜の予約者情報も対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0FuQ2ljV3JKdkhkRmEzNlFQMU54MVZZNHpZTUsxUE1zbDNMU3pEQjc5TDBVSDFwTk1GUkRQMF9TSVY2WHRydVJkSmxZc3cwR3dSQlhwcDZkZ053REloZ3UtNWkxX0x6bWxRcG5Td1RpN0Q1YTRfWGxUQm85NkVwbFhOSXQwWHF0ZjR1WUFFRzk2dkR0bTlqbU5QWk9RVDlrUFYwYnFINU5kdw?oc=5",
+      "description": "リゾートトラストに不正アクセス、約6万2,000件の個人情報漏えいを確認―ザ・カハラ横浜の予約者情報も対象&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-09T23:23:42.000Z"
+    }
+  ]
 }
