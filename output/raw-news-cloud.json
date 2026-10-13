@@ -2,11 +2,32 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "NAVERクラウドがFPTと提携 APACでGPUaaSとAIインフラ拡大 - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PVXNkRnowRHpIbl85cm9pQ0ZKaTQ0QnNhZ2ZuaGczMnplcnZuYWFkRVU3dGFURUxPcGktYzlKb1BIMVM2ejZic3ppeHkyZEp6WGFOcjcwUkJmeHkweFRybXlhQWlyOHM3YVRzQ2RmQzBwUHBtU3F1YzNR0gGOAUFVX3lxTFBOVDdybW9FRjFFU01SdE1SS1VEWGg3blZVNWYwX1p0dDdfMFI1cmNkaVRQN3lCU0dqYm9qOGZfQnFyVXhRVDA4QS0zNFo2OEVvWjlXcHhYQkxrT2VNdENBVjh3R2FRN21ENjR4U0Qtd1BwZ2FRcHB5Mm42WmpycVNodmR1MjJTWGZmTzFCWlE?oc=5",
-      "description": "NAVERクラウドがFPTと提携 APACでGPUaaSとAIインフラ拡大 - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
-      "source": "Chosunbiz",
-      "publishedAt": "2026-10-12T01:15:00.000Z"
+      "title": "クラウド移行サービス市場の未来：2026年から2033年までの構造的洞察とCAGR予測 - pando.life",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tZmZYVFBHaXFwd2N2UG9uZmJ4NUhPWXJPTlR2TGJRVnZabHZsRFhzTnZXaFFVWmFIZFVqMFRGSUtLbHkzUWsxMDBn?oc=5",
+      "description": "クラウド移行サービス市場の未来：2026年から2033年までの構造的洞察とCAGR予測&nbsp;&nbsp;pando.life",
+      "source": "pando.life",
+      "publishedAt": "2026-10-12T20:21:03.000Z"
+    },
+    {
+      "title": "FPTクラウド：実践から生まれるイノベーション、ニーズを先取りする準備。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFU5VjZLN0d3Mm1rUVNZcEIyd1dMTEFWNmtqNll5Y3hPbFBvRS1zS3VzS1NyWVRfamJvajhoQ29NMUdkV2JoYTNiemtaSUp2SnA3QjI4NGZGT01HN3EtZEdGaUUxR21mc2NaWHB3b0NqV3oxeW93ck4wbzFEeUZ4TERoQnNSTlVZbzJuc283dTRydURpSmZJ?oc=5",
+      "description": "FPTクラウド：実践から生ま��るイノベーション、ニーズを先取りする準備。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-12T14:12:21.000Z"
+    },
+    {
+      "title": "Naver Cloud、ベトナムFPTとAIファクトリー提携…アジア太平洋のGPUaaS市場を攻略 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVUGg5WkRHTExjRF9PYlpaTFFuaERYMi04V1R4MGJzWVYxTUFaR0tvYmlHQlJzNi0yV0hsSVJPYjd4akxOaVZFUEtaMTZnZ0xWOFRDLTdiWWJ0MWtTWkxDcmo5N1pUU3k5ZFBSMkJLV0JRTnRo?oc=5",
+      "description": "Naver Cloud、ベトナムFPTとAIファクトリー提携…アジア太平洋のGPUaaS市場を攻略&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-12T06:25:00.000Z"
+    },
+    {
+      "title": "NetAppがハイブリッド・マルチクラウドデータ管理ソリューションを発表。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWE1EaGtSVU9acWdXN2NrVzE5OTh6TkprOWk0UHNfN2hXUFJmWW9fck8xWTFTS1NXN1l5a2U3ZG90R0tqUzRrMWFXZFU3YkZ2Yzk1NkduRUhERWhiZ1Nab3VYSnlobEhEcEdvWXIxeUw5WjVZdGpodTIyRlUyRGpWUDZ6aHVQWGM?oc=5",
+      "description": "NetAppがハイブリッド・マルチクラウドデータ管理ソリューションを発表。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-12T01:45:11.000Z"
     },
     {
       "title": "ウクライナのドローン攻撃でヤンデックスのデータセンターが機能停止、ロシアのAI・クラウド基盤に大打撃 - BigGo ファイナンス",
@@ -23,7 +44,7 @@
       "publishedAt": "2026-10-11T01:19:37.000Z"
     },
     {
-      "title": "クラウドネイティブは「退屈」���なった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
+      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
       "description": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;ThinkIT",
       "source": "ThinkIT",
@@ -32,7 +53,7 @@
     {
       "title": "「IDCFクラウド」で何が起きたのか 情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlNDRk9ZYkYyMGNHSkRuczRmUFdVWmRLRWV5WkdMY0c5eDFCVlhXYnhjT1hZUWs3NmlTSXd4emdGZF9rbTJrMXFsMjdYVzVLSEpMQnpSanJDc3NWSkxONkJJemlra3lNb19ZY2xLck9vaFAzRDlvMEdQX3Fqb1lKTnJhRWxuN3Q0?oc=5",
-      "description": "「IDCFクラウド」で何が起きたのか 情報漏洩や復旧の可能性について現��分かっていること（山口健太） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+      "description": "「IDCFクラウド」で何が起きたのか 情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-10T09:56:18.000Z"
     },
@@ -49,27 +70,6 @@
       "description": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援&nbsp;&nbsp;ｄメニューニュース",
       "source": "ｄメニューニュース",
       "publishedAt": "2026-10-09T22:50:00.000Z"
-    },
-    {
-      "title": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VcEVtQ3BaenhOdWc5VVVJWVpYMWhIRnl5SXhtWVpJZUQ2NVpkNG1ibF80UklhTEo1Y1B4QUN6b2VVMGE4UkJRRy1TQTNKSWJEVVNLUHhOa1ZYS1M4Y1VJRTNoeEhFWjRzeWc?oc=5",
-      "description": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-10-09T22:49:06.000Z"
-    },
-    {
-      "title": "Oxide、$445MのSeries Dでエンタープライズ所有クラウドインフラを拡大 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cb29RLUVtVWUtMmNrWG91LU9NSzdDVjBZTkI5NVZvaVJLcXFJWWp0ZUl3NkVLMUZ0anFOdDhGTnp1SXA3bGFrSVYyRjFrdHFsSmEzVUdBTTJKenNpenJ0M3VvbTQ3UmRsMzdtamVYTEpaY3FsNWc?oc=5",
-      "description": "Oxide、$445MのSeries Dでエンタープライズ所有クラウドインフラを拡大&nbsp;&nbsp;Unite.AI",
-      "source": "Unite.AI",
-      "publishedAt": "2026-10-09T15:41:52.000Z"
-    },
-    {
-      "title": "SKIMAにアクセスできない原因はIDCFクラウドへのランサムウェア攻撃、復旧の状況は - shiritomo",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBLU09XSGpHVG5jb3hQZzRmaGF1ZGxkUzJ1OUl1X042bkROMmhYcXVtOUIxWTMyS19KS05UYlR2dW1uZjQ?oc=5",
-      "description": "SKIMAにアクセスできない原因はIDCFクラウドへのランサムウェア攻撃、復旧の状況は&nbsp;&nbsp;shiritomo",
-      "source": "shiritomo",
-      "publishedAt": "2026-10-09T12:43:59.000Z"
     }
   ]
 }
