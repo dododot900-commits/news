@@ -2,6 +2,13 @@
   "topic": "network",
   "articles": [
     {
+      "title": "Palo Alto PAN-OSのゼロデイ脆弱性CVE-2026-0322が悪用、今すぐ更新を - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRDF5eHNJdXBEeDZET1dMZDRYd2FuMV8wZmFvMG1sU0tqdUVxQXBpenB1ZUtUZmpkNmx1aFlRWHR1SndCWTdBclVfMFhqaGdDWl90bF81VDdPaU1aSUM2V1Q5ZHBHYkhOakJMQkc2N3NNWHpaTUFYNzBRTm9IaU5saDVOc3V5VUVwRjRrZzlRQ1VodG8?oc=5",
+      "description": "Palo Alto PAN-OSのゼロデイ脆弱性CVE-2026-0322が悪用、今すぐ更新を&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-10-15T10:28:50.000Z"
+    },
+    {
       "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjJUdVpUZEpKUlBDYTg1WWZXREM2YldHbWg3WnhVWFRIaXB3bTQ1NW9TMDJjaWlaaWZXZUlGWjdFV1NyWmEzNnhwMVVKV0EzM1FqczRuRmp4OC1Ta2QzcnA5dDVMRlVKSVh2NlYxWTgtRHJOeU8zYnFXVzJIRDJoOEpVRlBDblA4RVFwajhqbng0RHlzRi1xbA?oc=5",
       "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -33,7 +40,7 @@
       "title": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル規模へ｜CAGR 17.67％、API・Webサービスの保護強化とサイバー脅威対策が市場成長を牽引 - ドリームニュース",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14NzJfLXlySV92T2ZZdjFoRzBXRldGTGFQVnpsdDJ6SGJpb1I1WXRGUTVYUWxJTVA5ek00bWhxUTJnVUp0RzBWclMtRUdzdlZxNU5N?oc=5",
       "description": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル規模へ｜CAGR 17.67％、API・Webサービスの保護強化とサイバー脅威対策が市場成長を牽引&nbsp;&nbsp;ドリームニュース",
-      "source": "ドリームニュース",
+      "source": "ドリーム���ュース",
       "publishedAt": "2026-10-05T01:00:00.000Z"
     },
     {
@@ -60,16 +67,9 @@
     {
       "title": "人材不足に打ち勝つセキュリティ運用とは ～ DNP との対談で明かされる効果、テクマトリックスが Palo Alto Networks の Cortex XSIAM で提案する次世代 SOC - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbEMzQnFYVVlNV0xZN19kM09reFhOOHVfYnF4amxPSDdkR3pxRlJxaXl1X0lrcFh4a2hTSmVTSmpDUkpiMm1pYnZoQzExdmZ2Q0pJTzJ1STktb0Vxc0ItSTUzMWlZUUVKUjAyTA?oc=5",
-      "description": "人材不足に打ち勝つセキュリティ運用とは ～ DNP ��の対談で明かされる効果、テクマトリックスが Palo Alto Networks の Cortex XSIAM で提案する次世代 SOC&nbsp;&nbsp;ScanNetSecurity",
+      "description": "人材不足に打ち勝つセキュリティ運用とは ～ DNP との対談で明かされる効果、テクマトリックスが Palo Alto Networks の Cortex XSIAM で提案する次世代 SOC&nbsp;&nbsp;ScanNetSecurity",
       "source": "ScanNetSecurity",
       "publishedAt": "2026-10-01T07:00:00.000Z"
-    },
-    {
-      "title": "Palo Alto Networks Stock Rose Nearly 5% as Nvidia Launched an AI Agent Safety Platform. Here’s What Palo Alto Is Building on Top of It - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYmU1Q0hVTDBESkUyTFFkazNOS2c0Nm1EYnlfdHhSN18yZmV1XzhDamt6VTkwbmN0c2lQemw3d2lIQ3h6QWVBbzlyU1FVTjlnWUR2TkFZaG1fTDl6M2Y0RjhmTTF5c3NHU0hZSGl0R0pCeU9ZRUkteGVtYmV6b2w2S3BjQl85WkpoOU04TXJJSE9kNzFoUy1XYWV0YUNrTmdTd0R6UGowZGotSlQ0RXEyazlENWhVeHF5Q2ZlTXJGWjA2ZjUzM0ZHUzVLQmJVUG5PRGU4anVsZE5lQ3VPTEM5VnAtT2YxdjEzaDJIUlp0UmRkQQ?oc=5",
-      "description": "Palo Alto Networks Stock Rose Nearly 5% as Nvidia Launched an AI Agent Safety Platform. Here’s What Palo Alto Is Building on Top of It&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-09-29T22:02:40.000Z"
     }
   ]
 }
