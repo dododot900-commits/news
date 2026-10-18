@@ -2,6 +2,13 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "AIが加速させる開発スピードに、インフラとセキュリティは追いつけるか？ - CTC - 伊藤忠テクノソリューションズ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14a3pSQi1XcWVlbEg3Z01KWmRYbTJoMDU3ZExTNDlmclpDb29qNkpndWlkTlRzOEp6ZFZFQXJJZFdsMG5ObWxSUm9NaUtYenRiOFRreC1BbzJJRW8?oc=5",
+      "description": "AIが加速させる開発スピードに、インフラとセキュリティは追いつけるか？&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
+      "source": "CTC - 伊藤忠テクノソリューションズ",
+      "publishedAt": "2026-10-16T15:29:57.000Z"
+    },
+    {
       "title": "アリババクラウド幹部が断言：AIインフラ投資ブームは少なくともあと5年継続、「算電協同」が重要命題に - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kcGJIVWpLNm85X08xMVZHdDRocVFYd2d2S2NwUXY3SmlZMnF1OWduVXNsOE9kYUYxY28zSmVhU0pMcF9XcWNxZ3VFYndNYkRJakV3ckpza2pHNzhLYTVTemVRaE10ZTNlSldfQmdZT29XYTkz?oc=5",
       "description": "アリババクラウド幹部が断言：AIインフラ投資ブームは少なくともあと5年継続、「算電協同」が重要命題に&nbsp;&nbsp;BigGo ファイナンス",
@@ -11,7 +18,7 @@
     {
       "title": "IDCFクラウド障害、194組織のデータが取り出し可能に 侵入経路は特定 - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZmVrYV9DSUExWGcxZHZvSXhVSU16REd4dTZ5UHVCejgzWS1WMi1XUHdlV1lfNmdETWVxQ2JqRFhoal9acGJNdElnOGUwajNEVWxkUWwtY3d0NHBKUi1jOTNhZnJBUnYzalcteQ?oc=5",
-      "description": "IDCFクラウド障害、194��織のデータが取り出し可能に 侵入経路は特定&nbsp;&nbsp;日経クロステック",
+      "description": "IDCFクラウド障害、194組織のデータが取り出し可能に 侵入経路は特定&nbsp;&nbsp;日経クロステック",
       "source": "日経クロステック",
       "publishedAt": "2026-10-16T08:18:00.000Z"
     },
@@ -30,18 +37,18 @@
       "publishedAt": "2026-10-16T07:11:06.000Z"
     },
     {
-      "title": "North.cloud、クラウドとAIの支出管理を自動化するため6,000万ドルのシリーズB資金を調達 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQXzFaVkNxVk41UFR4SXNDWGNNajM5T3RQN2c1SDF6VDRpTHk2US0xajZUX0ZPOUpqWVZWZHJNVHNEc3pFWkRNT3E5SUMzUEFnbl9xamxXTHhkb05wMnlsOU5TS20zZFlNaGljaWxiRE5UZEpNRjMydGs5R1VXMVpwMA?oc=5",
-      "description": "North.cloud、クラウドとAIの支出管理を自動化するため6,000万ドルのシリーズB資金を調達&nbsp;&nbsp;Unite.AI",
-      "source": "Unite.AI",
-      "publishedAt": "2026-10-16T02:22:46.000Z"
-    },
-    {
       "title": "5Gエッジクラウドネットワークおよびサービス市場は、2025年に155億米ドルと推定され、2036年までに1,566億米ドルに達すると予測されており、予測期間（2026年～2036年） - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVjZvd25hcnVHSmdVTmp6OWNNX0lCWlJiY3J4cmV4RTcxTmFMYWRyUmFiZFVKWHRtM2c3Ri1ORHRVblNvVjhZdWt1R2VOaXc?oc=5",
-      "description": "5Gエッジクラウドネットワークおよびサービス市場は、2025年に155億米ドルと推定され、2036年までに1,566億米ドルに達すると予測されており、予測期間（2026年～2036年）&nbsp;&nbsp;Newscast.jp",
+      "description": "5Gエッジクラウドネットワークおよびサ���ビス市場は、2025年に155億米ドルと推定され、2036年までに1,566億米ドルに達すると予測されており、予測期間（2026年～2036年）&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
       "publishedAt": "2026-10-16T02:00:00.000Z"
+    },
+    {
+      "title": "韓国のVessl AI、Korea Investment & SecuritiesとGPUファイナンスでMOU…ネオクラウド拡大を加速 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95VUtXeWQ1NUZHQm5fNndWdHZZd0dEMEJWVFp5LWM4eEpCNkcxMEVxUWJNZmhHUDNLZWJaazdxRE5jdkVreWZLX2dlUF8zOGlCN0k3bms2MXY0X21xRjVJdEVYVGlWTEZZYXVDWHNuQWMzdVlJ?oc=5",
+      "description": "韓国のVessl AI、Korea Investment & SecuritiesとGPUファイナンスでMOU…ネオクラウド拡大を加速&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-16T01:56:00.000Z"
     },
     {
       "title": "IDCFクラウド障害、一部データを復元へ 不正アクセス対応で進展 - マイナビニュース",
@@ -51,25 +58,18 @@
       "publishedAt": "2026-10-16T01:15:00.000Z"
     },
     {
-      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のイ���フラ現実 - ThinkIT",
+      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
       "description": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;ThinkIT",
       "source": "ThinkIT",
       "publishedAt": "2026-10-16T00:48:10.000Z"
     },
     {
-      "title": "高島屋、IDCFクラウド障害で3サイトの会員情報「流出なし」と判断―メルマガ配信は停止継続 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnJnYThYTDV0c1ZqQWRvVzJMQXNuVXdIZTRtQnA2MHA4cG8wUzZncTRLZG5jY1Q5djh4eEowbTdxcC1NRWhLbEVuVzAtb3dmRzEzcmRVdnlmYVlRdnI0Unp0Z25DeXJSNVdhZHpDNHdxRWk1bHRiNUI4YnNuWHR5NzVtaGEwN3lpMnliSWo4S1pYYlpzMTB4OFdXWmtxa29UTWpjV3RDcjNHbnRaMTBmdzdvbHJybFE?oc=5",
-      "description": "高島屋、IDCFクラウド障害で3サイトの会員情報「流出なし」と判断―メルマガ配信は停止継続&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-15T08:00:29.000Z"
-    },
-    {
-      "title": "SB C&S、IDCFクラウド障害の主要取引システムが完全復旧―顧客登録情報は「外部流出なし」と判断 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTVxM1BubWIwUWp5WHJYNE9TWVpEd2NIM1ROc19YUHpBY1c3YmRmSmdDVnMwNzRvM3phU05xMmN0LUdQM3c0RkJOTTh6eVFTd2piUU42dnh1UWRpUkN5ZnU3XzV2b0l0Y0J6VHR0Y0VGeXlJajhRN0p1NVVPajB4MGFwZDJna3lheURJaTNEekZ2aUNuREJvVm5iZmxRTUVveGdxZW4xMVp5NUtlTFdFOA?oc=5",
-      "description": "SB C&S、IDCFクラウド障害の主要取引システムが完全復旧―顧客登録情報は「外部流出なし」と判断&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-15T07:00:22.000Z"
+      "title": "ソブリンクラウド市場の成長は、データ主権規制と政府のクラウド近代化の拡大に伴い加速しています - ドリームニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BR25Hb3pTbTlTQjV5UHNRdDVvM1A4LUxtSTJZdDRUZFE4TnZDWXNobzd6QWVqaEFhMXlNVG4zRnE3WHVEcmh0a0dMZ012dzhVLXdZ?oc=5",
+      "description": "ソブリンクラウド市場の成長は、データ主権規制と政府のクラウド近代化の拡大に伴い加速しています&nbsp;&nbsp;ドリームニュース",
+      "source": "ドリームニュース",
+      "publishedAt": "2026-10-16T00:00:00.000Z"
     }
   ]
 }
