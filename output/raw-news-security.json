@@ -2,6 +2,48 @@
   "topic": "security",
   "articles": [
     {
+      "title": "【解説】海外サ���バー事案21件、委託先や連携アプリが入口に｜BAE・ConnectWise・AOMEI - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xaHRQXy1jNXM2SzJvc19Fa1J2OHpDODdMX1NZNVpDaEVpQ24yMktEM1Y1bWNNMEZXMF9wX2tSQXhmYWxvM3I3dFd1WjJnc3dFN1N4VXhjOHNuTXFRT2VIWW90TEV5QV80ckFWRVVmTnlrQkE?oc=5",
+      "description": "【解説】海外サイバー事案21件、委託先や連携アプリが入口に｜BAE・ConnectWise・AOMEI&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-10-17T21:40:20.000Z"
+    },
+    {
+      "title": "京王電鉄グループへのランサムウェア攻撃、ロシア系「Qilin」が犯行声明 グループの内部資料とされる画像を公開 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NFNXNHJzTXVrODdyemdvekhBRUV5US1lZVVzMVppcFFWNGx6b2RqMTlJQWQ4S3c1QWEybWhyeFctOV83LXhyX2I2R3dWbG5Eakdv?oc=5",
+      "description": "京王電鉄グループへのランサムウェア攻撃、ロシア系「Qilin」が犯行声明 グループの内部資料とされる画像を公開&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-10-17T20:36:46.000Z"
+    },
+    {
+      "title": "“情報漏洩”対策に適したカメラで物理セキュリティ強化 - 株式会社セキュア",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OUHYzR216eGlPX0pnR3cxcTFwdTViakppMnp5MkhaSWF4UTh1d2lNazZrS1g5N01ZYXk3NXgyWUZjcDZZUU96Vlpvbmc?oc=5",
+      "description": "“情報漏洩”対策に適したカメラで物理セキュリティ強化&nbsp;&nbsp;株式会社セキュア",
+      "source": "株式会社セキュア",
+      "publishedAt": "2026-10-17T10:45:30.000Z"
+    },
+    {
+      "title": "相次ぐ不正アクセス「運転免許証流出のリスクが最も高い」初代サイバー警察のトップが語る対処法 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zM1NkVkkxVm0yN3FfY2pnWkhKZkl6LXR6dmRDbUxlWDJmdWh2UXNTb2NOWS02aGV6bV9tNTVlX0JaOVQ3QnAtc2VLMXZQeGJiN19COU50UnBuWjcxN1NWTVpMdUJEX2tGUkthZ0Nn?oc=5",
+      "description": "相次ぐ不正アクセス「���転免許証流出のリスクが最も高い」初代サイバー警察のトップが語る対処法&nbsp;&nbsp;au Webポータル",
+      "source": "au Webポータル",
+      "publishedAt": "2026-10-17T08:00:00.000Z"
+    },
+    {
+      "title": "日経、開発用クラウドに不正アクセス 認証情報を盗まれ個人情報約183万件が漏えい - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xQ0pwUWZXOWFtY1NxXzVMcl9xeDZrODhmMkNrbTcyU0syS0RxTG1JSkJaUWlYUjh6WHdoTmI2RmpNSnFaNzg1SUtvLUJKMXdiTVQzWkhaZ2Vrc0ZiYXpDMDRvcVNRUFZ6ekdvUXB0aXhmNFU?oc=5",
+      "description": "日経、開発用クラウドに不正アクセス 認証情報を盗まれ個人情報約183万件が漏えい&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-10-17T02:44:02.000Z"
+    },
+    {
+      "title": "【解説】Ivanti・BeyondTrust・Citrixでゼロデイ攻撃が相次ぐ VPNとリモートサポート機器が修正前から標的に - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WM0wxSUdzT0cxN3NUSFA0eGoxREhleWU1RnVzQjc3ZWhYa3ptaU5VNGRnV3pPVllSbTR3UmNlWUFab09kc2dzZm5ib18yUHBYTzgxbUFxM05KOVczRGtxZ1c5UFktWldFVnMxR01lZThtYTg?oc=5",
+      "description": "【解説】Ivanti・BeyondTrust・Citrixでゼロデイ攻撃が相次ぐ VPNとリモートサポート機器が修正前から標的に&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-10-17T02:07:24.000Z"
+    },
+    {
       "title": "Studio 不正アクセスによるサイバー攻撃のまとめ-LUUP2万1,368件、Link-U7,663件、ラクスル6,412件など、自治体・企業にも波及|セキュリティ対策Lab - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdm9hUXduakVfbHdLY0diQTFOU1NpcEM5VnZNa1VCajBLTWhyczF1ZHlZT1ZJUGhTRDZmTWJYOU84YURBRU0xOE8tQkhDN0J6aTdmVF9WV29vNUxJQUJhZW15bU43TXJFWnJQTndDQjYyX1p1MVoyS0hVM2MzOFo2dTUzaGJncm9DZ1ZNSzhjeW85bl9aYnZlbnJjemUyV0ZSSk5lX1hvY29xelpmcVRCZnJOYw?oc=5",
       "description": "Studio 不正アクセスによるサイバー攻撃のまとめ-LUUP2万1,368件、Link-U7,663件、ラクスル6,412件など、自治体・企業にも波及|セキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
@@ -9,18 +51,11 @@
       "publishedAt": "2026-10-16T23:54:52.000Z"
     },
     {
-      "title": "skyticket プレミアム、サイバー攻撃で最大6,140人のクレジットカード情報が流出―旧決済ログが残存 - 合同会社ロケットボーイズ",
+      "title": "skyticket プレミアム、サイバー攻撃で最大6,140人のクレジットカード情報が流出―旧決済���グが残存 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXBBSUhYQ1FJaU1Cb2VhZWMtclU2d0NmSG93cnl0dVJjQ1dQN3dCb1Y1VGVIN3VLYnlJT283anR1aGt3bmM2a2N6SkRDenF6NERDNENYXzFEVm95cHBQVnNudERFTVdLYmRWZWVHTlVVbUhTSHFqb1UwNnJTYlV4MV9iN2k5RXZLMVpYaHNxc25lVjkxZ1BSZS1KM2wyYmEwOWx6R2llbHFPSUhtOWZDdw?oc=5",
       "description": "skyticket プレミアム、サイバー攻撃で最大6,140人のクレジットカード情報が流出―旧決済ログが残存&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-10-16T23:42:17.000Z"
-    },
-    {
-      "title": "《サイバー防衛弱小国ニッポン》巧妙化するハッカー集団の攻撃に政府は打つ手なし 100億円以上の税金を投じた「国家サイバー統括室」は何をしていたのか - SmartNews",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pUDNOWGVBTjVLaENfNXZNZFFUWFRTSkpabFhCWUlNLWNhMXFhLVE0ZnI2S3Z0aHNpVVRIekFYNnA1VE9GWWFBMzUxNUxRNmQySGttaHpqV01DWlNCTW0xcFpjMXdmLUtrVUE?oc=5",
-      "description": "《サイバー防衛弱小国ニッポン》巧妙化するハッカー集団の攻撃に政府は打つ手なし 100億円以上の税金を投じた「国家サイバー統括室」は何をしていたのか&nbsp;&nbsp;SmartNews",
-      "source": "SmartNews",
-      "publishedAt": "2026-10-16T22:15:00.000Z"
     },
     {
       "title": "Ghostscript に CVSS 9.8 の脆弱性、アップロードされた PDF 1つでコード実行の恐れ - Pasquale Pillitteri",
@@ -35,41 +70,6 @@
       "description": "curl 8.23.0 公開、Claudeが見つけたHTTP/2の脆弱性を修正&nbsp;&nbsp;Pasquale Pillitteri",
       "source": "Pasquale Pillitteri",
       "publishedAt": "2026-10-16T20:14:20.000Z"
-    },
-    {
-      "title": "「ランサムウェア攻撃を失敗させる」VPN、PC、Active Directoryなどの設定チェックシート - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GZ2p6c1lsYkJ2YnBoZ2xodVhRZnVQc19lRmI1Y3FDMmN0NURRVERfeWdZenMzUHEwemVmU2VzQWxnSFZOM0ZnZ09sOExEbi1HNWJCZFN6d1JDcWNjM2V2am5Ybl9zR0tXaUp1ZFNGM1VBdw?oc=5",
-      "description": "「ランサムウェア攻撃を失敗させる」VPN、PC、Active Directoryなどの設定チェックシート&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-10-16T17:40:44.000Z"
-    },
-    {
-      "title": "学生が開発したサイバーセキュリティ製品を表彰する。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JUmhXZXFpM3RMcEhPX0lQM2pmVFhFWXpNZXJWei1pVWh3QXppMDZFNjNVd0FEelE4bTNWRTdXTXdXZFRxdEtkSTY3d1BralJuV2lqUWFIRktaQkhtdjBYZEJ5TUNCS21rWnBkSW9qNlNKbjV5aDBzZGtB?oc=5",
-      "description": "学生が開発したサイバーセキュリティ製品を表彰する。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-16T15:53:51.000Z"
-    },
-    {
-      "title": "京王電鉄Gへのランサムウェア攻撃でハッカー集団「Qilin」が声明 内部資料とされる画像も掲載 京王電鉄は「事実確認中」 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JXzBLNE9DWXNwcVg4eHNEMzZWSTM3MTJ3RTdhTEhhNk5YRC1wbVRQdnd4aFFlaDFZVzRlcEFrQ1NJdHF0ZW9ZVDVTMGJjc0RITWNQVVN5ZkExWUZ5QWdSRGhwa1cwdG55VTdkSWRyT3ZWRXQ4M0ZWa0U2d2tUN2c?oc=5",
-      "description": "京王電鉄Gへのランサムウェア攻撃でハッカー集団「Qilin」が声明 内部資料とされる画像も掲載 京王電鉄は「事実確認中」&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-16T13:47:03.000Z"
-    },
-    {
-      "title": "全国で相次ぐ個人情報流出 政府や企業への不審アクセスは去年の約1.5倍 警察がサイバー犯罪への対策を紹介 山梨 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbmVEaVpNd01rd0htTm5GUG5zdUNWWThxTk1NTkU2YkpQTm5iTmdGUTFuQ1VkTElyWDdWTmllbWRTTDhNdGJ2aDBYRmpuRmJCc0k5QTNZcnBLaWxTcG52bmN6Sk5FcjJsbnM5VTdheFluNmdXSTRYZFhGZTFOc1U?oc=5",
-      "description": "全国で相次ぐ個人情報流出 政府や企業への不審アクセスは去年の約1.5倍 警察がサイバー犯罪への対策を紹介 山梨&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-16T11:25:24.000Z"
-    },
-    {
-      "title": "不正アクセスによる相次ぐ情報漏えいを受け「サイバーセキュリティ戦略本部会議」開催＝静岡県 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wSDNNYWhiV0xkRnY1NWphZmlkUkhNbzV1M3RJbktFeGtFVmplbEFnbjJLXzNYX1FiRlg5blpucmluc2hSdTdKLW53bVpEVndfelBPNWo0WnRjZw?oc=5",
-      "description": "不正アクセスによる相次ぐ情報漏えいを受け「サイバーセキュリティ戦略本部会議」開催＝静岡県&nbsp;&nbsp;TBS NEWS DIG",
-      "source": "TBS NEWS DIG",
-      "publishedAt": "2026-10-16T11:20:00.000Z"
     }
   ]
 }
