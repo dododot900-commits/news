@@ -2,13 +2,6 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yMTNnbnlUZmJ6d0pWcnk0NkFxVS1hQlF5NFFmOGpYb1hmakFCRUM4OFUtYXdLQnFZTWNRRHJ0X1kzS2JWUGcwUDZxOEFiWEhGVnNHS3dHbWdDaWVXWFhsbVR3YTNaNjFnRmNUOUpZT3RJQQ?oc=5",
-      "description": "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」���提供開始｜Infoseekニュース&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-18T12:10:00.000Z"
-    },
-    {
       "title": "生成AI導入 県内3割 おきぎん経済研 十分な浸透至らず - 沖縄タイムス社",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhX0xTd2VaT2tjTk9MVFpxTTNFektvcWoxNXJQX040Uk4xQWpiUzVHMnVvdUpzTXhhZVFPb1psMlJmS2Q2UmdPeTNpTHRvZFBmMHRBeHViRUJqNExRSGc?oc=5",
       "description": "生成AI導入 県内3割 おきぎん経済研 十分な浸透至らず&nbsp;&nbsp;沖縄タイムス社",
@@ -21,13 +14,6 @@
       "description": "【2026年最新】 Geminiの法人向け料金プラン 個人版との違いや APIの使い分け&nbsp;&nbsp;株式会社エクサウィザーズ",
       "source": "株式会社エクサウィザーズ",
       "publishedAt": "2026-10-16T07:00:00.000Z"
-    },
-    {
-      "title": "TDCソフト、企業のAI導入を支援する新サービス - AI活用の優先順位付けから実行計画まで提供 - マ���ナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YQ3VINmZEZTA3aURqVi1nWFVBSGozTjZ0VFBYNFlYS1hUWFBYZjRaX216aWMzT0R1alBTMExQLWpsTWtlbmdvT0UyN0RqOXFDNlA4bkdSMVdTUXU5WFZqUHN0LVJ5VURi?oc=5",
-      "description": "TDCソフト、企業のAI導入を支援する新サービス - AI活用の優先順位付けから実行計画まで提供&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-10-16T01:56:23.000Z"
     },
     {
       "title": "デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2〜4/5・採択率44%【2026年10月最新】 - 補助金ポータル",
@@ -70,6 +56,20 @@
       "description": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力&nbsp;&nbsp;ThinkIT",
       "source": "ThinkIT",
       "publishedAt": "2026-10-11T23:57:49.000Z"
+    },
+    {
+      "title": "県内企業でも生成AI活用が「常識」に 導入率36％と全国並みに急増、8割が効果を実感【高知】 « 高知のニュース - 高知さんさんテレビ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1VGxvSW1KRjVuT1NaNjBtY3hkRXBFNGhsZU1OcEctZGNyazR4VUxEdENBb0xFbG5LWVF4WXItcHFDRDNMUEVkbkhNRlJldTZpTzVWbWNxVVNUNzQ?oc=5",
+      "description": "県内企業でも生成AI活用が「常識」に 導入率36％と全国並みに急増、8割が効果を実感【高知】 « 高知のニュース&nbsp;&nbsp;高知さんさんテレビ",
+      "source": "高知さんさんテレビ",
+      "publishedAt": "2026-10-09T10:15:00.000Z"
+    },
+    {
+      "title": "企業向けルーター／UTMの導入ランキングを公開、生成AI利用も大幅増へ - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWjR6TkhQbXhPSE0wdEpyUGVHdmFPQmlxdUJPWGVadGZ0NXliME9DUG42akhSWlEwMDA0U0NTVU41M25oVmF4UWpYOFdyM09ybXVhMWpOYmFiamEtYTNpM3ZDX19WMlRQUXYzNw?oc=5",
+      "description": "企業向けルーター／UTMの導入ランキングを公開、生成AI利用も大幅増へ&nbsp;&nbsp;日経クロステック",
+      "source": "日経クロステック",
+      "publishedAt": "2026-10-09T07:00:00.000Z"
     }
   ]
 }
