@@ -51,13 +51,6 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "title": "Data Agent Kit の一般提供を開始: Google のデータクラウドがあらゆるコーディン��� エージェントで利用可能に - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnAwclRqMWtFN09PU1I2dVNidkpjdkI1NzFkMlVGMl9USEVnSl8wRFktMTNLcEE3Y2U4RThTNWhTck9hY1p4TjhqdEJjNEliOGxvV3k4US1Hc3V4S1dKSmY4YzJxN0VlbHZ4S2FZUVVVT1dFM2VPTkZGaXJMWUtPajdnZkQ3MlhFUFF5dEt3a1dIMWJPQTg0S0U3ZG9ZTXNPbDdBelpmdWlwSUNFNHJpQjZWdlhSZl9XQWRpS0dycTdEWUN6cVZSdklfM016UQ?oc=5",
-      "description": "Data Agent Kit の一般提供を開始: Google のデータクラウドがあらゆるコーディング エージェントで利用可能に&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
       "title": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧 - Oracle Blogs",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVhMMFgyNk9HOGl0dzdLNGFSeFpudEVEWThXbWJwaEZRVk5GYXozNTZwbFhEOFBmZ2RtbUlyaXZIM3lKMjZMU3RfYU92bWpYQmVzU0V6RFlGQVVTUk1VYmFZejdjaVZQLU5nUENWRkI5eVc1UThBay1NcngwVGh1MHBWckNSdUx0NWpyTHBpcw?oc=5",
       "description": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧&nbsp;&nbsp;Oracle Blogs",
@@ -67,8 +60,15 @@
     {
       "title": "Secure Source Manager の新機能で CI / CD パイプラインを強化 - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVdpZGNXM3dtdEhLQlJrMTFySHd0LXNUcXNGdGc1MlJxODVUUk5CdTJoSTRfWURxZjJvU2lHV3lLVlpKYlZFUEd4TFplQ0N3YzROZHJsdnp2dDN3bWxGTC1xTnF1MU42cEI1Tm8wNzdtcjM2TGUxUVFjbUhTb3VrclJTUTR5emtCbGd6aWYzaGFIaW9lX1hOelctazRIbkJWSUZmZXE3YmN3MVV0THBNMlZMaXpIaFc5V3pIM0MxbzZwRnFnSVRmaEV5aXp5Zw?oc=5",
-      "description": "Secure Source Manager の新機能で CI / CD パイプラインを強化&nbsp;&nbsp;Google Cloud",
+      "description": "Secure Source Manager の新機能で CI / CD パイプライン���強化&nbsp;&nbsp;Google Cloud",
       "source": "Google Cloud",
+      "publishedAt": "2026-10-01T07:00:00.000Z"
+    },
+    {
+      "title": "AIとの対話でクラウドコストの分析ができる新機能を提供開始、srestがガバメントクラウドのFinOpsを支援 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTUNhN1k3SVRtN0wtbnA1NDlfcmgzQ2V2aDkzV25GdUlWbUItMFlWS01iYjlUODlrSUlSVThRMVdLQkRCUUZYWlVkbWdSR2JNeFZBWVlVZHBER0dId0JCRHoyWFVNOVNlUkE?oc=5",
+      "description": "AIとの対話でクラウドコストの分析ができる新機能を提供開始、srestがガバメントクラウドのFinOpsを支援&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
       "publishedAt": "2026-10-01T07:00:00.000Z"
     }
   ]
