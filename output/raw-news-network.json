@@ -2,11 +2,11 @@
   "topic": "network",
   "articles": [
     {
-      "title": "Palo Alto NetworksのPAシリーズが「JC-STAR Level 1」を取得：日本市場におけるIoT・ネットワークセキュリティ要件への準拠 - Palo Alto Networks",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWlOUWVDV1U3OThiaGYyWlNWdC1MbUh0U2RTUW41M2M4Zi1tU2VPb3Fud3dyaVdkbVQ1TzIyZUpMTUY0VVFPSEg2VV9lNmp0Zl9RNUxwYkU1R2xwUlJSNDUyb0xGVVJteFRyaEc1aHdxZVJLdUJTMlV4M1NYY3FJQ2g5NVRKQndFQkFaV2hGSEVZUnBO?oc=5",
-      "description": "Palo Alto NetworksのPAシリーズが「JC-STAR Level 1」を取得：日本市場におけるIoT・ネットワークセキュリティ要件への準拠&nbsp;&nbsp;Palo Alto Networks",
-      "source": "Palo Alto Networks",
-      "publishedAt": "2026-10-18T07:00:00.000Z"
+      "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazBYczBqQndMZ0VhYjFURTNDcjZQNFVPMTBVbU1zTjRESmhoTzZsUEF6c3VYa1BhM0NWaW5MYjRLcXhRZHlvU0hYeFYtRXRpMTBENUtSb0k0Vm1nbkpyYU1pTVJZcjdnRnFMQUViS01LTGlBUEE5OEQ4WVcwZTFnZ25TcXNWeUN6Z2djdTdrem5WZ3R3eVRn?oc=5",
+      "description": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-22T04:05:03.000Z"
     },
     {
       "title": "Palo Alto PAN-OSのゼロデイ脆弱性CVE-2026-0322が悪用、今すぐ更新を - Pasquale Pillitteri",
@@ -16,21 +16,21 @@
       "publishedAt": "2026-10-15T10:28:50.000Z"
     },
     {
-      "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃��悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
+      "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjJUdVpUZEpKUlBDYTg1WWZXREM2YldHbWg3WnhVWFRIaXB3bTQ1NW9TMDJjaWlaaWZXZUlGWjdFV1NyWmEzNnhwMVVKV0EzM1FqczRuRmp4OC1Ta2QzcnA5dDVMRlVKSVh2NlYxWTgtRHJOeU8zYnFXVzJIRDJoOEpVRlBDblA4RVFwajhqbng0RHlzRi1xbA?oc=5",
       "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-10-14T23:48:04.000Z"
     },
     {
-      "title": "視覚障害がある人の暮らしをサポートする最新機器を紹介～「山口県ロービジョンケアネットワ���ク」 - 日テレNEWS NNN",
+      "title": "視覚障害がある人の暮らしをサポートする最新機器を紹介～「山口県ロービジョンケアネットワーク」 - 日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUNMM2FkNVZUOEN5X2RtQzB4eTdqUHQ4NlhXSXlFS295WldxaG9Jdm5DaVdRM1JNX0JRaGozUVRGdHF6OEtjcGh1c09SSXlMdi1uTXNlbXVlUHZmLWxLVWVkQl83UWVPM1FwRmdBWVVwajhkY2pNbkp4SzU1TEFfekxwYUZ6TlE?oc=5",
       "description": "視覚障害がある人の暮らしをサポートする最新機器を紹介～「山口県ロービジョンケアネットワーク」&nbsp;&nbsp;日テレNEWS NNN",
       "source": "日テレNEWS NNN",
       "publishedAt": "2026-10-12T10:12:01.000Z"
     },
     {
-      "title": "ランサムウェア【緊急共有】最大手の国際企業で導入実績があるPalo Alto GlobalProtectの脆弱性が悪用され、ランサムウェアグループQilinなどが展開中。担当者は即確認を！（2026/10/11）：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - オルタナティブ・ブログ",
+      "title": "ランサムウェア【緊急共有】最大手の国際企業で導入実績があるPalo Alto GlobalProtectの脆弱性が悪用され、ランサムウェアグルー��Qilinなどが展開中。担当者は即確認を！（2026/10/11）：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - オルタナティブ・ブログ",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0RhTFFmdWZnNHV0QUx2VlJMZkFOQWxWQUtLT1RpTktfVmpDR3lvYkJTTlRpYUdkTmJKanUzby11RHkweHoxcjhhOHV5SjdndGdtRXZRUmJRUkpFQklIbGFVX2pjakpjcE9YRnRMWWMwRXdCNUdhMThRSFhIa2VxbmN3?oc=5",
       "description": "ランサムウェア【緊急共有】最大手の国際企業で導入実績があるPalo Alto GlobalProtectの脆弱性が悪用され、ランサムウェアグループQilinなどが展開中。担当者は即確認を！（2026/10/11）：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔&nbsp;&nbsp;オルタナティブ・ブログ",
       "source": "オルタナティブ・ブログ",
@@ -44,32 +44,32 @@
       "publishedAt": "2026-10-05T07:00:00.000Z"
     },
     {
-      "title": "Palo Alto NetworksによるConsole買収、自律型セキュリティの真価を問う - remio",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzlhNWJ0aXllb0dXcHdrVzJ1RkpFTzFlcUtod3JmVjFaRk9JT2p0bW1RMDBQN3ZrWHhLUi1NMHRMUnRiWkU0LXR0Vld5dXJYRDMwSkxqUFJGUG1pNzd3YVctcEdEdWJYWlNNaUoxTHYwZ0RRdmxSS3JBM2JsSUkyOHpXOGROcHNxT2FfSXljNkJLc09NX2FYWXFwWkM0ZGVraGMxMWVodG1nSk0?oc=5",
-      "description": "Palo Alto NetworksによるConsole買収、自律型セキュリティの真価を問う&nbsp;&nbsp;remio",
-      "source": "remio",
-      "publishedAt": "2026-10-01T18:40:14.000Z"
-    },
-    {
-      "title": "人材不足に打ち勝つセキュリティ運用とは ～ DNP との対談で明かされる効果、テクマトリックスが Palo Alto Networks の Cortex XSIAM で提案する次世代 SOC - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbEMzQnFYVVlNV0xZN19kM09reFhOOHVfYnF4amxPSDdkR3pxRlJxaXl1X0lrcFh4a2hTSmVTSmpDUkpiMm1pYnZoQzExdmZ2Q0pJTzJ1STktb0Vxc0ItSTUzMWlZUUVKUjAyTA?oc=5",
-      "description": "人材不足に打ち勝つセキュリティ運用とは ～ DNP との対談で明かされる効果、テクマトリックスが Palo Alto Networks の Cortex XSIAM で提案する次世代 SOC&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-10-01T07:00:00.000Z"
-    },
-    {
-      "title": "Palo Alto Networks Stock Rose Nearly 5% as Nvidia Launched an AI Agent Safety Platform. Here’s What Palo Alto Is Building on Top of It - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYmU1Q0hVTDBESkUyTFFkazNOS2c0Nm1EYnlfdHhSN18yZmV1XzhDamt6VTkwbmN0c2lQemw3d2lIQ3h6QWVBbzlyU1FVTjlnWUR2TkFZaG1fTDl6M2Y0RjhmTTF5c3NHU0hZSGl0R0pCeU9ZRUkteGVtYmV6b2w2S3BjQl85WkpoOU04TXJJSE9kNzFoUy1XYWV0YUNrTmdTd0R6UGowZGotSlQ0RXEyazlENWhVeHF5Q2ZlTXJGWjA2ZjUzM0ZHUzVLQmJVUG5PRGU4anVsZE5lQ3VPTEM5VnAtT2YxdjEzaDJIUlp0UmRkQQ?oc=5",
-      "description": "Palo Alto Networks Stock Rose Nearly 5% as Nvidia Launched an AI Agent Safety Platform. Here’s What Palo Alto Is Building on Top of It&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-09-29T07:00:00.000Z"
-    },
-    {
       "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
       "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
       "source": "Fortune Business Insights",
-      "publishedAt": "2026-09-21T07:00:00.000Z"
+      "publishedAt": "2026-10-05T07:00:00.000Z"
+    },
+    {
+      "title": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル規模へ｜CAGR - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tNV91Szd2OV92RU9RYlVUNHM5bWNnQ0w1dmxxNVNpMmZUbjhXWWU0ZDl2bG81ZFFlNWxFUEhXYWlxbEZZaktfei1OUjlvNUI2Y0R5dQ?oc=5",
+      "description": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル規模へ｜CAGR&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-05T01:03:14.000Z"
+    },
+    {
+      "title": "IIJ、SD-WANサービス「IIJ Omnibusサービス」を機能拡充 10Gbps接続を追加 - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8talViVW8wLXg4VDV2NXVEZ3ltQUZUTnUzcDlsRmNNREMtbVR2YTRnZUpmci10UzBQQkF6WGROelVVcklhdGNKdGNHeUhYMHhzQWpv?oc=5",
+      "description": "IIJ、SD-WANサービス「IIJ Omnibusサービス」を機能拡充 10Gbps接続を追加&nbsp;&nbsp;ビジネスネットワーク",
+      "source": "ビジネスネットワーク",
+      "publishedAt": "2026-10-02T07:00:00.000Z"
+    },
+    {
+      "title": "IIJ、SD-WANサービス「IIJ Omnibusサービス」の機能を拡充 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WY2drWWxFWW5fbFZjRVh1V3d1LWNoX2s0R1NLVFN3eVZJMXREX3NaZmhoaFIyVGNQcG5idG5ZR1J5NGZkaTMwRFV2a01UdE56elBXMg?oc=5",
+      "description": "IIJ、SD-WANサービス「IIJ Omnibusサービス」の機能を拡充&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-10-02T07:00:00.000Z"
     }
   ]
 }
