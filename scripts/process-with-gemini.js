@@ -53,6 +53,21 @@ async function callGemini(prompt) {
   });
 }
 
+// 混雑（high demand）等の一時的なエラー時は間隔を空けて再試行
+const RETRY_DELAYS = [10000, 20000, 40000];
+
+async function callGeminiWithRetry(prompt) {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await callGemini(prompt);
+    } catch (e) {
+      if (attempt >= RETRY_DELAYS.length) throw e;
+      console.log(`  ⚠️  ${e.message} → ${RETRY_DELAYS[attempt] / 1000}s 後に再試行 (${attempt + 1}/${RETRY_DELAYS.length})`);
+      await sleep(RETRY_DELAYS[attempt]);
+    }
+  }
+}
+
 async function analyzeBatch(articles) {
   const articleList = articles.map((a, i) => `
 記事${i + 1}:
@@ -81,7 +96,7 @@ ${articleList}
 - 低：一般情報・業界イベント・統計データ`;
 
   try {
-    const result = await callGemini(prompt);
+    const result = await callGeminiWithRetry(prompt);
     let cleaned = result.replace(/```json|```/g, '').trim();
     const arrStart = cleaned.indexOf('[');
     const arrEnd = cleaned.lastIndexOf(']');

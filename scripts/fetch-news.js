@@ -20,10 +20,10 @@ const TOPIC_QUERIES = {
     'ランサムウェア 攻撃'
   ],
   vendor: [
-    'Zscaler OR CrowdStrike OR ソリトン',
-    'Cloudflare',
+    'Zscaler OR CrowdStrike OR ソリトン -株価 -値動き -株式',
+    'Cloudflare -株価 -値動き -株式',
     '"Cato Networks" OR "Cato SASE" OR ケイトネットワークス',
-    '網屋 Verona',
+    '網屋 Verona -株価 -続落 -続伸',
     'セキュリティベンダー 新製品 OR 買収',
     'EDR OR SASE OR ゼロトラスト 製品'
   ],
