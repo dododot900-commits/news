@@ -2,7 +2,9 @@ name: Gemini News Workflow
 
 on:
   schedule:
-    - cron: '0 23 * * *'
+    # UTC 21:17 = JST 6:17。GitHub の schedule は毎時 0 分付近が混雑し遅延しやすいため、
+    # 0 分を避け、実績の遅延（1.5〜4時間）を見込んで早めに設定
+    - cron: '17 21 * * *'
   workflow_dispatch:
     inputs:
       topic:
@@ -29,7 +31,10 @@ jobs:
         run: node scripts/fetch-news.js security 10
 
       - name: Fetch vendor news
-        run: node scripts/fetch-news.js vendor 10
+        run: node scripts/fetch-news.js vendor 18
+
+      - name: Fetch vulnerability management / ASM news
+        run: node scripts/fetch-news.js asm 15
 
       - name: Fetch AI news
         run: node scripts/fetch-news.js ai 10
@@ -49,6 +54,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Commit and push changes
+        env:
+          TZ: Asia/Tokyo
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -58,8 +65,10 @@ jobs:
 
       - name: Summary
         if: always()
+        env:
+          TZ: Asia/Tokyo
         run: |
           echo "## Gemini News Workflow" >> $GITHUB_STEP_SUMMARY
           echo "**Date:** $(date +'%Y-%m-%d %H:%M JST')" >> $GITHUB_STEP_SUMMARY
           echo "**Source:** Google News RSS (日本語)" >> $GITHUB_STEP_SUMMARY
-          echo "**Topics:** security, vendor, ai, cloud, network, enterprise" >> $GITHUB_STEP_SUMMARY
+          echo "**Topics:** security, vendor, asm, ai, cloud, network, enterprise" >> $GITHUB_STEP_SUMMARY

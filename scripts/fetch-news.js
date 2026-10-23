@@ -21,8 +21,18 @@ const TOPIC_QUERIES = {
   ],
   vendor: [
     'Zscaler OR CrowdStrike OR ソリトン',
+    'Cloudflare',
+    '"Cato Networks" OR "Cato SASE" OR ケイトネットワークス',
+    '網屋 Verona',
     'セキュリティベンダー 新製品 OR 買収',
     'EDR OR SASE OR ゼロトラスト 製品'
+  ],
+  asm: [
+    'Securify スリーシェイク',
+    'ASM アタックサーフェス OR 攻撃対象領域',
+    'EASM OR CTEM OR エクスポージャー管理',
+    '脆弱性管理 ツール OR サービス',
+    '脆弱性診断 サービス 提供開始 OR 発表'
   ],
   ai: [
     'AI 人工知能 新技術 日本',
@@ -118,12 +128,13 @@ async function main() {
   console.log(`Fetching Google News RSS for topic: ${TOPIC}`);
   console.log(`Queries: ${queries.length}`);
 
-  let allArticles = [];
+  const perQuery = [];
   const seenUrls = new Set();
   const seenTitles = new Set();
 
   for (const query of queries) {
     console.log(`  Query: "${query}"`);
+    const list = [];
     try {
       const articles = await fetchRSS(query);
       console.log(`    → ${articles.length} articles`);
@@ -133,7 +144,7 @@ async function main() {
         if (seenUrls.has(article.url) || seenTitles.has(article.title)) continue;
         seenUrls.add(article.url);
         seenTitles.add(article.title);
-        allArticles.push(article);
+        list.push(article);
       }
 
       // RSS への負荷軽減
@@ -141,11 +152,18 @@ async function main() {
     } catch (e) {
       console.error(`    Error: ${e.message}`);
     }
+    list.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    perQuery.push(list);
   }
 
-  // 新しい順にソートして上位を取得
+  // クエリごとに新しい順で1件ずつ順番に取得（特定クエリの記事に偏らないようにする）
+  let allArticles = [];
+  for (let i = 0; allArticles.length < MAX_RESULTS && perQuery.some(l => l.length > i); i++) {
+    for (const list of perQuery) {
+      if (list[i] && allArticles.length < MAX_RESULTS) allArticles.push(list[i]);
+    }
+  }
   allArticles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-  allArticles = allArticles.slice(0, MAX_RESULTS);
 
   const outputDir = path.join(__dirname, '..', 'output');
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });

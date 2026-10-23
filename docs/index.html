@@ -188,6 +188,7 @@
     .badge-followup { background: rgba(192,132,252,0.15); color: var(--followup); }
     .badge-security   { background: rgba(247,95,95,0.1); color: #f78f8f; }
     .badge-vendor     { background: rgba(247,169,79,0.1); color: #f7c04f; }
+    .badge-asm        { background: rgba(45,212,191,0.1); color: #5eead4; }
     .badge-ai         { background: rgba(79,142,247,0.1); color: var(--accent); }
     .badge-cloud      { background: rgba(79,207,142,0.1); color: var(--low); }
     .badge-network    { background: rgba(130,170,255,0.1); color: #82aaff; }
@@ -377,6 +378,7 @@
   <div class="topic-chip active" onclick="filterTopic('all', this)">すべて</div>
   <div class="topic-chip" onclick="filterTopic('security', this)">🔒 セキュリティ</div>
   <div class="topic-chip" onclick="filterTopic('vendor', this)">🛡️ ベンダー</div>
+  <div class="topic-chip" onclick="filterTopic('asm', this)">🎯 脆弱性管理・ASM</div>
   <div class="topic-chip" onclick="filterTopic('ai', this)">🤖 AI</div>
   <div class="topic-chip" onclick="filterTopic('cloud', this)">☁️ クラウド</div>
   <div class="topic-chip" onclick="filterTopic('network', this)">🌐 ネットワーク</div>
@@ -425,6 +427,7 @@
   const TOPIC_LABELS = {
     security: '🔒 セキュリティ',
     vendor: '🛡️ ベンダー',
+    asm: '🎯 脆弱性管理・ASM',
     ai: '🤖 AI',
     cloud: '☁️ クラウド',
     network: '🌐 ネットワーク',

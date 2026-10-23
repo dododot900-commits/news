@@ -11,7 +11,7 @@ const fs = require('fs');
 const path = require('path');
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const TOPICS = ['security', 'vendor', 'ai', 'cloud', 'network', 'enterprise'];
+const TOPICS = ['security', 'vendor', 'asm', 'ai', 'cloud', 'network', 'enterprise'];
 const MAX_KEEP_DAYS = 30;
 const BATCH_SIZE = 8;
 
@@ -145,7 +145,8 @@ async function processNews() {
     });
 
     const allNews = loadAllNews(docsDataDir);
-    const today = new Date().toISOString().split('T')[0];
+    // 日付は JST 基準（UTC だと早朝実行時に前日扱いになるため）
+    const today = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().split('T')[0];
     const prevArticles = getPrevArticles(allNews, today);
     console.log(`Previous articles: ${prevArticles.length}`);
 
