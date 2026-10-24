@@ -2,25 +2,11 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "フードテックをめぐる状況(令和8年10月)｜桜山 響詩朗 - note",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ieU5KVnd2M0g0anFVRkFaU0dGMC1fT3ZwOHJaZjZJZGlMUGJKaGNVbHhPMmpydkk2TTR0UmZsVHE4VnFKU0tZU2taYS1scU5jS1FRNGxoXzlrdw?oc=5",
-      "description": "フードテックをめぐる状況(令和8年10月)｜桜山 響詩朗&nbsp;&nbsp;note",
-      "source": "note",
-      "publishedAt": "2026-10-23T07:16:48.000Z"
-    },
-    {
       "title": "Elithとアプライドオンプレミス生成AI GENFLUX Local の販売・導入支援で業務提携 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZ2tYbkV2ODhESzEyY3ktc0xhYjBwUE1fZWpEWWFOTFMxM0pJa09VM041WHNqZHhkd25CenhIWmVhZ09EeHVGLUVydTlPU1MzSVdMd3dkWHJJUzZ0dktkWXpKUXhzdzhhcGc?oc=5",
       "description": "Elithとアプライドオンプレミス生成AI GENFLUX Local の販売・導入支援で業務提携&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-23T06:00:02.000Z"
-    },
-    {
-      "title": "iPhone Duo、発売日に揃わないもの｜Siri AI日本語・Apple Pencil・出荷・返却の条件 - innovaTopia",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnNWVrNXV6a2NXeGJ5TFJxWjNkNEtYa2NiYkRzN3ZSQ2R4aUVvV0JtRlgxTjNTTU9NV3hqVXJ4RGU4QmlwcXI5cjBlRzlqQU9HMDRzQ3NKak9DVG5OM1E?oc=5",
-      "description": "iPhone Duo、発売日に揃わないもの｜Siri AI日本語・Apple Pencil・出荷・返却の条件&nbsp;&nbsp;innovaTopia",
-      "source": "innovaTopia",
-      "publishedAt": "2026-10-23T05:57:10.000Z"
     },
     {
       "title": "花王、法人向け生成AI「ChatSense」を導入--研究所や商品カテゴリー越え知見を横展開 - ZDNET Japan",
@@ -37,18 +23,32 @@
       "publishedAt": "2026-10-23T02:00:02.000Z"
     },
     {
-      "title": "パークシャテクノロジー、自前サーバーで自律AI 機密情報活用に活路 - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZRW91QWVPWUJjc3ByUTRYUW0yZms2Z25uRmNjXzNZa1lhTGhHZkxvZkg5OF8tandCSXRWMTBab0xWSHJGVllDczIwMDRuNHlRVDJUUUJn?oc=5",
-      "description": "パークシャテクノロジー、自前サーバーで自律AI 機密情報活用に活路&nbsp;&nbsp;ニッキンONLINE",
-      "source": "ニッキンONLINE",
-      "publishedAt": "2026-10-21T20:15:00.000Z"
+      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+      "description": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-10-21T21:14:49.000Z"
     },
     {
-      "title": "11月6日「AGIの日」を起点に AGI時代を見据えた共創プロジェクトの募集を開始 | 人工知能開発基金事務局、日本X-TECH連盟 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUWp6MklOVDA4S3JVSzVwdUpYZUJVWnh3RU1fSFdGVUNDNjFFNFMxQzlyVG9vQ2lwZnFFMFNpemNFYmVqRlNuekl3SHpMZw?oc=5",
-      "description": "11月6日「AGIの日」を起点に AGI時代を見据えた共創プロジェクトの募集を開始 | 人工知能開発基金事務局、日本X-TECH連盟&nbsp;&nbsp;アットプレス",
-      "source": "アットプレス",
-      "publishedAt": "2026-10-21T02:15:00.000Z"
+      "title": "電機と自動車、垣根越えAI時代の勝ち筋見えるか 幕張で展示会 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QY1dEUjVtaDdHakM2V2dILVN5WkR0cjRWYjg3aU13ZDRFQUlucEJiYUZSaGNObVcxMUlXWGlHbEZkSkgzWEM4eHNrTjNtdFZoODNNTjRsaUN4X0I2OFpjdEZCZVlQbWc?oc=5",
+      "description": "電機と自動車、垣根越えAI時代の勝ち筋見えるか 幕張で展示会&nbsp;&nbsp;朝日新聞",
+      "source": "朝日新聞",
+      "publishedAt": "2026-10-13T07:00:00.000Z"
+    },
+    {
+      "title": "日本の長期金利3％で、AI株は下がるのか ～高金利が迫る、AI株の選別～ | 柏村 祐 | 第一ライフ資産運用経済研究所 - 第一ライフ資産運用経済研究所",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zMEp3bmIxeG4wUkdyUmNCRWxXMnNuM1NMM2FtM3RyUEdFc3BYNzhRNlB6Sm94bV9hZ21BYmlPUzBSYmlSZy16Z04yR2NfRnVjenhULXVPSmpPSG8?oc=5",
+      "description": "日本の長期金利3％で、AI株は下がるのか ～高金利が迫る、AI株の選別～ | 柏村 祐 | 第一ライフ資産運用経済研究所&nbsp;&nbsp;第一ライフ資産運用経済研究所",
+      "source": "第一ライフ資産運用経済研究所",
+      "publishedAt": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "title": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介 - SHIFT AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTWdwd3BpWmY4a3A0NDhQLWZzRE0zc3dFU2hod2tYOFhsUER0T1ZrMnVCQi0yNjVVZVhzMTdJTUpyc2FLR0RMOQ?oc=5",
+      "description": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介&nbsp;&nbsp;SHIFT AI",
+      "source": "SHIFT AI",
+      "publishedAt": "2026-09-09T07:00:00.000Z"
     },
     {
       "title": "機械学習で患者の状態変化を提示する血行動態モニタリングプラットフォーム：医療機器ニュース - MONOist",
