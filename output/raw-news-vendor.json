@@ -2,18 +2,25 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkZ2Y0hwbmswbmtLb1NMRGNYd1RPdkdjTHJNVjdRaEllMlNvcDdoV3pIU3RpTlJZaHJ1MzVZOThwenhROVo1V0l4VlBDUENZczFyQjlRalFMN3ZWREpoeFA2T1lXTXc1R1AwOTYwM0JteFBTV3ZTcFpVREttdnM?oc=5",
+      "description": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-25T22:54:36.000Z"
+    },
+    {
+      "title": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過 - UQライフ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EMnpiWFVKUng2MjAyblpWa1ZrRHJHYjVPWnp6dVZ5ZUp1QlpjN2xacW40cXZPSnhKWS14NU5NMFEtT2U2TVB4eHZTUVh4NHI0TU95ZGhzX3lhM042R2FtUEo0amNCXzdzb1N0Q25VMzNsdzQtaDVoZHlnbEQ?oc=5",
+      "description": "AIエージェントによる操作���多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過&nbsp;&nbsp;UQライフ",
+      "source": "UQライフ",
+      "publishedAt": "2026-10-25T21:13:12.000Z"
+    },
+    {
       "title": "Cloudflare の security-audit スキルをプロジェクトで使う方法 - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFJYQjJBQ0RVRXRDWHl4RlVVRHRWRmxrdUZkLW1LQjFWYjBlMS1GMUl5bkl2dmNYZG5CTDY4bk5UWlRQTjNiT2Y0M2Ewd0ZnQ0ZyVGk2WTctUDhwd0hZTHl1WE1hYkxwV1dZUU5pSTUyRTE1U2VnX3dMX0ZIejN3VTFVTEE3Rl9CUHRrYUpaYw?oc=5",
       "description": "Cloudflare の security-audit スキルをプロジェクトで使う方法&nbsp;&nbsp;Pasquale Pillitteri",
       "source": "Pasquale Pillitteri",
       "publishedAt": "2026-10-24T18:08:59.000Z"
-    },
-    {
-      "title": "Cloudflare、地域データ主権のためのポスト量子ハイブリッドML-KEM-768暗号化対応GeoKey Managerを発表 - QUANTUM BUSINESS MAGAZINE -",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQ0NTMTgxSXZjNXhnU1pnQTJEWDR4aERheXJBWjQ3NVQweklzQzFFbWNBVFh1NWlhdkUwQ0Yxd2RJYWRjQ2duZHhyekJMRWI0OXVvc0MyR3BBWEFLc0xxQVQ0SExGQXhheVFPY1kzbUZRcXFuZzB6Z0dFZXdINGhYdlRrOFlLc3lsWkNGaklUN2d4RkR1b2ZNYTl0b0tldTNZc0RNSmtrbXkwZTA5YXo4Ny1Zdl96bUkxVnJIWVZTWExwMjQyU20wN0JHUDZNeWJOS2pUX0JLekVQM3hQU3Z6MHVrcl9DMW56QVVlRFNYSXhaWHBQeDFKN2RRRS1naFBxNWdOakF5S0ZaOG5pbmd0eXJ2RVNPVGU1amtqTC02WGZFN203blVaeWFrOVJwX0Vuc2V1WjFfUTFCejNGYjU4bmVleC13X0VrVFdXOWlhcE93VEx5cXVXZlpKRXBvaGFSWGhQMVl3?oc=5",
-      "description": "Cloudflare、地域データ主権のためのポスト量子ハイブリッドML-KEM-768暗号化対応GeoKey Managerを発表&nbsp;&nbsp;QUANTUM BUSINESS MAGAZINE -",
-      "source": "QUANTUM BUSINESS MAGAZINE -",
-      "publishedAt": "2026-10-24T07:09:15.000Z"
     },
     {
       "title": "TypeScriptの型検査が最大8倍高速に、CloudflareがRust製コンパイラ「tsrs」を開発 - XenoSpectrum",
@@ -23,17 +30,31 @@
       "publishedAt": "2026-10-24T05:53:00.000Z"
     },
     {
-      "title": "「侵入4分後にデータが消える」 AI悪用で“攻撃が速過ぎる”今、セキュリティチームが勝つには - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wYXAwdHJmVWtkb3lkU2NiNnk0TUJoM056eVpzWEI0MldoNW5uUnlwc1p0MDNBZ0gxbnhMbGJ0elA4RkJWaDBfS2xCR3hyOGZLb1BSLVRLTE5SbDFZUGFaa3dfRjJwakNnSjdHQXhfbDNWdw?oc=5",
-      "description": "「侵入4分後にデータが消える」 AI悪用で“攻撃が速過ぎる”今、セキュリティチームが勝つには&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-10-21T07:00:00.000Z"
+      "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yRmktQXZyUHlTdHJwZTU2VV9iXzQ0SFBoS0dKcjZxS2tQRXlWTlBpUWdTeVhNX1E2SmJiWUk1YmhBQ0JaRkJmbEhIbE5hMENFT3A3QlNscjBwbjl3aGc?oc=5",
+      "description": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-23T01:38:27.000Z"
     },
     {
-      "title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（1/4枚目） - ITmedia エグゼクティブ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFRVnF2cFkxTWRSa3BDVXp3VDJLYWZUVXZfUmpMeGJvdEJHRGVBS3FfYXF5TDk0M3NST1o1UkRSM1c1Z1lFNUtjaDNzeXVsQ21vN1Q4SzJXVVNiOG95bnU2VVlRellPZlprQUNmSk95NWJGUFQ3SzVQWFFCZExKa3N1dUZnSzZGRE0wdjl4eGQ5Zw?oc=5",
-      "description": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（1/4枚目）&nbsp;&nbsp;ITmedia エグゼクティブ",
-      "source": "ITmedia エグゼクティブ",
+      "title": "PoCがSYSTEM権限に到達、CrowdStrikeがFalconFlankのゼロデイを調査 - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTUtVi1BY1Z5M3Eya1Q3VHNhb0FvQnFvalBJNk1YWjAxa0R2ckFDOEU3eW8tTHpHWVBPdDRBRWR4ODNhbmdDWEMzX0FSX3h4OGlnbGRDXzFUdXMwa1N1WTRxVjlrMlFwa3BaVWlxRjgzR0x6STRjcW43dUc3N3lUZy04Y3F0VXNE?oc=5",
+      "description": "PoCがSYSTEM権限に到達、CrowdStrikeがFalconFlankのゼロデイを調査&nbsp;&nbsp;eSecurity Planet",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-10-22T18:33:01.000Z"
+    },
+    {
+      "title": "イーライ・リリー、ネットフリックス、Zscaler - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiUVJnd09VOTgwNmUtSmVpZ1pkdVBxSU5MS2JOWTQzanNQdkJ1N0llTFhZdG1tZGlLNUlBOFpxSlB4RGk4MVRvNVU1TWU5a2ZTZHhWLWJ0MlZlR19FWTB3TW5NelNNYW9CTkdTeU54b2puMFlVc1Nn?oc=5",
+      "description": "イーライ・リリー、ネットフリックス、Zscaler&nbsp;&nbsp;TradingView",
+      "source": "TradingView",
+      "publishedAt": "2026-10-21T15:34:02.000Z"
+    },
+    {
+      "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
+      "description": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
+      "source": "週刊BCN＋",
       "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
@@ -44,32 +65,11 @@
       "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
-      "title": "SB C&S、「Zscaler Partner Connect 2026」において、「JAPAN Growth Partner of the year」を受賞 (2026年10月21日掲載) - ライブドアニュ��ス",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0ZGhDZVJ6S04zV21oQy1wbmlMX0d6VmxiUE1uNGRZZHBnbEtQRXBJSnRJNUhhSGNSUW5TWjBHWjZ3TTYzSU1ZbnlaY3FEQ2g1MUZhLTJzbUR1YkNjazZrbGtR?oc=5",
-      "description": "SB C&S、「Zscaler Partner Connect 2026」において、「JAPAN Growth Partner of the year」を受賞 (2026年10月21日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-10-21T02:00:00.000Z"
-    },
-    {
-      "title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（2/4枚目） - ITmedia エグゼクティブ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDYtaFhXOFo2YWlYblVWMGpDT3pjYWJlYlNJWlpiUTBMbkxQNlk4R0hSbDBYaG9BMjhqU0xORTJzQ01aRHd5SmJrY2daZG1qNVFfSXhTbnRzeEc3cFJFeFcwTmRpdTNKMGFtNW1kOVRZWUhlSkR6YUFyOFRTX1FNRUdmTkNiSXF1OGsySmxuMUhrUQ?oc=5",
-      "description": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（2/4枚目）&nbsp;&nbsp;ITmedia エグゼクティブ",
-      "source": "ITmedia エグゼクティブ",
-      "publishedAt": "2026-10-21T01:09:29.000Z"
-    },
-    {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
       "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-20T05:23:27.000Z"
-    },
-    {
-      "title": "日本企業狙う不正アクセスにAI 攻撃者が自立型侵入テスト「ARTEX」を使用 GMOイエラエ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Rb2ZVbHIzbEo0N1NLNjBYWWgtMkZSem8xMlZ4MGNsTl9aNDBkS2dvM1NaclJST3hHNmFuNS0yZW92bzlKanFVNVQ3bnd2T0RtQ3J4OUNZamNCVFp6ZDJpRHduUjU5cGtmVXdIcUtlX084bFYtdEFhUnF5dw?oc=5",
-      "description": "日本企業狙う不正アクセスにAI 攻撃者が自立型侵入テスト「ARTEX」を使用 GMOイエラエ&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-20T05:18:15.000Z"
     },
     {
       "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - ニコニコニュース",
@@ -93,6 +93,13 @@
       "publishedAt": "2026-10-13T07:00:00.000Z"
     },
     {
+      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
+      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
+      "source": "株式会社マクニカ",
+      "publishedAt": "2026-09-07T11:50:23.000Z"
+    },
+    {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc1lXb3AwbHluaEVfbkdEZlllY3FTeG5wME5GWi0zdzFFaENYOUoxZDMwTjdMN3E2bWNUZnpKRy1mcHVBODZNVktPaFphYUtQUy1nZnc3Q1JkSU9LeTJNMmhxeXdZVzVKeC1CS3FBQzRZdGwt?oc=5",
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
@@ -107,25 +114,18 @@
       "publishedAt": "2026-08-27T07:00:00.000Z"
     },
     {
+      "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLU9jYnpZdVUwaHhhZmRVNGdlc0NSLWwzUGpFRjJ5eEpKTnE4dTZBbTNnMU1fSDRkbVFFbVBvV085SWRGc29KN2hoT1J5ZkVlQmJ6MUdoNi03bjB3NElPaVN2OWxZUFUxR0xkdkRRNV80Zw?oc=5",
+      "description": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-08-16T07:00:00.000Z"
+    },
+    {
       "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
       "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
-      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が���る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-07-13T07:00:00.000Z"
-    },
-    {
-      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
-      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-06-19T07:00:00.000Z"
     }
   ]
 }

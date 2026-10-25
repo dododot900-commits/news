@@ -2,6 +2,27 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "AIインフラ融資のハードル急上昇：新興クラウド事業者の社債利回り15%逼近、1ギガワット算力コストが600億ドル突破 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kRlR6YmNDai1BQ05DbWlxRmNRMDJxc3F5NllHTm9PVEVZN3QtRU80UWJaWnR5dEpqMHNkTXlfS19pSV9BT1RnWHhWUy1POTBhWFY5UXd5dzBfRFF6dDVTMy12NjhKbEI3M2QxU2N6SEFqeTlJ?oc=5",
+      "description": "AIインフラ融資のハードル急上昇：新興クラウド事業者の社債利回り15%逼近、1ギガワット算力コストが600億ドル突破&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-25T07:35:00.000Z"
+    },
+    {
+      "title": "アンソロピック、グーグル・クラウドでClaude Platform全機能を一般提供 請求も一本化（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hS0g3UGNNbzRLSkpyRGZ0S3dKSHM1cTVraE80bzQtcjBldVY4aVBNc2NhWUNFWDgzUUt1VkVZRVlGYnRobTZOT2owSThmQVlDdW1UMEZ3Z3k4MkQ2amtkYmk5eUdOSHNsVlVRWkdMdWhGeV9hWnFpTFczZkFpM3c?oc=5",
+      "description": "アンソロピック、グーグル・クラウドでClaude Platform全機能を一般提供 請求も一本化（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-24T23:45:06.000Z"
+    },
+    {
+      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
+      "description": "クラウドネイティブは「退屈」に��った ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-10-24T16:19:15.000Z"
+    },
+    {
       "title": "「流出なし」で終わらないIDCFクラウド障害 「何をいつまで預けたか」で分かれた明暗 (ITmedia エンタープライズ) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczBWTUxVUHRYWG0tRjNNN3V4b0llcGVDRDl6Tjg4MVVhbTJqczBZaUV6dzZfYzdOeHdOYV92UnhXTzIteUp1Q0JfczZKdXhuel9KTGpEaUcyb2xDa3VUVVlkUHA2bnJyUUlKX1FrOFdRbTJhNU5QMThsZWkyRy1QYW1RSHVHaHRtTHllSW1B?oc=5",
       "description": "「流出なし」で終わらないIDCFクラウド障害 「何をいつまで預けたか」で分かれた明暗 (ITmedia エンタープライズ)&nbsp;&nbsp;Yahoo!ニュース",
@@ -9,23 +30,9 @@
       "publishedAt": "2026-10-24T00:38:39.000Z"
     },
     {
-      "title": "「流出なし」で終わらないIDCFクラウド障害 「何をいつまで預けたか」で分かれた明暗（ITmedia エンタープライズ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUVdRVzRWT3ZBOGFDc0xwOWtBS29HWVotOGxCRUpZazlOMjRVa3hqVGpVc1lGV2txWnFCOEJmTS1pT3NiMGNLT2NWRXU2cW9CT09ZS2FKblo5dnhYdGNQem9wS3J2QndSdTNzaWVYa1VaM0lsZmJPdzlsSEg2RmM?oc=5",
-      "description": "「流出なし」で終わらないIDCFクラウド障害 「何をいつまで預けたか」で分かれた明暗（ITmedia エンタープライズ）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-24T00:00:16.000Z"
-    },
-    {
-      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
-      "description": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;ThinkIT",
-      "source": "ThinkIT",
-      "publishedAt": "2026-10-22T14:51:29.000Z"
-    },
-    {
       "title": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5V2JmVzNqenNTXzlzeFh6THcwOS13Z3hpcHZvaDA4c2lyQmF6UkxkazgtcGJaRUl3b05aQ0gtYWNNazNPQ3hrc0JSYTNsTDEtR2pKb19oN29ncjBvWTZDZUhFTXUtMkhaMWh2dA?oc=5",
-      "description": "キングソフトが提供する新たな��人向けクラウドサービス「KINGSOFT Asset Security」の魅力&nbsp;&nbsp;ニュースメディアVOIX",
+      "description": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-22T07:33:32.000Z"
     },
@@ -47,13 +54,6 @@
       "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpvODVQUVpaLTNDOXFiaDU4eV9ZcHYyaGZMOHJHRk0xcl9ZVm1XMW1LSEltaGtzUWgxblBiUzlEVTZJMWtHMWdYckw0VTRfYnlmbjYyR3NIWWJlbEhjd0dzVmFfSUU2ZnY3V3R2MVdOeWdSS3E3TEFqdG9qYldIWkZMaW4waGFXekNtR0lnbFk1WG9YZHhmUDdjNWc4U3hFeGJGaGVjWWhKUzZEWnZ4cDNCVmw4bTQ?oc=5",
       "description": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "title": "Data Agent Kit の一般提供を開始: Google のデータクラウドがあらゆるコーディング エージェントで利用���能に - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnAwclRqMWtFN09PU1I2dVNidkpjdkI1NzFkMlVGMl9USEVnSl8wRFktMTNLcEE3Y2U4RThTNWhTck9hY1p4TjhqdEJjNEliOGxvV3k4US1Hc3V4S1dKSmY4YzJxN0VlbHZ4S2FZUVVVT1dFM2VPTkZGaXJMWUtPajdnZkQ3MlhFUFF5dEt3a1dIMWJPQTg0S0U3ZG9ZTXNPbDdBelpmdWlwSUNFNHJpQjZWdlhSZl9XQWRpS0dycTdEWUN6cVZSdklfM016UQ?oc=5",
-      "description": "Data Agent Kit の一般提供を開始: Google のデータクラウドがあらゆるコーディング エージェントで利用可能に&nbsp;&nbsp;Google Cloud",
       "source": "Google Cloud",
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
