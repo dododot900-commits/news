@@ -2,74 +2,74 @@
   "topic": "security",
   "articles": [
     {
-      "title": "エスケーロジにランサムウェア攻撃、一部の社内情報の漏えいを確認 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UTmNYU1Y0VUlNTl8tMUptRW05RU9YRXQzU0pYQkE2WWIydTZCc2dGQmFCR0VCR1BNSklwc0xtVGNjTzY0LVhGNEtQSFpNODk0T0JaR0tMaWV1QUJrVWRwNm9PR2k3MmItNXp0aA?oc=5",
-      "description": "エスケーロジにランサムウェア攻撃、一部の社内情報の漏えいを確認&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-10-25T23:05:02.000Z"
-    },
-    {
-      "title": "【随時更新】情報漏えい・サイバー被害の解説記事まとめ 弁護士・専門家の解説から被害企業の証言まで - unitis.jp",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xNTllTWRuMEVsSFFQRnlGaHNEQ1VxWGZmWUJTOUp3YTZrZUNiMS10WURVMTYxQVV4bXBJVk0tSmN2VS02UGJsMg?oc=5",
-      "description": "【随時更新】情報漏えい・サイバー被害の解説記事まとめ 弁護士・専門家の解説から被害企業の証言まで&nbsp;&nbsp;unitis.jp",
-      "source": "unitis.jp",
-      "publishedAt": "2026-10-25T23:04:19.000Z"
-    },
-    {
-      "title": "NHK出版「みんなの趣味の園芸」、約12万7,000件のメール配信先リストが漏えい ブラストメールへの不正アクセスで - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGlibG9ZR0c1OUVTTXNqck5USDFsTkJSa1V2NmpwRXg1ZU0yQ0JQS1hWeThOTEo1SmM0YnVQVFJJNHNoaW1fTDBkT0F3T2FmdlFReXJuaG8wNHpSUkVZdFc2Nkh1QW14bkN1V0Y4YmhOejVzdHdiT1V1eWlrNi1uWURKVVEzRjB0dmhDZWc1V0ZwakE3X3E4aXJFVQ?oc=5",
-      "description": "NHK出版「みんなの趣味の園芸」、約12万7,000件のメール配信先リストが漏えい ブラストメールへの不正アクセ��で&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "PHP2Shellのサイバー攻撃でRCE成功を確認 3台のハニーポットで35回のシェル起動、CVE-2026-109618経路の証拠を公開 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnNJOTJWY0JEZ3hsUGM2Mi1oZk9INEdaYkRaSks3YWY3ZmgxUEhuQTc0M0JSVGlsdGJid0lXLV9Jb3Y5TU12Y1VET2g1S2ZiRElRWXhMclhqbXh3Tkpkc3VNa01MNWZ3a3BRYTBPSmNDb1ZUcHctWEdodkJFZGJDTEdRNHdzeVdJRkR2RzQ4VURvWDhPY2RVd2NhSzg5X0FGVXc?oc=5",
+      "description": "PHP2Shellのサイバー攻撃でRCE成功を確認 3台のハニーポットで35回のシェル起動、CVE-2026-109618経路の証拠を公開&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-25T22:45:48.000Z"
+      "publishedAt": "2026-10-27T00:00:14.000Z"
     },
     {
-      "title": "チャリロトに不正アクセス、チャリカ会員373名の銀行口座情報や投票履歴が漏えい アプリは再開 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzg0WDNfczlxcGNwVE83SG93d3FTX0duVHZnMlljeVlUUURrMDdTM3RTM3NVY0JScGFiWlFGbTVqZ19zOEZRXzJsUVFtRUhPRkxZeWxsN1paQkJvUVExU0tJVWw2dkNlNzR2T3JxVlVoM19yYkFibWxSVUQ2QVlLUzlGLWVoaVFNVzlMa0ZKZ0pFUEZnXzZHSm0yTFRzbEtKcnJlaG1yZ3k5S0l4V1dBRFFsQjhuM3Y0?oc=5",
-      "description": "チャリロトに不正アクセス、チャリカ会員373名の銀行口座情報や投票履歴が漏えい アプリは再開&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "【先着50社】頻発するサイバー攻撃を受け、IssueHuntが緊急キャンペーンを実施。ソースコード・OSSライブラリの脆弱性スキャンを無料で提供 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNWx3dVNXQlFIaDNsYzJMdm5zaDRnaERja3RRY1Yyb05KVFFPZXB2TkEwZGZra3ExeU1ud25ZU3hpbE95dS1TcjZSM3pXNGNBdFVqOV9rQlZGVzljOG1ISmxObzI1WkF2RUE?oc=5",
+      "description": "【先着50社】頻発するサイバー攻撃を受け、IssueHuntが緊急キャンペーンを実施。ソースコード・OSSライブラリの脆弱性スキャンを無料で提供&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-27T00:00:01.000Z"
+    },
+    {
+      "title": "入居申込クラウド「GoWeb」へのSQLインジェクション攻撃、複数の不動産会社に影響の可能性 申込者・同居人・緊急連絡先の情報を調査|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemRYOTJWUnRCZzlKdnhXZ19Gc1BsTVlNanZMcjBCYUJscy1NQldNdTd4QWtWT3Y4TFJoQ3FxX1FfR1FXTjhBZG1EdW1yWVZyd2FXMXpwUzVVZHJRWVBmYUtSemxuR1hXaHB6TWN2aXl0NzU5Nzcwdy1rN0g1M1dSMHUydUktQ1R2YXZ0UVZxVm04bEhvb0stb0RadjBzRjBWTnBwRWdldUZjVnp6N1NMLXVvakE?oc=5",
+      "description": "入居申込クラウド「GoWeb」へのSQLインジェクション攻撃、複数の不動産会社に影響の可能性 申込者・同居人・緊急連絡先の情報を調査|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-25T22:40:23.000Z"
+      "publishedAt": "2026-10-26T23:49:32.000Z"
     },
     {
-      "title": "サイバーセキュリティ専門家が解説するPHPの脆弱性から情報を守る方法 - Business Insider Japan",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFhPVl8wcS1CMmJlamZDUjF0djFPZVE5RGpfX05mOXRFazhBcXAzLTFxeEtqckdSTXdtXzJBQzJETjh5ZGptU2wzQWJCTG93WmduTmY1ZngwdlgxaFlwYWxYWUplRFRONnJFS1JNSGxVQ2NRc2lIXzkyQUhURWtYV0tDWlVTTVJ5amcxM1h5ckxtaUtVTHJOR210NTZzNXJFS3ZRY2pn?oc=5",
-      "description": "サイバーセキュリティ専門家が解説するPHPの脆弱性から情報を守る方法&nbsp;&nbsp;Business Insider JapanPHP脆弱性で「トレンドマイクロ」が逆行高…日経平均急落でも買われたサイバーセキュリティー関連5銘柄&nbsp;&nbsp;ニューズウィーク日本版PHP問題 サイバーセキュリティをめぐる問題が深刻化 岩手県内でも対策の動き（IBC岩手放送）&nbsp;&nbsp;Yahoo!ニュースOrcaRouterのサイバーセキュリティチーム、OrcaCyber、PHPの重大なRCE脆弱性「PHP2Shell」の調査結果と防御検証ツールを公開&nbsp;&nbsp;産経ニ",
-      "source": "Business Insider Japan",
-      "publishedAt": "2026-10-25T22:30:00.000Z"
+      "title": "丸木医科器械、外部からの不正アクセスを確認 基幹システム障害が続き情報流出を調査、問い合わせフォームにも影響 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVRzWkJ3VHA5ZURIVDdhTkV3TTJrUWNWR1h6MkFPMTlBQUVEdXRmcFd5M0JOR1l6LUloZnZFcE9qVV9yNEhnbjlkOVBRMEF0U3VhLUZVZERjbXYwX1pVREJ2dkk0VHdjWXF5OVRVenoxZE15Z1dNWlIyWlZLTXF3OUpDbkh0RG5GdDZ1dU1XSzdpUV9rLUQtNXJUaWVuSWJPWktxNQ?oc=5",
+      "description": "丸木医科器械、外部からの不正アクセスを確認 基幹システム障害が続き情報流出を調査、問い合わせフォームにも影響&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-26T23:45:55.000Z"
     },
     {
-      "title": "サイバーセキュリティの脆弱性への対応：一時停止ボタンのない競争。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmdzLWFsaThSRXRxS09KYTNTNEM5TGZfODBtbFROVFRrZDJHSHVsNzBfSXAtaEpxT0doczBSU3A5cWlhS0t0Q1pld3pQeDdqUlZHM19pYWxuMUVUQTFRaXkzNUZYWjZjMjlNeWx3b0VhVzlqUjlfODFNeDlHS1ZmQ0NGUDBNVTg?oc=5",
-      "description": "サイバーセキュリティの脆弱性への対応：一時停止ボタンのない競争。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-25T20:49:13.000Z"
+      "title": "AIがPHPの脆弱性を短時間で発見、Windows利用者が取るべき対策とは - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FR2tBUWxRSXZmNUtOeVRWUS02UWlRV1dFU3FlRk1weEN0eVZKNjYxRXphUlBvUlBxQjBFekJTcWJrRF9remdKb05FMWlndTR4dHRaSDNVWTNDbjVWanFpaG9wcmw3TThv?oc=5",
+      "description": "AIがPHPの脆弱性を短時間で発見、Windows利用者が取るべき対策とは&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-10-26T23:07:09.000Z"
     },
     {
-      "title": "html2shell は存在しない、本当の脆弱性は Brotli (CVE-2026-111497) - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVRkNnp4bm9nQWI1WVhrb1BNWVI4TkFGYjUyS1NnT1RUVXJhcG1xUFk5YW5wSDFpT2NPaWo5VUVMVFFCSGxWQWNaSVZ3XzFSbTd3azc3SHN0ejFvZlJkcTFDM1ZqcW1rckJWNExUNHBiNVVlVXBBdUV5TmlwRzFoZjNhTHJDSGs4TXdibGx5aHU0NXVWM0w1NnlINnFjeGdOWUZZcFRtSmVNLW5SU3BEZFVR?oc=5",
-      "description": "html2shell は存在しない、本当の脆弱性は Brotli (CVE-2026-111497)&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-10-25T12:20:28.000Z"
-    },
-    {
-      "title": "PHPの脆弱性は、ウェブエコシステムの弱点を露呈する。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJCeHoxRFdJOHVoR25HNzhVWElLOV8wS2tUZjRTU0FnRWN0TTFjbXJqQW5pOEVFYi1uRDVZdTBfR096RUtvUHpGZ1V0U3BXU0h4ajVHQXhGUDRmT0dNV0xORGZCNkY1WEtCYmltUi1NZnJaN0QxMzNYSjU5LW5KWVBQTWQ?oc=5",
-      "description": "PHPの脆弱性は、ウェブエコシステムの弱点を露呈��る。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-25T08:52:37.000Z"
-    },
-    {
-      "title": "GMOインターネット、デスクトップクラウド攻撃で全利用者に5,000円 不正取引も補償（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMDcwbWcxWEotWWF0UEk3dEFkRHFQZWF0QUV6a09YanNfVzgxQVJZSWUwZWtZTWhMSklfM3Y2b0djOE9nV1poN0tOTFF1Qml3S2lwQmpULWNrcEF6X3VrMkE4NjRPenlVaXM0VmdmampnMVBRZkJWZjVyVVRlTTQ?oc=5",
-      "description": "GMOインターネット、デスクトップクラウド攻撃で全利用者に5,000円 不正取引も補償（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
+      "title": "ストップ高も！日経平均下落の中で逆行高のセキュリティ関連株の今後を読み解くポイント 不正アクセス＆PHP脆弱性対策で注目の「GMOプライム」と「サイバーセキュリティクラウド」（マネーポストWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RSFk1SDl3bXV6NG1PTXBLQmNXVVdmTUpfU2VPNXc4NFJ4RzRyNVplTl9ydkZiMVFldDVVdHlnT2JXX0U2YXUyc0I0dXVhaWlxbE5YQU5XZmM4RU9kWk1ibE9QQ2lxbjFMQmRyXzZrNERiN05Tc2RWc0NsSnh6THc?oc=5",
+      "description": "ストップ高も！日経平均下落の中で逆行高のセキュリティ関連株の今後を読み解くポイント 不正アクセス＆PHP脆弱性対策で注目の「GMOプライム」と「サイバーセキュリティクラウド」（マネーポストWEB）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-24T05:25:06.000Z"
+      "publishedAt": "2026-10-26T22:20:42.000Z"
     },
     {
-      "title": "「飲料メーカーA社」の被害事例を推察 ランサムウェア攻撃で今すぐ取り組むべき対策とは - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92N1daSUdpYk54M1VHNzlQdTJURGc2WHNINHh4Mkc2RFcwdXZmam1TcWdZbng0d3k2T3pTRktkSDU4YV9UdEJwcGlEUjRJSWtmMldMdmg5MnlrcUREbTdwaTh6blFRSENIT194VkNwQkJlZw?oc=5",
-      "description": "「飲料メーカーA社」の被害事例を推察 ランサムウェア攻撃で今すぐ取り組むべき対策とは&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-10-22T07:00:00.000Z"
+      "title": "攻撃者から80億円要求 GMO熊谷社長「応じず」 “きょう正午”利用客情報の公開、ランサムウェア攻撃実施の予告も - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iWGkxRUtiOUQ3d2x1VVpDTk9aYUs3MFdRUVp0d1h3OFROVGVBd0YxRTJIUXRPVWRfSURvMzdlZk54b1JKNEVBaUI4SElwcm90VzlRQWRMc1NMNS1YbkJv?oc=5",
+      "description": "攻撃者から80億円要求 GMO熊谷社長「応じず」 “きょう正午”利用客情報の公開、ランサムウェア攻撃実施の予告も&nbsp;&nbsp;千葉テレビ放送株式会社",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-10-26T21:43:19.000Z"
+    },
+    {
+      "title": "攻撃者から80億円要求 GMO熊谷社長「応じず」 “きょう正午”利用客情報の公開、ランサムウェア攻撃実施の予告も - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jdXZEYUdHaUhmWkdXVVFuakFjTTdqZHJxNEFnU0M3MmY4Tmc0YlBtT0wyRTdySFJMX2RlQTJlNUZQQVVZWUhTQ2pOWmhyWUhBTW9fX2RObi1JYmJlUlk3T0RaSFZUNWotcjItWmRaUmJYcGZ4ZlJ5amNiTGwzVTg?oc=5",
+      "description": "攻撃者から80億円要求 GMO熊谷社長「応じず」 “きょう正午”利用客情報の公開、ランサムウェア攻撃実施の予告も&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-26T21:29:19.000Z"
+    },
+    {
+      "title": "GMOに予告 正午に顧客情報公開 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY0hMVTVjUTluSHoya0hnRkxsMEtCamVENHUzZkxGZFhUU1ZEVWtacDhMZkRTeGFnY1VMbGpmZE5VY0cteGxRcThNNmtkT2JF?oc=5",
+      "description": "GMOに予告 正午に顧客情報公開&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-26T21:09:39.000Z"
+    },
+    {
+      "title": "サイバー攻撃への緊急対策、来週中めどに取りまとめへ - LOGI-BIZ online",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53emxoZTRveks3NkloUmphb2Y2ajdjVG9KMWpndDVYWTlmVmNlWGZSaVR2ai05aUpTeGdVbExKYktHM0lRU25HemtQZw?oc=5",
+      "description": "サイバー攻撃への緊急対策、来週中めどに取りまとめへ&nbsp;&nbsp;LOGI-BIZ online",
+      "source": "LOGI-BIZ online",
+      "publishedAt": "2026-10-26T21:00:22.000Z"
     }
   ]
 }

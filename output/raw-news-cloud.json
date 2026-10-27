@@ -2,11 +2,25 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "AIインフラ融資のハードル急上昇：新興クラウド事業者の社債利回り15%逼近、1ギガワット算力コストが600億ドル突破 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kRlR6YmNDai1BQ05DbWlxRmNRMDJxc3F5NllHTm9PVEVZN3QtRU80UWJaWnR5dEpqMHNkTXlfS19pSV9BT1RnWHhWUy1POTBhWFY5UXd5dzBfRFF6dDVTMy12NjhKbEI3M2QxU2N6SEFqeTlJ?oc=5",
-      "description": "AIインフラ融資のハードル急上昇：新興クラウド事業者の社債利回り15%逼近、1ギガワット算力コストが600億ドル突破&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-25T07:35:00.000Z"
+      "title": "GPU as a Service市場は、スケーラブルなAIと高性能インフラでクラウドコンピューティングを変革 - ドリームニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15emZoc2hvV3ptWE5fa1J5cDBVUVFmSnFLQVFFNld6NFNQZUFsdUVwUjJnTHQ5OUFVRjRNU1VFekNvVVJUVTFkOUtxSFBSZXlNTXFB?oc=5",
+      "description": "GPU as a Service市場は、スケーラブルなAIと高性能インフラでクラウドコンピューティングを変革&nbsp;&nbsp;ドリームニュース",
+      "source": "ドリームニュース",
+      "publishedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "title": "【1231 人���査】IT インフラ「最優先課題」が激変？“脱 VMware”と AI 時代の新戦略 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Tb3UyMmEySjdZSjNiRkZ0anlYRlBxTm0yMUtXYWJsTlBlZEs1SGcwMlJkYmxnNUphNlRreVViU0l5cGN3cDZSRk9BN1ViSjQ?oc=5",
+      "description": "【1231 人調査】IT インフラ「最優先課題」が激変？“脱 VMware”と AI 時代の新戦略&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-10-26T22:02:26.000Z"
+    },
+    {
+      "title": "エクストリーム-D、IT資産処分を通じて確保したGPUサーバーを使ったAIインフラ事業を開始 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydjUtS1dDcndxcWxXaWtWZTU5aHNCNmtYMGxSSThQODg1c3Bhd3QzSS1xSncyZjZLcDNkc18yZEtBczBpaEZSN1g4ZzhjVUpnQTVQV2diSHRCWFRsc3F1cHQ0azg3Unc?oc=5",
+      "description": "エクストリーム-D、IT資産処分を通じて確保したGPUサーバーを使ったAIインフラ事業を開始&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-10-26T21:30:00.000Z"
     },
     {
       "title": "アンソロピック、グーグル・クラウドでClaude Platform全機能を一般提供 請求も一本化（ビジネス＋IT） - Yahoo!ニュース",
@@ -16,39 +30,18 @@
       "publishedAt": "2026-10-24T23:45:06.000Z"
     },
     {
-      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
-      "description": "クラウドネイティブは「退屈」に��った ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;ThinkIT",
-      "source": "ThinkIT",
-      "publishedAt": "2026-10-24T16:19:15.000Z"
+      "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NazlvQlJwZTNaVlVueEVZcS1JRGlsOVVYV0VfcnF5djN5d2p6UmdUcTlURERlQUhWdDZKVDdPbWEwTFlvSk4xV0daYzY5QjJvSUgwZzhfd1BZRXdGYlYxcnpNaHp6dC1qTktMbE5YVk9yV0h3SjNPRUJGLXVhWkU?oc=5",
+      "description": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュー��",
+      "publishedAt": "2026-10-24T22:52:00.000Z"
     },
     {
-      "title": "「流出なし」で終わらないIDCFクラウド障害 「何をいつまで預けたか」で分かれた明暗 (ITmedia エンタープライズ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczBWTUxVUHRYWG0tRjNNN3V4b0llcGVDRDl6Tjg4MVVhbTJqczBZaUV6dzZfYzdOeHdOYV92UnhXTzIteUp1Q0JfczZKdXhuel9KTGpEaUcyb2xDa3VUVVlkUHA2bnJyUUlKX1FrOFdRbTJhNU5QMThsZWkyRy1QYW1RSHVHaHRtTHllSW1B?oc=5",
-      "description": "「流出なし」で終わらないIDCFクラウド障害 「何をいつまで預けたか」で分かれた明暗 (ITmedia エンタープライズ)&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-24T00:38:39.000Z"
-    },
-    {
-      "title": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5V2JmVzNqenNTXzlzeFh6THcwOS13Z3hpcHZvaDA4c2lyQmF6UkxkazgtcGJaRUl3b05aQ0gtYWNNazNPQ3hrc0JSYTNsTDEtR2pKb19oN29ncjBvWTZDZUhFTXUtMkhaMWh2dA?oc=5",
-      "description": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-22T07:33:32.000Z"
-    },
-    {
-      "title": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HR0NOWlVCUTdDSlduOUtFQjdzQXVlUWFBa1BxUDlxbjI4SHBEZGxXZ2NUVlNaVWUtRjVDaHU1NlNfVlJQaGJ4LUJKWXBRZmc3UDdiX0pyNGJhUTVDMDJoeA?oc=5",
-      "description": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能&nbsp;&nbsp;GIGAZINE",
-      "source": "GIGAZINE",
-      "publishedAt": "2026-10-21T04:41:00.000Z"
-    },
-    {
-      "title": "日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBocTMtQUpnX1JLVHdsdUdFUXV0Q25OLVhhRmZFa2RIbFFFV09IVUd4clhJeC1seFg1UzNYWDlmaUEwb2dBTmk3TWthMDFSd2N5NmhZTFRQWmZLVjNnM0tFbG1yN1dfREhac3cw?oc=5",
-      "description": "日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-10-16T07:00:00.000Z"
+      "title": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧 - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVhMMFgyNk9HOGl0dzdLNGFSeFpudEVEWThXbWJwaEZRVk5GYXozNTZwbFhEOFBmZ2RtbUlyaXZIM3lKMjZMU3RfYU92bWpYQmVzU0V6RFlGQVVTUk1VYmFZejdjaVZQLU5nUENWRkI5eVc1UThBay1NcngwVGh1MHBWckNSdUx0NWpyTHBpcw?oc=5",
+      "description": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧&nbsp;&nbsp;Oracle Blogs",
+      "source": "Oracle Blogs",
+      "publishedAt": "2026-10-19T07:00:00.000Z"
     },
     {
       "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
@@ -58,18 +51,25 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "title": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧 - Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVhMMFgyNk9HOGl0dzdLNGFSeFpudEVEWThXbWJwaEZRVk5GYXozNTZwbFhEOFBmZ2RtbUlyaXZIM3lKMjZMU3RfYU92bWpYQmVzU0V6RFlGQVVTUk1VYmFZejdjaVZQLU5nUENWRkI5eVc1UThBay1NcngwVGh1MHBWckNSdUx0NWpyTHBpcw?oc=5",
-      "description": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧&nbsp;&nbsp;Oracle Blogs",
-      "source": "Oracle Blogs",
-      "publishedAt": "2026-10-01T07:00:00.000Z"
-    },
-    {
       "title": "Secure Source Manager の新機能で CI / CD パイプラインを強化 - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVdpZGNXM3dtdEhLQlJrMTFySHd0LXNUcXNGdGc1MlJxODVUUk5CdTJoSTRfWURxZjJvU2lHV3lLVlpKYlZFUEd4TFplQ0N3YzROZHJsdnp2dDN3bWxGTC1xTnF1MU42cEI1Tm8wNzdtcjM2TGUxUVFjbUhTb3VrclJTUTR5emtCbGd6aWYzaGFIaW9lX1hOelctazRIbkJWSUZmZXE3YmN3MVV0THBNMlZMaXpIaFc5V3pIM0MxbzZwRnFnSVRmaEV5aXp5Zw?oc=5",
       "description": "Secure Source Manager の新機能で CI / CD パイプラインを強化&nbsp;&nbsp;Google Cloud",
       "source": "Google Cloud",
       "publishedAt": "2026-10-01T07:00:00.000Z"
+    },
+    {
+      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表 - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2piM1dZdXhzSm9LNENKQWNwUmVQYlBSajdzZ3BCMlpIekZkNHcyeUEyY05xV1g5MWNMR05CQVltOWpGTWgwVFNBNjV3b3VpbUNQekxhZ0dxdE5JRTJzMFNhTTRncTd3b1ROMUFQZTBpQkhGUEhCaTRuSUxaY1ZyN3J6bTE0aW1MR21xUkRMMWxEQ0xnVDNxc2dnVG5WNHhmd2Nj?oc=5",
+      "description": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-09-30T07:00:00.000Z"
+    },
+    {
+      "title": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEZmQ0dTLTIycTBZRlFjdzdEdC1uekdEWjRleUp3NTU1ZnBmZkhHN0REVERHXzRFY2lWVF9iczlkb3hpY1ZyT3dRWldzLW5NdWxlV0IxMXVHZVl5U1ZEVDFRRWszb3AyMmZCZzJwNEdITnYwdHYtcVFjTTNMdGFkcTRyMHF6QThKMjF1eEtMaw?oc=5",
+      "description": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-09-03T07:00:00.000Z"
     }
   ]
 }

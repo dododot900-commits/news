@@ -2,6 +2,20 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "Cloudflare WAFにHTTPトランザクション全体の検知機能を導入 - Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdVNBZ24yRmdQaEY0ekJ2dFo1TzVRNk5mWGxid3laSU04NWY1N3BlR0dtUkZrRno5cFNJc0RGVDhfN1JDRkNfanp6amdGX3A2eXo0dEFlTUpOdnZSNjFqYnZSWUtOZw?oc=5",
+      "description": "Cloudflare WAFにHTTPトランザクション全体の検知機能を導入&nbsp;&nbsp;Cloudflare Blog",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-10-26T03:34:51.000Z"
+    },
+    {
+      "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXcUlQOUs1Q0k4RW5UQlRsZ3dfYTF3blA4ZDk0Zlo5MUh6b3ZLdXJJcHBXV01fdlQ0YkVTV0ItNE9QMkthYWlXU0hZYlRnTmpPb0RNYjZST0FzN0xJQ1J3LUd4MnQxWTFnS0FOX0Izc3Q?oc=5",
+      "description": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」&nbsp;&nbsp;TechTargetジャパン",
+      "source": "TechTargetジャパン",
+      "publishedAt": "2026-10-26T01:00:00.000Z"
+    },
+    {
       "title": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkZ2Y0hwbmswbmtLb1NMRGNYd1RPdkdjTHJNVjdRaEllMlNvcDdoV3pIU3RpTlJZaHJ1MzVZOThwenhROVo1V0l4VlBDUENZczFyQjlRalFMN3ZWREpoeFA2T1lXTXc1R1AwOTYwM0JteFBTV3ZTcFpVREttdnM?oc=5",
       "description": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
@@ -9,60 +23,46 @@
       "publishedAt": "2026-10-25T22:54:36.000Z"
     },
     {
-      "title": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過 - UQライフ",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EMnpiWFVKUng2MjAyblpWa1ZrRHJHYjVPWnp6dVZ5ZUp1QlpjN2xacW40cXZPSnhKWS14NU5NMFEtT2U2TVB4eHZTUVh4NHI0TU95ZGhzX3lhM042R2FtUEo0amNCXzdzb1N0Q25VMzNsdzQtaDVoZHlnbEQ?oc=5",
-      "description": "AIエージェントによる操作���多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過&nbsp;&nbsp;UQライフ",
-      "source": "UQライフ",
-      "publishedAt": "2026-10-25T21:13:12.000Z"
+      "title": "AIエージェントによる操作の多くがボット検出システ��のhCaptchaやCloudflare Turnstileを通過 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR3dWeDNLbXJJaTZxSDFaTDBBMDRQMzVPREZRSmNPam1XZzd6T0F4NVMxYUVnekwzWjhmVXM3Ym1GUnlIMldMdGMyOXMwelJCb2tQbU43bzdLaTYyYi1UVW1aajBESVl1UXJNd1htbw?oc=5",
+      "description": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-10-25T21:00:00.000Z"
     },
     {
-      "title": "Cloudflare の security-audit スキルをプロジェクトで使う方法 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFJYQjJBQ0RVRXRDWHl4RlVVRHRWRmxrdUZkLW1LQjFWYjBlMS1GMUl5bkl2dmNYZG5CTDY4bk5UWlRQTjNiT2Y0M2Ewd0ZnQ0ZyVGk2WTctUDhwd0hZTHl1WE1hYkxwV1dZUU5pSTUyRTE1U2VnX3dMX0ZIejN3VTFVTEE3Rl9CUHRrYUpaYw?oc=5",
-      "description": "Cloudflare の security-audit スキルをプロジェクトで使う方法&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-10-24T18:08:59.000Z"
-    },
-    {
-      "title": "TypeScriptの型検査が最大8倍高速に、CloudflareがRust製コンパイラ「tsrs」を開発 - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWnVSR1ZZTzNCc0duSmY2QWZtRHg4bUFHWWxpdnlteFVwZGpzN2dVZ1BSMVV6emdZLXdVekNaRXc2WV9ycDNtcElock1HRkRNczZkRF94Y2JEZXR0bTNTUkUzMXhzWWZSZHY4?oc=5",
-      "description": "TypeScriptの型検査が最大8倍高速に、CloudflareがRust製コンパイラ「tsrs」を開発&nbsp;&nbsp;XenoSpectrum",
-      "source": "XenoSpectrum",
-      "publishedAt": "2026-10-24T05:53:00.000Z"
+      "title": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あると把握 PHPに続きAIで発見加速、専門家は混乱拡大を予測 - https://mediadogs.jp/",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pZ3NJTXB4Q0dveE8zTEZGLTh2eGhvT2ExeWo1TzZYdkpKVnZPamtWUXJuV2I0SkpqS21ubW9FbmNqcW1NMzEtRkZmbm01d2FGMktqNVBwSTJRMzN5QmQtNzJFSzhzRFVfY3U2SHNMTWl5LTBIbDFR?oc=5",
+      "description": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あ��と把握 PHPに続きAIで発見加速、専門家は混乱拡大を予測&nbsp;&nbsp;https://mediadogs.jp/",
+      "source": "https://mediadogs.jp/",
+      "publishedAt": "2026-10-24T03:27:43.000Z"
     },
     {
       "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yRmktQXZyUHlTdHJwZTU2VV9iXzQ0SFBoS0dKcjZxS2tQRXlWTlBpUWdTeVhNX1E2SmJiWUk1YmhBQ0JaRkJmbEhIbE5hMENFT3A3QlNscjBwbjl3aGc?oc=5",
-      "description": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
+      "description": "新たな頂点捕食者：AIエー���ェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-10-23T01:38:27.000Z"
     },
     {
-      "title": "PoCがSYSTEM権限に到達、CrowdStrikeがFalconFlankのゼロデイを調査 - eSecurity Planet",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTUtVi1BY1Z5M3Eya1Q3VHNhb0FvQnFvalBJNk1YWjAxa0R2ckFDOEU3eW8tTHpHWVBPdDRBRWR4ODNhbmdDWEMzX0FSX3h4OGlnbGRDXzFUdXMwa1N1WTRxVjlrMlFwa3BaVWlxRjgzR0x6STRjcW43dUc3N3lUZy04Y3F0VXNE?oc=5",
-      "description": "PoCがSYSTEM権限に到達、CrowdStrikeがFalconFlankのゼロデイを調査&nbsp;&nbsp;eSecurity Planet",
-      "source": "eSecurity Planet",
-      "publishedAt": "2026-10-22T18:33:01.000Z"
+      "title": "NVIDIA、安全な AI エージェントのための OpenShell リファレンス アーキテクチャを発表｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aenNzQW16dEp1WXQtZ3RrbHJ0NUZLSzF6dVdHX2JiLVJMdTNmUEpYdzNXT1Rsb2NjZ1Rta1VaQVZMU0MxZ1ZDVzM4eEFXR1owQ3E5ZWllZVFkVjluUHlJeUd4ZGlwQk5aOTd3bTZCdjBGUQ?oc=5",
+      "description": "NVIDIA、安全な AI エージェントのための OpenShell リファレンス アーキテクチャを発表｜Infoseekニュース&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-22T18:10:02.000Z"
     },
     {
-      "title": "イーライ・リリー、ネットフリックス、Zscaler - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiUVJnd09VOTgwNmUtSmVpZ1pkdVBxSU5MS2JOWTQzanNQdkJ1N0llTFhZdG1tZGlLNUlBOFpxSlB4RGk4MVRvNVU1TWU5a2ZTZHhWLWJ0MlZlR19FWTB3TW5NelNNYW9CTkdTeU54b2puMFlVc1Nn?oc=5",
-      "description": "イーライ・リリー、ネットフリックス、Zscaler&nbsp;&nbsp;TradingView",
-      "source": "TradingView",
-      "publishedAt": "2026-10-21T15:34:02.000Z"
+      "title": "ARTEX AIが日本企業への攻撃で使われたとGMOが確認、約20社が標的に - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHlIY1pWUVpJN1FqTmpaN1hleWhLanFHb0FFbFVFM1JVdE9OSEpDQ0UteXF2RjBCeGxQZ2hrQ0phYjJsTEp1SkU0dndHRDdzME1BWGdraklEeTF2R2Zwd3NVWG56SW5yamluUFFHbzhVV24wM0QtUlRoVXFrZEdfb3NaRlJqbjJsYlRN?oc=5",
+      "description": "ARTEX AIが日本企業への攻撃で使われたとGMOが確認、約20社が標的に&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-10-22T18:01:59.000Z"
     },
     {
       "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
-      "description": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
+      "description": "今すぐCato SASEで取り組む！サ��ライチェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
       "source": "週刊BCN＋",
       "publishedAt": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
-      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
-      "source": "remio",
-      "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
@@ -81,7 +81,7 @@
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
-      "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
+      "description": "網屋がキヤノンMJの���小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
@@ -107,25 +107,25 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NDN1Zy1TVWxmUWlKWXJWOGhOc2RfVmRTenNPa1VHaHZlSWtBOWgyQXI1V2M5SnhvUDhMSFhxb3RyZngzcVZDRWtjVGZFYlAzRHpkSWtwMU55ZHZUYUZLb0JLZGNzZ1k2OVJTcjNLSy1rVVVD?oc=5",
-      "description": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-27T07:00:00.000Z"
-    },
-    {
-      "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLU9jYnpZdVUwaHhhZmRVNGdlc0NSLWwzUGpFRjJ5eEpKTnE4dTZBbTNnMU1fSDRkbVFFbVBvV085SWRGc29KN2hoT1J5ZkVlQmJ6MUdoNi03bjB3NElPaVN2OWxZUFUxR0xkdkRRNV80Zw?oc=5",
-      "description": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-08-16T07:00:00.000Z"
-    },
-    {
       "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
       "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-28T07:00:00.000Z"
+    },
+    {
+      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
+      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-04-24T07:00:00.000Z"
+    },
+    {
+      "title": "Innovation Sandboxから読み解くRSAC 2026 Conference 注目ベンダー - CTC - 伊藤忠テクノソリューションズ",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JOGhzSWxoMXFXS2YtNGROTnpfSXZGNTNZMmJZZEtUbFoxQi1YeG1sM0hKc1BIOWRHRUN3dTZzWWpaNjBvSGNrUDJZSWV3UmdjcERxbHBxR1NqbE9GOG03SG1wdUttM2hBRjVTVFRVZkxEYXpB?oc=5",
+      "description": "Innovation Sandboxから読み解くRSAC 2026 Conference 注目ベンダー&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
+      "source": "CTC - 伊藤忠テクノソリューションズ",
+      "publishedAt": "2026-03-31T07:00:00.000Z"
     }
   ]
 }

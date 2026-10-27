@@ -2,11 +2,11 @@
   "topic": "network",
   "articles": [
     {
-      "title": "Web アプリケーションファイアウォール市場の主要10社まとめ - pando.life",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iRF9oN3ZHc2Y2NXo2dFZ0NDZndkh0TDdSZkZpNXVnZVIybGdNYnplUTdib1o0YTl2cXJ2ektEWGdWNW9za1VKYmdB?oc=5",
-      "description": "Web アプリケーションファイアウォール市場の主要10社まとめ&nbsp;&nbsp;pando.life",
-      "source": "pando.life",
-      "publishedAt": "2026-10-23T18:03:27.000Z"
+      "title": "産業用ネットワークスイッチの世界市場規模：年平均成長率6.8%予測、最新トレンドと需要変化2026-2032 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QbUFOeEpJZnpGU3FCUnF3SXNNN1EyOWxRWl8wcGdYZ3BFRDJBV2tibGl6c0tuYWZLTnN0b2ZaaVM5ckNNdUFsSkR5V25sTjA?oc=5",
+      "description": "産業用ネットワークスイッチの世界市場規模：年平均成長率6.8%予測、最新トレンドと需要変化2026-2032&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-23T07:59:00.000Z"
     },
     {
       "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
@@ -32,23 +32,9 @@
     {
       "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjJUdVpUZEpKUlBDYTg1WWZXREM2YldHbWg3WnhVWFRIaXB3bTQ1NW9TMDJjaWlaaWZXZUlGWjdFV1NyWmEzNnhwMVVKV0EzM1FqczRuRmp4OC1Ta2QzcnA5dDVMRlVKSVh2NlYxWTgtRHJOeU8zYnFXVzJIRDJoOEpVRlBDblA4RVFwajhqbng0RHlzRi1xbA?oc=5",
-      "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー��撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "視覚障害がある人の暮らしをサポートする最新機器を紹介～「山口県ロービジョンケアネットワーク」 - 日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUNMM2FkNVZUOEN5X2RtQzB4eTdqUHQ4NlhXSXlFS295WldxaG9Jdm5DaVdRM1JNX0JRaGozUVRGdHF6OEtjcGh1c09SSXlMdi1uTXNlbXVlUHZmLWxLVWVkQl83UWVPM1FwRmdBWVVwajhkY2pNbkp4SzU1TEFfekxwYUZ6TlE?oc=5",
-      "description": "視覚障害がある人の暮らしをサポートする最新機器を紹介～「山口県ロービジョンケアネットワーク」&nbsp;&nbsp;日テレNEWS NNN",
-      "source": "日テレNEWS NNN",
-      "publishedAt": "2026-10-12T10:12:01.000Z"
-    },
-    {
-      "title": "AIファイアウォールハードウェアの世界市場（2026年～2032年）、市場規模（1U、2U、その他）・分析レポートを発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xNm41OTJDQi1hY3duYkZnaEhRQkF2SzdmbDFYcnJzSjNxVTJjLV94OHFpWU8tcXpBUVc2Qk0xcmdfejhrMHpLTTNRTk1USHc?oc=5",
-      "description": "AIファイアウォールハードウェアの世界市場（2026年～2032年）、市場規模（1U、2U、その他）・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
       "title": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032年の世界市場予測 - Newscast.jp",
@@ -58,18 +44,32 @@
       "publishedAt": "2026-10-05T07:00:00.000Z"
     },
     {
-      "title": "LGのスマートテレビがネットワーク情報を収集、脆弱性で盗聴の恐れも | TECH+（テックプラス） - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1dUFFdUNhYk5NVWNQYWJ2T1A1WmNqMm10VUlpLWZaSlJEY2c5OFY4cm1BNGx2RnJOQ2F1d3JFZmJiQnd5UzZnRUFXdWhETFlxOXQ1Snd2MTJfQzBPUWlOSGJWemtwT3U2?oc=5",
-      "description": "LGのスマートテレビがネットワーク情報を収集、脆弱性で盗聴の恐れも | TECH+（テックプラス）&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-09-11T07:00:00.000Z"
+      "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
+      "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "publishedAt": "2026-10-05T07:00:00.000Z"
     },
     {
-      "title": "サイバー攻撃の侵入口となる「シャドーIT」を自動検出 社内・工場に潜む“見えないIT資産”とリスクを可視化する「Mit - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TM3dIYzlmeWhhaGJKT2hXaXZGbzlUUU9KMGVGcG5lMFh5T2pwUHRhT3Nqa0RUMkVKcWJVaXE5MG9DUEp1TWFoYnJkT3g2OE9mV1RUNw?oc=5",
-      "description": "サイバー攻撃の侵入口となる「シャドーIT」を自動検出 社内・工場に潜む“見えないIT資産”とリスクを可視化する「Mit&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
+      "title": "AIによる大量通信時代、なぜ「SD-WAN」に4つの機能が必要なのか？ Ciscoが解説 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CcEZCTF9IVzRfYnUyZ1NvRnp6Q1A2ZDBLUWRPYm9SczBWWlF3SFFXZGFyQjJob2JpeUdPSWFfbGlGUTVVRFhLR2ZIejl1U2EyNFpIQ1lBampjY0NIRFlfd1VQYjV0c3ZqZEQ0LUZTekZ3Zw?oc=5",
+      "description": "AIによる大量通信時代、なぜ「SD-WAN」に4つの機能が必要なのか？ Ciscoが解説&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-09-24T07:00:00.000Z"
+    },
+    {
+      "title": "古いVPN装置を使い続けて大丈夫？ 危険度が分かる無料チェックリスト - NTTPCコミュニケーションズ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkb1pJZWhtall1WWpWRW43S1A2S0VxTnNaS0gyU0tydUhxb1hvby1JNUpSbWFIVzNHSE50ZnZKbjdQaDFRQ1YzZlpIVDdpdDIxcTNWZmVhNUlMbThGV0tVc0EyQ2pCbVFOekU4M05nYUFZYTA?oc=5",
+      "description": "古いVPN装置を使い続けて大丈夫？ 危険度が分かる無料チェックリスト&nbsp;&nbsp;NTTPCコミュニケーションズ",
+      "source": "NTTPCコミュニケーションズ",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
+      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
+      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
     }
   ]
 }
