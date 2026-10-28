@@ -2,11 +2,39 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "Cloudflare WAFにHTTPトランザクション全体の検知機能を導入 - Cloudflare Blog",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdVNBZ24yRmdQaEY0ekJ2dFo1TzVRNk5mWGxid3laSU04NWY1N3BlR0dtUkZrRno5cFNJc0RGVDhfN1JDRkNfanp6amdGX3A2eXo0dEFlTUpOdnZSNjFqYnZSWUtOZw?oc=5",
-      "description": "Cloudflare WAFにHTTPトランザクション全体の検知機能を導入&nbsp;&nbsp;Cloudflare Blog",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-10-26T03:34:51.000Z"
+      "title": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tb2ptRXFCWE00bTgzUUdvRF9ycHYyMlk2WWxybC11ZUlFX2szV2NnYXdlYnRqZTRnM0VlUDE1b05DRlltOGZENnRwZGhlVXRRckh5UDZmMGotZ0w3X3RaVTBZcm51WE1Va2UtUUdxWGNoSVJv?oc=5",
+      "description": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-10-27T22:00:00.000Z"
+    },
+    {
+      "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90YmdTMFJDZGtKZzh0eGk2czdWa0lOdXNMc0Q0M2xDSEUyVzM4NWFvcmtJNnNzX0dFUEpVNEp4VFhRS0VEMkhUWjRQcjV0LUEtMkFNNkRyaXA5ODdmN3VSd2I2c29MVmtuMHlOeTMzdkswWW8?oc=5",
+      "description": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-10-27T21:00:00.000Z"
+    },
+    {
+      "title": "マシュー・プリンス、ウェブの5分の1を背負うCloudflare創業者の矛盾 - Martin Cid Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVjlXUjAxVUtCSnJKb2NOekE1dFo2dGhQTTM1Q3dpQVhpeGFYZUdzUUlqdmNSaVE4ekQ5ODNTWWdkZkppelpTLUFiaUtTeHJLTG04Ukx5SG9jeDlvNGNESWx5YUN1U3ZSNV91QjJ4SXpHVVNaWWpjNFRoQ2p2YVJ6Y3FRS3IyeHJQcHRaeHhobV9TakZrNllweFNyV1VtWmxWNzFoaDZvOWM2WEdqWTlTbjlMWHg4eUYtekNJTGU0SGMyQ1BodUxkeEIxODVoaU5zZkFiVGVKOFd2MFFqYWs3eG4wZUQteFdUUk1JLUJBdjJXYTZMdU9HVHp1WjhhdEpBNTFrNlU4U0dfaXR0c2JuMjYtaWduYmR1MDlNTjRrQ25qYzg?oc=5",
+      "description": "マシュー・プリンス、ウェブの5分の1を背負うCloudflare創業者の矛盾&nbsp;&nbsp;Martin Cid Magazine",
+      "source": "Martin Cid Magazine",
+      "publishedAt": "2026-10-27T17:23:17.000Z"
+    },
+    {
+      "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42dklac3VJVFhETmVfeDdUOXJZOFQtaEs5Rk1OWi1ISHFLcmp5NXM4Tk5NdzI0MHREc2RmZmI5NWxwd0JhVVhrSzVxTUdmVnNtd2t0Zko4WnJqLW9DUFFTMnkzajBNYzdVcWc?oc=5",
+      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-27T01:10:01.000Z"
+    },
+    {
+      "title": "Foundation、自社ドメインからのフィッシング攻撃はCloudflare APIキー侵害が原因と発表 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdG9MZkVFd3RtdElnZndkVmJZVFl4Y3lLOUt0bGpCTjdma1RJSnBIazZQbm5XWGVlVXF5V0kzblVKVTFFc2Ntdm9WdGlRdDlLOFM0N0U0czhMZVA5bWNoUl9aTVllOGdISVlyTUh3bGVKOU0w?oc=5",
+      "description": "Foundation、自社ドメインからのフィッシング攻撃はCloudflare APIキー侵害が原因と発表&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-26T18:10:02.000Z"
     },
     {
       "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
@@ -16,30 +44,9 @@
       "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
-      "title": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkZ2Y0hwbmswbmtLb1NMRGNYd1RPdkdjTHJNVjdRaEllMlNvcDdoV3pIU3RpTlJZaHJ1MzVZOThwenhROVo1V0l4VlBDUENZczFyQjlRalFMN3ZWREpoeFA2T1lXTXc1R1AwOTYwM0JteFBTV3ZTcFpVREttdnM?oc=5",
-      "description": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-25T22:54:36.000Z"
-    },
-    {
-      "title": "AIエージェントによる操作の多くがボット検出システ��のhCaptchaやCloudflare Turnstileを通過 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR3dWeDNLbXJJaTZxSDFaTDBBMDRQMzVPREZRSmNPam1XZzd6T0F4NVMxYUVnekwzWjhmVXM3Ym1GUnlIMldMdGMyOXMwelJCb2tQbU43bzdLaTYyYi1UVW1aajBESVl1UXJNd1htbw?oc=5",
-      "description": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過&nbsp;&nbsp;GIGAZINE",
-      "source": "GIGAZINE",
-      "publishedAt": "2026-10-25T21:00:00.000Z"
-    },
-    {
-      "title": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あると把握 PHPに続きAIで発見加速、専門家は混乱拡大を予測 - https://mediadogs.jp/",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pZ3NJTXB4Q0dveE8zTEZGLTh2eGhvT2ExeWo1TzZYdkpKVnZPamtWUXJuV2I0SkpqS21ubW9FbmNqcW1NMzEtRkZmbm01d2FGMktqNVBwSTJRMzN5QmQtNzJFSzhzRFVfY3U2SHNMTWl5LTBIbDFR?oc=5",
-      "description": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あ��と把握 PHPに続きAIで発見加速、専門家は混乱拡大を予測&nbsp;&nbsp;https://mediadogs.jp/",
-      "source": "https://mediadogs.jp/",
-      "publishedAt": "2026-10-24T03:27:43.000Z"
-    },
-    {
-      "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
+      "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対��するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yRmktQXZyUHlTdHJwZTU2VV9iXzQ0SFBoS0dKcjZxS2tQRXlWTlBpUWdTeVhNX1E2SmJiWUk1YmhBQ0JaRkJmbEhIbE5hMENFT3A3QlNscjBwbjl3aGc?oc=5",
-      "description": "新たな頂点捕食者：AIエー���ェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
+      "description": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-10-23T01:38:27.000Z"
     },
@@ -51,18 +58,18 @@
       "publishedAt": "2026-10-22T18:10:02.000Z"
     },
     {
-      "title": "ARTEX AIが日本企業への攻撃で使われたとGMOが確認、約20社が標的に - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHlIY1pWUVpJN1FqTmpaN1hleWhLanFHb0FFbFVFM1JVdE9OSEpDQ0UteXF2RjBCeGxQZ2hrQ0phYjJsTEp1SkU0dndHRDdzME1BWGdraklEeTF2R2Zwd3NVWG56SW5yamluUFFHbzhVV24wM0QtUlRoVXFrZEdfb3NaRlJqbjJsYlRN?oc=5",
-      "description": "ARTEX AIが日本企業への攻撃で使われたとGMOが確認、約20社が標的に&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-10-22T18:01:59.000Z"
-    },
-    {
       "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
-      "description": "今すぐCato SASEで取り組む！サ��ライチェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
+      "description": "今すぐCato SASEで取り組む！サプライ���ェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
       "source": "週刊BCN＋",
       "publishedAt": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
+      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
@@ -81,7 +88,7 @@
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
-      "description": "網屋がキヤノンMJの���小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
+      "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
@@ -107,25 +114,18 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
+      "title": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NDN1Zy1TVWxmUWlKWXJWOGhOc2RfVmRTenNPa1VHaHZlSWtBOWgyQXI1V2M5SnhvUDhMSFhxb3RyZngzcVZDRWtjVGZFYlAzRHpkSWtwMU55ZHZUYUZLb0JLZGNzZ1k2OVJTcjNLSy1rVVVD?oc=5",
+      "description": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-08-27T07:00:00.000Z"
+    },
+    {
       "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
       "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
-      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-04-24T07:00:00.000Z"
-    },
-    {
-      "title": "Innovation Sandboxから読み解くRSAC 2026 Conference 注目ベンダー - CTC - 伊藤忠テクノソリューションズ",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JOGhzSWxoMXFXS2YtNGROTnpfSXZGNTNZMmJZZEtUbFoxQi1YeG1sM0hKc1BIOWRHRUN3dTZzWWpaNjBvSGNrUDJZSWV3UmdjcERxbHBxR1NqbE9GOG03SG1wdUttM2hBRjVTVFRVZkxEYXpB?oc=5",
-      "description": "Innovation Sandboxから読み解くRSAC 2026 Conference 注目ベンダー&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
-      "source": "CTC - 伊藤忠テクノソリューションズ",
-      "publishedAt": "2026-03-31T07:00:00.000Z"
     }
   ]
 }

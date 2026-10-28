@@ -2,11 +2,32 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "【先着50社】頻発するサイバー攻撃を受け、IssueHuntが緊急キャンペーンを実施。ソースコード・OSSライブラリの脆弱性スキャンを無料で提供 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNWx3dVNXQlFIaDNsYzJMdm5zaDRnaERja3RRY1Yyb05KVFFPZXB2TkEwZGZra3ExeU1ud25ZU3hpbE95dS1TcjZSM3pXNGNBdFVqOV9rQlZGVzljOG1ISmxObzI1WkF2RUE?oc=5",
-      "description": "【先着50社】頻発するサイバー攻撃を受け、IssueHuntが緊急キャンペーンを実施。ソースコード・OSSライブラリの脆弱性スキャンを無料で提供&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-27T00:00:01.000Z"
+      "title": "悪用までの猶予が「1分」に迫るフロンティアAI時代に開発と本番を貫く脆弱性管理が必要[Sponsored] - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyTzk1MVJGaUU3VTU2UXU5UEZzXzNHMjA3bjM4aWVjOVdzYzF2X0xPZUEyUXpOZGhfV3dmeldTWm1pVkRHYXNLUFJ6ajBCV0p0VG5naHpwWmlXcXEyRjhJZk8wMW84SjhxMWRHVFVZMUJQM3c?oc=5",
+      "description": "悪用までの猶予が「1分」に迫るフロンティアAI時代に開発と本番を貫く脆弱性管理が必要[Sponsored]&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "title": "レベルエンター「AI.R-Scorer」に不正アクセス、脆弱性悪用で約10カ月間情報にアクセス可能 答案・パスワードなど漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzd1VnhZbHA2aXF5MFdSYlo1eU5vOEMxMFhGOFZpZ0syZGYyM1F1NzF0dmRTMVpYdFREODhUZ2VuZ3dwdThlc3VKbDRkU1Y3TVZyX2lZdWs1bFV1YmZoWHFRN3gwWGc2RXprQlFlMkZ1dUNaTmZHNmtSV3lSTFBwZGlXaFZWdk8xSUJPQkVKaWN0WThqSkRCVlpyWmg5ZkFlRmxWSlFrd0Q2ckdURHJCbQ?oc=5",
+      "description": "レベルエンター「AI.R-Scorer」に不正アクセス、脆弱性悪用で約10カ月間情報にアクセス可能 答案・パスワードなど漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-27T09:00:52.000Z"
+    },
+    {
+      "title": "IssueHunt株式会社がサイバー攻��対策として無料脆弱性スキャンキャンペーンを開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqSTdxTWlZMDY0bzZWdDg1T0s4RUVDUEhxWEpOTXItb2lWNEg3d3pTOFNiSlo1VGF3a0lTdEkxSHR6U0xoa2FIekd5cVhIYVpWNWFzbTUtenBqRnhYR3ZyZXNxT2owZGtPVnhIdWhnRFZfZw?oc=5",
+      "description": "IssueHunt株式会社がサイバー攻撃対策として無料脆弱性スキャンキャンペーンを開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-27T06:52:56.000Z"
+    },
+    {
+      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
+      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-10-27T05:00:00.000Z"
     },
     {
       "title": "ペンタセキュリティ、PHP脆弱性「PHP2Shell」の影響を確認できる無料診断サービスを提供開始 - CodeZine",
@@ -16,20 +37,6 @@
       "publishedAt": "2026-10-26T22:00:00.000Z"
     },
     {
-      "title": "NTTセキュリティホールディングス、ServiceNow Japan、クロスポイントソリューションがIT／OT／IoT統合セキュリティ領域で3社協業を開始｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mOUJlTFl1MGh3Vjk4NGt2ckItbW5Rdzh5ZWZvR1lEMURlbFVHMzFGc1dsY092S1V0d2JmbENVOVN0UGcyMEZsekMtOW16SHpULVVtTDJiaF9KWVRvMENHZFJGZHlDMG84ejFOQmtFUTJudw?oc=5",
-      "description": "NTTセキュリティホールディングス、ServiceNow Japan、クロスポイントソリューションがIT／OT／IoT統合セキュリティ領域で3社協業を開始｜Infoseekニュース&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-26T16:15:22.000Z"
-    },
-    {
-      "title": "ＰＨＰ脆弱性対応、国内のサービス停止累計１０００件超…安全確認に時間かかり４割はまだ再開できず｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GNGYwMkY1V180SUhiaG0zN0pGYmpyem1iOWNlYUxfSUVQQ3JhVEpfNkxta25ZbG1HVlNzVGhhMVZMcGo1cjcxcEdqNm5WX1FOWGZ2SGpHZTRDdTJNRk93V3h1VjFJdUNFNERNTkVCZGxuQQ?oc=5",
-      "description": "ＰＨＰ脆弱性対応、国内のサービス停止累計１０００件超…安全確認に時間かかり４割はまだ再���できず｜Infoseekニュース&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-26T11:38:00.000Z"
-    },
-    {
       "title": "Path Fitが提供する無料PHP脆弱性チェックでホームページの安全を確認しよう - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WRlN4NzdHd0twVURSUU13bUFXd0VMU3Z0N1l0VWZULUJ5TG1mTWRwRzY1M0tuVGtUb0NRRlFuZ3lnYzU1M1VOUE9pU0ZGUnQwOW44dmh1YTVaTFJlYUt6TlNNU09PYkk0UUhjeTZCdGE?oc=5",
       "description": "Path Fitが提供する無料PHP脆弱性チェックでホームページの安全を確認しよう&nbsp;&nbsp;ニュースメディアVOIX",
@@ -37,11 +44,11 @@
       "publishedAt": "2026-10-26T05:43:02.000Z"
     },
     {
-      "title": "Androidアプリ起因のバックエンド侵入を防ぐ「A2B攻撃 特化型セキュリティ診断ツール」を本日提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NeE1tdGVCNFJwb1NsLVFoeTdPc2dxai10MDdJNVBGUllkeHhpYkI4ZTg5LXZQdk8wQzVodTlvMzJvV2JoSkVKMlhubDZ2YmdwZk1SNVp6bDhJUjBxMk5JSENNT1VCRkFwbTBmQk14a2NVVDA2SXc?oc=5",
-      "description": "Androidアプリ起因のバックエンド侵入を防ぐ「A2B攻撃 特化型セキュリティ診断ツール」を本日提供開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-26T04:51:39.000Z"
+      "title": "【新サービス】「見えないリスクを、見える安心へ。」セキュリティ診断サービス「Mistral Guard」を提供開始へ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50YmtWc3pUeWZXN0drOXV4N3ZUTzJKUHdtUl9xSk1WcDBkbmh5amNiQ1RUSWV6akNIOG5tNGNVb1FhYkFHVUk2ZkxwNnVjY0t2YWczNmlVX0prM3BkQmNqZk93WW9GWTZOOEE?oc=5",
+      "description": "【新サービス】「見えないリスクを、見える安心へ。」セキュリティ診断サービス「Mistral Guard」を提供開始へ&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-26T04:21:03.000Z"
     },
     {
       "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
@@ -72,18 +79,11 @@
       "publishedAt": "2026-10-15T07:00:00.000Z"
     },
     {
-      "title": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/���ービス総合部門で最高位の「Leader」を11期連続受賞 - PR TIMES",
+      "title": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診��ツール/サービス総合部門で最高位の「Leader」を11期連続受賞 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nM3NlZFNFakl3S05sUW0tTEZUcFNqbmhHQmQ4MHllbGIwLVpIMTdYdUUtX2RZRWRJUUZHU3dVcUp6a1VuRnp2TjlYY0hwTGxRWEJBSFVsc1lCazNMbkZnZUw5YVZqTEUwZ3c?oc=5",
       "description": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "title": "Tenable Network Security Japan、「Claude Mythos 5」をエクスポージャー管理に活用 - 週刊BCN＋",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CellRYmJxVGhxRjE4djRqRnFYMFIxNF8zclNfR0lWVmJQN29xaVhVc0tWSURrNTR0MU1rRHNUbXBVX2JmWV9oNGJodmJ3NEJNNEZCWTJtaVVEWFNmMkZsMUxoNzA1VVFkd1hweVEwaUhMbFpC?oc=5",
-      "description": "Tenable Network Security Japan、「Claude Mythos 5」をエクスポージャー管理に活用&nbsp;&nbsp;週刊BCN＋",
-      "source": "週刊BCN＋",
-      "publishedAt": "2026-09-30T07:00:00.000Z"
     },
     {
       "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
@@ -93,18 +93,18 @@
       "publishedAt": "2026-09-29T07:00:00.000Z"
     },
     {
-      "title": "脆弱性やシャドーITを見逃さない！ 注目のセキュリティサービス「アタックサーフェスマネジメント」（ASM）とは[Sponsored] - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rRXllOGJVNExvNHYzWTl0U1lwTFVLbm9FYWppU054U0toSVFsUEM4YUNILXRSVFg4TzdfYnl5XzBzUnBGU3dHUUpFcWJIQWp5RTJ6U3VXVEtLOEhRaURJeWlwYldSajM3V1hzWTNQdllGeGhxS0E4?oc=5",
-      "description": "脆弱性やシャドーITを見逃さない！ 注目のセキュリティサービス「アタックサーフェスマネジメント」（ASM）とは[Sponsored]&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-09-08T07:00:00.000Z"
+      "title": "KELAがULTRA REDのCTEMプラットフォームのAI機能強化、日本市場でさらなる成長へ - ペイメントナビ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Dc1QxQmVYZEFRVjViMXdCb08xUkx3dFVIZFAtamNXaS1RVEMzUEJDSVQtOWtrNlJBeUtaNV9OcDdGMjdtUUpvTTBuREl1Wk5BU1Z2cDZtdm5RMWs?oc=5",
+      "description": "KELAがULTRA REDのCTEMプラットフォームのAI機能強化、日本市場でさらなる成長へ&nbsp;&nbsp;ペイメントナビ",
+      "source": "ペイメントナビ",
+      "publishedAt": "2026-08-06T07:00:00.000Z"
     },
     {
-      "title": "セキュリティ専任チームがいなくても回せる、AIによる外部攻撃面の運用 ― PentaTrail（ペンタトレイル） CTEM/ASM - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SMWxLakhuTnNjOXdIMzdGOHlwRmtzM2hxZm9LbGpxdldlM0RyY1VEeEVaWm0yOFZRY0hRcWlqSUxYOVVEUzkybGxaX0x5VlBqamNrelYyalFiT21oQTFlVUp2cDRHeks3N0E?oc=5",
-      "description": "セキュリティ専任チームがいなくても回せる、AIによる外部攻撃面の運用 ― PentaTrail（ペンタトレイル） CTEM/ASM&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-08-17T07:00:00.000Z"
+      "title": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNlF5QTQ3YmZpdEEyVUUwbFp4LWcyaHRhZUo4Vk9WeWZhZ2JROVMta0RsQmhUbmdwOWtxb0xhRHdySlBKMFZJWmg0SzB0M25xUDFJOHlKWVEydFBnZkVZdTFzUXowaktTemJr?oc=5",
+      "description": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-07-31T07:00:00.000Z"
     }
   ]
 }

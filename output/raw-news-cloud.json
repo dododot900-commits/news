@@ -2,25 +2,32 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "GPU as a Service市場は、スケーラブルなAIと高性能インフラでクラウドコンピューティングを変革 - ドリームニュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15emZoc2hvV3ptWE5fa1J5cDBVUVFmSnFLQVFFNld6NFNQZUFsdUVwUjJnTHQ5OUFVRjRNU1VFekNvVVJUVTFkOUtxSFBSZXlNTXFB?oc=5",
-      "description": "GPU as a Service市場は、スケーラブルなAIと高性能インフラでクラウドコンピューティングを変革&nbsp;&nbsp;ドリームニュース",
+      "title": "日本AIサーバーコンポーネント市場：AIインフラの拡大がメモリー、電源、ネットワーク、冷却分野に新たなビジネス機会を創出 - ドリームニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VMFdleWhKTHlhVkphS1FNZW1fdTdBWFd3M3RFaVRBMTNLVm1fSU8xR2NKM0JZMldCUUZyU3VpZWp4T3Eya1MxUE53cTJKdko2a05B?oc=5",
+      "description": "日本AIサーバーコンポーネント市場：AIインフラの拡大がメモリー、電源、ネットワーク、冷却分野に新たなビジネス機会を創出&nbsp;&nbsp;ドリームニュース",
       "source": "ドリームニュース",
-      "publishedAt": "2026-10-27T00:00:00.000Z"
+      "publishedAt": "2026-10-28T00:00:00.000Z"
     },
     {
-      "title": "【1231 人���査】IT インフラ「最優先課題」が激変？“脱 VMware”と AI 時代の新戦略 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Tb3UyMmEySjdZSjNiRkZ0anlYRlBxTm0yMUtXYWJsTlBlZEs1SGcwMlJkYmxnNUphNlRreVViU0l5cGN3cDZSRk9BN1ViSjQ?oc=5",
-      "description": "【1231 人調査】IT インフラ「最優先課題」が激変？“脱 VMware”と AI 時代の新戦略&nbsp;&nbsp;ビジネス+IT",
-      "source": "ビジネス+IT",
-      "publishedAt": "2026-10-26T22:02:26.000Z"
+      "title": "Oracle「AIインフラは2028年分まで完売」…Google TPU・Snowflakeも取り込む - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tRW1PdVN2TnBRbVlBUXYwNzVLUFlsYTVqQnN4QklXbk9CTkF2eWVRQVRTVDQ5eWxseGFIdlVlX2szY2NadjA1bUF5S0w4cDFCQkhPV2dJQ2dXQkRRV2dCQVdxZ3JEMDZZbkttOHBxRk11enRS?oc=5",
+      "description": "Oracle「AIインフラは2028年分まで完売」…Google TPU・Snowflakeも取り込む&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-27T23:56:00.000Z"
     },
     {
-      "title": "エクストリーム-D、IT資産処分を通じて確保したGPUサーバーを使ったAIインフラ事業を開始 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydjUtS1dDcndxcWxXaWtWZTU5aHNCNmtYMGxSSThQODg1c3Bhd3QzSS1xSncyZjZLcDNkc18yZEtBczBpaEZSN1g4ZzhjVUpnQTVQV2diSHRCWFRsc3F1cHQ0azg3Unc?oc=5",
-      "description": "エクストリーム-D、IT資産処分を通じて確保したGPUサーバーを使ったAIインフラ事業を開始&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-10-26T21:30:00.000Z"
+      "title": "オラクル、クラウド向け半導体ラインナップを拡大―Google TPUとOpenAI自社開発チップを初採用 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CazUzV2MyYktuZVNieFJ0TUhWV3I5UmRBTzFINXVyd1pDUmY4a0lqLS1KZEE2enFDNzgxTFphd3pid2V6T2NTUjBjSktSR2VFX0NVMXVZaVRVeFp1VlJoLVpUb0Vjem43UmI5WW1GVldlM094?oc=5",
+      "description": "オラクル、クラウド向け半導体ラインナップを拡大―Google TPUとOpenAI自社開発チップを初採用&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-27T17:25:00.000Z"
+    },
+    {
+      "title": "法人向けクラウドストレージ「CLOUD TENMA」 ARM版Windows対応のアップデートを発表！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZ0IxcGRsdE5OVDVyazFDVnprejZEWXdPdmZuVXM3d3lrZk9STVJIMXFCaEFkU1pXbHNBRWtKWnRiVHAtUFpQcHZDNWJIbzVENFNuazNoTWNRTzltMVBQejRQTnlwOGVDclE?oc=5",
+      "description": "法人向けクラウドストレージ「CLOUD TENMA」 ARM版Windows対応のアップデートを発表！&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-27T00:50:01.000Z"
     },
     {
       "title": "アンソロピック、グーグル・クラウドでClaude Platform全機能を一般提供 請求も一本化（ビジネス＋IT） - Yahoo!ニュース",
@@ -30,25 +37,18 @@
       "publishedAt": "2026-10-24T23:45:06.000Z"
     },
     {
-      "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NazlvQlJwZTNaVlVueEVZcS1JRGlsOVVYV0VfcnF5djN5d2p6UmdUcTlURERlQUhWdDZKVDdPbWEwTFlvSk4xV0daYzY5QjJvSUgwZzhfd1BZRXdGYlYxcnpNaHp6dC1qTktMbE5YVk9yV0h3SjNPRUJGLXVhWkU?oc=5",
-      "description": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュー��",
-      "publishedAt": "2026-10-24T22:52:00.000Z"
+      "title": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5V2JmVzNqenNTXzlzeFh6THcwOS13Z3hpcHZvaDA4c2lyQmF6UkxkazgtcGJaRUl3b05aQ0gtYWNNazNPQ3hrc0JSYTNsTDEtR2pKb19oN29ncjBvWTZDZUhFTXUtMkhaMWh2dA?oc=5",
+      "description": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-22T07:33:32.000Z"
     },
     {
-      "title": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧 - Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVhMMFgyNk9HOGl0dzdLNGFSeFpudEVEWThXbWJwaEZRVk5GYXozNTZwbFhEOFBmZ2RtbUlyaXZIM3lKMjZMU3RfYU92bWpYQmVzU0V6RFlGQVVTUk1VYmFZejdjaVZQLU5nUENWRkI5eVc1UThBay1NcngwVGh1MHBWckNSdUx0NWpyTHBpcw?oc=5",
-      "description": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧&nbsp;&nbsp;Oracle Blogs",
-      "source": "Oracle Blogs",
-      "publishedAt": "2026-10-19T07:00:00.000Z"
-    },
-    {
-      "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpvODVQUVpaLTNDOXFiaDU4eV9ZcHYyaGZMOHJHRk0xcl9ZVm1XMW1LSEltaGtzUWgxblBiUzlEVTZJMWtHMWdYckw0VTRfYnlmbjYyR3NIWWJlbEhjd0dzVmFfSUU2ZnY3V3R2MVdOeWdSS3E3TEFqdG9qYldIWkZMaW4waGFXekNtR0lnbFk1WG9YZHhmUDdjNWc4U3hFeGJGaGVjWWhKUzZEWnZ4cDNCVmw4bTQ?oc=5",
-      "description": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
+      "title": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HR0NOWlVCUTdDSlduOUtFQjdzQXVlUWFBa1BxUDlxbjI4SHBEZGxXZ2NUVlNaVWUtRjVDaHU1NlNfVlJQaGJ4LUJKWXBRZmc3UDdiX0pyNGJhUTVDMDJoeA?oc=5",
+      "description": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-10-21T04:41:00.000Z"
     },
     {
       "title": "Secure Source Manager の新機能で CI / CD パイプラインを強化 - Google Cloud",
@@ -58,18 +58,18 @@
       "publishedAt": "2026-10-01T07:00:00.000Z"
     },
     {
-      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表 - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2piM1dZdXhzSm9LNENKQWNwUmVQYlBSajdzZ3BCMlpIekZkNHcyeUEyY05xV1g5MWNMR05CQVltOWpGTWgwVFNBNjV3b3VpbUNQekxhZ0dxdE5JRTJzMFNhTTRncTd3b1ROMUFQZTBpQkhGUEhCaTRuSUxaY1ZyN3J6bTE0aW1MR21xUkRMMWxEQ0xnVDNxc2dnVG5WNHhmd2Nj?oc=5",
-      "description": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表&nbsp;&nbsp;Publickey",
-      "source": "Publickey",
-      "publishedAt": "2026-09-30T07:00:00.000Z"
+      "title": "データエージェントの新機能: AI ワークフローの強化 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1lTV090amxnb1lSN0JuOWNNZGRsWWJNbm91c2Z6V2xhaG80eHdOUnQ1TGo1TG1FbDNMNUdGeVd1S2UwcWpuT1dyYmh6eHlvSFo5c19iSWtQbVZoWW5acVBfb1BYck9DXzJiWFAwNGhkZ0wwbURSMEl0SUNpcnVPOTVQaHBVWVV5cW84NkIwVGx4Q0dKSllCb1ZJTl9kaE9ubjA0aw?oc=5",
+      "description": "データエージェントの新機能: AI ワークフローの強化&nbsp;&nbsp;Google Cloud",
+      "source": "Google Cloud",
+      "publishedAt": "2026-06-23T07:00:00.000Z"
     },
     {
-      "title": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEZmQ0dTLTIycTBZRlFjdzdEdC1uekdEWjRleUp3NTU1ZnBmZkhHN0REVERHXzRFY2lWVF9iczlkb3hpY1ZyT3dRWldzLW5NdWxlV0IxMXVHZVl5U1ZEVDFRRWszb3AyMmZCZzJwNEdITnYwdHYtcVFjTTNMdGFkcTRyMHF6QThKMjF1eEtMaw?oc=5",
-      "description": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート&nbsp;&nbsp;Publickey",
-      "source": "Publickey",
-      "publishedAt": "2026-09-03T07:00:00.000Z"
+      "title": "Managed Service for Apache Spark クラスタの新機能 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1NoWXpueGZvVS14RFc3VFRHRjhMUmFqc2pXLXFkeWJQX2dzV002dDJrUHZTMTV2TTFyeUl5RmZ5SDE3QlVmaDZ4dXhxZmZuYWN0RXhDQ3ZhbTdvejVEb1hZMWpVeDlBOHRSLTJZN0RmTW1jZ2RURjFKYUgwNTRJZEdqSTFHa3lBOWJBTF9ObWlGNkJZUzhybDdPRXRaeDZMSmZ3VVFRS25EMzJyanhFYnUwS3Q?oc=5",
+      "description": "Managed Service for Apache Spark クラスタの新機能&nbsp;&nbsp;Google Cloud",
+      "source": "Google Cloud",
+      "publishedAt": "2026-06-17T07:00:00.000Z"
     }
   ]
 }
