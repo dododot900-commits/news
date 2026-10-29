@@ -2,6 +2,13 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "CloudflareのAI応答155件に他顧客データ混入 GLM-5.3のKVキャッシュ不具合 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03YUM0aUNJTzdRY2RsakR3OGFfSTVfemNiNzVIanltUWtDMUV5WUNLMzY4MzdkS2E0TFBERUI4S3hBTmhiQll1M2h2d3hqQW1XcWx0Ui1ia2xlcEdteWpfNHRB?oc=5",
+      "description": "CloudflareのAI応答155件に他顧客データ混入 GLM-5.3のKVキャッシュ不具合&nbsp;&nbsp;NOVAIST",
+      "source": "NOVAIST",
+      "publishedAt": "2026-10-28T10:06:23.000Z"
+    },
+    {
       "title": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tb2ptRXFCWE00bTgzUUdvRF9ycHYyMlk2WWxybC11ZUlFX2szV2NnYXdlYnRqZTRnM0VlUDE1b05DRlltOGZENnRwZGhlVXRRckh5UDZmMGotZ0w3X3RaVTBZcm51WE1Va2UtUUdxWGNoSVJv?oc=5",
       "description": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法&nbsp;&nbsp;ITmedia",
@@ -23,18 +30,18 @@
       "publishedAt": "2026-10-27T17:23:17.000Z"
     },
     {
+      "title": "CrowdStrikeとNvidia、AIエージェントの脅威に対応 - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFZSemJFN3U2dVFLT3BXa2l1NFktZkVLclhaTVpfMTRFSHRKTjlEdnRER1dtWVlSZlhYZzZIVThHejRuRDFyejNQdWhBNHI4RXVvR1hHakRROTF4eTV5MXNSZGdFNlFxbWdENzZscnRVYTltUWo4OWlVbzlMMFRITTExdXpmN3VEbzh3NkdjbkJOUXlsNG0wNV9ENlJVeHFWRk1kdTlNYw?oc=5",
+      "description": "CrowdStrikeとNvidia、AIエージェントの脅威に対応&nbsp;&nbsp;eSecurity Planet",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-10-27T07:07:06.000Z"
+    },
+    {
       "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42dklac3VJVFhETmVfeDdUOXJZOFQtaEs5Rk1OWi1ISHFLcmp5NXM4Tk5NdzI0MHREc2RmZmI5NWxwd0JhVVhrSzVxTUdmVnNtd2t0Zko4WnJqLW9DUFFTMnkzajBNYzdVcWc?oc=5",
       "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-27T01:10:01.000Z"
-    },
-    {
-      "title": "Foundation、自社ドメインからのフィッシング攻撃はCloudflare APIキー侵害が原因と発表 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdG9MZkVFd3RtdElnZndkVmJZVFl4Y3lLOUt0bGpCTjdma1RJSnBIazZQbm5XWGVlVXF5V0kzblVKVTFFc2Ntdm9WdGlRdDlLOFM0N0U0czhMZVA5bWNoUl9aTVllOGdISVlyTUh3bGVKOU0w?oc=5",
-      "description": "Foundation、自社ドメインからのフィッシング攻撃はCloudflare APIキー侵害が原因と発表&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-26T18:10:02.000Z"
     },
     {
       "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
@@ -44,32 +51,11 @@
       "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
-      "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対��するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
+      "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yRmktQXZyUHlTdHJwZTU2VV9iXzQ0SFBoS0dKcjZxS2tQRXlWTlBpUWdTeVhNX1E2SmJiWUk1YmhBQ0JaRkJmbEhIbE5hMENFT3A3QlNscjBwbjl3aGc?oc=5",
       "description": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-10-23T01:38:27.000Z"
-    },
-    {
-      "title": "NVIDIA、安全な AI エージェントのための OpenShell リファレンス アーキテクチャを発表｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aenNzQW16dEp1WXQtZ3RrbHJ0NUZLSzF6dVdHX2JiLVJMdTNmUEpYdzNXT1Rsb2NjZ1Rta1VaQVZMU0MxZ1ZDVzM4eEFXR1owQ3E5ZWllZVFkVjluUHlJeUd4ZGlwQk5aOTd3bTZCdjBGUQ?oc=5",
-      "description": "NVIDIA、安全な AI エージェントのための OpenShell リファレンス アーキテクチャを発表｜Infoseekニュース&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-22T18:10:02.000Z"
-    },
-    {
-      "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
-      "description": "今すぐCato SASEで取り組む！サプライ���ェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
-      "source": "週刊BCN＋",
-      "publishedAt": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
-      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
-      "source": "remio",
-      "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
@@ -79,18 +65,18 @@
       "publishedAt": "2026-10-20T05:23:27.000Z"
     },
     {
-      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyM19XcnJUeGhYNkFQYTNQdXA4R3FLV1p3UUtFYzZ1a19IOENyQmxNekdrdjN5U2JMYVlIdXh0STJfN2ktc1RQd3NJLXVkaS0wRkN4Sg?oc=5",
-      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-19T15:15:11.000Z"
-    },
-    {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
       "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-19T08:02:48.000Z"
+    },
+    {
+      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
+      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
+      "source": "ビジネスネットワーク",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
       "title": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化 - キヤノンマーケティングジャパングループ",
@@ -100,13 +86,6 @@
       "publishedAt": "2026-10-13T07:00:00.000Z"
     },
     {
-      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
-      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
-      "source": "株式会社マクニカ",
-      "publishedAt": "2026-09-07T11:50:23.000Z"
-    },
-    {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc1lXb3AwbHluaEVfbkdEZlllY3FTeG5wME5GWi0zdzFFaENYOUoxZDMwTjdMN3E2bWNUZnpKRy1mcHVBODZNVktPaFphYUtQUy1nZnc3Q1JkSU9LeTJNMmhxeXdZVzVKeC1CS3FBQzRZdGwt?oc=5",
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
@@ -114,18 +93,39 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NDN1Zy1TVWxmUWlKWXJWOGhOc2RfVmRTenNPa1VHaHZlSWtBOWgyQXI1V2M5SnhvUDhMSFhxb3RyZngzcVZDRWtjVGZFYlAzRHpkSWtwMU55ZHZUYUZLb0JLZGNzZ1k2OVJTcjNLSy1rVVVD?oc=5",
-      "description": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-27T07:00:00.000Z"
-    },
-    {
       "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
       "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-28T07:00:00.000Z"
+    },
+    {
+      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
+      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部��語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-07-13T07:00:00.000Z"
+    },
+    {
+      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
+      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-06-19T07:00:00.000Z"
+    },
+    {
+      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
+      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-04-24T07:00:00.000Z"
+    },
+    {
+      "title": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始 - セーフィー株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zWWZJZndYdDVvXzFMT1A4QlNmbUZHUmxMMlplclozUUp5c04tV0twMFloNG1DUDZrdjFQSk1TLW5fYTQ4?oc=5",
+      "description": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始&nbsp;&nbsp;セーフィー株式会社",
+      "source": "セーフィー株式会社",
+      "publishedAt": "2026-03-12T07:00:00.000Z"
     }
   ]
 }
