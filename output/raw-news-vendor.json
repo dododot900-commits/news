@@ -2,11 +2,32 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkc4RThhZnVKb2tsNVl6TTlTbEl3QUYzRzVaS1FpZC0wWmRFWVhGWTRtVUF0NjlkajUtTjdzMjlWczlZLTAtX0hTLXBGTjMtdVRZclhGb2NSVGs1a1p2WTBYM25ILXB5UEFEWGpTRDQ5eU1kSFQ3T1k0YUNCaS1qUkxpaHhmZkN4UThWcFA2bw?oc=5",
+      "description": "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-10-29T16:42:42.000Z"
+    },
+    {
+      "title": "CloudflareのAIサービスで別のユーザーの情報が応答に混入、155件に影響 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUlNWWxLVTMtZm4xVzFNRmVZTzdSelFOOXJEREFXcG9MaTJqdk9URE5RYVpicHR5T2wxMkQ1UllXQTVrNkJreW1vMjZ4ZEhmdjh0X1h0YnRuUVQxSHhxYXlXQ1VZaW1tWmRTQUlZUERRQ3dJRW9XTmNsWHR5NmRJRVZ2WXA?oc=5",
+      "description": "CloudflareのAIサービスで別のユーザーの情報が応答に混入、155件に影響&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-10-29T04:20:15.000Z"
+    },
+    {
       "title": "CloudflareのAI応答155件に他顧客データ混入 GLM-5.3のKVキャッシュ不具合 - NOVAIST",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03YUM0aUNJTzdRY2RsakR3OGFfSTVfemNiNzVIanltUWtDMUV5WUNLMzY4MzdkS2E0TFBERUI4S3hBTmhiQll1M2h2d3hqQW1XcWx0Ui1ia2xlcEdteWpfNHRB?oc=5",
       "description": "CloudflareのAI応答155件に他顧客データ混入 GLM-5.3のKVキャッシュ不具合&nbsp;&nbsp;NOVAIST",
       "source": "NOVAIST",
       "publishedAt": "2026-10-28T10:06:23.000Z"
+    },
+    {
+      "title": "フォーティネット（FTNT）のAIセキュリティ製品の発表が株主にとって意味すること - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWdkVGlIZTlWMHNpRkdHeHlvWGNlSzI1eFB0X053VGdCdUlGVGlsSnlYZHFEVmNxcFRWMVlSRWt6dThyYkFDWTIzNVFTRzhFdWJFc1FyVmowRVdac1c2WFY1MEozVXh3U1dBbmZkVERoMjlVaTBEY3BwVmlGMzRYUl84QmhYZm1hcUdEUkdUQXBxVVIz0gGUAUFVX3lxTE9FZ2RUaUhlOVYwc2lGR0d4eW9YY2VLMjV4UHRfTndUZ0J1SUZUaWxKeVhkcURWY3FwVFYxWVJFa3p1OHJiQUNZMjM1UVNHOEV1YkVzUXJWajBFV1pzVzZYVjUwSjNVeHdTV0FuZmRURGgyOVVpMERjcHBWaUYzNFhSXzhCaFhmbWFxR0RSR1RBcHFVUjM?oc=5",
+      "description": "フォーティネット（FTNT）のAIセキュリティ製品の発表が株主にとって意味すること&nbsp;&nbsp;Simply Wall Street",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-28T07:42:38.000Z"
     },
     {
       "title": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法 - ITmedia",
@@ -23,25 +44,11 @@
       "publishedAt": "2026-10-27T21:00:00.000Z"
     },
     {
-      "title": "マシュー・プリンス、ウェブの5分の1を背負うCloudflare創業者の矛盾 - Martin Cid Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVjlXUjAxVUtCSnJKb2NOekE1dFo2dGhQTTM1Q3dpQVhpeGFYZUdzUUlqdmNSaVE4ekQ5ODNTWWdkZkppelpTLUFiaUtTeHJLTG04Ukx5SG9jeDlvNGNESWx5YUN1U3ZSNV91QjJ4SXpHVVNaWWpjNFRoQ2p2YVJ6Y3FRS3IyeHJQcHRaeHhobV9TakZrNllweFNyV1VtWmxWNzFoaDZvOWM2WEdqWTlTbjlMWHg4eUYtekNJTGU0SGMyQ1BodUxkeEIxODVoaU5zZkFiVGVKOFd2MFFqYWs3eG4wZUQteFdUUk1JLUJBdjJXYTZMdU9HVHp1WjhhdEpBNTFrNlU4U0dfaXR0c2JuMjYtaWduYmR1MDlNTjRrQ25qYzg?oc=5",
-      "description": "マシュー・プリンス、ウェブの5分の1を背負うCloudflare創業者の矛盾&nbsp;&nbsp;Martin Cid Magazine",
-      "source": "Martin Cid Magazine",
-      "publishedAt": "2026-10-27T17:23:17.000Z"
-    },
-    {
-      "title": "CrowdStrikeとNvidia、AIエージェントの脅威に対応 - eSecurity Planet",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFZSemJFN3U2dVFLT3BXa2l1NFktZkVLclhaTVpfMTRFSHRKTjlEdnRER1dtWVlSZlhYZzZIVThHejRuRDFyejNQdWhBNHI4RXVvR1hHakRROTF4eTV5MXNSZGdFNlFxbWdENzZscnRVYTltUWo4OWlVbzlMMFRITTExdXpmN3VEbzh3NkdjbkJOUXlsNG0wNV9ENlJVeHFWRk1kdTlNYw?oc=5",
-      "description": "CrowdStrikeとNvidia、AIエージェントの脅威に対応&nbsp;&nbsp;eSecurity Planet",
-      "source": "eSecurity Planet",
-      "publishedAt": "2026-10-27T07:07:06.000Z"
-    },
-    {
-      "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42dklac3VJVFhETmVfeDdUOXJZOFQtaEs5Rk1OWi1ISHFLcmp5NXM4Tk5NdzI0MHREc2RmZmI5NWxwd0JhVVhrSzVxTUdmVnNtd2t0Zko4WnJqLW9DUFFTMnkzajBNYzdVcWc?oc=5",
-      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-27T01:10:01.000Z"
+      "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjUzMzbGozQk8zaWhQMlVOSHlJVzZ6U1NIUllLUFBKYzhQMTBxYWFjNUVmSm80QzFEOVNOc3ZGbTJ4ZGZxVjZOXzYtYUNVYW5mMm8wNHVxVkpXdXR2VVhZTjNLVm14OW1RZHdiYkxHdGJtTlhR?oc=5",
+      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に&nbsp;&nbsp;Excite エキサイト",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-27T03:15:00.000Z"
     },
     {
       "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
@@ -51,11 +58,18 @@
       "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
-      "title": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yRmktQXZyUHlTdHJwZTU2VV9iXzQ0SFBoS0dKcjZxS2tQRXlWTlBpUWdTeVhNX1E2SmJiWUk1YmhBQ0JaRkJmbEhIbE5hMENFT3A3QlNscjBwbjl3aGc?oc=5",
-      "description": "新たな頂点捕食者：AIエージェントを武器にする攻撃者と対峙するCrowdStrike CEOジョージ・カーツ｜No Priors&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-23T01:38:27.000Z"
+      "title": "PHPが重大な脆弱性2件について警告 緊急パッチは21日夜にリリース予定 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHc0OW1DVkNPWXluNHc3WXhIMUxSTEhQVURPakdISS1xVnRuTlpjSUk4SkZUeFByV3hzUlIwVmtNNVVRT0pJUGJsZ0gwZ0pNOTZ3Q2oxQ3RHejUzRVdCUmY5ZWxKbi1SSkpFc3I1TU9veEppWTdvdHBuZzRDcGRYVko3Ylk?oc=5",
+      "description": "PHPが重大な脆弱性2件について警告 緊急パッチは21日夜にリリース予定&nbsp;&nbsp;株式会社マキナレコード",
+      "source": "株式会社マキナレコード",
+      "publishedAt": "2026-10-22T07:00:00.000Z"
+    },
+    {
+      "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
+      "description": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
+      "source": "週刊BCN＋",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
@@ -72,18 +86,25 @@
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
     {
-      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
-      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
-      "source": "ビジネスネットワーク",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
+      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbGF6VEZXTXZFTm91dk5ObmJ4aUgtVE0zVUJBZXNHR0hjd3d3Zld4M3hiZG9JcXkzN2Q0SWttQnZvNVRvdFAxdW5hdklMZUl6NDUzdjBFY2NHTktRTzhCME1qcWZnWkM0Z215b0stblpDaVAt?oc=5",
+      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;Excite エキサイト",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-19T07:45:00.000Z"
     },
     {
-      "title": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化 - キヤノンマーケティングジャパングループ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dExrM2loY2YyOXl4a1NWZTQ4U2UtTWVGYWRiY2plUUNsa0xtUkZta29WWXd3RnRZQkRVbGpSbUFOZDRWdHJHZVdPSnE0d182LWk5ejY1RldDdlp3NWt2b2E1MW8zWFNsM3duRXln?oc=5",
-      "description": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化&nbsp;&nbsp;キヤノンマーケティングジャパングループ",
-      "source": "キヤノンマーケティングジャパングループ",
-      "publishedAt": "2026-10-13T07:00:00.000Z"
+      "title": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fYmk0YXhfWTF3WXdMVHNWOTlrb1o0cmM0NWtUM3R6WEYweUgxay05RzYyWUR6NzdlRVZLb29wLV8zeDZHd1RDT1hkcw?oc=5",
+      "description": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-10-15T07:00:00.000Z"
+    },
+    {
+      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
+      "description": "国内最大のネットワークとセキュリティの祭��、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
+      "source": "株式会社マクニカ",
+      "publishedAt": "2026-09-07T11:50:23.000Z"
     },
     {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
@@ -91,27 +112,6 @@
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
-      "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
-      "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
-      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部��語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-07-13T07:00:00.000Z"
-    },
-    {
-      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
-      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-06-19T07:00:00.000Z"
     },
     {
       "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
