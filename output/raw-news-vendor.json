@@ -2,6 +2,20 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "CrowdStrike：PoCエクスプロイトの88%が48時間以内に使用される - OrcaRouter",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05ZTlrM1hoMWlGekxhMGRFbEo2d1lzZ1JRUDIxVlJ4S0UtVkFwREFaUFFibVFqbEpyZ1BYNDZBYjU2Qk9yTFBhenltYUIwRTc3T3VUeUo3aHhEZmRXeDc0U0N2RE1EeGV6RXd2Q1lGOU5BSzQzaVdFWlVtTjNadw?oc=5",
+      "description": "CrowdStrike：PoCエクスプロイトの88%が48時間以内に使用される&nbsp;&nbsp;OrcaRouter",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-10-30T05:17:22.000Z"
+    },
+    {
+      "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化 - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bzB1SzROS1ZzNTVVeWJuVU5pTHFNZEV2M2ZLRm92NVc2ZHFEc04xV3R1MEwwZkptNElxZmtrcndZb0dUMkRRdWJZcHFiY2p4czNvNkZhVk9MaTJCRVhQWUVqZ29YWEV4OXc?oc=5",
+      "description": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの��新調査が示す脅威の変化&nbsp;&nbsp;XenoSpectrum",
+      "source": "XenoSpectrum",
+      "publishedAt": "2026-10-30T02:01:16.000Z"
+    },
+    {
       "title": "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開 - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkc4RThhZnVKb2tsNVl6TTlTbEl3QUYzRzVaS1FpZC0wWmRFWVhGWTRtVUF0NjlkajUtTjdzMjlWczlZLTAtX0hTLXBGTjMtdVRZclhGb2NSVGs1a1p2WTBYM25ILXB5UEFEWGpTRDQ5eU1kSFQ3T1k0YUNCaS1qUkxpaHhmZkN4UThWcFA2bw?oc=5",
       "description": "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開&nbsp;&nbsp;Pasquale Pillitteri",
@@ -16,18 +30,11 @@
       "publishedAt": "2026-10-29T04:20:15.000Z"
     },
     {
-      "title": "CloudflareのAI応答155件に他顧客データ混入 GLM-5.3のKVキャッシュ不具合 - NOVAIST",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03YUM0aUNJTzdRY2RsakR3OGFfSTVfemNiNzVIanltUWtDMUV5WUNLMzY4MzdkS2E0TFBERUI4S3hBTmhiQll1M2h2d3hqQW1XcWx0Ui1ia2xlcEdteWpfNHRB?oc=5",
-      "description": "CloudflareのAI応答155件に他顧客データ混入 GLM-5.3のKVキャッシュ不具合&nbsp;&nbsp;NOVAIST",
-      "source": "NOVAIST",
-      "publishedAt": "2026-10-28T10:06:23.000Z"
-    },
-    {
-      "title": "フォーティネット（FTNT）のAIセキュリティ製品の発表が株主にとって意味すること - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWdkVGlIZTlWMHNpRkdHeHlvWGNlSzI1eFB0X053VGdCdUlGVGlsSnlYZHFEVmNxcFRWMVlSRWt6dThyYkFDWTIzNVFTRzhFdWJFc1FyVmowRVdac1c2WFY1MEozVXh3U1dBbmZkVERoMjlVaTBEY3BwVmlGMzRYUl84QmhYZm1hcUdEUkdUQXBxVVIz0gGUAUFVX3lxTE9FZ2RUaUhlOVYwc2lGR0d4eW9YY2VLMjV4UHRfTndUZ0J1SUZUaWxKeVhkcURWY3FwVFYxWVJFa3p1OHJiQUNZMjM1UVNHOEV1YkVzUXJWajBFV1pzVzZYVjUwSjNVeHdTV0FuZmRURGgyOVVpMERjcHBWaUYzNFhSXzhCaFhmbWFxR0RSR1RBcHFVUjM?oc=5",
-      "description": "フォーティネット（FTNT）のAIセキュリティ製品の発表が株主にとって意味すること&nbsp;&nbsp;Simply Wall Street",
-      "source": "Simply Wall Street",
-      "publishedAt": "2026-10-28T07:42:38.000Z"
+      "title": "PBシステムズ---Cloudflareを活用したサイバーセキュリティ対策を拡充 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVo4MUJlQmllYmJ2aFVYY3c5d1cxOGpKN1NwZ2VPM29fMTdWcHZkTnVQLVN3aHY4emdfVWxpR2FKckxWSXdPRi1uSmxReDJ5eDV6UURnVTIyMXY3aWhmYzBxaGpjMzVnWnpMeHY3V0MxaXhYUF91X2JkU3J5X1RTUnNLR3VYRUtUTHFJUNIBjAFBVV95cUxQcVo4MUJlQmllYmJ2aFVYY3c5d1cxOGpKN1NwZ2VPM29fMTdWcHZkTnVQLVN3aHY4emdfVWxpR2FKckxWSXdPRi1uSmxReDJ5eDV6UURnVTIyMXY3aWhmYzBxaGpjMzVnWnpMeHY3V0MxaXhYUF91X2JkU3J5X1RTUnNLR3VYRUtUTHFJUA?oc=5",
+      "description": "PBシステムズ---Cloudflareを活用したサイバーセキュリティ対策を拡充&nbsp;&nbsp;ｄメニューニュース",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-10-28T23:30:00.000Z"
     },
     {
       "title": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法 - ITmedia",
@@ -37,20 +44,6 @@
       "publishedAt": "2026-10-27T22:00:00.000Z"
     },
     {
-      "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90YmdTMFJDZGtKZzh0eGk2czdWa0lOdXNMc0Q0M2xDSEUyVzM4NWFvcmtJNnNzX0dFUEpVNEp4VFhRS0VEMkhUWjRQcjV0LUEtMkFNNkRyaXA5ODdmN3VSd2I2c29MVmtuMHlOeTMzdkswWW8?oc=5",
-      "description": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説&nbsp;&nbsp;GIGAZINE",
-      "source": "GIGAZINE",
-      "publishedAt": "2026-10-27T21:00:00.000Z"
-    },
-    {
-      "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjUzMzbGozQk8zaWhQMlVOSHlJVzZ6U1NIUllLUFBKYzhQMTBxYWFjNUVmSm80QzFEOVNOc3ZGbTJ4ZGZxVjZOXzYtYUNVYW5mMm8wNHVxVkpXdXR2VVhZTjNLVm14OW1RZHdiYkxHdGJtTlhR?oc=5",
-      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-27T03:15:00.000Z"
-    },
-    {
       "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXcUlQOUs1Q0k4RW5UQlRsZ3dfYTF3blA4ZDk0Zlo5MUh6b3ZLdXJJcHBXV01fdlQ0YkVTV0ItNE9QMkthYWlXU0hZYlRnTmpPb0RNYjZST0FzN0xJQ1J3LUd4MnQxWTFnS0FOX0Izc3Q?oc=5",
       "description": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」&nbsp;&nbsp;TechTargetジャパン",
@@ -58,25 +51,25 @@
       "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
-      "title": "PHPが重大な脆弱性2件について警告 緊急パッチは21日夜にリリース予定 - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHc0OW1DVkNPWXluNHc3WXhIMUxSTEhQVURPakdISS1xVnRuTlpjSUk4SkZUeFByV3hzUlIwVmtNNVVRT0pJUGJsZ0gwZ0pNOTZ3Q2oxQ3RHejUzRVdCUmY5ZWxKbi1SSkpFc3I1TU9veEppWTdvdHBuZzRDcGRYVko3Ylk?oc=5",
-      "description": "PHPが重大な脆弱性2件について警告 緊急パッチは21日夜にリリース予定&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-10-22T07:00:00.000Z"
+      "title": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkZ2Y0hwbmswbmtLb1NMRGNYd1RPdkdjTHJNVjdRaEllMlNvcDdoV3pIU3RpTlJZaHJ1MzVZOThwenhROVo1V0l4VlBDUENZczFyQjlRalFMN3ZWREpoeFA2T1lXTXc1R1AwOTYwM0JteFBTV3ZTcFpVREttdnM?oc=5",
+      "description": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-25T22:54:36.000Z"
     },
     {
       "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
-      "description": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
+      "description": "今すぐCato SASEで取り組む！サプライ���ェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
       "source": "週刊BCN＋",
       "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
-      "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
-      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-20T05:23:27.000Z"
+      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
+      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
@@ -100,9 +93,23 @@
       "publishedAt": "2026-10-15T07:00:00.000Z"
     },
     {
+      "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
+      "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化 - キヤノンマーケティングジャパングループ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dExrM2loY2YyOXl4a1NWZTQ4U2UtTWVGYWRiY2plUUNsa0xtUkZta29WWXd3RnRZQkRVbGpSbUFOZDRWdHJHZVdPSnE0d182LWk5ejY1RldDdlp3NWt2b2E1MW8zWFNsM3duRXln?oc=5",
+      "description": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化&nbsp;&nbsp;キヤノンマーケティングジャパングループ",
+      "source": "キヤノンマーケティングジャパングループ",
+      "publishedAt": "2026-10-13T07:00:00.000Z"
+    },
+    {
       "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
-      "description": "国内最大のネットワークとセキュリティの祭��、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
+      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
       "source": "株式会社マクニカ",
       "publishedAt": "2026-09-07T11:50:23.000Z"
     },
@@ -114,18 +121,11 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
-      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-04-24T07:00:00.000Z"
-    },
-    {
-      "title": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始 - セーフィー株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zWWZJZndYdDVvXzFMT1A4QlNmbUZHUmxMMlplclozUUp5c04tV0twMFloNG1DUDZrdjFQSk1TLW5fYTQ4?oc=5",
-      "description": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始&nbsp;&nbsp;セーフィー株式会社",
-      "source": "セーフィー株式会社",
-      "publishedAt": "2026-03-12T07:00:00.000Z"
+      "title": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NDN1Zy1TVWxmUWlKWXJWOGhOc2RfVmRTenNPa1VHaHZlSWtBOWgyQXI1V2M5SnhvUDhMSFhxb3RyZngzcVZDRWtjVGZFYlAzRHpkSWtwMU55ZHZUYUZLb0JLZGNzZ1k2OVJTcjNLSy1rVVVD?oc=5",
+      "description": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-08-27T07:00:00.000Z"
     }
   ]
 }

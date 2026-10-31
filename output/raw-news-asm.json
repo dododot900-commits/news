@@ -2,32 +2,53 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zY2lYQ1NwZEtLcU5XV1NHemZvZWp6QVdLNDZvWkRTMVl4dDFrNnpUVFBmdzZhQ3ZzcmdpRUpNLWVSYmdvSDlIYVpiQzNlQXZVRGZlVERhcHBFLXI1aWY5eFN6eFlwQURfOHBzVi1mNjlwM0l3TFN4UnlRaGc3Qm8?oc=5",
-      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供（INTERNET Watch）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-29T23:14:23.000Z"
+      "title": "脆弱性管理クラウド「yamory」、PHPの重大な脆弱性問題の対応状況を振り返るレポートを公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcldwaXZzRDRSVmVKaE1zYzNFQ04yX1pFS2Y2Y1dXd0YyaktPZGVxbWNTVGhjbEN2SkVpR1gtajU0VEk4dUg2ODhrdm5wdXYxRml3cFA0bk0wNy1na09ramVaWmVBU29Xa3c?oc=5",
+      "description": "脆弱性管理クラウド「yamory」、PHPの重大な脆弱性問題の対応状況を振り返るレポートを公開&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-30T07:57:04.000Z"
     },
     {
-      "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 アタックサーフェスマネジメント（ASM）「SOMPO Cyber Risk Scan」 - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wOHBVaS10ZjZiQWpYQTZQN1JEcEM1am94N3I3RkVITDBHRmxYSUF2SkU2enVvWEpVYXJwQ2VWVHhKTXNCcXhtMW42VThxQ090Y0JYa0cxYjVSM3MyeWpn?oc=5",
-      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 アタックサーフェスマネジメント（ASM）「SOMPO Cyber Risk Scan」&nbsp;&nbsp;千葉テレビ放送��式会社",
-      "source": "千葉テレビ放送株式会社",
-      "publishedAt": "2026-10-29T23:09:25.000Z"
+      "title": "NHN テコラス、AWS環境のWebアプリを対象としたセキュリティ脆弱性診断サービスをAWS Marketplaceで販売 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZSDI0b0pLUV8xcVpvY0R4bGpfcFlLNWlNeDhKSlF5LTFuZzd4RE5JRm1iVk9BQU5MWTFIcjE3dmNnWTc2Qm41WXU4eS00UFo3UzdJRGpiRXg2U212QVlDMThLNTRBNW8?oc=5",
+      "description": "NHN テコラス、AWS環境のWebアプリを対象としたセキュリティ脆弱性診断サービスをAWS Marketplaceで販売&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-10-30T07:41:00.000Z"
     },
     {
-      "title": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5",
-      "description": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-29T23:00:12.000Z"
+      "title": "AIの力を、事業と信頼を守る力へ。セラク、AIを活用したセキュリティ診断および対策実装支援サービスを提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zUlhDVFZvNFdCUVBaRFBQem9iQ0Vqdm40czJOSlZaM2ZabThqUGlEQ1FTeHZSTVJzVXFfOUdpWFlySFg2eWV0M09sQWxQV01uOHJTb3MxeDdzNnNHOGYwbFZiX2hOR2ZtMFE?oc=5",
+      "description": "AIの力を、事業と信頼を守る力へ。セラク、AIを活用したセキュリティ診断および対策実装支援サービスを提供開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-30T06:30:02.000Z"
     },
     {
-      "title": "EC-CUBEサイト向けのセキュリティ診断サービスを開始したエム・エー・ディーの新たな試み - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DTmJKNGxLQU15SlJ4aFRtQzZtdkRLSFo2WjdYX1FZN1dtS3NkdHd5bGJYNUxVTHI2Ul9ySGVWMzY4OE1VZ0liYmptdC1aTHpVa1c3OTU1bldVN2tKcTNBUlo0TjVGWVJzcVJKSmJfWmdrSGM?oc=5",
-      "description": "EC-CUBEサイト向けのセキュリティ診断サービスを開始したエム・エー・ディーの新たな試み&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-29T07:44:24.000Z"
+      "title": "株式会社ヴェス、脆弱性管理とEU CRA対応をテーマに2つの無料ウェビナーを開催 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjlrSXFYVmJnS3Ytbl9wYjlnVEliRGhCemVsVllTaEtOTlEyVEtxV2kzWmFLVjZmdGRiU1RWbzQ0a01oOU5kOFk3STJIYVRtVDVGNTZQRjJ2RWxLYzdJS1EybXg3aTg4QlVVTjk0RVdXR2Z5TENlSEdR?oc=5",
+      "description": "株式会社ヴェス、脆弱性管理とEU CRA対応をテーマに2つの無料ウェビナーを開催&nbsp;&nbsp;イザ！",
+      "source": "イザ！",
+      "publishedAt": "2026-10-30T05:57:45.000Z"
+    },
+    {
+      "title": "脆弱性対策ツール「cuonology security」、AWSで検知した脆弱性の修正プルリクエストをGitHubに自動発行 - IT Leaders",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ENVg3V2t6RklPdVJJRTM3QVExelY1N2l6aXJEV1BBYS1keWlRRENaUU9wQTgtWXpFWU92Y00zMHJsQTJDTXlRT1JyNW5pLUVvRHVj?oc=5",
+      "description": "脆弱性対策ツール「cuonology security」、AWSで検知した脆弱性の修正プルリクエストをGitHubに自動発行&nbsp;&nbsp;IT Leaders",
+      "source": "IT Leaders",
+      "publishedAt": "2026-10-30T04:42:54.000Z"
+    },
+    {
+      "title": "IssueHunt、100社限定でバグバウンティの手数料無料キャンペーンを開始〜世界中のホワイトハッカーが、成果報酬型で脆弱性を調査〜 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seXptWlVldDhWOGFXSlkxNUc2czhEcEQ0d0xFOWhsaHZhV1o1N3dxSVdVcUJnYnpDZl9hTUk1eXBiRi15WmtSM1FRUE00ZDJiMTMxRFJPcjlUcFlRSE9TUlZMRkFQejFJZUE?oc=5",
+      "description": "IssueHunt、100社限定でバグバウンティの手数料無料キャンペーンを開始〜世界中のホワイトハッカーが、成果報酬型で脆弱性を調査〜&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-30T00:00:02.000Z"
+    },
+    {
+      "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
+      "description": "TrendAI、損保ジャパンのサ��バー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-10-29T23:00:00.000Z"
     },
     {
       "title": "損保ジャパン・SOMPOリスク・TrendAIが連携、損保ジャパンのサイバー保険契約者にASMを提供 - クラウド Watch",
@@ -37,32 +58,11 @@
       "publishedAt": "2026-10-29T06:33:00.000Z"
     },
     {
-      "title": "JMAS、AIとエンジニアの目で重要なセキュリティリスクを短期間で可視化する「システム環境 セキュリティ診断サービス」を提供開始 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lSHExY0t1TVFKdzBzUGRIdHMtclJqLU1kWlplV0RFS2dMSklVZ0R2d2pOcjYwOGN5M1d5NjY5WEFQWFVBbHp0TFJxS2dBdDR5WnQ1TzBPbGc1TWxLOFlERG5MZU5Cd01MdDU2ek82Z2lCaUFkb3JaV2xB?oc=5",
-      "description": "JMAS、AIとエンジニアの目で重要なセキュリティリスクを短期間で可視化する「システム環境 セキュリティ診断サービス」を提供開始&nbsp;&nbsp;イザ！",
-      "source": "イザ！",
-      "publishedAt": "2026-10-29T04:00:00.000Z"
-    },
-    {
-      "title": "サイバーステップ株式会社及びNAXA株式会社による攻撃者視点のセキュリティ診断サービスの提供開始に関するお知らせ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUGp3ZURVSGxWX2gxb3dNamNvVUtYc3FNN0pram5LVWh5S1ZDUGcydkNxRjIzN1JlMTVCSEt2aXRzTFJsQkl1ZG9nTUNTNkVZSm5EQk0yWllMQ213WG52MHQzU2pwUkRpeFE?oc=5",
-      "description": "サイバーステップ株式会社及びNAXA株式会社による攻撃者視点のセキュリティ診断サービスの提供開始に関するお知らせ&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T03:36:47.000Z"
-    },
-    {
       "title": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzWS1mdVF4ZnhaM0NoVUpnUnN6UmlFcV9pUXhIcGcxdGtXZWZULW5pOG51cUVnUEY2TGxIS0dDUjE3aFdrTl91WTdCbFNiTUZMQ1ZKRGFjZW0wUzlxNVpBMUg1UUliVjMyaE4zVU1SVjVnYjRvRVpBdnJnNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tQ0NDVG8wUTNiUWpyN01wd3hyZVVlRUxWOHNUM0tyZ3VFMmhEOEFLbTZ6M0diTUo2Rk5lejMyQXdQM3BKZ1VCS0gyc29lSktRbUVYRA?oc=5",
       "description": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始&nbsp;&nbsp;ニコニコニュース",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-28T18:15:22.000Z"
-    },
-    {
-      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
-      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-10-27T05:00:00.000Z"
     },
     {
       "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
