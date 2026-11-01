@@ -2,11 +2,32 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "脆弱性管理クラウド「yamory」、PHPの重大な脆弱性問題の対応状況を振り返るレポートを公開 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcldwaXZzRDRSVmVKaE1zYzNFQ04yX1pFS2Y2Y1dXd0YyaktPZGVxbWNTVGhjbEN2SkVpR1gtajU0VEk4dUg2ODhrdm5wdXYxRml3cFA0bk0wNy1na09ramVaWmVBU29Xa3c?oc=5",
-      "description": "脆弱性管理クラウド「yamory」、PHPの重大な脆弱性問題の対応状況を振り返るレポートを公開&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T07:57:04.000Z"
+      "title": "SynX、SBIリクイディティ・マーケットのFX取引システム全7サイトの脆弱性診断とペネトレーションテスト事例を公開 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwSy05aDR3elBfeGhTM3g2M1pXd05XaUFYbXAxc3E2QkJybDBua1pxQWh4X2lzMWdZR1FTNXRQQVh6a0x2d2U5dFVYOExQbXdEZkx1MEJUSVhxQndQWElhQ2wta0xBMmp2UzNNWFBvcmNndw?oc=5",
+      "description": "SynX、SBIリクイディティ・マーケットのFX取引システム全7サイトの脆弱性診断とペネトレーションテスト事例を公開&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-31T22:10:00.000Z"
+    },
+    {
+      "title": "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？ - IBM",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOHNoN2tsZ3hab2NPM0xiV1RKR2J5ekZIZkNadnVsUF9FZ1laZUdxN0ZhaHlaYmsteXB4T1J6T0ljcVlOS0hRaGktN0VmbDBncnRLV241YjFUVzVkdnpZdk5lLXE1Vjg5eFdNLUZVOGNDQXJp?oc=5",
+      "description": "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？&nbsp;&nbsp;IBM",
+      "source": "IBM",
+      "publishedAt": "2026-10-31T20:20:58.000Z"
+    },
+    {
+      "title": "PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NjJBQ0xBNHY2eWt2UnI1NGZINXM5b01TOHlaSVB6czlhdXktZkxKNlVxaEtvS003dEo2MmhNVW41d0RHbUlaSE1MV2hzTU9mZTN1NFdoYTc5cUdCN3ZvVDdHWkdZbzFSLUNOSEZkMHpBSUFlcTBz0gF8QVVfeXFMUDY0SHI3dHFJbjBOMzlNMDlzMHZBWGUyekkyT2trOTd0aUZoMDUzQW4xTlJCenBuTlZHYlp1cVBxSy1zandhOFBXLWlONG5BU3pUa3prM3V2NVpScXhoRFM4cDd4Si1vZDNzRkxrVXRrS0ZXZFdZcURsdnRVTA?oc=5",
+      "description": "PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-31T00:40:10.000Z"
+    },
+    {
+      "title": "PHP重大脆弱性で国内502件がWeb停止告知、約60%は再開確認できず - JAPANSecuritySummit Update",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QOGk1Q1BqcWI2LThWTExLU2ZESFpqLWJfMDdmNG5wNXRrNG1mQzQ1c0ZTZXQ4OFU4cUo2WjYyQ1VaRnhxMlNnWGZNcGtuNVhuaGI0R016UUk0Zw?oc=5",
+      "description": "PHP重大脆弱性で国内502件がWeb停止告知、約60%は再開確認できず&nbsp;&nbsp;JAPANSecuritySummit Update",
+      "source": "JAPANSecuritySummit Update",
+      "publishedAt": "2026-10-30T23:22:32.000Z"
     },
     {
       "title": "NHN テコラス、AWS環境のWebアプリを対象としたセキュリティ脆弱性診断サービスをAWS Marketplaceで販売 - クラウド Watch",
@@ -23,27 +44,6 @@
       "publishedAt": "2026-10-30T06:30:02.000Z"
     },
     {
-      "title": "株式会社ヴェス、脆弱性管理とEU CRA対応をテーマに2つの無料ウェビナーを開催 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjlrSXFYVmJnS3Ytbl9wYjlnVEliRGhCemVsVllTaEtOTlEyVEtxV2kzWmFLVjZmdGRiU1RWbzQ0a01oOU5kOFk3STJIYVRtVDVGNTZQRjJ2RWxLYzdJS1EybXg3aTg4QlVVTjk0RVdXR2Z5TENlSEdR?oc=5",
-      "description": "株式会社ヴェス、脆弱性管理とEU CRA対応をテーマに2つの無料ウェビナーを開催&nbsp;&nbsp;イザ！",
-      "source": "イザ！",
-      "publishedAt": "2026-10-30T05:57:45.000Z"
-    },
-    {
-      "title": "脆弱性対策ツール「cuonology security」、AWSで検知した脆弱性の修正プルリクエストをGitHubに自動発行 - IT Leaders",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ENVg3V2t6RklPdVJJRTM3QVExelY1N2l6aXJEV1BBYS1keWlRRENaUU9wQTgtWXpFWU92Y00zMHJsQTJDTXlRT1JyNW5pLUVvRHVj?oc=5",
-      "description": "脆弱性対策ツール「cuonology security」、AWSで検知した脆弱性の修正プルリクエストをGitHubに自動発行&nbsp;&nbsp;IT Leaders",
-      "source": "IT Leaders",
-      "publishedAt": "2026-10-30T04:42:54.000Z"
-    },
-    {
-      "title": "IssueHunt、100社限定でバグバウンティの手数料無料キャンペーンを開始〜世界中のホワイトハッカーが、成果報酬型で脆弱性を調査〜 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seXptWlVldDhWOGFXSlkxNUc2czhEcEQ0d0xFOWhsaHZhV1o1N3dxSVdVcUJnYnpDZl9hTUk1eXBiRi15WmtSM1FRUE00ZDJiMTMxRFJPcjlUcFlRSE9TUlZMRkFQejFJZUE?oc=5",
-      "description": "IssueHunt、100社限定でバグバウンティの手数料無料キャンペーンを開始〜世界中のホワイトハッカーが、成果報酬型で脆弱性を調査〜&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T00:00:02.000Z"
-    },
-    {
       "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
       "description": "TrendAI、損保ジャパンのサ��バー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
@@ -58,11 +58,18 @@
       "publishedAt": "2026-10-29T06:33:00.000Z"
     },
     {
-      "title": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tQ0NDVG8wUTNiUWpyN01wd3hyZVVlRUxWOHNUM0tyZ3VFMmhEOEFLbTZ6M0diTUo2Rk5lejMyQXdQM3BKZ1VCS0gyc29lSktRbUVYRA?oc=5",
-      "description": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-28T18:15:22.000Z"
+      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
+      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpbGYwTjBtNFZyWTl5NHhYOGRaRG1MUUs5WVVPZkZEeldkSXFSWmlKRGxyY1laWDhCbkxyVGdJRXVaSWZmekE?oc=5",
+      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;Dellows News",
+      "source": "Dellows News",
+      "publishedAt": "2026-10-23T20:27:14.000Z"
     },
     {
       "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
@@ -77,13 +84,6 @@
       "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-23T01:00:02.000Z"
-    },
-    {
-      "title": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nM3NlZFNFakl3S05sUW0tTEZUcFNqbmhHQmQ4MHllbGIwLVpIMTdYdUUtX2RZRWRJUUZHU3dVcUp6a1VuRnp2TjlYY0hwTGxRWEJBSFVsc1lCazNMbkZnZUw5YVZqTEUwZ3c?oc=5",
-      "description": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
       "title": "継続的エクスポージャー管理：セキュリティチームが2026年に測定すべきこと - eSecurity Planet",

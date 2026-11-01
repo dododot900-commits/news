@@ -2,6 +2,20 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ28tak0zU2F1UDllUmNPaVh2RWlmcFVHYXhhdVlCUXpLTUIycWp2XzYxNHBpWWdlbXhYTl9TTFFPTnI3TlVPc3NvSlNnLXNHM1FhSHE5bHk3b19CQ3h6VU9OUHdQbVkwVHJ1S1JwS0ZRRlZ5YnliM1FFclNjX1VHMWlvMjFjc2pHQWJQZnItTmhCYUhZXzNLN3Z3?oc=5",
+      "description": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-10-31T13:22:07.000Z"
+    },
+    {
+      "title": "CrowdStrike Falconイベント: エクスポートと分析方法 - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVlpzcHl3c2tGVWh1cE1SLWQtOFVoU0htX0J4YTZqTFZaRWQ4aXJQVWp2cnMzMEtsdzR3MWFrZ2IxTk9mdHo3Yi1hY2h5RzNkRmlRY2lRbzVrc0oxM0ZkNHZCUzAyZ0hXbmpteS1pYkd0QTRad3JOTTRsN3F3cWowa0V0Y3k5cEhNOUJEZXdTZWJlSTcyNUdBVUFjb1J2dmtRaWhHa2dZQ2Vjc0gzLWdkdWFuWnM2cl9fLXhwYjctTi1tejRWY2k4YVpyNmNmaDdnbXJEa1hEWFdHLUhtMWUzVGhXWVJ3YWRTS1dfVVRsWVl0ZmcwQmppQ003OGd5UERDRjJINmlNMzJGT2pGZEZRS0pPZ08wNDhVM0RHUnc4cGRaSUJJb1BXOWVlZzFZakMyekIxLVl6cVRldm9SWGZUT1E3UlJEbVdPdUFVX1hB?oc=5",
+      "description": "CrowdStrike Falconイベント: エクスポートと分析方法&nbsp;&nbsp;SOC Prime",
+      "source": "SOC Prime",
+      "publishedAt": "2026-10-30T13:29:59.000Z"
+    },
+    {
       "title": "CrowdStrike：PoCエクスプロイトの88%が48時間以内に使用される - OrcaRouter",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05ZTlrM1hoMWlGekxhMGRFbEo2d1lzZ1JRUDIxVlJ4S0UtVkFwREFaUFFibVFqbEpyZ1BYNDZBYjU2Qk9yTFBhenltYUIwRTc3T3VUeUo3aHhEZmRXeDc0U0N2RE1EeGV6RXd2Q1lGOU5BSzQzaVdFWlVtTjNadw?oc=5",
       "description": "CrowdStrike：PoCエクスプロイトの88%が48時間以内に使用される&nbsp;&nbsp;OrcaRouter",
@@ -11,37 +25,16 @@
     {
       "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化 - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bzB1SzROS1ZzNTVVeWJuVU5pTHFNZEV2M2ZLRm92NVc2ZHFEc04xV3R1MEwwZkptNElxZmtrcndZb0dUMkRRdWJZcHFiY2p4czNvNkZhVk9MaTJCRVhQWUVqZ29YWEV4OXc?oc=5",
-      "description": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの��新調査が示す脅威の変化&nbsp;&nbsp;XenoSpectrum",
+      "description": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化&nbsp;&nbsp;XenoSpectrum",
       "source": "XenoSpectrum",
       "publishedAt": "2026-10-30T02:01:16.000Z"
     },
     {
-      "title": "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkc4RThhZnVKb2tsNVl6TTlTbEl3QUYzRzVaS1FpZC0wWmRFWVhGWTRtVUF0NjlkajUtTjdzMjlWczlZLTAtX0hTLXBGTjMtdVRZclhGb2NSVGs1a1p2WTBYM25ILXB5UEFEWGpTRDQ5eU1kSFQ3T1k0YUNCaS1qUkxpaHhmZkN4UThWcFA2bw?oc=5",
-      "description": "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-10-29T16:42:42.000Z"
-    },
-    {
-      "title": "CloudflareのAIサービスで別のユーザーの情報が応答に混入、155件に影響 - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUlNWWxLVTMtZm4xVzFNRmVZTzdSelFOOXJEREFXcG9MaTJqdk9URE5RYVpicHR5T2wxMkQ1UllXQTVrNkJreW1vMjZ4ZEhmdjh0X1h0YnRuUVQxSHhxYXlXQ1VZaW1tWmRTQUlZUERRQ3dJRW9XTmNsWHR5NmRJRVZ2WXA?oc=5",
-      "description": "CloudflareのAIサービスで別のユーザーの情報が応答に混入、155件に影響&nbsp;&nbsp;株式会社マキナレコード",
-      "source": "株式会社マキナレコード",
-      "publishedAt": "2026-10-29T04:20:15.000Z"
-    },
-    {
-      "title": "PBシステムズ---Cloudflareを活用したサイバーセキュリティ対策を拡充 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVo4MUJlQmllYmJ2aFVYY3c5d1cxOGpKN1NwZ2VPM29fMTdWcHZkTnVQLVN3aHY4emdfVWxpR2FKckxWSXdPRi1uSmxReDJ5eDV6UURnVTIyMXY3aWhmYzBxaGpjMzVnWnpMeHY3V0MxaXhYUF91X2JkU3J5X1RTUnNLR3VYRUtUTHFJUNIBjAFBVV95cUxQcVo4MUJlQmllYmJ2aFVYY3c5d1cxOGpKN1NwZ2VPM29fMTdWcHZkTnVQLVN3aHY4emdfVWxpR2FKckxWSXdPRi1uSmxReDJ5eDV6UURnVTIyMXY3aWhmYzBxaGpjMzVnWnpMeHY3V0MxaXhYUF91X2JkU3J5X1RTUnNLR3VYRUtUTHFJUA?oc=5",
-      "description": "PBシステムズ---Cloudflareを活用したサイバーセキュリティ対策を拡充&nbsp;&nbsp;ｄメニューニュース",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-10-28T23:30:00.000Z"
-    },
-    {
-      "title": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tb2ptRXFCWE00bTgzUUdvRF9ycHYyMlk2WWxybC11ZUlFX2szV2NnYXdlYnRqZTRnM0VlUDE1b05DRlltOGZENnRwZGhlVXRRckh5UDZmMGotZ0w3X3RaVTBZcm51WE1Va2UtUUdxWGNoSVJv?oc=5",
-      "description": "「攻撃側が常に有利」は覆せるか AI同士を戦わせて鍛えるCrowdStrikeの新手法&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-10-27T22:00:00.000Z"
+      "title": "Cloudflare、AIエージェント向けWeb検索APIをベータ提供開始 - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFJOWkhxZG1uYmNhbVZEN3VrOUl4Y3pKVlRKcTdiTXNSbkdHYkFRWGx1T2trMUZoWmJmSUN1RFhIQmtJbVFhMmR6VTB1dTZVbzd1QnBGejhRNlJueFl4N2lCM0RzcnBtRkF5Tk9RZDdJcnNHTjBscmpleFJVNS1iZHRNNU5Kd1NDejJMT0F0aTV4U1lTeklVODN3?oc=5",
+      "description": "Cloudflare、AIエージェント向けWeb検索APIをベータ提供開始&nbsp;&nbsp;news.lavx.hu",
+      "source": "news.lavx.hu",
+      "publishedAt": "2026-10-29T08:40:34.000Z"
     },
     {
       "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
@@ -55,21 +48,14 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkZ2Y0hwbmswbmtLb1NMRGNYd1RPdkdjTHJNVjdRaEllMlNvcDdoV3pIU3RpTlJZaHJ1MzVZOThwenhROVo1V0l4VlBDUENZczFyQjlRalFMN3ZWREpoeFA2T1lXTXc1R1AwOTYwM0JteFBTV3ZTcFpVREttdnM?oc=5",
       "description": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-25T22:54:36.000Z"
+      "publishedAt": "2026-10-25T22:30:00.000Z"
     },
     {
-      "title": "今すぐCato SASEで取り組む！サプライチェーン攻撃対策 - 週刊BCN＋",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZUdYQnc0TWpNSkgzcm9LMzVoSjZiQ0U0d19nRkdlSV93bnI3T0JVTVNpSGlMRVg4T19MRHZTZHU3UzhwT0FHcWxKNFR3ZE5pUlBGVFpEUHVOWXBQaWlkTXRjZnJtamJzdHc?oc=5",
-      "description": "今すぐCato SASEで取り組む！サプライ���ェーン攻撃対策&nbsp;&nbsp;週刊BCN＋",
-      "source": "週刊BCN＋",
-      "publishedAt": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
-      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
-      "source": "remio",
-      "publishedAt": "2026-10-21T04:06:51.000Z"
+      "title": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あると把握 PHPに続きAIで発見加速、専門家は混乱拡大を予測 - https://mediadogs.jp/",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pZ3NJTXB4Q0dveE8zTEZGLTh2eGhvT2ExeWo1TzZYdkpKVnZPamtWUXJuV2I0SkpqS21ubW9FbmNqcW1NMzEtRkZmbm01d2FGMktqNVBwSTJRMzN5QmQtNzJFSzhzRFVfY3U2SHNMTWl5LTBIbDFR?oc=5",
+      "description": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あると把握 PHPに続きAIで発見加速���専門家は混乱拡大を予測&nbsp;&nbsp;https://mediadogs.jp/",
+      "source": "https://mediadogs.jp/",
+      "publishedAt": "2026-10-24T03:27:43.000Z"
     },
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
@@ -79,24 +65,17 @@
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
     {
-      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbGF6VEZXTXZFTm91dk5ObmJ4aUgtVE0zVUJBZXNHR0hjd3d3Zld4M3hiZG9JcXkzN2Q0SWttQnZvNVRvdFAxdW5hdklMZUl6NDUzdjBFY2NHTktRTzhCME1qcWZnWkM0Z215b0stblpDaVAt?oc=5",
-      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-19T07:45:00.000Z"
-    },
-    {
-      "title": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fYmk0YXhfWTF3WXdMVHNWOTlrb1o0cmM0NWtUM3R6WEYweUgxay05RzYyWUR6NzdlRVZLb29wLV8zeDZHd1RDT1hkcw?oc=5",
-      "description": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論&nbsp;&nbsp;ビジネス+IT",
-      "source": "ビジネス+IT",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
       "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
       "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
+      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
+      "source": "ビジネスネットワーク",
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
@@ -107,13 +86,6 @@
       "publishedAt": "2026-10-13T07:00:00.000Z"
     },
     {
-      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
-      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
-      "source": "株式会社マクニカ",
-      "publishedAt": "2026-09-07T11:50:23.000Z"
-    },
-    {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc1lXb3AwbHluaEVfbkdEZlllY3FTeG5wME5GWi0zdzFFaENYOUoxZDMwTjdMN3E2bWNUZnpKRy1mcHVBODZNVktPaFphYUtQUy1nZnc3Q1JkSU9LeTJNMmhxeXdZVzVKeC1CS3FBQzRZdGwt?oc=5",
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
@@ -121,11 +93,39 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NDN1Zy1TVWxmUWlKWXJWOGhOc2RfVmRTenNPa1VHaHZlSWtBOWgyQXI1V2M5SnhvUDhMSFhxb3RyZngzcVZDRWtjVGZFYlAzRHpkSWtwMU55ZHZUYUZLb0JLZGNzZ1k2OVJTcjNLSy1rVVVD?oc=5",
-      "description": "Echo、Minimusの資産を全額現金で買収——セキュアソフトウェア市場の統合進む&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-08-27T07:00:00.000Z"
+      "title": "Made in Japanの安心感とサイバーセキュリティの今 - SKYSEA Client View",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13akl2SDRJbnR6TE5OQnVxd3F5ODF2d0JTZF92cVBtZW9tRUQyekM4bkdJYVZUcmMyY2FsVkRtYW1zMkRJLWprM19ZQjVRTjIzaTlzYU0zdmZEQkdTSGdvYXln?oc=5",
+      "description": "Made in Japanの安心感とサイバーセキュリティの今&nbsp;&nbsp;SKYSEA Client View",
+      "source": "SKYSEA Client View",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
+      "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-28T07:00:00.000Z"
+    },
+    {
+      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
+      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-07-13T07:00:00.000Z"
+    },
+    {
+      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
+      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-06-19T07:00:00.000Z"
+    },
+    {
+      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
+      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-04-24T07:00:00.000Z"
     }
   ]
 }

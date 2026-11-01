@@ -2,6 +2,13 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBra2c0Qm85ZGtkUE16Y3h0LVVPajlRbWFiZ3pqTDItdEpHRjkxdEcyY01WUmMzTmVKY3FOa1JrYmlFeHRReFpOa1p1UQ?oc=5",
+      "description": "クラウドネイティブは「退屈」になった ー「CNCFアニュアルサーベイ2025」が映し出すAI時代のインフラ現実&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-10-31T07:57:03.000Z"
+    },
+    {
       "title": "「ニトリがオンプレ脱却」「旧マルハニチロは販売計画を自動化」 インフラ刷新、AIと自動化のリアル - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeFB6b3U4TndLdFhSbmVfTllNazN4MGFQZzBxMGVfTnA3dGpNM2xMT1I2bHhxazliZGpBckdSVUIwRTg5Umg1bTlPUnZQZmdBYVdFWmV3TndnNWUyQXdlal9YRTZScDZkbUZ1bEc1YzB4Zw?oc=5",
       "description": "「ニトリがオンプレ脱却」「旧マルハニチロは販売計画を自動化」 インフラ刷新、AIと自動化のリアル&nbsp;&nbsp;ITmedia",
@@ -16,25 +23,11 @@
       "publishedAt": "2026-10-30T22:18:14.000Z"
     },
     {
-      "title": "米ガートナー予測、AIインフラ投資3.5兆ドルの減損リスクと2030年ネオクラウド再編の全体像：『ビジネス2.0』の視点 - オルタナティブ・ブログ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oOFhyQ2lYWjQ4V0pEQ1hRcjZJQ3VYem9GU3Izd3NhWWwyWUpudVZJRzVFdUlUbnoyV2Q5eW1qS2xOV3BGSkZOZjlVSEk2UV9Mc0ZRQ2YtN2ZITFl1WktVOFVoaWkxeEhkVTlESA?oc=5",
-      "description": "米ガートナー予測、AIインフラ投資3.5兆ドルの減損リスクと2030年ネオクラウド再編の全体像：『ビジネス2.0』の視点&nbsp;&nbsp;オルタナティブ・ブログ",
-      "source": "オルタナティブ・ブログ",
-      "publishedAt": "2026-10-30T22:01:16.000Z"
-    },
-    {
-      "title": "ChatGPTが業務システムの「入り口」になる？ OracleとOpenAIが発表した4つの新サービス - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmckR5OVEtenJzRkVwemZ2NUpmLWJXdnZnUjBzdTJ6WTVGZ2Q2bDFEM0FHc3ZBeU5pNnZpNVpLRDlDY0FTRGo5bXI2OUJueXRSaFNmRnBqdzc5ellwdmF0TkIxaHdfZFhPZFVacFdrbGw3X1Zf?oc=5",
-      "description": "ChatGPTが業務システムの「入り口」になる？ OracleとOpenAIが発表した4つの新サービス&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-10-28T22:00:00.000Z"
-    },
-    {
-      "title": "「Oracle AI World 2026」2日目、OpenAI連携の「Oracle AI Workspace」発表やOCIへのGoogle TPU導入を明らかに - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNF9BTGk2M202Q3FPY3hhSXAwM2JMSTNOQ3dQT3k0Wm0xRlR6eEx1N09sQzZ6dlVtS3J2bDNOUXRDUnlwenJ5aVdtT2E1YmNxWW9iRHhVSWp1NzRrOWRnU08yMzZmVmIy?oc=5",
-      "description": "「Oracle AI World 2026」2日目、OpenAI連携の「Oracle AI Workspace」発表やOCIへのGoogle TPU導入を明らかに&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-10-28T04:05:16.000Z"
+      "title": "Google Cloud で Claude の利用機会とデプロイの選択肢を拡大 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUxVWk8tV180eWM5VFJzTjk5TjlvS09INm1TNExuVFBGRG1mY3g4aTJ1bXRxYklVbUxjc2gyV1FiZExmNWQ1NVYzN3I2THpjQ2pTSzk5WWsxT2ZjZFNNem5RTWRvdFBQM0xudmhINlVBZW4tdnRlWnU4MEV1V0JYMG50d1V5Zk4zUF8tY3l1QktyYWk2RDU5c1BzZFY5eVliQWVUa29NVl90TlE?oc=5",
+      "description": "Google Cloud で Claude の利用機会とデプロイの選択肢を拡大&nbsp;&nbsp;Google Cloud",
+      "source": "Google Cloud",
+      "publishedAt": "2026-10-29T03:19:42.000Z"
     },
     {
       "title": "アンソロピック、グーグル・クラウドでClaude Platform全機能を一般提供 請求も一本化（ビジネス＋IT） - Yahoo!ニュース",
@@ -44,11 +37,25 @@
       "publishedAt": "2026-10-24T23:45:06.000Z"
     },
     {
-      "title": "当社が利用���るクラウドサービスにおける不正アクセスに関するお知らせ - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Y0FDTHFMbmFoU3B4cHpsOEFXdjc1Y19yZnYyNHJXYk9OT0NLTVlLQV9HRy12Zml3LTJ3NlBqU0h5clZtaHBuVmxIbEdFamc?oc=5",
-      "description": "当社が利用するクラウドサービスにおける不正アクセスに関するお知らせ&nbsp;&nbsp;株式会社エクサウィザーズ",
-      "source": "株式会社エクサウィザーズ",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
+      "title": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5V2JmVzNqenNTXzlzeFh6THcwOS13Z3hpcHZvaDA4c2lyQmF6UkxkazgtcGJaRUl3b05aQ0gtYWNNazNPQ3hrc0JSYTNsTDEtR2pKb19oN29ncjBvWTZDZUhFTXUtMkhaMWh2dA?oc=5",
+      "description": "キングソフトが提供する新たな法人向けクラウドサービス「KINGSOFT Asset Security」の魅力&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-22T07:33:32.000Z"
+    },
+    {
+      "title": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HR0NOWlVCUTdDSlduOUtFQjdzQXVlUWFBa1BxUDlxbjI4SHBEZGxXZ2NUVlNaVWUtRjVDaHU1NlNfVlJQaGJ4LUJKWXBRZmc3UDdiX0pyNGJhUTVDMDJoeA?oc=5",
+      "description": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "title": "日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBocTMtQUpnX1JLVHdsdUdFUXV0Q25OLVhhRmZFa2RIbFFFV09IVUd4clhJeC1seFg1UzNYWDlmaUEwb2dBTmk3TWthMDFSd2N5NmhZTFRQWmZLVjNnM0tFbG1yN1dfREhac3cw?oc=5",
+      "description": "日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-10-16T07:00:00.000Z"
     },
     {
       "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
@@ -63,13 +70,6 @@
       "description": "Secure Source Manager の新機能で CI / CD パイプラインを強化&nbsp;&nbsp;Google Cloud",
       "source": "Google Cloud",
       "publishedAt": "2026-10-01T07:00:00.000Z"
-    },
-    {
-      "title": "フェイルオーバーは本当に動く？ Google Cloudが障害注入機能のプレビュー提供開始 - キーマンズネット",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zUVFmS21uTm1xc3RvZVc2OG1kbzIyZ1p3N2FsUlNFbWpOREFnVV9NQmdnajczcUlpcmZRQmNvb3BsNmFjNzdRSDV0MktBeHl6bVhBamF5MEZkMWlBT3NjLVM5TmlMZw?oc=5",
-      "description": "フェイルオーバーは本当に動く？ Google Cloudが障害注入機能のプレビュー提供開始&nbsp;&nbsp;キーマンズネット",
-      "source": "キーマンズネット",
-      "publishedAt": "2026-09-11T07:00:00.000Z"
     }
   ]
 }
