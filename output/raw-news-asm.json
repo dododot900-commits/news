@@ -2,6 +2,20 @@
   "topic": "asm",
   "articles": [
     {
+      "title": "Forex Robotics、サーバ向け脆弱性対策ツール「kevward」をOSS公開 ― AIエージェントと共につくる防御 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HRWkzNFJiVzJRU0tQbnRWZDVMR0tQalU2U1pmVWFqclA1Q0FpM3NaUTFHSlE3eDRndFFKY0h4QmJDM2UxMjZoc1E1MHpVTExFaXQzMDVMUExhNTdMMUVFNDB6c3RPekgtNmc?oc=5",
+      "description": "Forex Robotics、サーバ向け脆弱性対策ツール「kevward」をOSS公開 ― AIエージェントと共につくる防御&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-01T15:00:01.000Z"
+    },
+    {
+      "title": "【先着3社 限定無料】「AIレビュー顧問」に新プラン『健康診断』を追加。AIで作ったシステムや既存アプリのセキュリティ相談が可能 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93QVZ3aENELTY1Vi1Ca0dKaTU1aEU2YTZXMkVPQmVWZnNWOWV6YURleVJXd0V2aVJoN1N3aEx2LTZrczllQUhZcVV6YkVady1CSnNvdVhhaXUxSXZ6SHhLS0NGRjhPc2cyT1d1bVhlUE5fZw?oc=5",
+      "description": "【先着3社 限定無料】「AIレビュー顧問」に新プラン『健康診断』を追加。AIで作ったシステムや既存アプリのセキュリティ相談が可能&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-01T02:45:24.000Z"
+    },
+    {
       "title": "SynX、SBIリクイディティ・マーケットのFX取引システム全7サイトの脆弱性診断とペネトレーションテスト事例を公開 - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwSy05aDR3elBfeGhTM3g2M1pXd05XaUFYbXAxc3E2QkJybDBua1pxQWh4X2lzMWdZR1FTNXRQQVh6a0x2d2U5dFVYOExQbXdEZkx1MEJUSVhxQndQWElhQ2wta0xBMmp2UzNNWFBvcmNndw?oc=5",
       "description": "SynX、SBIリクイディティ・マーケットのFX取引システム全7サイトの脆弱性診断とペネトレーションテスト事例を公開&nbsp;&nbsp;Infoseek",
@@ -16,37 +30,23 @@
       "publishedAt": "2026-10-31T20:20:58.000Z"
     },
     {
-      "title": "PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NjJBQ0xBNHY2eWt2UnI1NGZINXM5b01TOHlaSVB6czlhdXktZkxKNlVxaEtvS003dEo2MmhNVW41d0RHbUlaSE1MV2hzTU9mZTN1NFdoYTc5cUdCN3ZvVDdHWkdZbzFSLUNOSEZkMHpBSUFlcTBz0gF8QVVfeXFMUDY0SHI3dHFJbjBOMzlNMDlzMHZBWGUyekkyT2trOTd0aUZoMDUzQW4xTlJCenBuTlZHYlp1cVBxSy1zandhOFBXLWlONG5BU3pUa3prM3V2NVpScXhoRFM4cDd4Si1vZDNzRkxrVXRrS0ZXZFdZcURsdnRVTA?oc=5",
-      "description": "PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-31T00:40:10.000Z"
+      "title": "CISAがKEVカタログにMicrosoft SharePointの脆弱性を追加 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenJPZ29qSVZMWjlYejRpQjNsQ2g3V3U3dThhWUp4YXY4VHJsVWpGeVd5Q1loWU5JUVZ0OW4tT0tjdDNqUHlmOV9UWkhLWFNHWUxSYmQ2QlQwTXFtY056cll0MF9KU3pWb3RaY1BNQ2MtMXR2Z3VBZGxOMlpRZU1RUHp6c0ZDcG1tMnNzWjBxNEswc1VoeFBiTU1QVFM?oc=5",
+      "description": "CISAがKEVカタログにMicrosoft SharePointの脆弱性を追加&nbsp;&nbsp;IBM",
+      "source": "IBM",
+      "publishedAt": "2026-10-31T02:41:57.000Z"
     },
     {
-      "title": "PHP重大脆弱性で国内502件がWeb停止告知、約60%は再開確認できず - JAPANSecuritySummit Update",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QOGk1Q1BqcWI2LThWTExLU2ZESFpqLWJfMDdmNG5wNXRrNG1mQzQ1c0ZTZXQ4OFU4cUo2WjYyQ1VaRnhxMlNnWGZNcGtuNVhuaGI0R016UUk0Zw?oc=5",
-      "description": "PHP重大脆弱性で国内502件がWeb停止告知、約60%は再開確認できず&nbsp;&nbsp;JAPANSecuritySummit Update",
-      "source": "JAPANSecuritySummit Update",
-      "publishedAt": "2026-10-30T23:22:32.000Z"
-    },
-    {
-      "title": "NHN テコラス、AWS環境のWebアプリを対象としたセキュリティ脆弱性診断サービスをAWS Marketplaceで販売 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZSDI0b0pLUV8xcVpvY0R4bGpfcFlLNWlNeDhKSlF5LTFuZzd4RE5JRm1iVk9BQU5MWTFIcjE3dmNnWTc2Qm41WXU4eS00UFo3UzdJRGpiRXg2U212QVlDMThLNTRBNW8?oc=5",
-      "description": "NHN テコラス、AWS環境のWebアプリを対象としたセキュリティ脆弱性診断サービスをAWS Marketplaceで販売&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-10-30T07:41:00.000Z"
-    },
-    {
-      "title": "AIの力を、事業と信頼を守る力へ。セラク、AIを活用したセキュリティ診断および対策実装支援サービスを提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zUlhDVFZvNFdCUVBaRFBQem9iQ0Vqdm40czJOSlZaM2ZabThqUGlEQ1FTeHZSTVJzVXFfOUdpWFlySFg2eWV0M09sQWxQV01uOHJTb3MxeDdzNnNHOGYwbFZiX2hOR2ZtMFE?oc=5",
-      "description": "AIの力を、事業と信頼を守る力へ。セラク、AIを活用したセキュリティ診断および対策実装支援サービスを提供開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T06:30:02.000Z"
+      "title": "脆弱性「検知」から「修正PR作成」までを自動化 AIセキュリティソリューション「cuonology security」提供開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PdjVReGF5a3Fuc3VnanBTQ2ZMNWo5WGMtVm53aENRd3NuWUc2ZjBuOG45S2RUOW1uMTBoemF5dTRVMGNXTXgxVkZZUUR0NlRuTk90NWg5dXZRbXFrTXUtUWRyUnN1YUZyUVJrNWk3bTlIX2VKUGhQTWlOcw?oc=5",
+      "description": "脆弱性「検知」から「修正PR作成」までを自動化 AIセキュリティソリューション「cuonology security」提供開始&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-30T10:30:21.000Z"
     },
     {
       "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
-      "description": "TrendAI、損保ジャパンのサ��バー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
+      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
       "source": "INTERNET Watch",
       "publishedAt": "2026-10-29T23:00:00.000Z"
     },
@@ -58,14 +58,14 @@
       "publishedAt": "2026-10-29T06:33:00.000Z"
     },
     {
-      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
-      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-10-27T05:00:00.000Z"
+      "title": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tQ0NDVG8wUTNiUWpyN01wd3hyZVVlRUxWOHNUM0tyZ3VFMmhEOEFLbTZ6M0diTUo2Rk5lejMyQXdQM3BKZ1VCS0gyc29lSktRbUVYRA?oc=5",
+      "description": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-28T18:15:22.000Z"
     },
     {
-      "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - Dellows News",
+      "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プ���ン」の無償提供を開始 - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpbGYwTjBtNFZyWTl5NHhYOGRaRG1MUUs5WVVPZkZEeldkSXFSWmlKRGxyY1laWDhCbkxyVGdJRXVaSWZmekE?oc=5",
       "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;Dellows News",
       "source": "Dellows News",
@@ -93,18 +93,18 @@
       "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
-      "title": "Tenable Network Security Japan、「Claude Mythos 5」をエクスポージャー管理に活用 - 週刊BCN＋",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CellRYmJxVGhxRjE4djRqRnFYMFIxNF8zclNfR0lWVmJQN29xaVhVc0tWSURrNTR0MU1rRHNUbXBVX2JmWV9oNGJodmJ3NEJNNEZCWTJtaVVEWFNmMkZsMUxoNzA1VVFkd1hweVEwaUhMbFpC?oc=5",
-      "description": "Tenable Network Security Japan、「Claude Mythos 5」をエクスポージャー管理に活用&nbsp;&nbsp;週刊BCN＋",
-      "source": "週刊BCN＋",
-      "publishedAt": "2026-09-30T07:00:00.000Z"
-    },
-    {
       "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOC1tVnVtbGE1NzJ6NWNPRlpOemx2U2ZRajhnSWJ0NGRHZ2VuTXpMdE1VVlJWOUFGenZneFI1bHJsTk96N0xPZUoydHpCYlNuUkl3OHpR?oc=5",
       "description": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-09-29T07:00:00.000Z"
+    },
+    {
+      "title": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNlF5QTQ3YmZpdEEyVUUwbFp4LWcyaHRhZUo4Vk9WeWZhZ2JROVMta0RsQmhUbmdwOWtxb0xhRHdySlBKMFZJWmg0SzB0M25xUDFJOHlKWVEydFBnZkVZdTFzUXowaktTemJr?oc=5",
+      "description": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-07-31T07:00:00.000Z"
     }
   ]
 }

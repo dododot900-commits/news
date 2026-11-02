@@ -23,7 +23,7 @@
       "publishedAt": "2026-10-30T05:17:22.000Z"
     },
     {
-      "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化 - XenoSpectrum",
+      "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威��変化 - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bzB1SzROS1ZzNTVVeWJuVU5pTHFNZEV2M2ZLRm92NVc2ZHFEc04xV3R1MEwwZkptNElxZmtrcndZb0dUMkRRdWJZcHFiY2p4czNvNkZhVk9MaTJCRVhQWUVqZ29YWEV4OXc?oc=5",
       "description": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化&nbsp;&nbsp;XenoSpectrum",
       "source": "XenoSpectrum",
@@ -35,6 +35,13 @@
       "description": "Cloudflare、AIエージェント向けWeb検索APIをベータ提供開始&nbsp;&nbsp;news.lavx.hu",
       "source": "news.lavx.hu",
       "publishedAt": "2026-10-29T08:40:34.000Z"
+    },
+    {
+      "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42dklac3VJVFhETmVfeDdUOXJZOFQtaEs5Rk1OWi1ISHFLcmp5NXM4Tk5NdzI0MHREc2RmZmI5NWxwd0JhVVhrSzVxTUdmVnNtd2t0Zko4WnJqLW9DUFFTMnkzajBNYzdVcWc?oc=5",
+      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE���品検証」の候補製品に&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-27T01:10:01.000Z"
     },
     {
       "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
@@ -51,11 +58,11 @@
       "publishedAt": "2026-10-25T22:30:00.000Z"
     },
     {
-      "title": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あると把握 PHPに続きAIで発見加速、専門家は混乱拡大を予測 - https://mediadogs.jp/",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pZ3NJTXB4Q0dveE8zTEZGLTh2eGhvT2ExeWo1TzZYdkpKVnZPamtWUXJuV2I0SkpqS21ubW9FbmNqcW1NMzEtRkZmbm01d2FGMktqNVBwSTJRMzN5QmQtNzJFSzhzRFVfY3U2SHNMTWl5LTBIbDFR?oc=5",
-      "description": "CloudflareのプリンスCEO、ほかの重要ソフトにも深刻な脆弱性が多数あると把握 PHPに続きAIで発見加速���専門家は混乱拡大を予測&nbsp;&nbsp;https://mediadogs.jp/",
-      "source": "https://mediadogs.jp/",
-      "publishedAt": "2026-10-24T03:27:43.000Z"
+      "title": "Cloudflare、地域データ主権のためのポスト量子ハイブリッドML-KEM-768暗号化対応GeoKey Managerを発表 - QUANTUM BUSINESS MAGAZINE -",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQ0NTMTgxSXZjNXhnU1pnQTJEWDR4aERheXJBWjQ3NVQweklzQzFFbWNBVFh1NWlhdkUwQ0Yxd2RJYWRjQ2duZHhyekJMRWI0OXVvc0MyR3BBWEFLc0xxQVQ0SExGQXhheVFPY1kzbUZRcXFuZzB6Z0dFZXdINGhYdlRrOFlLc3lsWkNGaklUN2d4RkR1b2ZNYTl0b0tldTNZc0RNSmtrbXkwZTA5YXo4Ny1Zdl96bUkxVnJIWVZTWExwMjQyU20wN0JHUDZNeWJOS2pUX0JLekVQM3hQU3Z6MHVrcl9DMW56QVVlRFNYSXhaWHBQeDFKN2RRRS1naFBxNWdOakF5S0ZaOG5pbmd0eXJ2RVNPVGU1amtqTC02WGZFN203blVaeWFrOVJwX0Vuc2V1WjFfUTFCejNGYjU4bmVleC13X0VrVFdXOWlhcE93VEx5cXVXZlpKRXBvaGFSWGhQMVl3?oc=5",
+      "description": "Cloudflare、地域データ主権のためのポスト量子ハイブリッドML-KEM-768暗号化対応GeoKey Managerを発表&nbsp;&nbsp;QUANTUM BUSINESS MAGAZINE -",
+      "source": "QUANTUM BUSINESS MAGAZINE -",
+      "publishedAt": "2026-10-24T07:09:15.000Z"
     },
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
@@ -65,6 +72,20 @@
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
     {
+      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyM19XcnJUeGhYNkFQYTNQdXA4R3FLV1p3UUtFYzZ1a19IOENyQmxNekdrdjN5U2JMYVlIdXh0STJfN2ktc1RQd3NJLXVkaS0wRkN4Sg?oc=5",
+      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコ��ュース",
+      "publishedAt": "2026-10-19T07:00:00.000Z"
+    },
+    {
+      "title": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fYmk0YXhfWTF3WXdMVHNWOTlrb1o0cmM0NWtUM3R6WEYweUgxay05RzYyWUR6NzdlRVZLb29wLV8zeDZHd1RDT1hkcw?oc=5",
+      "description": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-10-15T07:00:00.000Z"
+    },
+    {
       "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
       "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
@@ -72,18 +93,11 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
-      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
-      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
-      "source": "ビジネスネットワーク",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "title": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化 - キヤノンマーケティングジャパングループ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dExrM2loY2YyOXl4a1NWZTQ4U2UtTWVGYWRiY2plUUNsa0xtUkZta29WWXd3RnRZQkRVbGpSbUFOZDRWdHJHZVdPSnE0d182LWk5ejY1RldDdlp3NWt2b2E1MW8zWFNsM3duRXln?oc=5",
-      "description": "業界初のプリンターEDR技術でオフィス向け複合機・プリンターのセキュリティーを強化&nbsp;&nbsp;キヤノンマーケティングジャパングループ",
-      "source": "キヤノンマーケティングジャパングループ",
-      "publishedAt": "2026-10-13T07:00:00.000Z"
+      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
+      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
+      "source": "株式会社マクニカ",
+      "publishedAt": "2026-09-07T11:50:23.000Z"
     },
     {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
@@ -100,25 +114,11 @@
       "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
-      "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4X3hxaDJacmxNUkNiMWVFT2lqWHhncFA5OXQ0TWhnTnFCSzFVRF9hcms2NVZhOURwaEw3dFl3eEF3WTl1aU9sUXVPQ25OSWVuZW5kOTFXRktrU21ZX1FPTTZwNk43QnYzNXJVWGt2TWEwaVI2WFFXUE9KVm9kM3c?oc=5",
-      "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞（BCN）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
+      "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞 (週刊BCN＋) - NewsPicks",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2NkRVVEp6LWdOcUpPS3ZyaVpZTjFoU0dQU3R3VE5fOVhuN19GZVZBTFE0dTQ3RjVmdy1MVnNOeDJab0pqMUMyd3Z4Vk4?oc=5",
+      "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞 (週刊BCN＋)&nbsp;&nbsp;NewsPicks",
+      "source": "NewsPicks",
       "publishedAt": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
-      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-07-13T07:00:00.000Z"
-    },
-    {
-      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
-      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-06-19T07:00:00.000Z"
     },
     {
       "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",

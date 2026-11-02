@@ -2,18 +2,11 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "シナモンAI、企業ナレッジ基盤「Super RAG(TM)」を機能強化 初期導入費用70万円(税別) からの「Starterプラン」を提供開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmNjlMWGl1X1ZvWnlMVjRxWDNNWF9qSlNaNDAyM2lMc1d0NWpKT2xWZDJwam1iQnBrZGw2NktIVW1sZHM0eFJpTE54RWU3ZWtjcjM1d2IxRUZkUHVTMC1XQnJYam1CRUlqM1ZXa25aVXVXZw?oc=5",
-      "description": "シナモンAI、企業ナレッジ基盤「Super RAG(TM)」を機能強化 初期導入費用70万円(税別) からの「Starterプラン」を提供開始&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-31T22:40:00.000Z"
-    },
-    {
-      "title": "『非IT企業』×生成AIの新市場をつくる経営人材へ。株式会社Stock、COO公募プロジェクトを始動 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0za09GeW9qT29JSXBVMkNxSXVLNEpuOFNpVHJWQ2hKZ1k2TW9KWUQtaDZwcWRaMlQycFctSzVoZTViMXE1NGJkS1ZkMXRfYlhfd0RmOEhaVzFZM2hOTVZ5X1V0c1JVeTc4dlRDRnpMZDk0aU0?oc=5",
-      "description": "『非IT企業』×生成AIの新市場をつくる経営人材へ。株式会社Stock、COO公募プロジェクトを始動&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-31T05:15:00.000Z"
+      "title": "【生成AIの事例トレンド】「試用」から「本格的な組み込み」のフェーズへ - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfbXZGWFI0bXNicThEWU9mbUZQSElmalpVbjJaUlRpdms1ajFJM3pQZU9fNnZxU2IxbjhRWXVJb2NoRDUwdFdUcnlzZw?oc=5",
+      "description": "【生成AIの事例トレンド】「試用」から「本格的な組み込み」のフェーズへ&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-10-31T19:37:03.000Z"
     },
     {
       "title": "AIエージェントは「実運用」が主流に 「明確な成果」を得る企業の共通点は？ - ITmedia",
@@ -23,6 +16,13 @@
       "publishedAt": "2026-10-30T22:00:00.000Z"
     },
     {
+      "title": "ChatGPT Businessプランとは？法人導入に必要な機能・料金・注意点を徹底解説 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WUhjMkZNczhPcG04NU1hNHlNQXE3M0pIaElpN2Nrb3k3WVNqQ3NNQzgtTXN3eGRzNjB5dFFvbVNBaTdjX19BdnpXVXRKdklWNlZZWmdYbjV6Ym13TUg1Mkt1bw?oc=5",
+      "description": "ChatGPT Businessプランとは？法人導入に必要な機能・料金・注意点を徹底解説&nbsp;&nbsp;AIsmiley",
+      "source": "AIsmiley",
+      "publishedAt": "2026-10-30T07:00:00.000Z"
+    },
+    {
       "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
       "description": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結&nbsp;&nbsp;ThinkIT",
@@ -30,9 +30,16 @@
       "publishedAt": "2026-10-29T21:46:09.000Z"
     },
     {
+      "title": "「AI投資＝米国株」はもう古い？ 10月新設ファンドが示す、AIの成長・普及に欠かせない「意外な投資先」（Finasee） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JMEw4cW40MDFtbW4wVFgtOGt2QTZoQ09WZkRQRU1CX1JHb2VTUVRzMUJLSDd4dXRoVVhkTE5TbzZSa3YtRXYxUllJenV4RlVrQzhPb0lHZE0xd3lhY05rcFd1YlFrc0JzMHM2dy1BUDc1dVQ0Uzc0WlJUVF9BVEU?oc=5",
+      "description": "「AI投資＝米国株」はもう古い？ 10月新設ファンドが示す、AIの成長・普及に欠かせない「意外な投資先」（Finasee）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-27T08:32:20.000Z"
+    },
+    {
       "title": "AIガードレール、マルチクラウド、API共創。サイオステクノロジーが考える次世代プラットフォーム戦略 - IBM",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02dTV1UjB5aGcxOV95a09jVlBoQ0I0N3UwM0k1TlpqdHJBZlN0SnpfTm1NMXVLMm5vZ2tKTmlrUUVqUl9xU3dvcGhrbm1uUThqaWc0bVJvR2pUNmZfUmdkSWFMN18ycEVPaXI5dG40al94NEdfQ0RMdktpUUQ1VFk?oc=5",
-      "description": "AIガードレール、マルチクラウド、API共創。サイオステクノロジーが考える次世代プラットフォーム戦略&nbsp;&nbsp;IBM",
+      "description": "AIガードレール、マルチクラ���ド、API共創。サイオステクノロジーが考える次世代プラットフォーム戦略&nbsp;&nbsp;IBM",
       "source": "IBM",
       "publishedAt": "2026-10-13T19:45:50.000Z"
     },
@@ -44,18 +51,11 @@
       "publishedAt": "2026-10-13T07:00:00.000Z"
     },
     {
-      "title": "日本のナノテクノロジー市場規模、2034年までに78億30万米ドルに到達へ（CAGR 27.78%で成長） - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sTklyRDZiVUJxcURaTUpublhVQlRpM2ktUV8xUEd0eS1kekFjbGNXUDN1OEFBdGJTVDBSdTZVc1ZUbHNuSnAtWGFoREw0YVE?oc=5",
-      "description": "日本のナノテクノロジー市場規模、2034年までに78億30万米ドルに到達へ（CAGR 27.78%で成長）&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-07T07:00:00.000Z"
-    },
-    {
-      "title": "データサイエンティストを頼らず機械学習モデルを構築できる新ソリューション──SAS Institute - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56eDM1LUVsMjdnTTNqc1FMMDctWlN1cERvRjNZb1RlOUMxYlpQQ2lDZzZCdEU4N25paFhrQ29KaFIxa1liTVFXTDVTU0FXRC1xTDBOVmNR?oc=5",
-      "description": "データサイエンティストを頼らず機械学習モデルを構築できる新ソリューション──SAS Institute&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-08-05T07:00:00.000Z"
+      "title": "機械学習で患者の状態変化を提示する血行動態モニタリングプラットフォーム：医療機器ニュース - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcTZOcG1Bc0k2SWVTQ05jNzRvQ3EzSXRDdnRCc2ROaXViVnE2ZS1PdWFSZXFUQzl6b25xZXJfZDdfMFBpQkhlb2J5UzFqRVFtZGlKNHk3Skp0bV82eFNuZW8zOGpDa3NqZjZ0SUlSMA?oc=5",
+      "description": "機械学習で患者の状態変化を提示する血行動態モニタリングプラットフォーム：医療機器ニュース&nbsp;&nbsp;MONOist",
+      "source": "MONOist",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
     },
     {
       "title": "GPUサーバーオンプレミス導入で加速するクリエイティブ×機械学習の創作支援機能研究｜ペイントアプリ「CLIP STUDIO PAINT」を手がけるセルシスの挑戦 - NTTPCコミュニケーションズ",
@@ -65,11 +65,11 @@
       "publishedAt": "2026-04-20T07:00:00.000Z"
     },
     {
-      "title": "プラント機器を低コストで実機投入できる： 機械学習を活用した熱流動場予測モデルの構築 - Mitsubishi Heavy Industries, Ltd.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnZzlNUTdGbFQ1eXJadFpMV2U1emdYYWsxNzROa0lBb2JuWkZsMlRTanZUNkVIek5tNXUwTkVWa2JhSi1jUlN5b0hpMm9XcU5wc3c4emFXaXVRUW9XZ0VjdDFrblM0NG5J?oc=5",
-      "description": "プラント機器を低コストで実機���入できる： 機械学習を活用した熱流動場予測モデルの構築&nbsp;&nbsp;Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "publishedAt": "2026-02-04T15:09:46.000Z"
+      "title": "サムライズ、高度な統計分析、 多くの機械学習アルゴリズムを備えた統計解析ソフトウェア 「IBM SPSS」のポータルサイトを3月12日にリニューアル - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zTF9Rc3JVUHp0VUpIZ01RcWZQcERTSzlGaC1GQU5kMlNKbHJXNXZUTklmNlEzRUVZMkZIcGltZTA4MUpXd3Mw?oc=5",
+      "description": "サムライズ、高度な統計分析、 多くの機械学習アルゴリズムを備えた統計解析ソフトウェア 「IBM SPSS」のポータルサイトを3月12日にリニューアル&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-03-12T07:00:00.000Z"
     }
   ]
 }
