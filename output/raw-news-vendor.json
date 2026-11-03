@@ -2,6 +2,20 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "ClickFixキャンペーンが偽のCloudflare検証を利用 - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGZCSk1nVTN6RkNiWVNnNVNKSUtpTnUtZzZSX2dVM19XdDRINndDbzJjRDJjcmxSSDdWTHV0VnotcnlGVm5BTUFTVlFkS1BIU3ljblNmV2ZVU1pud0tBRDVNUFpWR19tY19XYnlFTTdTSFRBbV9NYTdSbERYMy1UMFBvbldoNVRqanZQa2hHWUZqTzNEM3FWdGxxRVlLNkY5?oc=5",
+      "description": "ClickFixキャンペーンが偽のCloudflare検証を利用&nbsp;&nbsp;SOC Prime",
+      "source": "SOC Prime",
+      "publishedAt": "2026-11-02T14:59:19.000Z"
+    },
+    {
+      "title": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMDRJSUlzRk1wOFc0SmhVcjBqZWpoZGx0UmFXQVN3ZG15Vmp2SkVEQjFHVGRYMFhZRGxPcDV0cFlnWjYzWEZDc1lTY05vYVhaWno4VVRGczRGaF9PR2t6OVRzODNCZw?oc=5",
+      "description": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-02T03:19:00.000Z"
+    },
+    {
       "title": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃 - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ28tak0zU2F1UDllUmNPaVh2RWlmcFVHYXhhdVlCUXpLTUIycWp2XzYxNHBpWWdlbXhYTl9TTFFPTnI3TlVPc3NvSlNnLXNHM1FhSHE5bHk3b19CQ3h6VU9OUHdQbVkwVHJ1S1JwS0ZRRlZ5YnliM1FFclNjX1VHMWlvMjFjc2pHQWJQZnItTmhCYUhZXzNLN3Z3?oc=5",
       "description": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃&nbsp;&nbsp;Pasquale Pillitteri",
@@ -23,23 +37,16 @@
       "publishedAt": "2026-10-30T05:17:22.000Z"
     },
     {
-      "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威��変化 - XenoSpectrum",
+      "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化 - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bzB1SzROS1ZzNTVVeWJuVU5pTHFNZEV2M2ZLRm92NVc2ZHFEc04xV3R1MEwwZkptNElxZmtrcndZb0dUMkRRdWJZcHFiY2p4czNvNkZhVk9MaTJCRVhQWUVqZ29YWEV4OXc?oc=5",
       "description": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化&nbsp;&nbsp;XenoSpectrum",
       "source": "XenoSpectrum",
       "publishedAt": "2026-10-30T02:01:16.000Z"
     },
     {
-      "title": "Cloudflare、AIエージェント向けWeb検索APIをベータ提供開始 - news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFJOWkhxZG1uYmNhbVZEN3VrOUl4Y3pKVlRKcTdiTXNSbkdHYkFRWGx1T2trMUZoWmJmSUN1RFhIQmtJbVFhMmR6VTB1dTZVbzd1QnBGejhRNlJueFl4N2lCM0RzcnBtRkF5Tk9RZDdJcnNHTjBscmpleFJVNS1iZHRNNU5Kd1NDejJMT0F0aTV4U1lTeklVODN3?oc=5",
-      "description": "Cloudflare、AIエージェント向けWeb検索APIをベータ提供開始&nbsp;&nbsp;news.lavx.hu",
-      "source": "news.lavx.hu",
-      "publishedAt": "2026-10-29T08:40:34.000Z"
-    },
-    {
       "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42dklac3VJVFhETmVfeDdUOXJZOFQtaEs5Rk1OWi1ISHFLcmp5NXM4Tk5NdzI0MHREc2RmZmI5NWxwd0JhVVhrSzVxTUdmVnNtd2t0Zko4WnJqLW9DUFFTMnkzajBNYzdVcWc?oc=5",
-      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE���品検証」の候補製品に&nbsp;&nbsp;PR TIMES",
+      "description": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-27T01:10:01.000Z"
     },
@@ -51,18 +58,18 @@
       "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
-      "title": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTkZ2Y0hwbmswbmtLb1NMRGNYd1RPdkdjTHJNVjdRaEllMlNvcDdoV3pIU3RpTlJZaHJ1MzVZOThwenhROVo1V0l4VlBDUENZczFyQjlRalFMN3ZWREpoeFA2T1lXTXc1R1AwOTYwM0JteFBTV3ZTcFpVREttdnM?oc=5",
-      "description": "SCSKセキュリティ、リスク起点で全体最適を図る「ゼロトラストアーキテクチャ設計サービス」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-25T22:30:00.000Z"
+      "title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（4/4枚目） - ITmedia エグゼクティブ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS20zVzBzRFBZZkFPdC1saUo0WlpqTUtfNWo3OGM1WkdhbVhfLUM4RHAxMnI3U1RxR0pmNGR5aTRBQXc0YlNxUDNQU0MtdTZMNE4taFNMVmMyLXhDVk9BT0FlVk5iYlU0Zm5PN0I3X3A4cGxYY3hLOE1YQzRWTjFKbHp5dXdxeVRuR2didDd1OERIQQ?oc=5",
+      "description": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（4/4枚目）&nbsp;&nbsp;ITmedia エグゼクティブ",
+      "source": "ITmedia エグゼクティブ",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
     },
     {
-      "title": "Cloudflare、地域データ主権のためのポスト量子ハイブリッドML-KEM-768暗号化対応GeoKey Managerを発表 - QUANTUM BUSINESS MAGAZINE -",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQ0NTMTgxSXZjNXhnU1pnQTJEWDR4aERheXJBWjQ3NVQweklzQzFFbWNBVFh1NWlhdkUwQ0Yxd2RJYWRjQ2duZHhyekJMRWI0OXVvc0MyR3BBWEFLc0xxQVQ0SExGQXhheVFPY1kzbUZRcXFuZzB6Z0dFZXdINGhYdlRrOFlLc3lsWkNGaklUN2d4RkR1b2ZNYTl0b0tldTNZc0RNSmtrbXkwZTA5YXo4Ny1Zdl96bUkxVnJIWVZTWExwMjQyU20wN0JHUDZNeWJOS2pUX0JLekVQM3hQU3Z6MHVrcl9DMW56QVVlRFNYSXhaWHBQeDFKN2RRRS1naFBxNWdOakF5S0ZaOG5pbmd0eXJ2RVNPVGU1amtqTC02WGZFN203blVaeWFrOVJwX0Vuc2V1WjFfUTFCejNGYjU4bmVleC13X0VrVFdXOWlhcE93VEx5cXVXZlpKRXBvaGFSWGhQMVl3?oc=5",
-      "description": "Cloudflare、地域データ主権のためのポスト量子ハイブリッドML-KEM-768暗号化対応GeoKey Managerを発表&nbsp;&nbsp;QUANTUM BUSINESS MAGAZINE -",
-      "source": "QUANTUM BUSINESS MAGAZINE -",
-      "publishedAt": "2026-10-24T07:09:15.000Z"
+      "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
+      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュ��スメディアVOIX",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
@@ -72,10 +79,10 @@
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
     {
-      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyM19XcnJUeGhYNkFQYTNQdXA4R3FLV1p3UUtFYzZ1a19IOENyQmxNekdrdjN5U2JMYVlIdXh0STJfN2ktc1RQd3NJLXVkaS0wRkN4Sg?oc=5",
-      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコ��ュース",
+      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBYVo3ZXE5MjU4ZTdtOU1qdldYR0hIdzRvQVg5OUU3b0JhTmVnOWota1VSLVZWd1ZHOG5jVFBqNVcySjFBaEh6aVpmM2U3NjZjNnFWaFJ5NGlvQWxtUWw1U08ya3JmOFVVMFRRdWdwa2NPQQ?oc=5",
+      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
       "publishedAt": "2026-10-19T07:00:00.000Z"
     },
     {
@@ -84,13 +91,6 @@
       "description": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論&nbsp;&nbsp;ビジネス+IT",
       "source": "ビジネス+IT",
       "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
-      "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
       "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
@@ -107,13 +107,6 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "Made in Japanの安心感とサイバーセキュリティの今 - SKYSEA Client View",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13akl2SDRJbnR6TE5OQnVxd3F5ODF2d0JTZF92cVBtZW9tRUQyekM4bkdJYVZUcmMyY2FsVkRtYW1zMkRJLWprM19ZQjVRTjIzaTlzYU0zdmZEQkdTSGdvYXln?oc=5",
-      "description": "Made in Japanの安心感とサイバーセキュリティの今&nbsp;&nbsp;SKYSEA Client View",
-      "source": "SKYSEA Client View",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
-    },
-    {
       "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞 (週刊BCN＋) - NewsPicks",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2NkRVVEp6LWdOcUpPS3ZyaVpZTjFoU0dQU3R3VE5fOVhuN19GZVZBTFE0dTQ3RjVmdy1MVnNOeDJab0pqMUMyd3Z4Vk4?oc=5",
       "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞 (週刊BCN＋)&nbsp;&nbsp;NewsPicks",
@@ -126,6 +119,13 @@
       "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-04-24T07:00:00.000Z"
+    },
+    {
+      "title": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始 - セーフィー株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zWWZJZndYdDVvXzFMT1A4QlNmbUZHUmxMMlplclozUUp5c04tV0twMFloNG1DUDZrdjFQSk1TLW5fYTQ4?oc=5",
+      "description": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始&nbsp;&nbsp;セーフィー株式会社",
+      "source": "セーフィー株式会社",
+      "publishedAt": "2026-03-12T07:00:00.000Z"
     }
   ]
 }

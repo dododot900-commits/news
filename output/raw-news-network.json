@@ -2,6 +2,13 @@
   "topic": "network",
   "articles": [
     {
+      "title": "Genians 内部PHP機器の96％に脆弱性確認 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rWGFaUGliUDMzTEpPT1RmYUl3TXdFNlc1T0xzSW5xWGRzT3NEeUpncmRNaEd2WVpTbUtKZzZqOVJaS1dFUXZDa0x2MUUzN3pkbF9mSk5hS0RheVVfekxvcUcwQlVWNUUtVHA4NUhoSnBhTlZ0TllCV0VB0gGOAUFVX3lxTE5wV3NtVldyNnkxWGR3QjJubFQxYV9QUlo1ZVhLN1Q3NkdFU05CYjZpNWw2aEViR0luTDFMQzczTlMyNFJfVE5xdVBOeDluc0lLMkVtUGFpQjNFQzdfMVhnWlU5amxkYU5HREMwQkNZYzJhTkYwcE82ZC1YajlrZ2FZeWhkTmpWZWpQU29IVlE?oc=5",
+      "description": "Genians 内部PHP機器の96％に脆弱性確認&nbsp;&nbsp;Chosunbiz",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-10-30T06:50:00.000Z"
+    },
+    {
       "title": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhQWRVcWFvQ1JoaE5HcGdDb0poTzI5blNPV2JVNU5IVHN3cmxMTWlfYU1CQTNMYjZza1h1M1pMYmhNaWUzMUR4YWhSTE5wa0dFRWNzNHAtbEtQbWhGS0RtOTAyeTdzbE91Y1JySXZzODBidmtw?oc=5",
       "description": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」&nbsp;&nbsp;BigGo ファイナンス",
@@ -9,18 +16,11 @@
       "publishedAt": "2026-10-30T05:55:00.000Z"
     },
     {
-      "title": "KDDI、企業システムやネットワークのセキュリティリスク診断を効率化する「AI脆弱性管理ソリューション」を提供 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aSEY0OWM1UjgwWmM3dkpYUUZhckpRNkRsaTdsakFmS3RhdEc0VDJNSVJKcXB1bjZaQ1NKSkJjNlgxZm9FUEQ0LWJhbVUtc3o0alFKellvNmRrU1prazcxWFp5WjRibUE?oc=5",
-      "description": "KDDI、企業システムやネットワークのセキュリティリスク診断を効率化する「AI脆弱性管理ソリューション」を提供&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-10-28T23:00:00.000Z"
-    },
-    {
-      "title": "KDDI、リスク診断・対処を効率化する「AI脆弱性管理ソリューション」を提供開始 - ビジネスネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QYTR2N3NPWjJDSmt6ZXhfakpla05HRGtXYS0xdFhNU25EVnZLaTk4alRNUERsNFEwYVNjRGFZeHUyNjRPV1BWd3d1RnhiTnhfRlZr?oc=5",
-      "description": "KDDI、リスク診断・対処を効率化する「AI脆弱性管理ソリューション」を提供開始&nbsp;&nbsp;ビジネスネットワーク",
-      "source": "ビジネスネットワーク",
-      "publishedAt": "2026-10-28T05:49:40.000Z"
+      "title": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SVjFMUTlmQm9vZEFsWkZyV2k1ZXZVLXJiWllzVTY4TU5LeDltVFRyMDRwZWk2Q3pSc3FvOF9Ud0R2Q2xnU19KVlRXTXdWa1pUS1NQLUx1QUJkemlZWE43cmp4VGJFN2V3QzM0?oc=5",
+      "description": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-10-29T21:30:00.000Z"
     },
     {
       "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
@@ -44,7 +44,7 @@
       "publishedAt": "2026-10-15T07:00:00.000Z"
     },
     {
-      "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
+      "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー���撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjJUdVpUZEpKUlBDYTg1WWZXREM2YldHbWg3WnhVWFRIaXB3bTQ1NW9TMDJjaWlaaWZXZUlGWjdFV1NyWmEzNnhwMVVKV0EzM1FqczRuRmp4OC1Ta2QzcnA5dDVMRlVKSVh2NlYxWTgtRHJOeU8zYnFXVzJIRDJoOEpVRlBDblA4RVFwajhqbng0RHlzRi1xbA?oc=5",
       "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
@@ -58,18 +58,18 @@
       "publishedAt": "2026-10-12T07:00:00.000Z"
     },
     {
-      "title": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032年の世界市場予測 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lclhzOGZScWxqS2ZQbTVzMXlQY0JPenk4cEdBMVhXT18yMWdxTU9TTUNrMjQ5NTlmZ0JIaGN1MjU2bEY3UjNEM0piTUxSWHM?oc=5",
-      "description": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032年の世界市場予測&nbsp;&nbsp;Newscast.jp",
+      "title": "AIファイアウォールハードウェアの世界市場（2026年～2032年）、市場規模（1U、2U、その他）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xNm41OTJDQi1hY3duYkZnaEhRQkF2SzdmbDFYcnJzSjNxVTJjLV94OHFpWU8tcXpBUVc2Qk0xcmdfejhrMHpLTTNRTk1USHc?oc=5",
+      "description": "AIファイアウォールハードウェアの世界市場（2026年～2032年）、市場規模（1U、2U、その他）・分析レポートを発表&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
-      "publishedAt": "2026-10-05T07:00:00.000Z"
+      "publishedAt": "2026-10-07T07:00:00.000Z"
     },
     {
-      "title": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ3FVUDkwdlRlZDk2b0hVV1RSRWZWSnptTURIVUljMzFWM2l5Qlo2RFhDanNVN0t2bU5ldUdCdEFTNHNtSm9maUVxNURNa0QtYkUxTHVfamxYdlFSWDJtMk94TjEweDZlWTRuV1pELWdoQQ?oc=5",
-      "description": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-04-21T07:00:00.000Z"
+      "title": "IIJ、SD-WANサービス「IIJ Omnibusサービス」に10Gbps接続を追加 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xNzdFbWxyUUdwWU80Um9PcXgzb0ZYVVdMZUIzM1EzbDRyNlkyWWlOR0wzYlBFZTdZWGlqX3pxbTk3TFh4MDFGb2FsZUlxWDJPT3I1TXRiaGNfWUNkWldEZHNPNVJNTWs?oc=5",
+      "description": "IIJ、SD-WANサービス「IIJ Omnibusサービス」に10Gbps接続を追加&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-10-05T07:00:00.000Z"
     }
   ]
 }
