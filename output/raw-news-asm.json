@@ -2,18 +2,32 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "webアプリ診断 「AIを活用した中小企業向け脆弱性診断・自動管理ツール」専門人材ゼロ 月額2,000円台 サイバー攻撃対策 zap php - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uOTkxbnN1NDllczlVYjVGU0VXOHZtRm9RRkZnU1JkbHVVWjBvVW1JVFBELVFCRW9CLTd0TVB5UTRhTGVmM1hQSG9wZ0FXaWgtLW1qOHMya1RHNEE2?oc=5",
-      "description": "webアプリ診断 「AIを活用した中小企業向け脆弱性診断・自動管理ツール」専門人材ゼロ 月額2,000円台 サイバー攻撃対策 zap php&nbsp;&nbsp;YouTube",
-      "source": "YouTube",
-      "publishedAt": "2026-11-03T00:37:33.000Z"
+      "title": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOHNmSHJ4Vk1mWGFOeFVoQ1pFRXl5aWpVa2VZN0RrQkdZNkd0UWhMcW5zaml2ZHY2dTVlZ0htTm9jLTF0UlRtTW9Nc1d0YW5NQm9UOFRBaXRBV0RPc21Gbl9mNk03RW9kOTV4Vzh4Rm1WX00?oc=5",
+      "description": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-04T01:06:22.000Z"
     },
     {
-      "title": "ＧＭＯ攻撃者、顧客のサーバー環境に８月５日侵入…管理者アカウント盗み管理サーバーに不正アクセス - 読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1MEJfWFRFdVRMYU0xeURNM3dGOFV6cXRjM2ZUTHpsajB5MlhPaGRXZ18tbWoxa3E4eFVSc2hYYm92UEV5VDJYUzlzQ3drSW5NakptRW51S3R6bm04YUZlX0ZRdk4?oc=5",
-      "description": "ＧＭＯ攻撃者、顧客のサーバー環境に８月５日侵入…管理者アカウント盗み管理サーバーに不正アクセス&nbsp;&nbsp;読売新聞",
-      "source": "読売新聞",
-      "publishedAt": "2026-11-02T11:33:00.000Z"
+      "title": "GMO事案防止「AIを活用した中小企業向け脆弱性診断・自動管理ツール」専門人材ゼロ 月額2,000円台 サイバー攻撃対策 内製化 毎日診断 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vOHVfRDN0N2ZiSU1MU05Uamk2TmJPRzFoM3psMmdZbF90RC1mS0ExQjJHcUptYXY5aFNtRzNIajJhUnJDU3luSjB0R096OEc3TXA3Q0JHNGVlbEtw?oc=5",
+      "description": "GMO事案防止「AIを活用した中小企業向け脆弱性診断・自動管理ツール」専門人材ゼロ 月額2,000円台 サイバー攻撃対策 内製化 毎日診断&nbsp;&nbsp;YouTube",
+      "source": "YouTube",
+      "publishedAt": "2026-11-04T00:06:34.000Z"
+    },
+    {
+      "title": "レッドハット、フロンティアAI時代の脆弱性対策を発表──IBMと共同のOSS修正パッチサービス「Lightwell」の役割とは - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZmVSSDZuN09lMHpRamQ0N2lsaEM0N3lrcUpsMkF4SnZtbVRTZXdUVEVneUxKT0ZsWWF3TTRmb3NzX2dKbjZYbGoxcTVuQW4xWElhWGxB?oc=5",
+      "description": "レッドハット、フロンティアAI時代の脆弱性対策を発表──IBMと共同のOSS修正パッチサービス「Lightwell」の役割とは&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-11-03T23:00:00.000Z"
+    },
+    {
+      "title": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45NzBkM3lFa0dWQjJVdUtyY1Bud01HdEd3VVViUmprZkdSa0JfNGtpOU5OOTNaODlHNU03YUFGY2ZsUkVzMUQ5eTFMZkF6ZzZhYkdCOGlhUVNVdlhsRVJYNzRCWktmMmgwZWNRcm5B?oc=5",
+      "description": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-11-03T22:00:00.000Z"
     },
     {
       "title": "AeyeScan、「BOXIL REVIEW AWARD Autumn 2026」脆弱性（セキュリティ）診断カテゴリ別No.1に選出 - Infoseek",
@@ -21,13 +35,6 @@
       "description": "AeyeScan、「BOXIL REVIEW AWARD Autumn 2026」脆弱性（セキュリティ）診断カテゴリ別No.1に選出&nbsp;&nbsp;Infoseek",
       "source": "Infoseek",
       "publishedAt": "2026-11-02T11:10:02.000Z"
-    },
-    {
-      "title": "GMO、脆弱性対策の優先順位誤る サービス停止による苦情懸念？ 「北関与」に言及せず - 産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jZ1V6eHVjb191aUhZQWk4QlhaYWpIeFdDOU10WHE3WmJQTzcwNzhWdHVpbzlENmJfWWh6T0lyaTEtc3FmXzUtN2NfbHJTOHBoX05jOXQ3SFo4LTdhU2NDeGJobGtWN0RBN0l3SnBROUlhaVQzZ0E?oc=5",
-      "description": "GMO、脆弱性対策の優先順位誤る サービス停止による苦情懸念？ 「北関与」に言及せず&nbsp;&nbsp;産経ニュース",
-      "source": "産経ニュース",
-      "publishedAt": "2026-11-02T10:58:14.000Z"
     },
     {
       "title": "カオピーズが提供開始する脆弱性診断から修正までの一貫支援サービス「Kaopiz Secure Loop」 - ニュースメディアVOIX",
@@ -58,18 +65,11 @@
       "publishedAt": "2026-10-29T06:33:00.000Z"
     },
     {
-      "title": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tQ0NDVG8wUTNiUWpyN01wd3hyZVVlRUxWOHNUM0tyZ3VFMmhEOEFLbTZ6M0diTUo2Rk5lejMyQXdQM3BKZ1VCS0gyc29lSktRbUVYRA?oc=5",
-      "description": "ＳＯＭＰＯ×TrendAI(TM)ＳＯＭＰＯ Ｃｙｂｅｒ Ｒｉｓｋ Ｓｃａｎ（ＡＳＭ）の提供開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-28T18:15:22.000Z"
-    },
-    {
-      "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpbGYwTjBtNFZyWTl5NHhYOGRaRG1MUUs5WVVPZkZEeldkSXFSWmlKRGxyY1laWDhCbkxyVGdJRXVaSWZmekE?oc=5",
-      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;Dellows News",
-      "source": "Dellows News",
-      "publishedAt": "2026-10-23T20:27:14.000Z"
+      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
+      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-10-27T05:00:00.000Z"
     },
     {
       "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
@@ -86,6 +86,13 @@
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
+      "title": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nM3NlZFNFakl3S05sUW0tTEZUcFNqbmhHQmQ4MHllbGIwLVpIMTdYdUUtX2RZRWRJUUZHU3dVcUp6a1VuRnp2TjlYY0hwTGxRWEJBSFVsc1lCazNMbkZnZUw5YVZqTEUwZ3c?oc=5",
+      "description": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
       "title": "継続的エクスポージャー管理：セキュリティチームが2026年に測定すべきこと - eSecurity Planet",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVmxqTWpnTmRKalZiMmNmNTcwWkFoSE83MlplQTRjWlZ3WDV2ejVwaUV1MDljZWF0Z29aRUtBUVNlUTlrVk9jQXRUZTZJS2VDdjhwN0dLZDM2eTNNamhFZU1TMUI5SEdycThPV0RlQ1U2TXlPeWlLekQ3dWtRZkt2Y3Y3eUNhR3BkTWdyZ003eGhWTGw2cTdESmFpVnJBSTBydHlqaE4zWUFlb1dzME9DMTJ4R3pTMHcxcEc0T05MUWFsVzBr?oc=5",
       "description": "継続的エクスポージャー管理：セキュリティチームが2026年に測定すべきこと&nbsp;&nbsp;eSecurity Planet",
@@ -98,13 +105,6 @@
       "description": "Tenable Network Security Japan、「Claude Mythos 5」をエクスポージャー管理に活用&nbsp;&nbsp;週刊BCN＋",
       "source": "週刊BCN＋",
       "publishedAt": "2026-09-30T07:00:00.000Z"
-    },
-    {
-      "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOC1tVnVtbGE1NzJ6NWNPRlpOemx2U2ZRajhnSWJ0NGRHZ2VuTXpMdE1VVlJWOUFGenZneFI1bHJsTk96N0xPZUoydHpCYlNuUkl3OHpR?oc=5",
-      "description": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-09-29T07:00:00.000Z"
     }
   ]
 }

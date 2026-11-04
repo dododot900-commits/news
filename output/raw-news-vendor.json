@@ -2,6 +2,34 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "CrowdStrike、AIエージェントを緊急停止する「AI Kill Switch」を提供開始、暴走リスクへの対策を強化 - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JWXZ4Tm9wYzJWLUx6VnRPR1gydllsRFNRRUlfRWE4LVN0S0kzUFRyb3hsSFZmQnQtSHdha2J0clowM1FzX2hDVG9PRVAxVjJhS0Jhem85R3g4TWV6UjBIRXZn?oc=5",
+      "description": "CrowdStrike、AIエージェントを緊急停止する「AI Kill Switch」を提供開始、暴走リスクへの対策を強化&nbsp;&nbsp;XenoSpectrum",
+      "source": "XenoSpectrum",
+      "publishedAt": "2026-11-03T21:18:25.000Z"
+    },
+    {
+      "title": "CrowdStrike、AIエージェントを停止する機能を発表 - PortalCripto",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YNVNuLTZsdXpCazFyOV9EVk5pVVh2YjdXYnNzT2tfcmRhYm1lRFplRFczV1Y1Mi0yNXB6QUFGVWpuSFBHRkRvNnpyd0RpQUJEdGxoOVFoVjNUNG5mRGhNbThtVmJmdkdqc2tBcWJn?oc=5",
+      "description": "CrowdStrike、AIエージェントを停止する機能を発表&nbsp;&nbsp;PortalCripto",
+      "source": "PortalCripto",
+      "publishedAt": "2026-11-03T16:41:34.000Z"
+    },
+    {
+      "title": "CoreWeaveとCrowdStrikeの提携、AIワークロードのセキュリティを拡大 - remio",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFZabFEzeV9MOV9KOG1iUHlQU1N5aTVvcmw2eVNTdXBKYW01X19ENnBaMGpIR0l3RlgwenFZSjBJbWZjU0lDa05aSzd2RjA3T2cxQlA5RENYeTM2a0R2TUdrdENfM0lTTWNqOUpmMlVxenhsLUlNb2tDQ0pqVjAxa2s1TnZxak9PUTRSZlZMcGVwVS1ZV2gxYnNB?oc=5",
+      "description": "CoreWeaveとCrowdStrikeの提携、AIワークロードのセキュリティを拡大&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-11-03T15:51:11.000Z"
+    },
+    {
+      "title": "【調査メモ】CloudflareとEmDash、私ならここを使う〜実装前に5つの使い道を図解で整理〜、のショート動画です。 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBETDhDS004NzN0UWxoRmVuS2FkZ283VTZXQUpKclZuLWsycDFyUjctN0NuQVl1U2ZVNmN6SjRvWUQ2cDMwM0w2cGdVZ05uS1pBbUl5bnpfengxREkz?oc=5",
+      "description": "【調査メモ】CloudflareとEmDash、私ならここを使う〜実装前に5つの使い道を図解で整理〜、のショート動画です。&nbsp;&nbsp;YouTube",
+      "source": "YouTube",
+      "publishedAt": "2026-11-03T02:43:27.000Z"
+    },
+    {
       "title": "ClickFixキャンペーンが偽のCloudflare検証を利用 - SOC Prime",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGZCSk1nVTN6RkNiWVNnNVNKSUtpTnUtZzZSX2dVM19XdDRINndDbzJjRDJjcmxSSDdWTHV0VnotcnlGVm5BTUFTVlFkS1BIU3ljblNmV2ZVU1pud0tBRDVNUFpWR19tY19XYnlFTTdTSFRBbV9NYTdSbERYMy1UMFBvbldoNVRqanZQa2hHWUZqTzNEM3FWdGxxRVlLNkY5?oc=5",
       "description": "ClickFixキャンペーンが偽のCloudflare検証を利用&nbsp;&nbsp;SOC Prime",
@@ -14,34 +42,6 @@
       "description": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される&nbsp;&nbsp;GIGAZINE",
       "source": "GIGAZINE",
       "publishedAt": "2026-11-02T03:19:00.000Z"
-    },
-    {
-      "title": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ28tak0zU2F1UDllUmNPaVh2RWlmcFVHYXhhdVlCUXpLTUIycWp2XzYxNHBpWWdlbXhYTl9TTFFPTnI3TlVPc3NvSlNnLXNHM1FhSHE5bHk3b19CQ3h6VU9OUHdQbVkwVHJ1S1JwS0ZRRlZ5YnliM1FFclNjX1VHMWlvMjFjc2pHQWJQZnItTmhCYUhZXzNLN3Z3?oc=5",
-      "description": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-10-31T13:22:07.000Z"
-    },
-    {
-      "title": "CrowdStrike Falconイベント: エクスポートと分析方法 - SOC Prime",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVlpzcHl3c2tGVWh1cE1SLWQtOFVoU0htX0J4YTZqTFZaRWQ4aXJQVWp2cnMzMEtsdzR3MWFrZ2IxTk9mdHo3Yi1hY2h5RzNkRmlRY2lRbzVrc0oxM0ZkNHZCUzAyZ0hXbmpteS1pYkd0QTRad3JOTTRsN3F3cWowa0V0Y3k5cEhNOUJEZXdTZWJlSTcyNUdBVUFjb1J2dmtRaWhHa2dZQ2Vjc0gzLWdkdWFuWnM2cl9fLXhwYjctTi1tejRWY2k4YVpyNmNmaDdnbXJEa1hEWFdHLUhtMWUzVGhXWVJ3YWRTS1dfVVRsWVl0ZmcwQmppQ003OGd5UERDRjJINmlNMzJGT2pGZEZRS0pPZ08wNDhVM0RHUnc4cGRaSUJJb1BXOWVlZzFZakMyekIxLVl6cVRldm9SWGZUT1E3UlJEbVdPdUFVX1hB?oc=5",
-      "description": "CrowdStrike Falconイベント: エクスポートと分析方法&nbsp;&nbsp;SOC Prime",
-      "source": "SOC Prime",
-      "publishedAt": "2026-10-30T13:29:59.000Z"
-    },
-    {
-      "title": "CrowdStrike：PoCエクスプロイトの88%が48時間以内に使用される - OrcaRouter",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05ZTlrM1hoMWlGekxhMGRFbEo2d1lzZ1JRUDIxVlJ4S0UtVkFwREFaUFFibVFqbEpyZ1BYNDZBYjU2Qk9yTFBhenltYUIwRTc3T3VUeUo3aHhEZmRXeDc0U0N2RE1EeGV6RXd2Q1lGOU5BSzQzaVdFWlVtTjNadw?oc=5",
-      "description": "CrowdStrike：PoCエクスプロイトの88%が48時間以内に使用される&nbsp;&nbsp;OrcaRouter",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-10-30T05:17:22.000Z"
-    },
-    {
-      "title": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化 - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bzB1SzROS1ZzNTVVeWJuVU5pTHFNZEV2M2ZLRm92NVc2ZHFEc04xV3R1MEwwZkptNElxZmtrcndZb0dUMkRRdWJZcHFiY2p4czNvNkZhVk9MaTJCRVhQWUVqZ29YWEV4OXc?oc=5",
-      "description": "巨大DDoS攻撃は69%減ったのに全体は3倍超に、Cloudflareの最新調査が示す脅威の変化&nbsp;&nbsp;XenoSpectrum",
-      "source": "XenoSpectrum",
-      "publishedAt": "2026-10-30T02:01:16.000Z"
     },
     {
       "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に - PR TIMES",
@@ -58,17 +58,10 @@
       "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
-      "title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（4/4枚目） - ITmedia エグゼクティブ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS20zVzBzRFBZZkFPdC1saUo0WlpqTUtfNWo3OGM1WkdhbVhfLUM4RHAxMnI3U1RxR0pmNGR5aTRBQXc0YlNxUDNQU0MtdTZMNE4taFNMVmMyLXhDVk9BT0FlVk5iYlU0Zm5PN0I3X3A4cGxYY3hLOE1YQzRWTjFKbHp5dXdxeVRuR2didDd1OERIQQ?oc=5",
-      "description": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（画像）（4/4枚目）&nbsp;&nbsp;ITmedia エグゼクティブ",
-      "source": "ITmedia エグゼクティブ",
-      "publishedAt": "2026-10-21T07:00:00.000Z"
-    },
-    {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
       "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュ��スメディアVOIX",
+      "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
@@ -79,25 +72,11 @@
       "publishedAt": "2026-10-19T08:02:48.000Z"
     },
     {
-      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBYVo3ZXE5MjU4ZTdtOU1qdldYR0hIdzRvQVg5OUU3b0JhTmVnOWota1VSLVZWd1ZHOG5jVFBqNVcySjFBaEh6aVpmM2U3NjZjNnFWaFJ5NGlvQWxtUWw1U08ya3JmOFVVMFRRdWdwa2NPQQ?oc=5",
-      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
+      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyM19XcnJUeGhYNkFQYTNQdXA4R3FLV1p3UUtFYzZ1a19IOENyQmxNekdrdjN5U2JMYVlIdXh0STJfN2ktc1RQd3NJLXVkaS0wRkN4Sg?oc=5",
+      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコ��ュース",
       "publishedAt": "2026-10-19T07:00:00.000Z"
-    },
-    {
-      "title": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fYmk0YXhfWTF3WXdMVHNWOTlrb1o0cmM0NWtUM3R6WEYweUgxay05RzYyWUR6NzdlRVZLb29wLV8zeDZHd1RDT1hkcw?oc=5",
-      "description": "“AIで守り、AIを守る” AI時代に必要なセキュリティ実践論&nbsp;&nbsp;ビジネス+IT",
-      "source": "ビジネス+IT",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
-      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
-      "source": "株式会社マクニカ",
-      "publishedAt": "2026-09-07T11:50:23.000Z"
     },
     {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
@@ -107,11 +86,25 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞 (週刊BCN＋) - NewsPicks",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2NkRVVEp6LWdOcUpPS3ZyaVpZTjFoU0dQU3R3VE5fOVhuN19GZVZBTFE0dTQ3RjVmdy1MVnNOeDJab0pqMUMyd3Z4Vk4?oc=5",
-      "description": "ソフトバンク、Cato Networks APJ Partner Summit 2026で二つのアワード受賞 (週刊BCN＋)&nbsp;&nbsp;NewsPicks",
-      "source": "NewsPicks",
-      "publishedAt": "2026-07-28T07:00:00.000Z"
+      "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLU9jYnpZdVUwaHhhZmRVNGdlc0NSLWwzUGpFRjJ5eEpKTnE4dTZBbTNnMU1fSDRkbVFFbVBvV085SWRGc29KN2hoT1J5ZkVlQmJ6MUdoNi03bjB3NElPaVN2OWxZUFUxR0xkdkRRNV80Zw?oc=5",
+      "description": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-08-16T07:00:00.000Z"
+    },
+    {
+      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
+      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-07-13T07:00:00.000Z"
+    },
+    {
+      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
+      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-06-19T07:00:00.000Z"
     },
     {
       "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
@@ -119,6 +112,13 @@
       "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-04-24T07:00:00.000Z"
+    },
+    {
+      "title": "ソフトバンク 、Cato Networks の SASE ソリューション「Cato SASE Platform」取り扱い開始 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVUM4VDFGWGcwbTJodUhkMzg5OTQ3YlRUalNKZDJBbzNBTWRGTTEwMFZhVGVTTmlZOVUwS01WNVVkelBtN3lSVzJDeWh6V2dyQVNpSjJWU0tPUDhYUnI2MF92UWdaY0hxV2pVQw?oc=5",
+      "description": "ソフトバンク 、Cato Networks の SASE ソリューション「Cato SASE Platform」取り扱い開始&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-03-25T07:00:00.000Z"
     },
     {
       "title": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始 - セーフィー株式会社",

@@ -2,16 +2,37 @@
   "topic": "ai",
   "articles": [
     {
+      "title": "日本AIモデルサービングプラットフォーム市場：推論需要の拡大、国内AIクラウド、企業導入が成長を促進 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JUy13MHVrOHdkWllVejU1UVk2ZExQNHNqYnpzemtWekp4cVZPcS1JYWFJcldGUURKUHNFTFlIS05hallNN3duOTVGNGd1dUdGMmJtcnduWVUwSkhQWEZqNjJmRkZLSTF3NzA5bzZHVjJOdG1lM2FIbUdxbw?oc=5",
+      "description": "日本AIモデルサービングプラットフォーム市場：推論需要の拡大、国内AIクラウド、企業導入が成長を促進&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-04T01:00:40.000Z"
+    },
+    {
+      "title": "日本エンタープライズ・エージェンティックAI市場：AIエージェントの導入、自律型ビジネスプロセス、企業オートメーション - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVX3k5LVdpVTQyLVhCbklqNUw5WnpKdDZyeDh0QVdFSTFRLXgydDZOY1g2ektHZmNBaVNMNmNKcnJxaTRRRUcxY0FkZlA5ZzNuMzNaZG04cHJ0YU9zZ01KWUtLTFpjU3lNbFBTZ1JtMWE5anpZdTVJUnlsdw?oc=5",
+      "description": "日本エンタープライズ・エージェンティックAI市場：AIエージェントの導入、自律型ビジネスプロセス、企業オートメーション&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-04T01:00:39.000Z"
+    },
+    {
       "title": "マウザー、オートメーション向けAI・機械学習リソースセンターで産業用AIの最新動向および新商品を紹介 - 時事ドットコム",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1seVByV1lwMlFHRHR6WWRWcVJORUlMcnRrRHRXSkpSMzRweVFweTdwMTJqa2g4ek5zdzlkNWE4b0E5MnhIRlFkdm9CMU5TNkZlSzhCOFExbjlUSVQtMGx0UmozNmlELXFzRjg4?oc=5",
       "description": "マウザー、オートメーション向けAI・機械学習リソースセンターで産業用AIの最新動向および新商品を紹介&nbsp;&nbsp;時事ドットコム",
       "source": "時事ドットコム",
-      "publishedAt": "2026-11-02T14:10:00.000Z"
+      "publishedAt": "2026-11-02T20:10:00.000Z"
+    },
+    {
+      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
+      "description": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-11-02T15:48:03.000Z"
     },
     {
       "title": "九州工大とJAXAがAIで衛星帯電を検出 安全運用に貢献する新技術 - PlusWeb3",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZ0U2Q0FERU9BU3pDTThEMGhMdC1rZThtWWlDOHAtaU9FVkNWaUM4Zlp3STA5YmhzbWY1T1Z0c1pWOTJnVVd4VXJsMWRJX0lKUVNRVUdTbHlQamNDazB3?oc=5",
-      "description": "九州工大とJAXAがAIで衛星帯電を��出 安全運用に貢献する新技術&nbsp;&nbsp;PlusWeb3",
+      "description": "九州工大とJAXAがAIで衛星帯電を検出 安��運用に貢献する新技術&nbsp;&nbsp;PlusWeb3",
       "source": "PlusWeb3",
       "publishedAt": "2026-11-02T09:30:00.000Z"
     },
@@ -30,35 +51,14 @@
       "publishedAt": "2026-11-02T02:00:02.000Z"
     },
     {
-      "title": "『【中堅・大企業向け】RAGを導入しても「効果が出ない」理由』というテーマのウェビナーを開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ub3FySFBHb0ZCWGF3T0ZJVEduQ2RUM2huMWQtUmprTjc3ZUZVbjdjcEp5QnJoVTMycEdxLUlSdlU4QnU3aFI2dmFNRERJTXE5U2RvX0hQN3NjeEk1ZE9vRjlnUlVGdWZtYmc?oc=5",
-      "description": "『【中堅・大企業向け】RAGを導入しても「効果が出ない」理由』というテーマのウェビナーを開催&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-02T00:00:02.000Z"
-    },
-    {
-      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
-      "description": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結&nbsp;&nbsp;ThinkIT",
-      "source": "ThinkIT",
-      "publishedAt": "2026-11-01T00:48:12.000Z"
-    },
-    {
       "title": "「AI投資＝米国株」はもう古い？ 10月新設ファンドが示す、AIの成長・普及に欠かせない「意外な投資先」（Finasee） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JMEw4cW40MDFtbW4wVFgtOGt2QTZoQ09WZkRQRU1CX1JHb2VTUVRzMUJLSDd4dXRoVVhkTE5TbzZSa3YtRXYxUllJenV4RlVrQzhPb0lHZE0xd3lhY05rcFd1YlFrc0JzMHM2dy1BUDc1dVQ0Uzc0WlJUVF9BVEU?oc=5",
-      "description": "「AI投資＝米国株」はもう古い？ 10月新設ファンドが示す、AIの成長・普及に欠かせない「意外な投資先」（Finasee）&nbsp;&nbsp;Yahoo!ニュース",
+      "description": "「AI投資＝米国株」はもう古い？ 10月新設ファンドが示す、AIの成��・普及に欠かせない「意外な投資先」（Finasee）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-27T08:32:20.000Z"
     },
     {
-      "title": "生成AIの活用事例32選（ビジネス・自治体・教育分野）！企業への導入方法も紹介 - SHIFT AI",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wNE5EdHM3cm5ZblpBZmk3Q1FJTHpjM3ZhMFlBcVlqb3hEdFZXTDUteXQ2YUYtb2VhOGNHaWxUV2haSER4Q2xSZQ?oc=5",
-      "description": "生成AIの活用事例32選（ビジネス・自治体・教育分野）！企業への導入方法も紹介&nbsp;&nbsp;SHIFT AI",
-      "source": "SHIFT AI",
-      "publishedAt": "2026-10-16T07:00:00.000Z"
-    },
-    {
-      "title": "AIガードレール、マルチ��ラウド、API共創。サイオステクノロジーが考える次世代プラットフォーム戦略 - IBM",
+      "title": "AIガードレール、マルチクラウド、API共創。サイオステクノロジーが考える次世代プラットフォーム戦略 - IBM",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02dTV1UjB5aGcxOV95a09jVlBoQ0I0N3UwM0k1TlpqdHJBZlN0SnpfTm1NMXVLMm5vZ2tKTmlrUUVqUl9xU3dvcGhrbm1uUThqaWc0bVJvR2pUNmZfUmdkSWFMN18ycEVPaXI5dG40al94NEdfQ0RMdktpUUQ1VFk?oc=5",
       "description": "AIガードレール、マルチクラウド、API共創。サイオステクノロジーが考える次世代プラットフォーム戦略&nbsp;&nbsp;IBM",
       "source": "IBM",
