@@ -2,6 +2,13 @@
   "topic": "network",
   "articles": [
     {
+      "title": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pd0k3VTJueVFTYmxRV1QwV2F1SzBPbkI2XzNReUVGeTFiLUQ3RFdKT3dLNkV5SDR2SDRLWDc1bVBGT1kweFl0b0NZX0lzWkR0bjRDLUVGYzVzZkZabFVFVi1JaUlaN0ViY1ZrOG1uX3RMdm8z?oc=5",
+      "description": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-04T23:00:00.000Z"
+    },
+    {
       "title": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45NzBkM3lFa0dWQjJVdUtyY1Bud01HdEd3VVViUmprZkdSa0JfNGtpOU5OOTNaODlHNU03YUFGY2ZsUkVzMUQ5eTFMZkF6ZzZhYkdCOGlhUVNVdlhsRVJYNzRCWktmMmgwZWNRcm5B?oc=5",
       "description": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」&nbsp;&nbsp;INTERNET Watch",
@@ -32,16 +39,23 @@
     {
       "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjJUdVpUZEpKUlBDYTg1WWZXREM2YldHbWg3WnhVWFRIaXB3bTQ1NW9TMDJjaWlaaWZXZUlGWjdFV1NyWmEzNnhwMVVKV0EzM1FqczRuRmp4OC1Ta2QzcnA5dDVMRlVKSVh2NlYxWTgtRHJOeU8zYnFXVzJIRDJoOEpVRlBDblA4RVFwajhqbng0RHlzRi1xbA?oc=5",
-      "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行さ��る脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-10-15T07:00:00.000Z"
     },
     {
-      "title": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032年���世界市場予測 - Newscast.jp",
+      "title": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032年の世界市場予測 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lclhzOGZScWxqS2ZQbTVzMXlQY0JPenk4cEdBMVhXT18yMWdxTU9TTUNrMjQ5NTlmZ0JIaGN1MjU2bEY3UjNEM0piTUxSWHM?oc=5",
       "description": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032年の世界市場予測&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
       "publishedAt": "2026-10-05T07:00:00.000Z"
+    },
+    {
+      "title": "AIによる大量通信時代、なぜ「SD-WAN」に4つの機能が必要なのか？ Ciscoが解説 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CcEZCTF9IVzRfYnUyZ1NvRnp6Q1A2ZDBLUWRPYm9SczBWWlF3SFFXZGFyQjJob2JpeUdPSWFfbGlGUTVVRFhLR2ZIejl1U2EyNFpIQ1lBampjY0NIRFlfd1VQYjV0c3ZqZEQ0LUZTekZ3Zw?oc=5",
+      "description": "AIによる大量通信時代、なぜ「SD-WAN」に4つの機能が必要なのか？ Ciscoが解説&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-09-24T07:00:00.000Z"
     },
     {
       "title": "Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS - 合同会社ロケットボーイズ",
@@ -51,25 +65,11 @@
       "publishedAt": "2026-09-11T07:00:00.000Z"
     },
     {
-      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
-      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
-    },
-    {
       "title": "Palo Alto Networks Jumped Almost 6% in a Day as AI Hacking Fears Spiked. Here’s Where the Stock Could Go in 2026 - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHRjVzRJOFl4bzNycFNvZFlYX05ZaTNTMFZuaU5nSkhZRGdMYjIwcVZsZWxrdnVrOWN6SnhBTmo3Z2ZSUzVNQlRoZVFqWENpcTFHUFh1RnRNVF96Ykp2ZTZXaWl2d25xcXozbFNaSHNNRFBNNktBMVhVUWdNWVYtSURuVGlmYU5SdnBlRHFJYWNFaEt3dnNjR3VtaFhRcWQ3TmJoREgyOXJKSGtMa0xTQTZQRTljRm9PY21XUC15ckNGS2dQYWp3N1hkOW1tRm1rT2FHTQ?oc=5",
       "description": "Palo Alto Networks Jumped Almost 6% in a Day as AI Hacking Fears Spiked. Here’s Where the Stock Could Go in 2026&nbsp;&nbsp;TIKR.com",
       "source": "TIKR.com",
       "publishedAt": "2026-08-11T07:00:00.000Z"
-    },
-    {
-      "title": "IIJ、海外ファイアウォール運用管理サービス「IIJ Firewall Management Service」にクラウド型ファイアウォールメニューを追加 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSnB0QVVZeUFuSXFUdlp4cWVqaExnQl9mbm5oMjl3eXFSYWZnX0V4MEZBTEhyR0dPc3poN0Nvb1I5ZmtyWkktbTVrNklFQXRkT3FzUjI1NDJ5TWlBb0o0bmpvV0tlZ1Y3SHc?oc=5",
-      "description": "IIJ、海外ファイアウォール運用管理サービス「IIJ Firewall Management Service」にクラウド型ファイアウォールメニューを追加&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-06-08T07:00:00.000Z"
     }
   ]
 }

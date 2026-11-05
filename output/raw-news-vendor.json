@@ -2,6 +2,13 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "ゼロトラストセキュリティの世界市場規模、2025年417億米ドル・年平均16.8％成長へ ―日本のサイバー対処能力強化法施行を背景に市場動向を分析 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5idmp4NDhTa2JSN2FucTRBSFhlRFdFU3VCZXBXR1lBOW9RV1JLTHdudXZTaGF6OU9qR0VOREQ2ZmdqLUoyczVzVEhrZHY4UQ?oc=5",
+      "description": "ゼロトラストセキュリティの世界市場規模、2025年417億米ドル・年平均16.8％成長へ ―日本のサイバー対処能力強化法施行を背景に市場動向を分析&nbsp;&nbsp;アットプレス",
+      "source": "アットプレス",
+      "publishedAt": "2026-11-04T21:16:00.000Z"
+    },
+    {
       "title": "米セキュリティ企業、AIを人の判断で止める「AI Kill Switch」発表　3つの要素で制御を実現 - リアルサウンド",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaZ3d3a0k2OG5xUnIyRzFvdDlCZUZYbmQwMmZ6ak4tcTdBdjdiWHc0RlN0a2t6WXNvNklINGJlSU0zZmV1QXNwZ2phNjBCeGFPZnBBNFFYUU4tSkE3MG9LVtIBZkFVX3lxTE5Wb3gzalMzY2ROWkJzMmsyTVUtMlNGWV9uUm40UWctU3MxbHNGZEFTakJzbFlOMkFuU2t6dmNiVG5WdnFwZGE1YXk1VVlNSUJpZV9zai1zZUV5a2FEbEJsd1o3QmI1Zw?oc=5",
       "description": "米セキュリティ企業、AIを人の判断で止める「AI Kill Switch」発表　3つの要素で制御を実現&nbsp;&nbsp;リアルサウンド",
@@ -23,11 +30,11 @@
       "publishedAt": "2026-11-04T07:00:27.000Z"
     },
     {
-      "title": "Zscaler ThreatLabz：AIを活用したランサムウェア攻撃が加速、大規模なデータ窃取や経営層を狙った攻撃が拡大 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwTXpwYS1HdHlPbER6SkhxbjMtUnNEV0JjSnc3MUVlOElZQWhLaWRGSHdXclBXcE1MT245bWNtVDZHMGRDU2NCOU9QdXhhQ19yS1pfVWZYZ3JCTlRCVVVoTnBR?oc=5",
-      "description": "Zscaler ThreatLabz：AIを活用したランサムウェア攻撃が加速、大規模なデータ窃取や経営層を狙った攻撃が拡大&nbsp;&nbsp;ライブドアニ���ース",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-04T01:01:23.000Z"
+      "title": "CrowdStrike、AIエージェントを緊急停止する「AI Kill Switch」を提供開始、暴走リスクへの対策を強化 - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JWXZ4Tm9wYzJWLUx6VnRPR1gydllsRFNRRUlfRWE4LVN0S0kzUFRyb3hsSFZmQnQtSHdha2J0clowM1FzX2hDVG9PRVAxVjJhS0Jhem85R3g4TWV6UjBIRXZn?oc=5",
+      "description": "CrowdStrike、AIエージェントを緊急停止する「AI Kill Switch」を提供開始、暴走リスクへの対策を強化&nbsp;&nbsp;XenoSpectrum",
+      "source": "XenoSpectrum",
+      "publishedAt": "2026-11-03T21:18:25.000Z"
     },
     {
       "title": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される - GIGAZINE",
@@ -35,13 +42,6 @@
       "description": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される&nbsp;&nbsp;GIGAZINE",
       "source": "GIGAZINE",
       "publishedAt": "2026-11-02T03:19:00.000Z"
-    },
-    {
-      "title": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」 - TechTargetジャパン",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXcUlQOUs1Q0k4RW5UQlRsZ3dfYTF3blA4ZDk0Zlo5MUh6b3ZLdXJJcHBXV01fdlQ0YkVTV0ItNE9QMkthYWlXU0hZYlRnTmpPb0RNYjZST0FzN0xJQ1J3LUd4MnQxWTFnS0FOX0Izc3Q?oc=5",
-      "description": "「高額な外部委託」はもう不要？ AIが変える中小企業のEDR運用：AI SOCが実現する「自走型EDR」&nbsp;&nbsp;TechTargetジャパン",
-      "source": "TechTargetジャパン",
-      "publishedAt": "2026-10-26T01:00:00.000Z"
     },
     {
       "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 - Publickey",

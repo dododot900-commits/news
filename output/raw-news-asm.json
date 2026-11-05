@@ -2,11 +2,11 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "オーティファイ、脆弱性対策を進化させる「Autify Security」のアーリーアクセスプログラムを開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtcXJXNV9LcHpHMGdtRVZvWjVvVWgzRFhJVHZUR0QzellGd2lNYWNwcUZaMzlBNFRBWDZUSzJPLVBZTzZtQlY4aERic1VSMVZPdHd1eHhjbHZHNFptUnFzM2EySmtSZjJkOUlYNg?oc=5",
-      "description": "オーティファイ、脆弱性対策を進化させる「Autify Security」のアーリーアクセスプログラムを開始&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-04T11:44:06.000Z"
+      "title": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pd0k3VTJueVFTYmxRV1QwV2F1SzBPbkI2XzNReUVGeTFiLUQ3RFdKT3dLNkV5SDR2SDRLWDc1bVBGT1kweFl0b0NZX0lzWkR0bjRDLUVGYzVzZkZabFVFVi1JaUlaN0ViY1ZrOG1uX3RMdm8z?oc=5",
+      "description": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-04T23:00:00.000Z"
     },
     {
       "title": "Insignaryが提供する無料の脆弱性検査ツール「insignary-chk」の魅力と特長 - ニュースメディアVOIX",
@@ -16,11 +16,11 @@
       "publishedAt": "2026-11-04T11:04:50.000Z"
     },
     {
-      "title": "ミラクシア、CRA対応をワンストップで支援。「製品脆弱性保守ソリューション」を11月4日より販売開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kc2M4M1JoTXEwZnlKUGZ5a044R2o4MGM5R2lPMFByZlJ1VXFHNWJnOF83V3k4SGd0Mkg1RjY1TmFSamplc0NqTGZuZDJJUTN3SmZQd25wSUM4TWdleEs1QTZDV1V3QkJBckE?oc=5",
-      "description": "ミラクシア、CRA対応をワンストップで支援。「製品脆弱性保守ソリューション」を11月4日より販売開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-04T09:08:03.000Z"
+      "title": "UCKがセキュリティレポートを大幅アップデート。ダッシュボード化で脆弱性情報を見やすく - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XUnVmN1c1VnBIdVZ3a0FFclE5bUVUVUVmM2U4QUZ3Zk9HV0IzVGZIRTFQNGFvaFprVW1hRnk2dWI5Tno2NUR1RnFHczUxMHEzSkd2VW1SNVoteVBpaXRRdWk1MENUX3M?oc=5",
+      "description": "UCKがセキュリティレポートを大幅アップデート。ダッシュボード化で脆弱性情報を見やすく&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-11-04T10:33:23.000Z"
     },
     {
       "title": "AI駆動開発の見えないリスクをエンジニアリング力で可視化。技術者集団のグルコースが「ソースコード・セキュリティ診断サービス」を提供開始 - PR TIMES",
@@ -34,13 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WUldUbGY2UEttTUFkdUhkYng3ZnJLSDQzRi1kSHVCTWY4Qm5NRFlsTmt1Umg5VnZiQTNodVdvUWFCaFRGRm10NVBhcFA3bWdSQlFZ?oc=5",
       "description": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し&nbsp;&nbsp;ドリームニュース",
       "source": "ドリームニュース",
-      "publishedAt": "2026-11-04T02:00:00.000Z"
-    },
-    {
-      "title": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し (2026年11月4日掲載) - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkM3ZSV0s3bTFwUjZjLXZKNDYzQnhjSHRUTnJIUnB0TE9HN0hkVmJkcFI5RkpqSExWNUl3b1UtdHRNd3k1R2ZFS0ZtdlMxX1ZWS3JEZzU3MXhodFBIWEY0ZlBR?oc=5",
-      "description": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し (2026年11月4日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "source": "ライブドアニュース",
       "publishedAt": "2026-11-04T02:00:00.000Z"
     },
     {
@@ -67,9 +60,16 @@
     {
       "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
-      "description": "TrendAI、損保ジャパンのサ��バー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
+      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
       "source": "INTERNET Watch",
       "publishedAt": "2026-10-29T23:00:00.000Z"
+    },
+    {
+      "title": "損保ジャパン・SOMPOリスク・TrendAIが連携、損保ジャパンのサイバー保険契約者にASMを提供 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SWFpMkxDdzZCNFhRY3F4TW5iTUNZQjFLTEVza19OUGpjREY3ZzZ1N1BUUW00eVhkX2pfYTdQVUF5NTRYLVZtV2p4bXAxWnUyQ041bkg3aUxoeGxZMGhBSU5nZU1wdUE?oc=5",
+      "description": "損保ジャパン・SOMPOリスク・TrendAIが連携、損保ジャパンのサイバー保険契約者にASMを提供&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-10-29T06:33:00.000Z"
     },
     {
       "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",

@@ -2,16 +2,30 @@
   "topic": "ai",
   "articles": [
     {
+      "title": "ヘカトンAIがAIデータセンターを短期構築 企業導入加速 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmVvdHd6dDBsamV0d1BocHlHVlIxSUNkSDlaNXBOWDBHQzR2RlhOUnhha0wxLTBxYm9RcWpSQmpDTnFkWHhOYUlMWTN0NVVWcEdaYXA0czZCbkNnOFVTaXNhVmwzRkd1Y21hYlg5czhKRDhkUUR4UUtNZURHVnVIQzNB0gGWAUFVX3lxTE1oLXRndW9kbGZSb3ZENjhiWmluUFZBYUpkRUE0NndSRjVKcjYzYnFKSHM5UEhwUm5CbTl0cjlQNXRkR3A2aTRSOWotSDVIanhYczNObFhBTnd1UjBYWXo3czdCZWs4Z283VkZlUVZlVnQyYVdPTlFwN3RkOUNHaUV3bGx6aUtsRmJNeHhKWkpDVEpzSmdidw?oc=5",
+      "description": "ヘカトンAIがAIデータセンターを短期構築 企業導入加速&nbsp;&nbsp;Chosunbiz",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-05T00:44:00.000Z"
+    },
+    {
+      "title": "iZotope社、GPU駆動音声処理ソフトウェア「Photon」発表。動画ファイルにも対応の高速自動オーディオリペアを実現 - PRONEWS",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FVjJZM3ZkOUdfUGdUVVZsV2lGZ0V3TnpHczZTREVyZEVRLV9BaHQta0g2eEZ3QW55MkdDMU5uU3M5T21XeHRMbHNUclFiVUQ2aE14d3A5Q214RzBONGg0cQ?oc=5",
+      "description": "iZotope社、GPU駆動音声処理ソフトウェア「Photon」発表。動画ファイルにも対応の高速自動オーディオリペアを実現&nbsp;&nbsp;PRONEWS",
+      "source": "PRONEWS",
+      "publishedAt": "2026-11-05T00:31:27.000Z"
+    },
+    {
       "title": "韓国ALTIBASE、日本市場の開拓強化…東京の技術会議で次世代データベース紹介（KOREA WAVE） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZRnRRWktiZTRGbXIyVmtoMWdBZW1PQmhtRXMyTjlJMng1d255Sk9Ga2ttYVVDdkNLZEVHc3g2RGlyb3V5MUtKbDc3cGQ5MjBoVnBtdnZkU0tTWS11NnhFdDNfLV9UdFRsOXQ5b2Y1VUJPRloxRzJ5cXZ0TlJlRzQ?oc=5",
-      "description": "韓国ALTIBASE、日本市場の開拓強化…東京の技術会議で次世代データベース紹介（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
+      "description": "韓国ALTIBASE、日本市場の開拓強���…東京の技術会議で次世代データベース紹介（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-04T22:07:23.000Z"
     },
     {
       "title": "ManageAI、国内企業を対象に「企業の生成AI『契約とコスト』実態調査2026」を開始（12月25日まで） - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03Qy1IdDhPYk1mUkU5Z1RLcWRxczhpQlF6RmRJVVRrTFRrUXd2Rlk5cUlrYkNaSGx0MDdibjN1Vkszb0ZNWmg5LUhfaUY3MjFzTDkySVVDVjNkd3ZKMjlleDZjTXFpWjVX?oc=5",
-      "description": "ManageAI、国内企業を対象��「企業の生成AI『契約とコスト』実態調査2026」を開始（12月25日まで）&nbsp;&nbsp;ニコニコニュース",
+      "description": "ManageAI、国内企業を対象に「企業の生成AI『契約とコスト』実態調査2026」を開始（12月25日まで）&nbsp;&nbsp;ニコニコニュース",
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-04T15:30:47.000Z"
     },
@@ -26,7 +40,7 @@
       "title": "スマート横断歩道、空飛ぶ救命浮輪――烏鎮サミットの画期的な技術 - 人民網日本語版",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jNTdpcXBBbGZ3T09vMEZxV2FZMGMtZi1EZ05jMk1uUVdCQVFXeWFjemlidGxKZXBTLTZobkEwaUlteC1NRjlPWmRkUHRfNzRPR3Rscm51Z29SaFRwRnRuSUNoaGctOXc?oc=5",
       "description": "スマート横断歩道、空飛ぶ救命浮輪――烏鎮サミットの画期的な技術&nbsp;&nbsp;人民網日本語版",
-      "source": "人民網日本��版",
+      "source": "人民網日本語版",
       "publishedAt": "2026-11-04T05:52:00.000Z"
     },
     {
@@ -35,20 +49,6 @@
       "description": "生成AIの導入を業務変革につなげるには? NTTデータが語る「3つの壁」の越え方&nbsp;&nbsp;マイナビニュース",
       "source": "マイナビニュース",
       "publishedAt": "2026-11-04T04:00:00.000Z"
-    },
-    {
-      "title": "カインズ、AIによるアルゴリズム探索で長期需要予測の誤差を19%改善 - IT Leaders",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZllhMGx0MV84d0M0SWpPSHY1azhLQ3lfNXMxSFJ5c3hYYXQ0c1Rwb0RBYVlvNkZteVZla1dTaFVQS0J4SnpUX0JfaHkwbzJfeHpJ?oc=5",
-      "description": "カインズ、AIによるアルゴリズム探索で長期需要予測の誤差を19%改善&nbsp;&nbsp;IT Leaders",
-      "source": "IT Leaders",
-      "publishedAt": "2026-11-04T01:04:17.000Z"
-    },
-    {
-      "title": "日本エンタープライズ・エージェンティックAI市場：AIエージェントの導入、自律型ビジネスプロセス、企業オートメーション - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVX3k5LVdpVTQyLVhCbklqNUw5WnpKdDZyeDh0QVdFSTFRLXgydDZOY1g2ektHZmNBaVNMNmNKcnJxaTRRRUcxY0FkZlA5ZzNuMzNaZG04cHJ0YU9zZ01KWUtLTFpjU3lNbFBTZ1JtMWE5anpZdTVJUnlsdw?oc=5",
-      "description": "日本エンタープライズ・エージェンティックAI市場：AIエージェントの導入、自律型ビジネスプロセス、企業オートメーション&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-04T01:00:39.000Z"
     },
     {
       "title": "マウザー、オートメーション向けAI・機械学習リソースセンターで最新技術を紹介する取り組み - ニュースメディアVOIX",
