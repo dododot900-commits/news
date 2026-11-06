@@ -2,32 +2,46 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pd0k3VTJueVFTYmxRV1QwV2F1SzBPbkI2XzNReUVGeTFiLUQ3RFdKT3dLNkV5SDR2SDRLWDc1bVBGT1kweFl0b0NZX0lzWkR0bjRDLUVGYzVzZkZabFVFVi1JaUlaN0ViY1ZrOG1uX3RMdm8z?oc=5",
-      "description": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-11-04T23:00:00.000Z"
+      "title": "「48時間が山」AI時代のサイバー攻撃、脆弱性公開から狙われる JARCゼミナールで講師が警鐘 - 観光経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BQ2xFbG1UVzZycF9WdTZmaXdjQ0I1OFpLYzlsZkRBbGQ2N1BEY0tHYkFkRURRUnhVTE5Ub044elNXSUpvdk45UFNYaW5vNlZJY1U0MQ?oc=5",
+      "description": "「48時間が山」AI時代のサイバー攻撃、脆弱性公開から狙われる JARCゼミナールで講師が警鐘&nbsp;&nbsp;観光経済新聞",
+      "source": "観光経済新聞",
+      "publishedAt": "2026-11-06T00:35:14.000Z"
     },
     {
-      "title": "Insignaryが提供する無料の脆弱性検査ツール「insignary-chk」の魅力と特長 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56eDlOZWhlZ3YxRTJyb2Q3MWVCZ0NJZTkyOFlKVm5ramVEaUY1LXJDMVRwclNUOWJyVm9YTm5fZzFscG81bFpmN0hIX2c2QjFhSmRfbVIwZ0k0aGlIXy1vNk5ESHUyRVRHNmlBSklOZ0lNWkw5WVRV?oc=5",
-      "description": "Insignaryが提供する無料の脆弱性検査ツール「insignary-chk」の魅力と特長&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-04T11:04:50.000Z"
+      "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14QWZmaUxwUUVZdjE2MVVYeXNvaENtbUNKM1U3YndDVF9wSzdUTGVaajQtWTU0bFhwX2l0UnlhbVcwTWk4d3QtNnlQb3FfS096ajF0RmhkVXdfZENGREd2M25Tb1BCUHpxa3lSQ0RCRXBQUQ?oc=5",
+      "description": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-05T23:10:02.000Z"
     },
     {
-      "title": "UCKがセキュリティレポートを大幅アップデート。ダッシュボード化で脆弱性情報を見やすく - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XUnVmN1c1VnBIdVZ3a0FFclE5bUVUVUVmM2U4QUZ3Zk9HV0IzVGZIRTFQNGFvaFprVW1hRnk2dWI5Tno2NUR1RnFHczUxMHEzSkd2VW1SNVoteVBpaXRRdWk1MENUX3M?oc=5",
-      "description": "UCKがセキュリティレポートを大幅アップデート。ダッシュボード化で脆弱性情報を見やすく&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-04T10:33:23.000Z"
-    },
-    {
-      "title": "AI駆動開発の見えないリスクをエンジニアリング力で可視化。技術者集団のグルコースが「ソースコード・セキュリティ診断サービス」を提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JeHJOeUhaZDlUR0hQWlFqenVhRzQ3Uy1vQmhqU1lPaUx0QmVqaGgta3FTclZGU0o3WlNMUEM3M0kxYnFQXzV6dHNaZjU5YnJvc0NEZnZxd0tTaGIwdUpmd05QdF9zbHhYcUE?oc=5",
-      "description": "AI駆動開発の見えないリスクをエンジニアリング力で可視化。技術者集団のグルコースが「ソースコード・セキュリティ診断サービス」を提供開始&nbsp;&nbsp;PR TIMES",
+      "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテス��サービス」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ca24yYXdhZVVTTld2RE5qNjFNZ1pGWXVCWUxXMHpLVXhBM2pZN3cxR18ta0kyOFE3OHE5SW1wR1o0eFlTWGdzdHlJeXJtUTJXdmRDY3dJd2NCbExqbVYyNDRseTFueVE2YVE?oc=5",
+      "description": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
-      "publishedAt": "2026-11-04T02:00:01.000Z"
+      "publishedAt": "2026-11-05T23:00:01.000Z"
+    },
+    {
+      "title": "【相次ぐ不正アクセスと大規模な情報漏えいに備える】ランサムウェア対策、ゼロトラスト、脆弱性管理、AIセキュリティなどの - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zeEJseWlSazhrTEJoVThPQjRGLU14QU1xd1ZFZHp2cHBCUHlsMDdvdmtLbDRsRDVKRS1JcjNpTGZGWXhIRzA5QTFzWENiYzY3UXM2d240aWlmOVQ1Y01VT1BYYVlrSHV6T3ZpeWE4TW5lb1V5NVVMeEFrZw?oc=5",
+      "description": "【相次ぐ不正アクセスと大規模な情報漏えいに備える】ランサムウェア対策、ゼロトラスト、脆弱性管理、AIセキュリティなどの&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-05T18:45:29.000Z"
+    },
+    {
+      "title": "AIの安全な活用を総合的に支援する「AIセキュリティコンサルティング」を提供開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8weDRMdEc2MGtnZnVXRXFmRlV5MF9kNzhxTzcxMFRtdEFOZGVVV1hybUhmekhyVGNmS2RnR0VsYWhWODZUY1cyTlRLejcxZTZXbWE0Zk91Tmg2QmFDTGxaeFBsMG5MN21z?oc=5",
+      "description": "AIの安全な活用を総合的に支援する「AIセキュリティコンサルティング」を提供開始&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-05T11:30:29.000Z"
+    },
+    {
+      "title": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSaEJWY1hzZ0U2UV9yRlBZT181ME1PQXZPZVFzSUsza05IUGMxUE5tdk9odmMtUi15YXN6N1cwYUczaHA1b2ZaaEo4N0szR2hFZjNQUHRpSUlfWlRLeGFYTzF3?oc=5",
+      "description": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始&nbsp;&nbsp;ライブドアニュース",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-11-05T11:20:51.000Z"
     },
     {
       "title": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し - ドリームニュース",
@@ -44,32 +58,11 @@
       "publishedAt": "2026-11-04T01:06:22.000Z"
     },
     {
-      "title": "カオピーズが提供開始する脆弱性診断から修正までの一貫支援サービス「Kaopiz Secure Loop」 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51RThGeWQzVFU0X2tualA1Tmd0UTQzTkVLUVc1bXdTNXJWUU9NUFJ1V0twZWpocHlDRU8yd3pZSVl1Y09oU0s0Sl94VmRVMEdBMkxDTVNTMTFPXzc3anVZNVBMNkcyUQ?oc=5",
-      "description": "カオピーズが提供開始する脆弱性診断から修正までの一貫支援サービス「Kaopiz Secure Loop」&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-02T07:43:20.000Z"
-    },
-    {
-      "title": "中小企業のための新しいWebセキュリティ診断サービス「Emergency Security Action」の誕生 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvcW1qU0hQanlvMDJKWmFnR2VwOThMdGxjdU9iN3FOQXdkLU85X2szV29scVR2SnRzVlVmRUdnQVNQWHZMOWpwXzBwcVYtVGJib0dRSUFXN05DMGUwdThIUUpQMmd4QWtBaXFHbGd3TGk?oc=5",
-      "description": "中小企業のための新しいWebセキュリティ診断サービス「Emergency Security Action」の誕生&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-02T06:53:23.000Z"
-    },
-    {
-      "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
-      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-10-29T23:00:00.000Z"
-    },
-    {
-      "title": "損保ジャパン・SOMPOリスク・TrendAIが連携、損保ジャパンのサイバー保険契約者にASMを提供 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SWFpMkxDdzZCNFhRY3F4TW5iTUNZQjFLTEVza19OUGpjREY3ZzZ1N1BUUW00eVhkX2pfYTdQVUF5NTRYLVZtV2p4bXAxWnUyQ041bkg3aUxoeGxZMGhBSU5nZU1wdUE?oc=5",
-      "description": "損保ジャパン・SOMPOリスク・TrendAIが連携、損保ジャパンのサイバー保険契約者にASMを提供&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-10-29T06:33:00.000Z"
+      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
+      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-10-27T07:00:00.000Z"
     },
     {
       "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
@@ -84,6 +77,13 @@
       "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "title": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUVRvT3dKVDJUVXctbXhObE9zd3FfSlRSbXQ3M3BDSTBZbUlPN3ViTkhsaHZaRGhXRWpIdDEzOGdYZnczbU9jTFNvUDRISldrdnViRThwWVJsTVQ3OFlCWDBBLTlwck5KVEtnRQ?oc=5",
+      "description": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-10-15T07:00:00.000Z"
     },
     {
       "title": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞 - PR TIMES",
