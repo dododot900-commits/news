@@ -2,11 +2,25 @@
   "topic": "asm",
   "articles": [
     {
+      "title": "QueryPie AIが提供するAIペネトレーションテストサービスで企業の脆弱性を確実に検証 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jSVdXMnEzeXZsQ2xuVGRVT25sWlNtOXpYY3ptc1dzTGNGa0FkYTlQdWthNFpYWUZqRkhBWjhpbVhZeTRhVHFHbHBpUjZnaVhMeHowd09kUGtnZ2w1LXpTOTBOLVk4RzB3LU41Z0paalE?oc=5",
+      "description": "QueryPie AIが提供するAIペネトレーションテストサービスで企業の脆弱性を確実に検証&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-11-06T07:24:26.000Z"
+    },
+    {
+      "title": "BIPROGY Codename MDASHを活用した自社サービスの脆弱性検証を開始 - 共同通信PRワイヤー",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fR1FZYXpmcGttU1dERGhYRGktSEJfRGdoZXZqLXNvbGxRSWwzdktPT0U0QW5VaHFGbFRNMnRhZnhaNnFLamUxS2o5VzIta2RJblBVS0hwM21VU2s?oc=5",
+      "description": "BIPROGY Codename MDASHを活用した���社サービスの脆弱性検証を開始&nbsp;&nbsp;共同通信PRワイヤー",
+      "source": "共同通信PRワイヤー",
+      "publishedAt": "2026-11-06T02:10:59.000Z"
+    },
+    {
       "title": "「48時間が山」AI時代のサイバー攻撃、脆弱性公開から狙われる JARCゼミナールで講師が警鐘 - 観光経済新聞",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BQ2xFbG1UVzZycF9WdTZmaXdjQ0I1OFpLYzlsZkRBbGQ2N1BEY0tHYkFkRURRUnhVTE5Ub044elNXSUpvdk45UFNYaW5vNlZJY1U0MQ?oc=5",
       "description": "「48時間が山」AI時代のサイバー攻撃、脆弱性公開から狙われる JARCゼミナールで講師が警鐘&nbsp;&nbsp;観光経済新聞",
       "source": "観光経済新聞",
-      "publishedAt": "2026-11-06T00:35:14.000Z"
+      "publishedAt": "2026-11-06T00:31:39.000Z"
     },
     {
       "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始 - Infoseek",
@@ -16,18 +30,11 @@
       "publishedAt": "2026-11-05T23:10:02.000Z"
     },
     {
-      "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテス��サービス」を提供開始 - PR TIMES",
+      "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ca24yYXdhZVVTTld2RE5qNjFNZ1pGWXVCWUxXMHpLVXhBM2pZN3cxR18ta0kyOFE3OHE5SW1wR1o0eFlTWGdzdHlJeXJtUTJXdmRDY3dJd2NCbExqbVYyNDRseTFueVE2YVE?oc=5",
       "description": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-11-05T23:00:01.000Z"
-    },
-    {
-      "title": "【相次ぐ不正アクセスと大規模な情報漏えいに備える】ランサムウェア対策、ゼロトラスト、脆弱性管理、AIセキュリティなどの - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zeEJseWlSazhrTEJoVThPQjRGLU14QU1xd1ZFZHp2cHBCUHlsMDdvdmtLbDRsRDVKRS1JcjNpTGZGWXhIRzA5QTFzWENiYzY3UXM2d240aWlmOVQ1Y01VT1BYYVlrSHV6T3ZpeWE4TW5lb1V5NVVMeEFrZw?oc=5",
-      "description": "【相次ぐ不正アクセスと大規模な情報漏えいに備える】ランサムウェア対策、ゼロトラスト、脆弱性管理、AIセキュリティなどの&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-05T18:45:29.000Z"
     },
     {
       "title": "AIの安全な活用を総合的に支援する「AIセキュリティコンサルティング」を提供開始 - ニコニコニュース",
@@ -37,18 +44,11 @@
       "publishedAt": "2026-11-05T11:30:29.000Z"
     },
     {
-      "title": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSaEJWY1hzZ0U2UV9yRlBZT181ME1PQXZPZVFzSUsza05IUGMxUE5tdk9odmMtUi15YXN6N1cwYUczaHA1b2ZaaEo4N0szR2hFZjNQUHRpSUlfWlRLeGFYTzF3?oc=5",
-      "description": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始&nbsp;&nbsp;ライブドアニュース",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-05T11:20:51.000Z"
-    },
-    {
-      "title": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し - ドリームニュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WUldUbGY2UEttTUFkdUhkYng3ZnJLSDQzRi1kSHVCTWY4Qm5NRFlsTmt1Umg5VnZiQTNodVdvUWFCaFRGRm10NVBhcFA3bWdSQlFZ?oc=5",
-      "description": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し&nbsp;&nbsp;ドリームニュース",
-      "source": "ドリームニュース",
-      "publishedAt": "2026-11-04T02:00:00.000Z"
+      "title": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sdjl5cERpTWY5UkN6ZkhKeWNkRjZoeEE1R3BJNGRNUE1XYjR4ajMwblhtZEhYR285Xy1fcjBZNmNaMUZYWVZzWDVjZzE1d0R5blpyYw?oc=5",
+      "description": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-04T03:00:26.000Z"
     },
     {
       "title": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結 - ニコニコニュース",
@@ -65,13 +65,6 @@
       "publishedAt": "2026-10-27T07:00:00.000Z"
     },
     {
-      "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcDhGLVNGVG5wR1Q4NXVlLU00Y2EweDZodERoTFVSanlTbWxhSlk1b0xOY09CeTFkSkdXZ3RyeFlzeF85WmF5UG14VHlpdGRnMTFzUlNXTFk2c0ItZ3IzQ0hIY3JXNmxVM1JFdGtCcFo?oc=5",
-      "description": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-23T08:43:55.000Z"
-    },
-    {
       "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYV1dkLWowbDhOdnA0ZFJZQmozVTdqS1JzeG1HYnIwR1ZMc2JnY2Z6b1l1YkR5UE0wbWxzTGV5aXhVU29lTS1meDAwTUZUcWVNMkNieXF3NFZZVjNmeFI1Z2hUVExtaHAxYmc?oc=5",
       "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
@@ -79,7 +72,14 @@
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
-      "title": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
+      "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcDhGLVNGVG5wR1Q4NXVlLU00Y2EweDZodERoTFVSanlTbWxhSlk1b0xOY09CeTFkSkdXZ3RyeFlzeF85WmF5UG14VHlpdGRnMTFzUlNXTFk2c0ItZ3IzQ0hIY3JXNmxVM1JFdGtCcFo?oc=5",
+      "description": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "title": "攻撃者と「対等な条件」に立つ ASM 運用 ～ ���本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUVRvT3dKVDJUVXctbXhObE9zd3FfSlRSbXQ3M3BDSTBZbUlPN3ViTkhsaHZaRGhXRWpIdDEzOGdYZnczbU9jTFNvUDRISldrdnViRThwWVJsTVQ3OFlCWDBBLTlwck5KVEtnRQ?oc=5",
       "description": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏&nbsp;&nbsp;ScanNetSecurity",
       "source": "ScanNetSecurity",
@@ -97,7 +97,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVmxqTWpnTmRKalZiMmNmNTcwWkFoSE83MlplQTRjWlZ3WDV2ejVwaUV1MDljZWF0Z29aRUtBUVNlUTlrVk9jQXRUZTZJS2VDdjhwN0dLZDM2eTNNamhFZU1TMUI5SEdycThPV0RlQ1U2TXlPeWlLekQ3dWtRZkt2Y3Y3eUNhR3BkTWdyZ003eGhWTGw2cTdESmFpVnJBSTBydHlqaE4zWUFlb1dzME9DMTJ4R3pTMHcxcEc0T05MUWFsVzBr?oc=5",
       "description": "継続的エクスポージャー管理：セキュリティチームが2026年に測定すべきこと&nbsp;&nbsp;eSecurity Planet",
       "source": "eSecurity Planet",
-      "publishedAt": "2026-10-07T07:00:00.000Z"
+      "publishedAt": "2026-10-09T16:47:40.000Z"
     },
     {
       "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
