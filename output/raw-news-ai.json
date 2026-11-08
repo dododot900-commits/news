@@ -2,6 +2,13 @@
   "topic": "ai",
   "articles": [
     {
+      "title": "SF作家���藤井太洋が語る「AIが人類を滅ぼす！」言説とのクレバーな向き合い方 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vOWgtb3dVVnpyV2ExVmpVbWNGWVVJN3ZUUEM0aWxXSldKYU9uOVV5OE5EQlNqT3N0OHJVeEpVeE9QbVhtbzI3S3FlVVhjZjRCZUFRaEZEM244eHFnUnZPcUJ1b1dGeTA5d0hiRnllMDZiaGtLaW5qWmVjZw?oc=5",
+      "description": "SF作家・藤井太洋が語る「AIが人類を滅ぼす！」言説とのクレバーな向き合い方&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-07T21:57:04.000Z"
+    },
+    {
       "title": "【福井県が公募】生成AI導入のプロ人材を募集！中小企業を直接伴走支援 - 選挙ドットコム",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WUU9NMzdjTjlSLU52cENYbERYMGl6R3BUbjN6UmFtRWtWUEdYeGd2T2RJM3BxSU5YWFJwY1ZhUk4zM0NaQ05fd0F5QkMyWmR3TXZRb3NLbUJ4d0tEU0NR?oc=5",
       "description": "【福井県が公募】生成AI導入のプロ人材を募集！中小企業を直接伴走支援&nbsp;&nbsp;選挙ドットコム",
@@ -14,13 +21,6 @@
       "description": "日本の銀行業務における機械学習市場の成長要因&nbsp;&nbsp;pando.life",
       "source": "pando.life",
       "publishedAt": "2026-11-06T20:56:25.000Z"
-    },
-    {
-      "title": "GensparkとKDDI Biz Edgeが組み、スマホ完結型AIを2027年1月に中小企業へ - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TX3QxLWxmX3FDRUJKT1RUS25MX29JaHpiRVVpblBCY0NXUDdWYjNHY0p5aEZCcUk1ZkMxSUlSY1RvSUR6MFVzSGNpcEZNSGJXY3Vha1hyczJrZ3N6dVNZbFVlblFSUFBORVRmYS16R0otdHEw?oc=5",
-      "description": "GensparkとKDDI Biz Edgeが組み、スマホ完結型AIを2027年1月に中小企業へ&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-06T07:36:00.000Z"
     },
     {
       "title": "大手テクノロジー株が急落、米中間選挙での民主党勝利受け　AI開発の減速を懸念 - BBC",
@@ -37,25 +37,11 @@
       "publishedAt": "2026-11-06T04:00:01.000Z"
     },
     {
-      "title": "韓国ALTIBASE、日本市場の開拓強化…東京の技術会議で次世代データベース紹介（KOREA WAVE） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZRnRRWktiZTRGbXIyVmtoMWdBZW1PQmhtRXMyTjlJMng1d255Sk9Ga2ttYVVDdkNLZEVHc3g2RGlyb3V5MUtKbDc3cGQ5MjBoVnBtdnZkU0tTWS11NnhFdDNfLV9UdFRsOXQ5b2Y1VUJPRloxRzJ5cXZ0TlJlRzQ?oc=5",
-      "description": "韓国ALTIBASE、日本市場の開拓強化…東京の技術会議で次世代データベース紹介（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T22:03:15.000Z"
-    },
-    {
-      "title": "工場の自動化はAIでどう変わる？ マウザーが産業用AI/MLの技術情報と対応製品を公開 | TECH+（テックプラス） - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TVHA2cUlMc3E3cDhPeDNfWkN1N0c3X1JaYlBiMUl2el9SUDFKaWRscjUzOW5JZVJ5cVJJSnVaQi1Bc0o2VzdEN1dSV1ljRjJ0VU91dDlpZ0xlUnFsRkVISWFSaUQxV1NL?oc=5",
-      "description": "工場の自動化はAIでどう変わる？ マウザーが産業用AI/MLの技術情報と対応製品を公開 | TECH+（テックプラス）&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-11-04T08:35:46.000Z"
-    },
-    {
-      "title": "スマート横断歩道、空飛ぶ救命浮輪――烏鎮サミットの画期的な技術 - 人民網日本語版",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JQTVxRlFOeWw3bEd1N1EySk1ZMUxMLTd1d1piUThObE42RGt0d295QUhXdjBLSjBFdmdkNVptY2VSbnNZU2xMWnNRNGlPZnY4cmY5LUhJc1pTM2o1dHhCa0lwUEZISFVa?oc=5",
-      "description": "スマート横断歩道、空飛ぶ救命浮輪――烏鎮サミットの画期的な技術&nbsp;&nbsp;人民網日本語版",
-      "source": "人民網日本語版",
-      "publishedAt": "2026-11-04T05:52:00.000Z"
+      "title": "日本工学院専門学校、BytePlusの生成AIサービス「Lumina」を授業に導入 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HQjZzYS1fbXBsank2ZEFPcllPSy00bHVkNTRJLWhPcDBMenhyLTcxeTJ2Sm9DMTNvZEdjWXB0VUxlZUF0SXExeVNPOUU4aDZXekNBem9WT2VVeGdFeFFDc3ZnLUExUkVFX0E?oc=5",
+      "description": "日本工学院専門学校、BytePlusの生成AIサービス「Lumina」を授業に導入&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-06T03:44:27.000Z"
     },
     {
       "title": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介 - SHIFT AI",
@@ -65,11 +51,25 @@
       "publishedAt": "2026-09-09T07:00:00.000Z"
     },
     {
+      "title": "AIの画像認識精度を2割向上 早稲田大学が新技術、自動運転向け - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVUh6SE1jQ1ZVUXJ4NWpsMkZSTzluRVk0ajVOM1Q2cFV3cVVZSW8tVmt2WUpSRjJLQnVEOV9lT1JfTm9oaVNwcGVVVmYtU2pTV2dObUlaT0Q1SWtQVEhnakRobk1OT1EyWmhGRQ?oc=5",
+      "description": "AIの画像認識精度を2割向上 早稲田大学が新技術、自動運転向け&nbsp;&nbsp;日本経済新聞",
+      "source": "日本経済新聞",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
       "title": "GPUサーバーオンプレミス導入で加速するクリエイティブ×機械学習の創作支援機能研究｜ペイントアプリ「CLIP STUDIO PAINT」を手がけるセルシスの挑戦 - NTTPCコミュニケーションズ",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fNlppSldGckdIWW5vS19wVlI2QXlmQlc2SlE4Qmw1c3dOR2J6NVE5QkFLN0dYdzdyZ0Y0VHRlQU5FUzBOOTJNWmRQek12eTJUaTViczc3dk1zaG1MQkVKb0dxQzE?oc=5",
       "description": "GPUサーバーオンプレミス導入で加速するクリエイティブ×機械学習の創作支援機能研究｜ペイントアプリ「CLIP STUDIO PAINT」を手がけるセルシスの挑戦&nbsp;&nbsp;NTTPCコミュニケーションズ",
       "source": "NTTPCコミュニケーションズ",
       "publishedAt": "2026-04-20T07:00:00.000Z"
+    },
+    {
+      "title": "プラント機器を低コストで実機投入できる： 機械学習を活用した熱流動場予測モデルの構築 - Mitsubishi Heavy Industries, Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnZzlNUTdGbFQ1eXJadFpMV2U1emdYYWsxNzROa0lBb2JuWkZsMlRTanZUNkVIek5tNXUwTkVWa2JhSi1jUlN5b0hpMm9XcU5wc3c4emFXaXVRUW9XZ0VjdDFrblM0NG5J?oc=5",
+      "description": "プラント機器を低コストで実機投入できる： 機械学習を活用した熱流動場予測モデルの構築&nbsp;&nbsp;Mitsubishi Heavy Industries, Ltd.",
+      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "publishedAt": "2026-02-04T15:09:46.000Z"
     }
   ]
 }

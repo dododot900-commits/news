@@ -9,27 +9,6 @@
       "publishedAt": "2026-11-06T06:51:05.000Z"
     },
     {
-      "title": "Palo Alto Networks Just Dropped 13% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlkwWmRpaVQ0UWlhalRSbnB3aXZQNnE4WElOS2JGUVlDYXNseVBWNFBUVVQ3LThTVm44WnZYV0pGSjNIR2ZTVDNfTGkwbjhndHV1VE42ZFNUM3d5cXVsWjJzT2gxckwxcVNuSTlQc0xiY1RzVUdRanJWRUFfNWRwQW8teUZlbEZWVFA1aXNfdzBKcmtnRmNaSWJMWXA3akxPVWlVUFg3TlI?oc=5",
-      "description": "Palo Alto Networks Just Dropped 13% in a Month. Is It Time to Sell, or Load Up?&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-11-05T12:00:17.000Z"
-    },
-    {
-      "title": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pd0k3VTJueVFTYmxRV1QwV2F1SzBPbkI2XzNReUVGeTFiLUQ3RFdKT3dLNkV5SDR2SDRLWDc1bVBGT1kweFl0b0NZX0lzWkR0bjRDLUVGYzVzZkZabFVFVi1JaUlaN0ViY1ZrOG1uX3RMdm8z?oc=5",
-      "description": "脆弱性38万件のうち悪用されたのは約0.5％ Microsoftが示す「先に対処すべき脆弱性」とは？&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-11-04T23:00:00.000Z"
-    },
-    {
-      "title": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45NzBkM3lFa0dWQjJVdUtyY1Bud01HdEd3VVViUmprZkdSa0JfNGtpOU5OOTNaODlHNU03YUFGY2ZsUkVzMUQ5eTFMZkF6ZzZhYkdCOGlhUVNVdlhsRVJYNzRCWktmMmgwZWNRcm5B?oc=5",
-      "description": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-11-03T22:00:00.000Z"
-    },
-    {
       "title": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhQWRVcWFvQ1JoaE5HcGdDb0poTzI5blNPV2JVNU5IVHN3cmxMTWlfYU1CQTNMYjZza1h1M1pMYmhNaWUzMUR4YWhSTE5wa0dFRWNzNHAtbEtQbWhGS0RtOTAyeTdzbE91Y1JySXZzODBidmtw?oc=5",
       "description": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」&nbsp;&nbsp;BigGo ファイナンス",
@@ -58,11 +37,25 @@
       "publishedAt": "2026-10-19T07:00:00.000Z"
     },
     {
-      "title": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導��形態別、使用事例別、業種別―2026年～2032... - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNkhVVEVUX09hSVU0RFVFUXVzYld3R3dVMk5nR3pzd1ZmVDIxM2xjdEg5WTdoRW45RzRob0lzUFF4dEhnMFVCWWlmaXFITzg?oc=5",
-      "description": "エンタープライズネットワークファイアウォール市場：構成要素別、ファイアウォール技術別、スループット帯域別、企業規模別、導入形態別、使用事例別、業種別―2026年～2032...&nbsp;&nbsp;アットプレス",
-      "source": "アットプレス",
-      "publishedAt": "2026-10-05T07:00:00.000Z"
+      "title": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjJUdVpUZEpKUlBDYTg1WWZXREM2YldHbWg3WnhVWFRIaXB3bTQ1NW9TMDJjaWlaaWZXZUlGWjdFV1NyWmEzNnhwMVVKV0EzM1FqczRuRmp4OC1Ta2QzcnA5dDVMRlVKSVh2NlYxWTgtRHJOeU8zYnFXVzJIRDJoOEpVRlBDblA4RVFwajhqbng0RHlzRi1xbA?oc=5",
+      "description": "Palo Alto Networks「PAN-OS」にroot権限でコード実行される脆弱性、サイバー攻撃で悪用確認―CVE-2026-0322&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-15T07:00:00.000Z"
+    },
+    {
+      "title": "古いVPN装置を使い続けて大丈夫？ 危険度が分かる無料チェックリスト - NTTPCコミュニケーションズ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkb1pJZWhtall1WWpWRW43S1A2S0VxTnNaS0gyU0tydUhxb1hvby1JNUpSbWFIVzNHSE50ZnZKbjdQaDFRQ1YzZlpIVDdpdDIxcTNWZmVhNUlMbThGV0tVc0EyQ2pCbVFOekU4M05nYUFZYTA?oc=5",
+      "description": "古いVPN装置を使い続けて大丈夫？ 危険度が分かる無料チェックリスト&nbsp;&nbsp;NTTPCコミュニケーションズ",
+      "source": "NTTPCコミュニケーションズ",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
+      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
+      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
       "title": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代 - ITmedia",
@@ -70,6 +63,13 @@
       "description": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-04-21T07:00:00.000Z"
+    },
+    {
+      "title": "企業向けファイアウォールを標的とする Interlock ランサムウェアキャンペーンを Amazon Threat Intelligence チームが特定 - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0JGX0Zoa09fY1l3eFpoV0pWZnQyMnNTb2dOaGQ2MjN4bkNQazZDb2dEbi1LeDdkcmRteEZuQ0kwQmtIblo5LW1LVmxoSThGZHFyVjZ6SEZEUkVMXzJ3Y2wtSXFYWTM1Tjlldkh4ZEFBOHhtdnMyTDdBa0E4UThGUUlpUi1UYlhVU3dRc2hVTzZQYzFpd25VRk5aZms0SVZ1aV82cVVGNXF5MkJxVEpiN05vbEVLcTJ5UmQ1dDQ5WjMzclluTUFSclJQVTdkYkxWc0YwQkMwdw?oc=5",
+      "description": "企業向けファイアウォールを標的とする Interlock ランサムウェアキャンペーンを Amazon Threat Intelligence チームが特定&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "source": "Amazon Web Services (AWS)",
+      "publishedAt": "2026-03-19T07:00:00.000Z"
     }
   ]
 }

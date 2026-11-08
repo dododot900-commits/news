@@ -2,11 +2,25 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "Cloudflare「Zero Wire」公開、脆弱性対応は「誰が調べるか」から AIで影響確認も - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zc0JhV0Q1eTV2MnpTcmRIMjFMaVgzR0N0N2E4c2p4Z1RieUZWV1NTa1czbVhmUTc5WTQtMkVTSGM1LW03TDN0VDRURHNqeEdpRXhRQThDblZ6ZzN3Uno5ZExQeHRRcDFwcHJ6VnBpNEdVNXM?oc=5",
+      "description": "Cloudflare「Zero Wire」公開、脆弱性対応は「誰が調べるか」から AIで影響確認も&nbsp;&nbsp;innovaTopia",
+      "source": "innovaTopia",
+      "publishedAt": "2026-11-07T01:41:36.000Z"
+    },
+    {
       "title": "ShopifyとJ.P.モルガン、CloudflareがBaseエコシステムを拡張 - Coinfomania",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXZTUW1kekdXbDlGZWh0Vkp2ZFoxeHFnckJrWnFhZlFMYXRvVnEweG9iVE1mM0drRUdXbjVuUk1JOUNrZ0VudkNha3Y0ZUVUbEF3TmlqUTBZRTlOSnRWV3lFaHFwWnJ4cC0zMlc4R3RnMENyRDlHTFRNNUpVY0hmMWMzanpNb211Q0ZJS1FkUQ?oc=5",
       "description": "ShopifyとJ.P.モルガン、CloudflareがBaseエコシステムを拡張&nbsp;&nbsp;Coinfomania",
       "source": "Coinfomania",
       "publishedAt": "2026-11-06T19:33:00.000Z"
+    },
+    {
+      "title": "NTT西日本、ゼロトラストの導入から監視・運用ま��一括支援 – 情シスの負担軽減狙う - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MTXdCWUxWSUUtQ2llWE9YYzNlWlRidXVQM0xPSU1ab2pXRTFocnBLQ3VheGhRUEJBUFd1b09lSWcxX3h2VDlpZVFaLVdDWE5qMnZZdVR3NTNWQ2NrMkN3UEpwLWc3UzJV?oc=5",
+      "description": "NTT西日本、ゼロトラストの導入から監視・運用まで一括支援 – 情シスの負担軽減狙う&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-11-06T08:30:00.000Z"
     },
     {
       "title": "ゾーホージャパン、統合エンドポイント管理クラウドに「EDR」と「DEX」オプションを追加 - クラウド Watch",
@@ -18,16 +32,9 @@
     {
       "title": "【Cloudflare 2026年度第3四半期決算説明会】Cloudflare、売上高39%増の7億8,250万ドルと約4年ぶりの高成長を記録、年間換算3億ドル規模を突破しGAAP黒字化を第4四半期へ前倒し - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tNXNsTkt6MU12WHBoSkphWDZfSi1pNUZaQmp4QWpMNnh2blMzMlQ1SlNvVU5PWDV4aGlmaXFqZUxINXlpSDdab2tBUHF2YTZWb3BnUlFKUGNoNnc?oc=5",
-      "description": "【Cloudflare 2026年度第3四半期決算説明会】Cloudflare、売上高39%増の7億8,250万ドルと約4年ぶ��の高成長を記録、年間換算3億ドル規模を突破しGAAP黒字化を第4四半期へ前倒し&nbsp;&nbsp;BigGo ファイナンス",
+      "description": "【Cloudflare 2026年度第3四半期決算説明会】Cloudflare、売上高39%増の7億8,250万ドルと約4年ぶりの高成長を記録、年間換算3億ドル規模を突破しGAAP黒字化を第4四半期へ前倒し&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-11-06T00:34:00.000Z"
-    },
-    {
-      "title": "Cloudflare、重大な脆弱性をAIで調査できる「Zero Wire」を公開：悪用状況から修正の確認まで支援 - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nV0sxRHhzdnN3elZoQ0xsRF9qT3l0LXplT0FCVHpHVlJzcjlYYnRNNGdFUUl0eEU2Z293YTQ4b21sWUE0ekkyUVRfWEo4WXVVWG9lTDVHVjNET1UydGFyTGk4bHRTX3FZWkU0V2RIdDhiZWdwdmRvM1RVdw?oc=5",
-      "description": "Cloudflare、重大な脆弱性をAIで調査できる「Zero Wire」を公開：悪用状況から修正の確認まで支援&nbsp;&nbsp;XenoSpectrum",
-      "source": "XenoSpectrum",
-      "publishedAt": "2026-11-05T06:38:47.000Z"
     },
     {
       "title": "ゼロトラストセキュリティの世界市場規模、2025年417億米ドル・年平均16.8％成長へ ―日本のサイバー対処能力強化法施行を背景に市場動向を分析 | ワクワクニュース - ワクワクニュース",
@@ -37,30 +44,16 @@
       "publishedAt": "2026-11-04T21:16:00.000Z"
     },
     {
-      "title": "ハノイ工科大学の放物線状の門に関するあまり知られていない事実 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zUUFYZ0dTamVXcHdTUUxOR3dWTnowcGlzTEZicF9kNkc2ZER2U2laZ0VvQVQ5bkhjcHZtZlZVUWsxZmJYRXZOWllBcGZwZzExWTdQOElWblhfR09lcGxKS004Y3dGUlFYLXc4SWcyMDVnZXczYm9oSEhlX3Z6UQ?oc=5",
-      "description": "ハノイ工科大学の放物線状の門に関するあまり知られていない事実&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-04T08:47:46.000Z"
-    },
-    {
       "title": "網屋---キヤノンMJグループの中小企業向けに特化したSASEサービスに「Verona」を提供(フィスコ) - Yahoo!ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb2M5cGx5VjRzX29SdzUtVVlqSzR6VjZnRk1YazBKelJaNG5KSnQ3b1RuTUtPMGtNTDI2SGUxRkw2YTF1RnpPSlliMjlmRUNORlU5VGRRbUM5MXZCb0ZjODJka0c0NlVZZFBZRkcyS0xlYlY3M294SDBVeGIweHo4MmxtUmZ5N0k?oc=5",
-      "description": "網屋---キヤノ��MJグループの中小企業向けに特化したSASEサービスに「Verona」を提供(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "description": "網屋---キヤノンMJグループの中小企業向けに特化したSASEサービスに「Verona」を提供(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
       "source": "Yahoo!ファイナンス",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
-      "title": "日本企業狙う不正アクセスにAI　攻撃者が自律型侵入テスト「ARTEX」を悪用　GMOイエラエ調査 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tbm5jYS1wdmMxdWx5cm04ZC02RFBrbExpS2JXdlZoQ2UwdW5QX3VjNmpJdlFXNEI4T0RaQllJWG1Rd19SNG5vWnBPODhwb2FpX0tFcFFwMGhicE1LUFphamR0SXZXMmpyNTFpbE03MDFmcjRrWXNB0gF8QVVfeXFMT2xhTVEtdXltWHRzVzYxUi1pZXJSbFQtX0xSbEZUQVdxZG9nc0tVeEdlWi1pOWFOTHppTXFma1hwZlIwLXM3b1ZvLThiSWtLUjdJZlJkTlRMRTVhVUxZclVpWnpwcXgwS2g5WmhtalppTWlzZ0ZjeEg5WEM2cw?oc=5",
-      "description": "日本企業狙う不正アクセスにAI　攻撃者が自律型侵入テスト「ARTEX」を悪用　GMOイエラエ調査&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
       "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
-      "description": "キヤノンMJグループが網屋の「Verona」を活用��た中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
@@ -84,6 +77,20 @@
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "title": "Made in Japanの安心感とサイバーセキュリティの今 - SKYSEA Client View",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13akl2SDRJbnR6TE5OQnVxd3F5ODF2d0JTZF92cVBtZW9tRUQyekM4bkdJYVZUcmMyY2FsVkRtYW1zMkRJLWprM19ZQjVRTjIzaTlzYU0zdmZEQkdTSGdvYXln?oc=5",
+      "description": "Made in Japanの安心感とサイバーセキュリティの今&nbsp;&nbsp;SKYSEA Client View",
+      "source": "SKYSEA Client View",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
+    },
+    {
+      "title": "CrowdStrike® Falcon OverWatch for Microsoft Defender - CrowdStrike",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYk5XQThBNFZmWUNwSHAwQ1IxLW9YMG02SF9meDZiT0tkczVMMGhlUEgtRUpSVFVZTVQ0eEIzbW96amx6UW1FQnZNM2p6SkNCZ0lWU0ZBOG95ZTdMQ3FIeTZZNDZJQmVkYXJWWi04NUN6WHVQQzVXSXUxSFl0VkVLdXBGbWljcmc5VUxPWHdVOHRxQ0pKS2ttMlVWcURTbnR5ZnVPZ2Jn?oc=5",
+      "description": "CrowdStrike® Falcon OverWatch for Microsoft Defender&nbsp;&nbsp;CrowdStrike",
+      "source": "CrowdStrike",
+      "publishedAt": "2026-07-23T18:53:53.000Z"
     },
     {
       "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
@@ -112,13 +119,6 @@
       "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-04-24T07:00:00.000Z"
-    },
-    {
-      "title": "Tenable One が提案する “エクスポージャー管理” という大人な価値観 ～ カントリーマネージャー貴島直也氏に聞く - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XRXBDdnNkX3FsVmVya1lMZnI5OW1haHNVMFBqR0UwZS1iRTM3ZFRFX2hkUmxuRkNPVnU4Nk9YYWZCUUZadFJLZnB3eEpNUlY0Zk41NTFjSi01MUlVLXF2YzFvVHhkYjk2U2lQNA?oc=5",
-      "description": "Tenable One が提案する “エクスポージャー管理” という大人な価値観 ～ カントリーマネージャー貴島直也氏に聞く&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-04-13T07:00:00.000Z"
     },
     {
       "title": "ソフトバンク 、Cato Networks の SASE ソリューション「Cato SASE Platform」取り扱い開始 1枚目の写真・画像 - ScanNetSecurity",
