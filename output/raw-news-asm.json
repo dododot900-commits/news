@@ -2,6 +2,34 @@
   "topic": "asm",
   "articles": [
     {
+      "title": "【無償のツールと AI で脆弱性管理を回す】当社の手順・判定の基準・期限の決め方・踏んだ失敗を公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sa0VNNENYQlBkOWl0NGRMYWF0b3pCbkJ6c3ZKTUFBWU5LbnVHd2l1d1ozM1V0azd6OGI5X3Q5emhDdE1RR1k2b29ma1hscDJHcU5wTXNMa0MtTWt0Wm1CazZfa0pfR3RwZnc?oc=5",
+      "description": "【無償のツールと AI で脆弱性管理を回す】当社の手順・判定の基準・期限の決め方・踏んだ失敗を公開&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-08T23:57:08.000Z"
+    },
+    {
+      "title": "東京電力HD、取引先にサイバーセキュリティ対策の再点検を要請 MFA・脆弱性管理・不要情報の削除、事故時の速やかな連絡を求める|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzJzSWo1TmYtZGlSTEd4TGpyWWlTQkFISjVWeXBoc3VDTkJzclNWZ2lmYVZwRS05UGxqRmg0R3N1RkVrRnZXTkUzNWkwN2MzOVBsUEw4WlNsQWVMRTVITUpmejU3dllqcVVseWtVaThhS0FmcjdZWnl0VHMtZmEwN211TzdrM2tXWk03ZHRwd2sza3oxam10QmdacHhaWDQ?oc=5",
+      "description": "東京電力HD、取引先にサイバーセキュリティ対策の再点検を要請 MFA・脆弱性管理・不要情報の削除、事故時の速やかな連絡を求める|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-08T22:45:14.000Z"
+    },
+    {
+      "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14QWZmaUxwUUVZdjE2MVVYeXNvaENtbUNKM1U3YndDVF9wSzdUTGVaajQtWTU0bFhwX2l0UnlhbVcwTWk4d3QtNnlQb3FfS096ajF0RmhkVXdfZENGREd2M25Tb1BCUHpxa3lSQ0RCRXBQUQ?oc=5",
+      "description": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-08T10:10:00.000Z"
+    },
+    {
+      "title": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZmFvZDBlU05EakZiclhudjdDZEVtUEdUMWxHZjVObnhUd0dlZ1R1T1NmdkpUcjh4STVDdzdYZTFYQlJEU1NpWUhpRld0Um4tWlFR?oc=5",
+      "description": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-11-06T08:00:00.000Z"
+    },
+    {
       "title": "QueryPie AIが提供するAIペネトレーションテストサービスで企業の脆弱性を確実に検証 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jSVdXMnEzeXZsQ2xuVGRVT25sWlNtOXpYY3ptc1dzTGNGa0FkYTlQdWthNFpYWUZqRkhBWjhpbVhZeTRhVHFHbHBpUjZnaVhMeHowd09kUGtnZ2w1LXpTOTBOLVk4RzB3LU41Z0paalE?oc=5",
       "description": "QueryPie AIが提供するAIペネトレーションテストサービスで企業の脆弱性を確実に検証&nbsp;&nbsp;ニュースメディアVOIX",
@@ -9,18 +37,11 @@
       "publishedAt": "2026-11-06T07:24:26.000Z"
     },
     {
-      "title": "国家サイバー統括室、個人情報漏えい対策の徹底を要請 AI活用や脆弱性診断など - Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51dERiQ1BNcUtSRzRvUmxVNmN0RVYtZUV6SlVKWW5WYmxFcFl5UWxGWjNTNERTR2YtclVvOXJuWnRtSk80MkhWTTZUYVpSRFZZR00xTXY1YzJQWVh0T3Y2ZzQya0M?oc=5",
-      "description": "国家サイバー統括室、個人情報漏えい対策の徹底を要請 AI活用や脆弱性診断など&nbsp;&nbsp;Impress Watch",
-      "source": "Impress Watch",
-      "publishedAt": "2026-11-06T06:37:29.000Z"
-    },
-    {
-      "title": "「48時間が山」AI時代のサイバー攻撃、脆弱性公開から狙われる JARCゼミナールで講師が警鐘 - 観光経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BQ2xFbG1UVzZycF9WdTZmaXdjQ0I1OFpLYzlsZkRBbGQ2N1BEY0tHYkFkRURRUnhVTE5Ub044elNXSUpvdk45UFNYaW5vNlZJY1U0MQ?oc=5",
-      "description": "「48時間が山」AI時代のサイバー攻撃、脆弱性公開から狙われる JARCゼミナールで講師が警鐘&nbsp;&nbsp;観光経済新聞",
-      "source": "観光経済新聞",
-      "publishedAt": "2026-11-06T00:31:39.000Z"
+      "title": "BIPROGY Codename MDASHを活用した自社サービスの脆弱性検証を開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80dldpRHJwc3pvdHd0aTJXZWFBWXVOOVhGRGdBY3FiZUxFbFVFSjQ4YmdNdFBhN0hmcGR4VmdTVFBKQnBwYm5oZXEzNTBTNEt6RWdyY2JMZm5nYTZiQzBCMmdQQkE0Y1U?oc=5",
+      "description": "BIPROGY Codename MDASHを活用した自社サービスの���弱性検証を開始&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-06T02:10:00.000Z"
     },
     {
       "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始 - PR TIMES",
@@ -30,18 +51,11 @@
       "publishedAt": "2026-11-05T23:00:01.000Z"
     },
     {
-      "title": "YOAKEが提供する『WordPressセキュリティパック』でPHP脆弱性対策を強化する新たな選択肢 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5scHNmRHczWmxkM0I0UXVrTkFlUEVDYVQ1dnN0SGptcVViNWQ5U2JzVVhaYVJYU2ZHNXY4cl9jdTlHdWQ4U2RIZEpyWVAtd3NmdkYxTVlTek9HbnRwOUNxVTByVUtuU0VIV25F?oc=5",
-      "description": "YOAKEが提供する『WordPressセキュリティパック』でPHP脆弱性対策を強化する新たな選択肢&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-05T13:02:50.000Z"
-    },
-    {
-      "title": "AIの安全な活用を総合的に支援する「AIセキュリティコンサルティング」を提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8weDRMdEc2MGtnZnVXRXFmRlV5MF9kNzhxTzcxMFRtdEFOZGVVV1hybUhmekhyVGNmS2RnR0VsYWhWODZUY1cyTlRLejcxZTZXbWE0Zk91Tmg2QmFDTGxaeFBsMG5MN21z?oc=5",
-      "description": "AIの安全な活用を総合的に支援する「AIセキュリティコンサルティング」を提供開始&nbsp;&nbsp;ニコニコニュース",
+      "title": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOHNmSHJ4Vk1mWGFOeFVoQ1pFRXl5aWpVa2VZN0RrQkdZNkd0UWhMcW5zaml2ZHY2dTVlZ0htTm9jLTF0UlRtTW9Nc1d0YW5NQm9UOFRBaXRBV0RPc21Gbl9mNk03RW9kOTV4Vzh4Rm1WX00?oc=5",
+      "description": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結&nbsp;&nbsp;ニコニコニュース",
       "source": "ニコニコニュース",
-      "publishedAt": "2026-11-05T11:30:29.000Z"
+      "publishedAt": "2026-11-04T01:06:22.000Z"
     },
     {
       "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
@@ -91,20 +105,6 @@
       "description": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-09-29T07:00:00.000Z"
-    },
-    {
-      "title": "脆弱性やシャドーITを見逃さない！ 注目のセキュリティサービス「アタックサーフェスマネジメント」（ASM）とは[Sponsored] - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rRXllOGJVNExvNHYzWTl0U1lwTFVLbm9FYWppU054U0toSVFsUEM4YUNILXRSVFg4TzdfYnl5XzBzUnBGU3dHUUpFcWJIQWp5RTJ6U3VXVEtLOEhRaURJeWlwYldSajM3V1hzWTNQdllGeGhxS0E4?oc=5",
-      "description": "脆弱性やシャドーITを見逃さない！ 注目のセキュリティサービス「アタックサーフェスマネジメント」（ASM）とは[Sponsored]&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-09-08T07:00:00.000Z"
-    },
-    {
-      "title": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNlF5QTQ3YmZpdEEyVUUwbFp4LWcyaHRhZUo4Vk9WeWZhZ2JROVMta0RsQmhUbmdwOWtxb0xhRHdySlBKMFZJWmg0SzB0M25xUDFJOHlKWVEydFBnZkVZdTFzUXowaktTemJr?oc=5",
-      "description": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-07-31T07:00:00.000Z"
     }
   ]
 }
