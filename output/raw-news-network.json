@@ -2,7 +2,35 @@
   "topic": "network",
   "articles": [
     {
-      "title": "ディールを勝ち取り、2500億ドル規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra - BigGo ファイナンス",
+      "title": "『【再放���】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56RjF1VVE5NC1CZnlBSkRfOF8zemlEZHlIMUVxWHE0eWpFbk1lMVBQWl9YNHNHbHZFUFd2T1ZXUDJsd0dIalQ0ZkhFUmppWk90X1ExMUgxUHMtNjhuZDRJbTM2LTl1MENla3RmRGMycjB5dFlRY0xnZGlnTQ?oc=5",
+      "description": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-10T01:51:27.000Z"
+    },
+    {
+      "title": "OpenSSH のパスワードバイパスが攻撃を招く中、更新チャネルとネットワーク機器が侵害に直面 - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaWdQMXRCekE4S1hsOVotTW95V25icVZJSkVOaVFTcE92djJGRWFVY2F3SHk4UVFENXFvdGYwQTZYcDNjb0RzOC1Gclk5ZEREM2dlcmlsUkZRYzJ5Vy1MMUZ3TnRoa2ZkWHhQN1NxcENWdThXNFV2Vk1tSzA5NFVkck9fazNhQ3hVV0NqRHJQb09xRlY0SXlJVzJGVU5CWkw1bTlWMGtjRy1OVFhJblFtYmhPc3NEdVp4SUwwM0RBZWVCQk5IX0o2bWVaOW9lT192TmxBVE1n?oc=5",
+      "description": "OpenSSH のパスワードバイパスが攻撃を招く中、更新チャネルとネットワーク機器が侵害に直面&nbsp;&nbsp;news.lavx.hu",
+      "source": "news.lavx.hu",
+      "publishedAt": "2026-11-10T00:41:29.000Z"
+    },
+    {
+      "title": "Palo Alto Networks Is Down 27% From Its High: Is It Time to Sell, or Load Up? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVg4UWxMQWdvSDQ2MldkZ0VGNlNYcWZQamtpWndTTjhxc1I3Y2F3aTNhRU52WFVtaFZOQ2NXeUQtbnFiNXg5SF9HWDFTS1g3aGIwc21IeHY1T2ZmWXdUbW5pMnFGSzJJR1NONWhtakYtMmFJcDJScDF4YlQ2eVo3UUhEa0ZRSEpwVXIxZnFSYW15dmRPRF9OcTlhVFo0WXg0UnBnSGd3?oc=5",
+      "description": "Palo Alto Networks Is Down 27% From Its High: Is It Time to Sell, or Load Up?&nbsp;&nbsp;TIKR.com",
+      "source": "TIKR.com",
+      "publishedAt": "2026-11-09T19:13:49.000Z"
+    },
+    {
+      "title": "サイバーセキュリティ総研、年内限定の脆弱性診断キャンペーンを開始 社内ネットワークの脆弱性診断を1社19.8万円、Active Directory診断を1社30万円で - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeHRUNTM3M0xpTVpVelBDY0w5MXlkTWEtTHRPbnZwU29JaXhDb0gteGVqTlBGeWJsMWtEeDdvcmtLNjRRQ25iMmdKc29yUC1OcTU4STJ5OFVoTDh3U0RHYkt2UnprNk02VFE?oc=5",
+      "description": "サイバーセキュリティ総研、年内限定の脆弱性診断キャンペーンを開始 社内ネットワークの脆弱性診断を1社19.8万円、Active Directory診断を1社30万円で&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-09T06:45:48.000Z"
+    },
+    {
+      "title": "ディールを勝ち取り、2500億ド���規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91ZFFzbkVTWFNUOHFaUldWT09yWkRTakxoNUxBc3EzekVGSHMwdmRLWUNsNG9BQnhJdlhMbldlcVdORFZmOXBOMUFNemotU2daMWNUTEs4VE5MUG1LblE?oc=5",
       "description": "ディールを勝ち取り、2500億ドル規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
@@ -23,39 +51,11 @@
       "publishedAt": "2026-11-05T12:00:17.000Z"
     },
     {
-      "title": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45NzBkM3lFa0dWQjJVdUtyY1Bud01HdEd3VVViUmprZkdSa0JfNGtpOU5OOTNaODlHNU03YUFGY2ZsUkVzMUQ5eTFMZkF6ZzZhYkdCOGlhUVNVdlhsRVJYNzRCWktmMmgwZWNRcm5B?oc=5",
-      "description": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-11-03T22:00:00.000Z"
-    },
-    {
-      "title": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhQWRVcWFvQ1JoaE5HcGdDb0poTzI5blNPV2JVNU5IVHN3cmxMTWlfYU1CQTNMYjZza1h1M1pMYmhNaWUzMUR4YWhSTE5wa0dFRWNzNHAtbEtQbWhGS0RtOTAyeTdzbE91Y1JySXZzODBidmtw?oc=5",
-      "description": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-29T07:00:00.000Z"
-    },
-    {
-      "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazBYczBqQndMZ0VhYjFURTNDcjZQNFVPMTBVbU1zTjRESmhoTzZsUEF6c3VYa1BhM0NWaW5MYjRLcXhRZHlvU0hYeFYtRXRpMTBENUtSb0k0Vm1nbkpyYU1pTVJZcjdnRnFMQUViS01LTGlBUEE5OEQ4WVcwZTFnZ25TcXNWeUN6Z2djdTdrem5WZ3R3eVRn?oc=5",
-      "description": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-22T07:00:00.000Z"
-    },
-    {
       "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
       "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
       "source": "Fortune Business Insights",
       "publishedAt": "2026-10-19T07:00:00.000Z"
-    },
-    {
-      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
-      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
     },
     {
       "title": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代 - ITmedia",
