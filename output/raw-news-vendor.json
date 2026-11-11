@@ -2,21 +2,14 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "Cloudflare、ポスト量子ウェブセキュリティに向けて Merkle Tree Certificates を基盤とした公開認証局を構築 - news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObTh0MlpqWUgzOFhxdWw4TklLOUhuLVFUdVBHcXdWYzdvclJBUGlrbmJqNHh2aDVpMU11Ukg4SUNVaDJPYnBTcHdQeVlkdlVkWUszVHQyQXkzNURZYVVjWDBSMW5udndwSlJrZTJNR2Q3Vzg1SzlzRXZUSG81cWlrQmFZV0R3OXFEQ2VhakE0LUtZN0ZCc0w2ZjNLSTlDRE5JY0hGMVBiNjRLZU9uQWFqS1lYcExSV3VJcE1TSFRMdnNCbldIckVDTll3b1ZhUFBqNlJxYnFTVW9yNWpWZ2gzaFc0THc2eDFm?oc=5",
-      "description": "Cloudflare、ポスト量子ウェブセキュリティに向けて Merkle Tree Certificates を基盤とした公開認証局を構築&nbsp;&nbsp;news.lavx.hu",
-      "source": "news.lavx.hu",
-      "publishedAt": "2026-11-09T16:19:11.000Z"
+      "title": "クラウドストライク2026年版法律業界脅威動向レポート：米国の法律事務所に対する攻撃で曖昧になるデジタルと物理的侵入の境界 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DWDc1Q0pCYmVCN1FBYVJfRy1yQVFFM2xJdmVFVU9HaVJJcjJGTkJLejJUeUc1eHNObDA3U1BIRWJvREpRZ1d6bkNIWlJJN3pMMm1Cc0EyQ1AyRUU5ajM3ZUF1ckFVbGptbzlKMndvcVF5QQ?oc=5",
+      "description": "クラウドストライク2026年版法律業界脅威動向レポート：米国の法律事務所に対する攻撃で曖昧になるデジタルと物理的侵入の境界&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-08T21:40:00.000Z"
     },
     {
-      "title": "Cloudflareが重大脆弱性ハブ「Zero Wire」を公開、AIで初動対応を刷新（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jckVheEFRMVdpNG9aRHA1U0VFR0tRZ2xnalNWLUdJTWtCZ0tPY0FEaVZvek13V0pPV1lVS1JMTXF1czZLUFIzN3Z5eUJfQWxiaENsckpGTkc0NnZtdm8wdzUzU0g5STZTTUxzM3JPSXVaNXhnY052R1ZQUlZMb1E?oc=5",
-      "description": "Cloudflareが重大脆弱性ハブ「Zero Wire」を公開、AIで初動対応を刷新（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T08:05:06.000Z"
-    },
-    {
-      "title": "パロアルト・ネットワークスCEOのニケシュ・アローラ氏：「創業者がロードマップに署名するまで、正式契約書にはサインしない」 - BigGo ファイナンス",
+      "title": "パロアルト・ネットワークスCEOのニケシュ・アローラ氏：「創業者がロードマップに署名するまで、正式���約書にはサインしない」 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxMXhGX1RtQXlvWUdpcnZiMW5yNXZNY1FxdGNZd3FVMVV3cEZpYVpWbi1UclFDS1BDaVI5Tl9PWi1NNUdVNW02NDFXZmlhTXBoQTlBUUo5eXhiUQ?oc=5",
       "description": "パロアルト・ネットワークスCEOのニケシュ・アローラ氏：「創業者がロードマップに署名するまで、正式契約書にはサインしない」&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
@@ -30,11 +23,11 @@
       "publishedAt": "2026-11-07T14:52:08.000Z"
     },
     {
-      "title": "Cloudflare「Zero Wire」公開、脆弱性対応は「誰が調べるか」から AIで影響確認も - innovaTopia",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zc0JhV0Q1eTV2MnpTcmRIMjFMaVgzR0N0N2E4c2p4Z1RieUZWV1NTa1czbVhmUTc5WTQtMkVTSGM1LW03TDN0VDRURHNqeEdpRXhRQThDblZ6ZzN3Uno5ZExQeHRRcDFwcHJ6VnBpNEdVNXM?oc=5",
-      "description": "Cloudflare「Zero Wire」公開、脆弱性対応は「誰が調べるか」から AIで影響確認も&nbsp;&nbsp;innovaTopia",
-      "source": "innovaTopia",
-      "publishedAt": "2026-11-07T01:41:36.000Z"
+      "title": "【Cloudflare 2026年度第3四半期決算説明会】Cloudflare、売上高39%増の7億8,250万ドルと約4年ぶりの高成長を記録、年間換算3億ドル規模を突破しGAAP黒字化を第4四半期へ前倒し - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tNXNsTkt6MU12WHBoSkphWDZfSi1pNUZaQmp4QWpMNnh2blMzMlQ1SlNvVU5PWDV4aGlmaXFqZUxINXlpSDdab2tBUHF2YTZWb3BnUlFKUGNoNnc?oc=5",
+      "description": "【Cloudflare 2026年度第3四半期決算説明会】Cloudflare、売上高39%増の7億8,250万ドルと約4年ぶりの高成長を記録、年間換算3億ドル規模を突破しGAAP黒字化を第4四半期へ前倒し&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-06T00:34:00.000Z"
     },
     {
       "title": "ゼロトラストセキュリティの世界市場規模、2025年417億米ドル・年平均16.8％成長へ ―日本のサイバー対処能力強化法施行を背景に市場動向を分析 | ワクワクニュース - ワクワクニュース",
@@ -44,11 +37,18 @@
       "publishedAt": "2026-11-04T21:16:00.000Z"
     },
     {
-      "title": "米セキュリティ企業、AIを人の判断で止める「AI Kill Switch」発表　3つの要素で制御を実現 - リアルサウンド",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaZ3d3a0k2OG5xUnIyRzFvdDlCZUZYbmQwMmZ6ak4tcTdBdjdiWHc0RlN0a2t6WXNvNklINGJlSU0zZmV1QXNwZ2phNjBCeGFPZnBBNFFYUU4tSkE3MG9LVtIBZkFVX3lxTE5Wb3gzalMzY2ROWkJzMmsyTVUtMlNGWV9uUm40UWctU3MxbHNGZEFTakJzbFlOMkFuU2t6dmNiVG5WdnFwZGE1YXk1VVlNSUJpZV9zai1zZUV5a2FEbEJsd1o3QmI1Zw?oc=5",
-      "description": "米セキュリティ企業、AIを人の判断で止める「AI Kill Switch」発表　3つの要素で制御を実現&nbsp;&nbsp;リアルサウンド",
-      "source": "リアルサウンド",
-      "publishedAt": "2026-11-04T08:55:22.000Z"
+      "title": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMDRJSUlzRk1wOFc0SmhVcjBqZWpoZGx0UmFXQVN3ZG15Vmp2SkVEQjFHVGRYMFhZRGxPcDV0cFlnWjYzWEZDc1lTY05vYVhaWno4VVRGczRGaF9PR2t6OVRzODNCZw?oc=5",
+      "description": "Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-02T03:19:00.000Z"
+    },
+    {
+      "title": "PHPの脆弱性を狙う攻撃、数百万件に急増 公表からわずか2時間で数十万件、Cloudflareが報告（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UVpzencyWVBJcVZTY1Q1eThFczhpN3pQX2M5SUkxYWh5d01CUkg0NzlpWXUwWDJtcW9qUlMteGM0WXBveEtDcDJvcmNLZDFMVkZVZ1B2eWNrVnFvYUk1SUMxWlZMTVk0UkYyQ2JTMm1tbEJhN1ZFRHdmSWJ2Wk0?oc=5",
+      "description": "PHPの脆弱性を狙う攻撃、数百万件に急増 公表からわずか2時間で数十万件、Cloudflareが報告（アスキー）&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T07:00:00.000Z"
     },
     {
       "title": "網屋---キヤノンMJグループの中小企業向けに特化したSASEサービスに「Verona」を提供(フィスコ) - Yahoo!ファイナンス",
@@ -67,7 +67,7 @@
     {
       "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
-      "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
+      "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」と���連携販売を強化&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
@@ -84,6 +84,13 @@
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "title": "LLM発展後のEDRとの攻防 - 検知ロジックの解析がもたらす攻撃・防御の変化 - gmo-cybersecurity.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0d3AxdUdFWHB3WHc5ZVRJUDhiMGJHdTdvUWpEU1hPUXZzRWFsLWNGSllTOXdoOC1qWl9KYjc5ZTF5NDFfTHVnZUZRcnJRZHZkSUVkOWpFenZZLWdWN21lV29wZ25VVjBTRnlNNw?oc=5",
+      "description": "LLM発展後のEDRとの攻防 - 検知ロジックの解析がもたらす攻撃・防御の変化&nbsp;&nbsp;gmo-cybersecurity.com",
+      "source": "gmo-cybersecurity.com",
+      "publishedAt": "2026-08-04T07:00:00.000Z"
     },
     {
       "title": "CrowdStrike® Falcon OverWatch for Microsoft Defender - CrowdStrike",
@@ -109,16 +116,9 @@
     {
       "title": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」 - www.trendmicro.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXhGblhnWnUzbHRFcWZzZmJWT1FBa3V4anF2Yjh0QkJsLVhSVEhpd2EweGFRU3dyTG15WHJJQTZWYkZNRnpfQUo5dVViMThaQW9MYWZzOGcyakZXR19KaHFtR3poZmhZQmg2RkFLbjVlT2p4MzVNX0lLeTh1QmdBMXVfRQ?oc=5",
-      "description": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」&nbsp;&nbsp;www.trendmicro.com",
+      "description": "ランサ��ウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」&nbsp;&nbsp;www.trendmicro.com",
       "source": "www.trendmicro.com",
       "publishedAt": "2026-06-10T07:00:00.000Z"
-    },
-    {
-      "title": "EDRを“窒息”させる攻撃ツールが公開 Windows標準搭載のQoSを利用：監視製品の生命線を断つ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xaWVmOUFSeWlBeFhCOENvTXJ0X1l1bjczMzY4NzNmYUJEd25kVHh6czBGMkZhQUViYklGTVBJLWV4VmZhTS1YOHU1OEFUUDhreUVILWZFblo4d0NMcWZQd2I3LUdoQURUckUtekJoLVpKdw?oc=5",
-      "description": "EDRを“窒息”させる攻撃ツールが公開 Windows標準搭載のQoSを利用：監視製品の生命線を断つ&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-06-09T07:00:00.000Z"
     },
     {
       "title": "ソフトバンク 、Cato Networks の SASE ソリューション「Cato SASE Platform」取り扱い開始 1枚目の写真・画像 - ScanNetSecurity",

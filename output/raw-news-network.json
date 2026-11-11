@@ -2,7 +2,14 @@
   "topic": "network",
   "articles": [
     {
-      "title": "『【再放���】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - ニコニコニュース",
+      "title": "Webアプリケーションファイアウォール市場規模、2025年58億2,000万米ドルから2032年103億4,000万米ドルへ――年平均8.55％成長 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paE5KQzU5bVB0X3pzSGRoeDlzQjNjVWJTV2NTWm9XQ2NOWm4ydTRGM2JzeTI1U1JSb2xQeDNCS1c1QTE4bGUyYTY5dlpQZ2M?oc=5",
+      "description": "Webアプリケーションファイアウォール市場規模、2025年58億2,000万米ドルから2032年103億4,000万米ドルへ――年平均8.55％成長&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-11-10T21:00:00.000Z"
+    },
+    {
+      "title": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56RjF1VVE5NC1CZnlBSkRfOF8zemlEZHlIMUVxWHE0eWpFbk1lMVBQWl9YNHNHbHZFUFd2T1ZXUDJsd0dIalQ0ZkhFUmppWk90X1ExMUgxUHMtNjhuZDRJbTM2LTl1MENla3RmRGMycjB5dFlRY0xnZGlnTQ?oc=5",
       "description": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
       "source": "ニコニコニュース",
@@ -16,13 +23,6 @@
       "publishedAt": "2026-11-10T00:41:29.000Z"
     },
     {
-      "title": "Palo Alto Networks Is Down 27% From Its High: Is It Time to Sell, or Load Up? - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVg4UWxMQWdvSDQ2MldkZ0VGNlNYcWZQamtpWndTTjhxc1I3Y2F3aTNhRU52WFVtaFZOQ2NXeUQtbnFiNXg5SF9HWDFTS1g3aGIwc21IeHY1T2ZmWXdUbW5pMnFGSzJJR1NONWhtakYtMmFJcDJScDF4YlQ2eVo3UUhEa0ZRSEpwVXIxZnFSYW15dmRPRF9OcTlhVFo0WXg0UnBnSGd3?oc=5",
-      "description": "Palo Alto Networks Is Down 27% From Its High: Is It Time to Sell, or Load Up?&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-11-09T19:13:49.000Z"
-    },
-    {
       "title": "サイバーセキュリティ総研、年内限定の脆弱性診断キャンペーンを開始 社内ネットワークの脆弱性診断を1社19.8万円、Active Directory診断を1社30万円で - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeHRUNTM3M0xpTVpVelBDY0w5MXlkTWEtTHRPbnZwU29JaXhDb0gteGVqTlBGeWJsMWtEeDdvcmtLNjRRQ25iMmdKc29yUC1OcTU4STJ5OFVoTDh3U0RHYkt2UnprNk02VFE?oc=5",
       "description": "サイバーセキュリティ総研、年内限定の脆弱性診断キャンペーンを開始 社内ネットワークの脆弱性診断を1社19.8万円、Active Directory診断を1社30万円で&nbsp;&nbsp;PR TIMES",
@@ -30,7 +30,7 @@
       "publishedAt": "2026-11-09T06:45:48.000Z"
     },
     {
-      "title": "ディールを勝ち取り、2500億ド���規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra - BigGo ファイナンス",
+      "title": "ディールを勝ち取り、2500億ドル規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91ZFFzbkVTWFNUOHFaUldWT09yWkRTakxoNUxBc3EzekVGSHMwdmRLWUNsNG9BQnhJdlhMbldlcVdORFZmOXBOMUFNemotU2daMWNUTEs4VE5MUG1LblE?oc=5",
       "description": "ディールを勝ち取り、2500億ドル規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
@@ -51,6 +51,13 @@
       "publishedAt": "2026-11-05T12:00:17.000Z"
     },
     {
+      "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazBYczBqQndMZ0VhYjFURTNDcjZQNFVPMTBVbU1zTjRESmhoTzZsUEF6c3VYa1BhM0NWaW5MYjRLcXhRZHlvU0hYeFYtRXRpMTBENUtSb0k0Vm1nbkpyYU1pTVJZcjdnRnFMQUViS01LTGlBUEE5OEQ4WVcwZTFnZ25TcXNWeUN6Z2djdTdrem5WZ3R3eVRn?oc=5",
+      "description": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-22T07:00:00.000Z"
+    },
+    {
       "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
       "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
@@ -60,16 +67,9 @@
     {
       "title": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ3FVUDkwdlRlZDk2b0hVV1RSRWZWSnptTURIVUljMzFWM2l5Qlo2RFhDanNVN0t2bU5ldUdCdEFTNHNtSm9maUVxNURNa0QtYkUxTHVfamxYdlFSWDJtMk94TjEweDZlWTRuV1pELWdoQQ?oc=5",
-      "description": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代&nbsp;&nbsp;ITmedia",
+      "description": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは���有しない」時代&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-04-21T07:00:00.000Z"
-    },
-    {
-      "title": "企業向けファイアウォールを標的とする Interlock ランサムウェアキャンペーンを Amazon Threat Intelligence チームが特定 - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0JGX0Zoa09fY1l3eFpoV0pWZnQyMnNTb2dOaGQ2MjN4bkNQazZDb2dEbi1LeDdkcmRteEZuQ0kwQmtIblo5LW1LVmxoSThGZHFyVjZ6SEZEUkVMXzJ3Y2wtSXFYWTM1Tjlldkh4ZEFBOHhtdnMyTDdBa0E4UThGUUlpUi1UYlhVU3dRc2hVTzZQYzFpd25VRk5aZms0SVZ1aV82cVVGNXF5MkJxVEpiN05vbEVLcTJ5UmQ1dDQ5WjMzclluTUFSclJQVTdkYkxWc0YwQkMwdw?oc=5",
-      "description": "企業向けファイアウォールを標的とする Interlock ランサムウェアキャンペーンを Amazon Threat Intelligence チームが特定&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon Web Services (AWS)",
-      "publishedAt": "2026-03-19T07:00:00.000Z"
     }
   ]
 }
