@@ -2,32 +2,18 @@
   "topic": "network",
   "articles": [
     {
+      "title": "AI時代の「時間との戦い」に挑むテクマトリックス Palo Alto Networks製品を自社で使い倒した知見で販売パートナーを支援 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MU0xGUVQ2c2hHMmlXSG5hZ1h3VHhNSE5ld2k5aTV6NVV1OUMwdFQ5bFU2aDhYMzFsajBhTmlwSzd6RnBsMS0yTnhhOGpDdEYtX2Y1MXhXVEVEaWt5S3FqSFNuOExSVElDYWJGemQ5akZPQQ?oc=5",
+      "description": "AI時代の「時間との戦い」に挑むテクマトリックス Palo Alto Networks製品を自社で使い倒した知見で販売パートナーを支援&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-13T01:00:00.000Z"
+    },
+    {
       "title": "Webアプリケーションファイアウォール市場規模、2025年58億2,000万米ドルから2032年103億4,000万米ドルへ――年平均8.55％成長 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paE5KQzU5bVB0X3pzSGRoeDlzQjNjVWJTV2NTWm9XQ2NOWm4ydTRGM2JzeTI1U1JSb2xQeDNCS1c1QTE4bGUyYTY5dlpQZ2M?oc=5",
       "description": "Webアプリケーションファイアウォール市場規模、2025年58億2,000万米ドルから2032年103億4,000万米ドルへ――年平均8.55％成長&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
       "publishedAt": "2026-11-10T21:00:00.000Z"
-    },
-    {
-      "title": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開�� - ニコニコニ���ース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56RjF1VVE5NC1CZnlBSkRfOF8zemlEZHlIMUVxWHE0eWpFbk1lMVBQWl9YNHNHbHZFUFd2T1ZXUDJsd0dIalQ0ZkhFUmppWk90X1ExMUgxUHMtNjhuZDRJbTM2LTl1MENla3RmRGMycjB5dFlRY0xnZGlnTQ?oc=5",
-      "description": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-10T01:51:27.000Z"
-    },
-    {
-      "title": "OpenSSH のパスワードバイパスが攻撃を招く中、更新チャネルとネットワーク機器が侵害に直面 - news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaWdQMXRCekE4S1hsOVotTW95V25icVZJSkVOaVFTcE92djJGRWFVY2F3SHk4UVFENXFvdGYwQTZYcDNjb0RzOC1Gclk5ZEREM2dlcmlsUkZRYzJ5Vy1MMUZ3TnRoa2ZkWHhQN1NxcENWdThXNFV2Vk1tSzA5NFVkck9fazNhQ3hVV0NqRHJQb09xRlY0SXlJVzJGVU5CWkw1bTlWMGtjRy1OVFhJblFtYmhPc3NEdVp4SUwwM0RBZWVCQk5IX0o2bWVaOW9lT192TmxBVE1n?oc=5",
-      "description": "OpenSSH のパスワードバイパスが攻撃を招く中、更新チャネルとネットワーク機器が侵害に直面&nbsp;&nbsp;news.lavx.hu",
-      "source": "news.lavx.hu",
-      "publishedAt": "2026-11-10T00:41:29.000Z"
-    },
-    {
-      "title": "サイバーセキュリティ総研、年内限定の脆弱性診断キャンペーンを開始 社内ネットワークの脆弱性診断を1社19.8万円、Active Directory診断を1社30万円で - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeHRUNTM3M0xpTVpVelBDY0w5MXlkTWEtTHRPbnZwU29JaXhDb0gteGVqTlBGeWJsMWtEeDdvcmtLNjRRQ25iMmdKc29yUC1OcTU4STJ5OFVoTDh3U0RHYkt2UnprNk02VFE?oc=5",
-      "description": "サイバーセキュリティ総研、年内限定の脆弱性診断キャンペーンを開始 社内ネットワークの脆弱性診断を1社19.8万円、Active Directory診断を1社30万円で&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-09T06:45:48.000Z"
     },
     {
       "title": "ディールを勝ち取り、2500億ドル規模のビジネスを成長させる方法 | Nikesh Arora、Palo Alto Networks｜David Senra - BigGo ファイナンス",
@@ -44,18 +30,18 @@
       "publishedAt": "2026-11-06T06:51:05.000Z"
     },
     {
-      "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazBYczBqQndMZ0VhYjFURTNDcjZQNFVPMTBVbU1zTjRESmhoTzZsUEF6c3VYa1BhM0NWaW5MYjRLcXhRZHlvU0hYeFYtRXRpMTBENUtSb0k0Vm1nbkpyYU1pTVJZcjdnRnFMQUViS01LTGlBUEE5OEQ4WVcwZTFnZ25TcXNWeUN6Z2djdTdrem5WZ3R3eVRn?oc=5",
-      "description": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "PHP2ShellでPalo Alto製ファイアウォール24台と管理サーバーが侵害 WordPressでは約7.8万件の攻撃試行も侵害未確認 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXQ0UWZtMFBIM2JnYTQ4ZkxDOERmSnh5RWY4eFpkT29waERtakdHVTd0dzhqeFgtS3Z3WWdreUxNUm5tOHA0alpnZ25DbDh4VWNBVm44WEpONzhZTEpPeDFOd1pCd0tXU1dWVzJkWkVFTExnVU5EcjI4ancxMlh4XzdlbHRSZTRoSkRiSW1Ba0J5TkgwdGU0ZTJkNV9nSVBoYlAxNk10N1I?oc=5",
+      "description": "PHP2ShellでPalo Alto製ファイアウォール24台と管理サーバーが侵害 WordPressでは約7.8万件の攻撃試行も侵害未確認&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-10-22T07:00:00.000Z"
+      "publishedAt": "2026-11-04T08:00:00.000Z"
     },
     {
-      "title": "Palo Alto NetworksのPAシリーズが「JC-STAR Level 1」を取得：日本市場におけるIoT・ネットワークセキュリティ要件への準拠 - Palo Alto Networks",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWlOUWVDV1U3OThiaGYyWlNWdC1MbUh0U2RTUW41M2M4Zi1tU2VPb3Fud3dyaVdkbVQ1TzIyZUpMTUY0VVFPSEg2VV9lNmp0Zl9RNUxwYkU1R2xwUlJSNDUyb0xGVVJteFRyaEc1aHdxZVJLdUJTMlV4M1NYY3FJQ2g5NVRKQndFQkFaV2hGSEVZUnBO?oc=5",
-      "description": "Palo Alto NetworksのPAシリーズが「JC-STAR Level 1」を取得：日本市場におけるIoT・ネットワークセキュリティ要件への準拠&nbsp;&nbsp;Palo Alto Networks",
-      "source": "Palo Alto Networks",
-      "publishedAt": "2026-10-20T08:12:09.000Z"
+      "title": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhQWRVcWFvQ1JoaE5HcGdDb0poTzI5blNPV2JVNU5IVHN3cmxMTWlfYU1CQTNMYjZza1h1M1pMYmhNaWUzMUR4YWhSTE5wa0dFRWNzNHAtbEtQbWhGS0RtOTAyeTdzbE91Y1JySXZzODBidmtw?oc=5",
+      "description": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-10-29T07:00:00.000Z"
     },
     {
       "title": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年 - Fortune Business Insights",
@@ -65,11 +51,25 @@
       "publishedAt": "2026-10-19T07:00:00.000Z"
     },
     {
-      "title": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ3FVUDkwdlRlZDk2b0hVV1RSRWZWSnptTURIVUljMzFWM2l5Qlo2RFhDanNVN0t2bU5ldUdCdEFTNHNtSm9maUVxNURNa0QtYkUxTHVfamxYdlFSWDJtMk94TjEweDZlWTRuV1pELWdoQQ?oc=5",
-      "description": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しな���」時代&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-04-21T07:00:00.000Z"
+      "title": "古いVPN装置を使い続けて大丈夫？ 危険度が分かる無料チェックリスト - NTTPCコミュニケーションズ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkb1pJZWhtall1WWpWRW43S1A2S0VxTnNaS0gyU0tydUhxb1hvby1JNUpSbWFIVzNHSE50ZnZKbjdQaDFRQ1YzZlpIVDdpdDIxcTNWZmVhNUlMbThGV0tVc0EyQ2pCbVFOekU4M05nYUFZYTA?oc=5",
+      "description": "古いVPN装置を使い続けて大丈夫？ 危険度が分かる無料チェックリスト&nbsp;&nbsp;NTTPCコミュニケーションズ",
+      "source": "NTTPCコミュニケーションズ",
+      "publishedAt": "2026-09-17T07:00:00.000Z"
+    },
+    {
+      "title": "日本Webアプリケーションファイアウォール市場、2035年18億8,250万米ドル・CAGR 17.67%へ｜Web攻撃高度化とクラウド化が促す次世代WAF需要の拡大 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUEpBb0hlcXhBdlRBOTRnWDBCakVVT0pDYlVMWFRoZ2QydUJObW1hN3RwX3lsM1hyVVhhZWpwMWt1OGxyR1JrbzNycTJMaFJzWkdzczhNWlFKMTN4VHE4WmRHTGltQlJRd1ZBTkdBMHlJQV9aSEFCSzdRMjl3SE0tUUtjQy00OHNtRHlScUtBZjhDQkQ3R3VVN2pLQXQ5QkVxbUF2cjZZV1M5UWdERjFiSm85OHNOZzZheDdIWDJ6a2RjLXlNWnRnT213M2YzUTdoeHRFNkhsa2dNTjVmZFgxRVJYdzE?oc=5",
+      "description": "日本Webアプリケーションファイアウォール市場���2035年18億8,250万米ドル・CAGR 17.67%へ｜Web攻撃高度化とクラウド化が促す次世代WAF需要の拡大&nbsp;&nbsp;アットプレス",
+      "source": "アットプレス",
+      "publishedAt": "2026-09-12T07:00:00.000Z"
+    },
+    {
+      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
+      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-08-24T07:00:00.000Z"
     }
   ]
 }

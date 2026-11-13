@@ -2,53 +2,53 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "Ivanti、EPMにCVSS 9.8の認証不要RCE 脆弱性 CSAなど5製品の13件を修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXdXaFlBMko0VXpvZFJ4Nm5lSWRkX3N4YXdtUjNVZ1VtMnNqV0I2Ym5QdHhPOWJnYUVEOUEtME85NWNhSDN6WDcyZGQzMlNrVFJCOUphaUdZeEZRaS10WnhKeEc4WXlZbk1CY0luNHRKbk0zS1dxR3Y5dHZuMER0N0U5Qkc4OHk2ZHZxX3F0MDFNNWZlQWFkcldZSldZVDA2MVE?oc=5",
-      "description": "Ivanti、EPMにCVSS 9.8の認証不要RCE 脆弱性 CSAなど5製品の13件を修正|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "サツドラ、脆弱性管理クラウド「yamory」導入--四半期一度の外部診断から毎日スキャンへ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ai03dlR5NjU4eEJMUUYwUy1jZUNzbmRhb29TRkI5cWI0ZFJYSkV5ZS1OTGE4T3VmY3RMa29xWFZKWjlRYTBnbk50ZUpiZGd6ZnZlVENsZFhMS0xnOEVLSGhycTN1cGI4VEh0bFlmaWpXNzVwUzRwNDM3Z0lVUHc?oc=5",
+      "description": "サツドラ、脆弱性管理クラウド「yamory」導入--四半期一度の外部診断から毎日スキャンへ&nbsp;&nbsp;Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-13T01:22:00.000Z"
+    },
+    {
+      "title": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmWjJ5cF8wcHprczhRbFFnaU5feUFlOWZpR2JkRmJlYi1scm00c3NVQ093a3dNMXlBckdWMHlJcVdrVlVtbzBEcmtWUzZZYXE0V2dNMEhfWm5oV2psejRRSXNqM3NKMEU?oc=5",
+      "description": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」&nbsp;&nbsp;クラウド Watch",
+      "source": "クラウド Watch",
+      "publishedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "title": "Apache HTTP Server 2.4.71公開、HTTP/2のRCEなど脆弱性 3件(CVE-2026-119618,CVE-2026-106023,CVE-2026-109163)を修正 最大深刻度「Critical」、Anthropic・Google研究者が報告|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkNSdFRWbjk5TDYwTXVoTGJCOXFCMVhhS0phQUl2d2t1QnBYZXA1c19MYkZ0dEJMVnFHelpCZXA5NE5hQjE3bnV0NEEya3V3elgzOXVsMVhQdURROUlKXzh0VF9heEN0Qmd0Unc1QUJqTkFUb3FHb3hRRVAtYzg4RXZZQTRPeHFxdUUwODlpQ00xT2tGWUhtMDk5TXdhMVRWU2VfWFZYcC0xVnYxbVl5aA?oc=5",
+      "description": "Apache HTTP Server 2.4.71公開、HTTP/2のRCEなど脆弱性 3件(CVE-2026-119618,CVE-2026-106023,CVE-2026-109163)を修正 最大深刻度「Critical」、Anthropic・Google研究者が報告|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-12T00:00:37.000Z"
+      "publishedAt": "2026-11-12T21:25:29.000Z"
     },
     {
-      "title": "Xen Orchestraに認証回避の重大欠陥、すでに悪用 管理者権限を奪われXCP-ngが危うい - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RRy0zcENOdnFhZUNtWVZyZ1AzS2loaUMyNXVLVzR3SmNndV83eU5MQ3ZaUVFKM011TEhHSVhFajhiSXRQanBjR0N3c3ZVVzQ5UHcw?oc=5",
-      "description": "Xen Orchestraに認証回避の重大欠陥、すでに悪用 管理者権限を奪われXCP-ngが危うい&nbsp;&nbsp;ビジネス+IT",
-      "source": "ビジネス+IT",
-      "publishedAt": "2026-11-11T23:50:00.000Z"
-    },
-    {
-      "title": "社内で把握できていない公開資産を可視化 脆弱性管理まで一気通貫で支援 - キーマンズネット",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HVHUzakZtTzQ1aDlHQlJqWFQxMlJwRGhJMTFMTXQxbDhoYS1pWmcxc2xJbEhQcjlHS0xQWld4a0UzeUxpQUFUVXF3RGIxbHN5M1RCWnVySG5ZUzlfX2JRS1EwV3ZOZw?oc=5",
-      "description": "社内で把握できていない公開資産を可視化 脆弱性管理まで一気通貫で支援&nbsp;&nbsp;キーマンズネット",
-      "source": "キーマンズネット",
-      "publishedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "title": "kintoneアプリ・プラグインの脆弱性を自動診断する「EXTONE Secure」を無料で提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xRkFCdkM1WWJyTW5CT3M1Qm9RQkt6YmZRNm5hVWpDQmhxOXVkUmdFWld1RktDbmEyZTBzcFhiUnNLWjZfRmExTndFMXJlRnRiX0dQQVBlWXJ4dkxkZnlwcmhzOVF1dlhRYmZ3NXFwNmRhY1BzNDE4XzRQUQ?oc=5",
-      "description": "kintoneアプリ・プラグインの脆弱性を自動診断する「EXTONE Secure」を無料で提供開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-11T15:21:47.000Z"
-    },
-    {
-      "title": "ブルートーンが提供するAIエージェントによる新しい脆弱性診断サービスの魅力 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFeU1pY2s5QmdrQUpJcnZ2eTVvSEl6RW1tVy1VbXlrTHYwVW5FQ2pseTcwMGVUYU9BYWhQY183WnpCdUdDVU00X0c3MDRNVFVITV9RUUl0NHB2MXVMbVV4WTBLUFhja2lwWWc?oc=5",
-      "description": "ブルートーンが提供するAIエージェントによる新しい脆弱性診断サービスの魅力&nbsp;&nbsp;��ュースメディアVOIX",
+      "title": "テクノクレアが提供するAI活用の法人向けセキュリティサービス「SecurAdapt」の魅力と特徴 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00N2dEQ0hlRDA3dTBXek4xTW5GMjZMR1JIcE1RaFhIcXNMQ3l1QzhVX3dTWnJwb2FobUVGcG9wUkFhU3Y0bnczN2VtblBkRng4RFlPU1RTY05NMVlzYWd1NzcweUlaMHRxODJ1Sg?oc=5",
+      "description": "テクノクレアが提供するAI活用の法人向けセキュリティサービス「SecurAdapt」の魅力と特徴&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-11T10:14:43.000Z"
+      "publishedAt": "2026-11-12T15:43:45.000Z"
     },
     {
-      "title": "NAL JAPANが提供する次世代AIセキュリティソリューションでWebシステムを守る体制の強化 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYzhKclpDcENfbG5vZzhkZ3JoM2czWlBoQ2U4azVDMmRVQVdWa0FYQ0hiZl9HNXpIaE9YOTFxMnZQVmJoam9GY2o1NFRjTGtRa2NyNy1Eei1kTEsxTWdtYm81NkZKVTk4dkdRdFdR?oc=5",
-      "description": "NAL JAPANが提供する次世代AIセキュリティソリューションでWebシステムを守る体制の強化&nbsp;&nbsp;ニュースメディアVOIX",
+      "title": "日立がAIを活用した高精度な脆弱性検出サービスを提供開始し、サイバーセキュリティを強化する - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vbWwtc1U5QnRqZDd0X2lVQTF2OUNLV0F5QTA1bmVtZTNVb2NtZ1RBa2h3eV8tcmQxWk93cXNSYnBBbktiOXpwS0RTVVliUjN4anpzeGk0ZW8yZTY4bS1vV2F1aFc3UE1iTUZtMk5VZGhTZU5XOVVPRVFhWWktdw?oc=5",
+      "description": "日立がAIを活用した高精度な脆弱性検出サービスを提供開始し、サイバーセキュリティを強化する&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-11T08:33:20.000Z"
+      "publishedAt": "2026-11-12T14:34:36.000Z"
     },
     {
-      "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ndFc4RVZPRWFfalpXZWxXLVdJcXc3SVgwczgtMG84eFVLZ3ZLOGxhRHh5YUlWQ29vbDRPRm43Z2pnYi1UWUE1V0p4YW1vVlpKYi1ieTJtWVhOMWJDZy1uRjI2eGZkWFRV?oc=5",
-      "description": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-11T04:45:16.000Z"
+      "title": "Tempura technologies、NVIDIA Inceptionプログラム参加でAIセキュリティサービス「Securiy」を強化する戦略 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hUEZtQ0lzd3lCVEI4ZUFYcGtpbjVJOWRqWExCZk9mUWRMUXRsQ1JfY2RKbkxQMVBSRUNyOU5NMERXWk1ta2RUNVg4NEVqdmlmMXNnNEJpWWJNd1pKdTZVNFhuazE2NUsydXVqdkNGdVo?oc=5",
+      "description": "Tempura technologies、NVIDIA Inceptionプログラム参加でAIセキュリティサービス「Securiy」を強化する戦略&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-11-12T14:16:39.000Z"
+    },
+    {
+      "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IUy1vMmFkMndOZlVVQkhvaTZGOXNhMjFoMFc3VEpoeE52NDFvNnhRWWJNVTYtZWhBa1lyRDQxWnV2NkZGSE1uZlkwaFV5aTk1ZDk3R2Z3ZVN6dU92NURzVldjUUFWLXYxRVZDQVh3bFpxRjlK?oc=5",
+      "description": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;Excite エキサイト",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-11-11T13:10:00.000Z"
     },
     {
       "title": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは - ビジネス+IT",
@@ -67,8 +67,15 @@
     {
       "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYV1dkLWowbDhOdnA0ZFJZQmozVTdqS1JzeG1HYnIwR1ZMc2JnY2Z6b1l1YkR5UE0wbWxzTGV5aXhVU29lTS1meDAwTUZUcWVNMkNieXF3NFZZVjNmeFI1Z2hUVExtaHAxYmc?oc=5",
-      "description": "政府・関係機関による不正アクセスへの注意喚起を��け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
+      "description": "政府・関係��関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
+      "publishedAt": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcDhGLVNGVG5wR1Q4NXVlLU00Y2EweDZodERoTFVSanlTbWxhSlk1b0xOY09CeTFkSkdXZ3RyeFlzeF85WmF5UG14VHlpdGRnMTFzUlNXTFk2c0ItZ3IzQ0hIY3JXNmxVM1JFdGtCcFo?oc=5",
+      "description": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
@@ -77,13 +84,6 @@
       "description": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏&nbsp;&nbsp;ScanNetSecurity",
       "source": "ScanNetSecurity",
       "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
-      "title": "スリーシェイクのSecurifyが「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11期連続受賞 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zYjlGRjZmdnZpMHRvQ1l2eTFMOXZiOExvS2lwTC1DQm1mSUZFWTlpZzRGMFduUDRNYnA3NDlPcExDYlRfeXNsdEZfcnI5M3NTRGZodDhZbUZJTzh1R294MDRDbldDNnBsZVNTcw?oc=5",
-      "description": "スリーシェイクのSecurify��「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11期連続受賞&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
       "title": "継続的エクスポージャー管理：セキュリティチームが2026年に測定すべきこと - eSecurity Planet",
