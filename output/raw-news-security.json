@@ -2,60 +2,67 @@
   "topic": "security",
   "articles": [
     {
-      "title": "TOKYO GLOBAL GATEWAY、メールアドレス1万4,143件の情報漏えいを確認 アララへの不正アクセスで学校団体・イベント参加者らに影響|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWEdoMVBNd0pYeWpGS2IzdC1zVWVKcVdVUVpUYjJ0VFBiRlRMN18ycXlXTGNMeTVtdDN6QWlCTG5TYjZRSFVya1BScmFiRFk3ZnozOEpxZkZHcllBQ1hHZUZ6ZHpGQ2FreUUxMWNtYmJpY3BlUm5QUmJNbmwwNDNUSTNBTktyUVppbHltczJ3U1QySzh0Qko0?oc=5",
-      "description": "TOKYO GLOBAL GATEWAY、メールアドレス1万4,143件の情報漏えいを確認 アララへの不正アクセスで学校団体・イベント参加者らに影響|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-13T01:00:21.000Z"
-    },
-    {
-      "title": "【11.27｜無料ウェビナー開催】相次ぐ情報漏洩の裏にある「AIの脅威」――システム防衛の限界と、経営と現場が一体で防ぐ・乗り切る手法を解説 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtTUJxVS1LUnNDQ3lYMFZoT2xfRkk1VG5CaThQSDdHTjJCNkdkSXBZb0VXRFZMLVJvUUlyWmU2Mi1XZTVnanhsSU13Y0kzZ0xvY2tjbG5wejNJNVh5b2pGWFExR0FpZ3VKcWc?oc=5",
-      "description": "【11.27｜無料ウェビナー開催】相次ぐ情報漏洩の裏にある「AIの脅威」――システム防衛の限界と、経営と現場が一体で防ぐ・乗り切る手法を解説&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-13T01:00:02.000Z"
-    },
-    {
-      "title": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」（クラウド Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UWkzdXVzY094RUJFMlk4M3dmQnpqQTVNcm9kd2pPUEg1RFpHbTJudTBaWm1mcUlSWWRqeTlzc0x5bzdMVW1zeE1ETlV5d0NNNzdjSjZfN1J1VUh5UG5oR05LMFFVMGUyVWxidDhSN2JnYlpyQzZJdDBiSXQ3YVk?oc=5",
-      "description": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
+      "title": "OpenAI、サイバー攻撃を自律検証して自動修正するAI防衛網「Daybreak」を発表（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43QlpWQnZIZVdCcXU0dHpaeXprMndDU0JSOWdYZXpialRvNEF4RGVaUHZjT25WMkxmR1ZKX29YcGhwWjM2X1RCN0k0UGtWUUJ1ODdRLWZXU0NqNnVhOEw4Y3dmMjFNQnAyWk53ZURweklUOHNvMFJvVUFHb2JZN1E?oc=5",
+      "description": "OpenAI、サイバー攻撃を自律検証して自動修正するAI防衛網「Daybreak」を発表（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T01:00:00.000Z"
+      "publishedAt": "2026-11-14T00:10:06.000Z"
+    },
+    {
+      "title": "伊丹市「icuco book」に不正アクセス 施設連絡事項や園児・保護者の個人情報漏えいの恐れ - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci00eGJwRW5nZHIxZHI1LWQtZUl4UFd2NTJlekxHOXZ4aTM4cUJ5TDB5QXljYmJia1JPbE9UNnRGYWc0VjFGRXYzdGFJaGFKQkNfakJZbF8zVkNESkc4RjhYbzQzdm9ycFVIdldscnBLeFljWVM3c092V3lUZjA3VnNzSy02RW4xOXBkQnA4TUJvaDN0d0tLc1Bn?oc=5",
+      "description": "伊丹市「icuco book」に不正アクセス 施設連絡事項や園児・保護者の個人情報漏えいの恐れ&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-13T22:30:42.000Z"
+    },
+    {
+      "title": "栃木県「ぐるとち」に不正アクセス、サイト改ざんと偽サイトを確認 11月11日から公開停止 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFZGYnhoYVlfT0dWQ3dwMEtKb0JoM0kwVXJTMzVnTEpEOUtsMlc5akpwcVdFQXhuTTJnMHBQVWVOUGdGU2NNZ1d4LW5mZ1dRS3dQcVRVTngzQnNCQmFQejFZRjQzMlFXQmpROUJzd24xOGtHang2N0oyRnN0TWxDdlMtZ1huTkFGZzBwZWZURGZ0R0VjakxDRURBTGU3MnJFcUhVQQ?oc=5",
+      "description": "栃木県「ぐるとち」に不正アクセス、サイト改ざんと偽サイトを確認 11月11日から公開停止&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-13T22:00:25.000Z"
+    },
+    {
+      "title": "四條畷市、園児18人・職員26人の情報漏えいのおそれ icucoの午睡チェックシステムに不正アクセス - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW1wQW1vdnViV21lUjJkS2c0eFFNMXZuQk94a3ZwQTU4bDBQcmdiTE00SXNaaEVyTUxROW91NGw4dUV6emVPdURuRzhnak5aejdjYnNaZzJ4VDAwY0NTVTdGWkRfd1hENHJpUlRuajRnYUlMcndnT1lDbjNVZzh0QkxTb3RvTkdTeW1zU25ncjQ4OWVyVGpmYmZXbG8zbmk2QmdONXJfcw?oc=5",
+      "description": "四條畷市、園児18人・職員26人の情報漏えいのおそれ icucoの午睡チェックシステムに不正アクセス&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-13T21:30:46.000Z"
+    },
+    {
+      "title": "FedRAMPの脆弱性対応期限を前に、FortreumがKovrを活用したVDR/VERサービスを開始 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaWdKU3BrR0hRd2FpWHliUFRxQWxHSFU2S0hGT1hielZFbTBLM1ppRTFNZXlZU2NiQzFKdHdJVzhPeUFQeWRfcEtWbFVHMlhRQ1lWeTdUYnFRbmRvVHhONEw4VHNELXU3Q3BjU3plT1JoU0JoQmVERjhYZElUbWlJblBXSQ?oc=5",
+      "description": "FedRAMPの脆弱性対応期限を前に、FortreumがKovrを活用したVDR/VERサービスを開始&nbsp;&nbsp;Unite.AI",
+      "source": "Unite.AI",
+      "publishedAt": "2026-11-13T21:19:32.000Z"
+    },
+    {
+      "title": "無印良品の親会社は、セキュリティ上の脆弱性を認め、100万件以上のクレジットカードデータが流出した可能性があると発表した。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVFFdEpWVXlucm9IdUYwWXBEVWoxbTBVeUFxZTRxaHB4Z2FxbTdSMXFLSWNBMEFsbU85eERSV0gxOUNZR0Q5QWE0SG42eGVXQU1QbjgtMnVzaElKa2dVcXA2TXRMdnl0cjlSWHhqS0FmTkMySHM4emlKZDNJa1U1bjRsbFk5akk3ckhDaFIwQlFBVmV5cEtQOHRTa09mWGw4M0xyUFQtTDhKV1d6bFh4SUs4TQ?oc=5",
+      "description": "無印良品の親会社は、セキュリティ上の脆弱性を認め、100万件以上のクレジットカードデータが流出した可能性があると発表した。&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-13T13:01:01.000Z"
+    },
+    {
+      "title": "脆弱性に迷わず・遅れず対応できる体制を平時から整える「脆弱性対応フロー構築・運用」サービスをリリース - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTOU1fek1LOXBuMUowbDhjRXc1ZncxZjJFUzZqT2VQaDBrRDc4NDMzVkpZcEtSRjg3ajNfSU5LXzV6ZUpZdkJ1ejMwNWZaOTFzVDlfMmptZkR0YzRtNUF2cWE4SGpuaHJ3MUZZalZMYlRzZTVjWDdFYm5QUQ?oc=5",
+      "description": "脆弱性に迷わず・遅れず対応できる体制を平時から整える「脆弱性対応フロー構築・運用」サービスをリリース&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-13T09:45:24.000Z"
     },
     {
       "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5Q0RDdWd1RWxHbVVVckhobk9jaHNZWFlDLUlzcXIyb1R4dXdUeHh3ZnpmcUtoN2NoVEJ1aWNaYVFmMmxmMkVya0RIME1YZE9VMWhyUWdWVmNuUTlDa0N1TnFwOVY2TmZsVlE?oc=5",
-      "description": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、���外拡声器など使えず&nbsp;&nbsp;ITmedia",
+      "description": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-11-13T00:44:12.000Z"
     },
     {
-      "title": "販促物作成サービス POPKIT、メールアドレス202,167件の流出を確認 アララへの不正アクセスが波及 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFhQcVNmbFhuRW54Vy1DUHdXYXk2RC1jb056NndOZkdLUldLU1NKbnd3VUtLVHJkckZhdUtMNnFCRy1PVXhzWGdLQ3pxbUtjcGpvUzZYeUUtZ1lHcTcxOVZkYXI5bngwNEtlUGNURWdFLXZFUjJaNGIxVGViQzlKR09jb3RKb21aT1cwSFEtMA?oc=5",
-      "description": "販促物作成サービス POPKIT、メールアドレス202,167件の流出を確認 アララへの不正アクセスが波及&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-13T00:00:20.000Z"
-    },
-    {
-      "title": "Outlookの脆弱性、すでに悪用を確認 IPAが緊急更新を呼びかけ - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQ1VRQWVTQXpHekh5Z2xnOGNxYU1GTGo5dTJuVW01WHlFZ21lbkFuMW83N1JGeTQ4TFFaWjd2THRQQWtaWWRvUUdTQ0RheXFjUXZNaXd4LTJjWlZwc0NiVy0zYnRFZVZ6?oc=5",
-      "description": "Outlookの脆弱性、すでに悪用を確認 IPAが緊急更新を呼びかけ&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-11-12T22:46:38.000Z"
-    },
-    {
-      "title": "Windows版Zoomに重大な脆弱性、7.1.8への更新を - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOazhDd1RBM21FWDROaHJoemVWTENHbWpESHZrYzU5bmphNEtBc2hsWWZXenVnSlhJaHdCd0lLX3c5STVWTVdIZ0hzRmNJLWhPWk1EMzRWd2w0bUJQOVU4bUtTZmEzUHBSa0xrblRORmxoNzRZWWxFaEpTb2VFY3gyMnlyVGNkQQ?oc=5",
-      "description": "Windows版Zoomに重大な脆弱性、7.1.8への更新を&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-11-12T17:08:56.000Z"
-    },
-    {
-      "title": "S&Jが提供するAI診断サービス、Webアプリの脆弱性を迅速に特定する新手法の開発 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92R24yYVJ3QnhSbjFqeVM4bEtyYWdjN09yZWRGcXh3dVhDQ05KcjBpWjJVajJEY1dsUFFqYllLdTBrTThZN0tmTVE3cFJ2MGtEU2dWRDVMUm9hdy1CbFNvRkhLMWFnRDI4aFhacA?oc=5",
-      "description": "S&Jが提供するAI診断サービス、Webアプリの脆弱性を迅速に特定する新手法の開発&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-12T15:44:18.000Z"
+      "title": "GMO事件“情報漏えい”だけでは済まない…FX不正取引も起きた攻撃の「本当の深刻さ」 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYW5YenRKakhJUk9tWkk5bmdyazBWZHhRNmRuSUF4SWphbEdvcldfR3NSanFpRmF5elZHUUpEdmEtTWxrWEs2cUVBSnM2REk?oc=5",
+      "description": "GMO事件“情報漏えい”だけでは済まない…FX不正取引も起きた攻撃の「本当の深刻さ」&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-11-12T22:00:00.000Z"
     },
     {
       "title": "盗まれたパスワードが、ランサムウェアの入口になる - PR TIMES",
@@ -63,13 +70,6 @@
       "description": "盗まれたパスワードが、ランサムウェアの入口になる&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-11-12T01:00:02.000Z"
-    },
-    {
-      "title": "ランサムウェアは一度限りの身代金要求から継続的な恐喝へ ～ プルーフポイント調査 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xTFFDTEVsRmZTVFVPUTFPRUI5Ym56aFROUVItSUt2M0QwdVA4RTdlSzM4cmNqM3d4cTZTMXdZaDNEcGlNUy1VX1lZdDVDT2JXaTU5S2VMMW04ZDc1QnNmV3BESThtQUtpV09N?oc=5",
-      "description": "ランサムウェアは一度限りの身代金要求から継続的な恐喝へ ～ プルーフポイント調査&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-11-11T23:10:00.000Z"
     }
   ]
 }
