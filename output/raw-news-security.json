@@ -2,53 +2,60 @@
   "topic": "security",
   "articles": [
     {
-      "title": "OpenAI、サイバー攻撃を自律検証して自動修正するAI防衛網「Daybreak」を発表（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43QlpWQnZIZVdCcXU0dHpaeXprMndDU0JSOWdYZXpialRvNEF4RGVaUHZjT25WMkxmR1ZKX29YcGhwWjM2X1RCN0k0UGtWUUJ1ODdRLWZXU0NqNnVhOEw4Y3dmMjFNQnAyWk53ZURweklUOHNvMFJvVUFHb2JZN1E?oc=5",
-      "description": "OpenAI、サイバー攻撃を自律検証して自動修正するAI防衛網「Daybreak」を発表（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
+      "title": "長崎県 佐世保市「させぼeコイン」、約3万5,600件のメールアドレスが情報漏洩 アララ 不正アクセスが波及 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPczRFeW9yWUsxYnh5Ty03YktCeFVNMHFvN0hsT1BITXdSMVBxTXRrS0JDS1V1MVZWWUs0VFJQbExCcjBXMTBWbVN4cUlnMUlBZGlVSEdrUElPSTk4cE9vcG9yNkV5M3paME9XRFFBM09GSjhEcHBkSkdySk95RjVYWjA4YWxKTXE5UEdXb3NGZ3lTMWl3?oc=5",
+      "description": "長崎県 佐世保市「させぼeコイン」、約3万5,600件のメールアドレスが情報漏洩 アララ 不正アクセスが波及&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-15T01:00:52.000Z"
+    },
+    {
+      "title": "Maileva にハッカー攻撃、2200万人分のデータが流出 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnpzN0RLMGRWWGxXdUQ0MXpvZDJFUTczaHpjckdNUWtHSHc5Vi1rQTcyR3hJbDIwUGtsYmhrNVNNTUtja00ybWpTV2l5c2lzd1hqcDFMaWJBLW1mV012QjZpVEZrbkFoWUVJQVpUS2gzQXF3b0d3VTFYbll6UDJzS21DblI0WTA?oc=5",
+      "description": "Maileva にハッカー攻撃、2200万人分のデータが流出&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-11-15T00:26:40.000Z"
+    },
+    {
+      "title": "高知市、職員採用試験の受験者1,464件の個人情報が漏えい ApplyNowへの不正アクセスで - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZExsSFZVNE5uZF96c3hXTHpPcnFDYzh3U2xNanFrRnk2M2l5M1NQMGxsNHRpZmZEeUJpT2FsNW1td3BxaXZTMmRsX3B6aE8wN1ZVeVlvN25Qb2l2UWhod3pPaGk0ejY3UVZjanFLSERDWDM4QnNYLVFKLXViMkpQbUtjQUxYV1JDNlpBX21VSktUekY5R0ZvS29B?oc=5",
+      "description": "高知市、職員採用試験の受験者1,464件の個人情���が漏えい ApplyNowへの不正アクセスで&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-15T00:00:50.000Z"
+    },
+    {
+      "title": "PHP2Shellは序章に過ぎない NVIDIA幹部が警告する「脆弱性の波」（TechTargetジャパン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlYmM5MHUzM1VMVU94REwwdmxFb2VjQmVYU3dBTzRFQkpVVkZ0aFRPQUhMUWJkN3RZR1JBZDQyU2JuWWpIS2NlYmFwSUZEWTQtbWhjM0VDdWExNjFwbkg5UEJmbi0yN095RGdFQ0JjczNvbVEwUS1Da2E3NU0tYmc?oc=5",
+      "description": "PHP2Shellは序章に過ぎない NVIDIA幹部が警告する「脆弱性の波」（TechTargetジャパン）&nbsp;&nbsp;Yahoo!ニュース",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T00:10:06.000Z"
+      "publishedAt": "2026-11-14T23:23:37.000Z"
     },
     {
-      "title": "伊丹市「icuco book」に不正アクセス 施設連絡事項や園児・保護者の個人情報漏えいの恐れ - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci00eGJwRW5nZHIxZHI1LWQtZUl4UFd2NTJlekxHOXZ4aTM4cUJ5TDB5QXljYmJia1JPbE9UNnRGYWc0VjFGRXYzdGFJaGFKQkNfakJZbF8zVkNESkc4RjhYbzQzdm9ycFVIdldscnBLeFljWVM3c092V3lUZjA3VnNzSy02RW4xOXBkQnA4TUJvaDN0d0tLc1Bn?oc=5",
-      "description": "伊丹市「icuco book」に不正アクセス 施設連絡事項や園児・保護者の個人情報漏えいの恐れ&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-13T22:30:42.000Z"
+      "title": "“初めてのインシデント調査”に備えられる JPCERT/CCがチェックリストを無償公開 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03S1JERVFKTG8xaGpNSzF6TGlTTFphaHhKSWl2V3JURnJULXg2SHYwX3dKaWc4SG50SHV6LTVsMl94R0FPTWMwc3RCY0d4SlhSMDMwU3JHNTdkRjI4cVgzaDktQXRjYi1YQnJlbndUc0hBYUpO?oc=5",
+      "description": "“初めてのインシデント調査”に備えられる JPCERT/CCがチェックリストを無償公開&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-14T22:00:00.000Z"
     },
     {
-      "title": "栃木県「ぐるとち」に不正アクセス、サイト改ざんと偽サイトを確認 11月11日から公開停止 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFZGYnhoYVlfT0dWQ3dwMEtKb0JoM0kwVXJTMzVnTEpEOUtsMlc5akpwcVdFQXhuTTJnMHBQVWVOUGdGU2NNZ1d4LW5mZ1dRS3dQcVRVTngzQnNCQmFQejFZRjQzMlFXQmpROUJzd24xOGtHang2N0oyRnN0TWxDdlMtZ1huTkFGZzBwZWZURGZ0R0VjakxDRURBTGU3MnJFcUhVQQ?oc=5",
-      "description": "栃木県「ぐるとち」に不正アクセス、サイト改ざんと偽サイトを確認 11月11日から公開停止&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-13T22:00:25.000Z"
+      "title": "GMO、2年前の脆弱性指摘を軽視 設計見直し提案も保守対応に留まる - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rUk83OTZHbDJXcV9KRnpsYTZjNXNFYWtCdnZsVExoMFZvNlc4aU5zYzFwUnBfNDNNNHdwOVpwZEUwZjgwTFNSSEl0N04yeDNZTm1RUTYtQTNHa0Noc21xR3RNVUZRZC10SUJyQnRRa254VTRV?oc=5",
+      "description": "GMO、2年前の脆弱性指摘を軽視 設計見直し提案も保守対応に留まる&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-14T18:15:00.000Z"
     },
     {
-      "title": "四條畷市、園児18人・職員26人の情報漏えいのおそれ icucoの午睡チェックシステムに不正アクセス - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW1wQW1vdnViV21lUjJkS2c0eFFNMXZuQk94a3ZwQTU4bDBQcmdiTE00SXNaaEVyTUxROW91NGw4dUV6emVPdURuRzhnak5aejdjYnNaZzJ4VDAwY0NTVTdGWkRfd1hENHJpUlRuajRnYUlMcndnT1lDbjNVZzh0QkxTb3RvTkdTeW1zU25ncjQ4OWVyVGpmYmZXbG8zbmk2QmdONXJfcw?oc=5",
-      "description": "四條畷市、園児18人・職員26人の情報漏えいのおそれ icucoの午睡チェックシステムに不正アクセス&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-13T21:30:46.000Z"
+      "title": "QNAP NASにPlex2Shell攻撃、Plex Media Serverを1.43.3へ更新を - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWt0c090d2hTeFlhaE1Ea2JCaFRTNE15RFVib256UW5iaFYwMldPc2lxVkJDXzZHSEVkTWxaM0ZzR3RfMlhjT192c1Z5d2hlcVUxWllCMHhBUkprbnhHdjdmOVg4OWhsejZob0FVUkVfUnk4aURVclpPbGROZVdQSA?oc=5",
+      "description": "QNAP NASにPlex2Shell攻撃、Plex Media Serverを1.43.3へ更新を&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-11-14T16:27:25.000Z"
     },
     {
-      "title": "FedRAMPの脆弱性対応期限を前に、FortreumがKovrを活用したVDR/VERサービスを開始 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaWdKU3BrR0hRd2FpWHliUFRxQWxHSFU2S0hGT1hielZFbTBLM1ppRTFNZXlZU2NiQzFKdHdJVzhPeUFQeWRfcEtWbFVHMlhRQ1lWeTdUYnFRbmRvVHhONEw4VHNELXU3Q3BjU3plT1JoU0JoQmVERjhYZElUbWlJblBXSQ?oc=5",
-      "description": "FedRAMPの脆弱性対応期限を前に、FortreumがKovrを活用したVDR/VERサービスを開始&nbsp;&nbsp;Unite.AI",
-      "source": "Unite.AI",
-      "publishedAt": "2026-11-13T21:19:32.000Z"
-    },
-    {
-      "title": "無印良品の親会社は、セキュリティ上の脆弱性を認め、100万件以上のクレジットカードデータが流出した可能性があると発表した。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVFFdEpWVXlucm9IdUYwWXBEVWoxbTBVeUFxZTRxaHB4Z2FxbTdSMXFLSWNBMEFsbU85eERSV0gxOUNZR0Q5QWE0SG42eGVXQU1QbjgtMnVzaElKa2dVcXA2TXRMdnl0cjlSWHhqS0FmTkMySHM4emlKZDNJa1U1bjRsbFk5akk3ckhDaFIwQlFBVmV5cEtQOHRTa09mWGw4M0xyUFQtTDhKV1d6bFh4SUs4TQ?oc=5",
-      "description": "無印良品の親会社は、セキュリティ上の脆弱性を認め、100万件以上のクレジットカードデータが流出した可能性があると発表した。&nbsp;&nbsp;Vietnam.vn",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-13T13:01:01.000Z"
-    },
-    {
-      "title": "脆弱性に迷わず・遅れず対応できる体制を平時から整える「脆弱性対応フロー構築・運用」サービスをリリース - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTOU1fek1LOXBuMUowbDhjRXc1ZncxZjJFUzZqT2VQaDBrRDc4NDMzVkpZcEtSRjg3ajNfSU5LXzV6ZUpZdkJ1ejMwNWZaOTFzVDlfMmptZkR0YzRtNUF2cWE4SGpuaHJ3MUZZalZMYlRzZTVjWDdFYm5QUQ?oc=5",
-      "description": "脆弱性に迷わず・遅れず対応できる体制を平時から整える「脆弱性対応フロー構築・運用」サービスをリリース&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-13T09:45:24.000Z"
+      "title": "Dell、PowerStore T OS・Networking OS10・InsightIQの重大な脆弱性11件 - Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0JCLTFETXI0cmNiSUFiaVhRT2x6RlVBaFZWaUdSYUVlbGtQY2s0SXB5bHpQbUoxN2Q0TWM1MlJiVXVHaG8tUXBzeW1sMUMwV1Q3N3pHSFloc3RWV3JscnlueXVFZnAzcWtOTkhVM3RaVXM4YXNENzY1RE5PR2xlTFFIdWQtZXNMZmR1YTdrTjVPM2hLVldMcWQtcw?oc=5",
+      "description": "Dell、PowerStore T OS・Networking OS10・InsightIQの重大な脆弱性11件&nbsp;&nbsp;Meteora Web",
+      "source": "Meteora Web",
+      "publishedAt": "2026-11-14T11:01:57.000Z"
     },
     {
       "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず - ITmedia",
@@ -63,13 +70,6 @@
       "description": "GMO事件“情報漏えい”だけでは済まない…FX不正取引も起きた攻撃の「本当の深刻さ」&nbsp;&nbsp;ビジネス+IT",
       "source": "ビジネス+IT",
       "publishedAt": "2026-11-12T22:00:00.000Z"
-    },
-    {
-      "title": "盗まれたパスワードが、ランサムウェアの入口になる - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tek1vektRbU81OWxFLS03VldjM21fY1FuN1RhUG1NempPUkNfV0NJUHNkUW1fWEw1QnlYTmxQRjlsYS00S19zRUROLU9mVVQyZEJSVUtLczFDZ1pzc255cnMwTEJycUV1ZVE?oc=5",
-      "description": "盗まれたパスワードが、ランサムウェアの入口になる&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-12T01:00:02.000Z"
     }
   ]
 }

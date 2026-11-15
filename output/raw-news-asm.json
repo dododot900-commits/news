@@ -2,11 +2,18 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "サツドラ、脆弱性管理クラウド「yamory」導入--四半期一度の外部診断から毎日スキャンへ - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtLVlndlpKY3pCWXUtb292M3FCdHE5RFlKa3A1UDNZUS14d01HSTY0bXR3ZDRRazBTUkFaUU14c29oTHM4YXJJMWs3YjFqTnpRelVJ?oc=5",
-      "description": "サツドラ、脆弱性管理クラウド「yamory」導入--四半期一度の外部診断から毎日スキャンへ&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
-      "publishedAt": "2026-11-13T01:22:00.000Z"
+      "title": "AI生成の検出の時代における証拠ベースの脆弱性トリアージ - IBM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlNWeUNsbjI4Tjh2WkZTclhWZ2RXMzhaVWszUXpiNnUwcTNrMzEyTEJCTmhzUzBzVXpSNEZ0cGJxVFRUT0lhWWdCNG4tVXJSdXo0dWNzQnAyUHMzQTVpWXVjdjNwSnYzTFd1Q3lULVp1aWd6QjgxLU52OGIwNjJXNWF1dFlkNWhweUFyX3RtM25WeHY4Rk5vWGlObzhmV1VucGdzUU0xNTh5U0VlVGJhbjFoNlo?oc=5",
+      "description": "AI生成の検出の時代における証拠ベースの脆弱性トリアージ&nbsp;&nbsp;IBM",
+      "source": "IBM",
+      "publishedAt": "2026-11-14T09:28:11.000Z"
+    },
+    {
+      "title": "AIはソフトウェアの脆弱性をわずか数時間でサイバー攻撃の武器に変えることができる：ベトナムはどのように対応しているのか？ - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0kxVFNyUmZWLV9FdTNLZF9lXzNwc0IyNF8zVVliTzBsOWl2OTFoRnlHbmZ0QVZPTWxjWlNqYmhpdXVwaVFMTUNmN2FobDdkellUZHUwTlpEcjlOLTdqczN4VnhMTzNiQmJLQnE3VmZ1eHBaTk5vVlEtWWxCbGJhNVdyaTRDSDRTOU1TSC1MRHQ2Y0h1QkQ3emE0ci11eTZNRWI4T0Q3MC1veU5UbTNsNmVWRW92WVE?oc=5",
+      "description": "AI��ソフトウェアの脆弱性をわずか数時間でサイバー攻撃の武器に変えることができる：ベトナムはどのように対応しているのか？&nbsp;&nbsp;Vietnam.vn",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-14T05:34:39.000Z"
     },
     {
       "title": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」 - クラウド Watch",
@@ -16,39 +23,32 @@
       "publishedAt": "2026-11-13T00:00:00.000Z"
     },
     {
-      "title": "『脆弱性の「発見」だけでは終われない、アプリケーションセキュリティの立て直し方』というテーマのウェビナーを開催 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGTE5iM2MwRjBXRnQzcGZJRWlLVGRiM2JqUWNITURmQlVITlJrZDdOdFpDZkhVek1vMmZ4Y212Y3lXUUxrdjJoMjhoNnZWTFhEUkpYLW55QnJoMDhoQld6RmZfY2M4eFo3LXhodDZXemhNQQ?oc=5",
-      "description": "『脆弱性の「発見」だけでは終われない、アプリケーションセキュリティの立て直し方』というテーマのウェビナーを開催&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-13T00:00:00.000Z"
+      "title": "日立の防御・運用の実践知とフロンティアAIを活用し、脆弱性やセキュリティリスクを高精度に検出する「ソースコードセキュリティ診断」と「ペネトレーションテスト」を提供開始 - Hitachi Global",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0laU1BabzNPUmZ3Tk9rS0sxYW5Rc2psaEp6TFViY2J1RU9DTUEya3dILUtQRVhHVDJjWTAwcFAwc1hWWWJ6RjkwVXJ5c2tGNkNoNGpXMElXVVd1ejhuOTVPMENiaDk5dWZpSjBEMkF6SkNhN0hxeTluWGdnY2E1S3BsUjkwSXJNZU5mekZxRmxEMm5DNzU1cVEzZXVHQQ?oc=5",
+      "description": "日立の防御・運用の実践知とフロンティアAIを活用し、脆弱性やセキュリティリスクを高精度に検出する「ソースコードセキュリティ診断」と「ペネトレーションテスト」を提供開始&nbsp;&nbsp;Hitachi Global",
+      "source": "Hitachi Global",
+      "publishedAt": "2026-11-12T02:30:36.000Z"
     },
     {
-      "title": "テクノクレアが提供するAI活用の法人向けセキュリティサービス「SecurAdapt」の魅力と特徴 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00N2dEQ0hlRDA3dTBXek4xTW5GMjZMR1JIcE1RaFhIcXNMQ3l1QzhVX3dTWnJwb2FobUVGcG9wUkFhU3Y0bnczN2VtblBkRng4RFlPU1RTY05NMVlzYWd1NzcweUlaMHRxODJ1Sg?oc=5",
-      "description": "テクノクレアが提供するAI活用の法人向けセキュリティサービス「SecurAdapt」の魅力と特徴&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-12T15:43:45.000Z"
+      "title": "Webサイトの脆弱性診断は無料。アトムズ、Webサイトとシステムの顧問サービス「ホームページ顧問」「システム顧問」を提供開始。 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSUlnN21yUXhmdEpkVWxKUW1ON013V2J3X2ZWRVVNcnRsR2YxeW1naTZMcE9pZmhLRVVHYy1zcHczVTBKNmVBdXp2ZmFCdTFlalIzMVMyREdXcnFiR2tRVEFaRmhUTFNRQUE?oc=5",
+      "description": "Webサイトの脆弱性診断は無料。アトムズ、Webサイトとシステムの顧問サービス「ホームページ顧問」「システム顧問」を提供開始。&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-12T02:10:01.000Z"
     },
     {
-      "title": "日立がAIを活用した高精度な脆弱性検出サービスを提供開始し、サイバーセキュリティを強化する - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vbWwtc1U5QnRqZDd0X2lVQTF2OUNLV0F5QTA1bmVtZTNVb2NtZ1RBa2h3eV8tcmQxWk93cXNSYnBBbktiOXpwS0RTVVliUjN4anpzeGk0ZW8yZTY4bS1vV2F1aFc3UE1iTUZtMk5VZGhTZU5XOVVPRVFhWWktdw?oc=5",
-      "description": "日立がAIを活用した高精度な脆弱性検出サービスを提供開始し、サイバーセキュリティを強化する&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-12T14:34:36.000Z"
+      "title": "Webサイトの脆弱性診断は無料。アトムズ、Webサイトとシステムの顧問サービス「ホームページ顧問」「システム顧問」を提供開始。 (2026年11月12日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RaEZWUUZYMjlLWUlfNlh1T2xPbkQzR3dZMW5RSDBSZ3pScGR6TmQtNnNRRGRwRVdVczl3dmZDdFhPMUtIay0wNEtXSFI2aEF2SGFKTnFjblFmazUtVzVnblBn?oc=5",
+      "description": "Webサイトの脆弱性診断は無料。アトムズ、Webサイトとシステムの顧問サービス「ホームページ顧問」「システム顧問」を提供開始。 (2026年11月12日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-11-12T02:10:00.000Z"
     },
     {
-      "title": "AIの脅威に、AIで対抗。国家資格「情報処理安全確保支援士」の専門家が支える「SecurAdapt」提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DQzVBbmZydDRsTzl6R2hHYUFEYkFXYVFYVmZQNnZ1WHIwd1JuYkI0dEhJZVVVLTg5cllhQW9Rd2hlelNBaDRsbXhnTGJnREFFdnVYUC1aZkxBYUlPWXVpM0RKcjUzdUh6?oc=5",
-      "description": "AIの脅威に、AIで対抗。国家資格「情報処理安全確保��援士」の専門家が支える「SecurAdapt」提供開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-12T03:45:31.000Z"
-    },
-    {
-      "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IUy1vMmFkMndOZlVVQkhvaTZGOXNhMjFoMFc3VEpoeE52NDFvNnhRWWJNVTYtZWhBa1lyRDQxWnV2NkZGSE1uZlkwaFV5aTk1ZDk3R2Z3ZVN6dU92NURzVldjUUFWLXYxRVZDQVh3bFpxRjlK?oc=5",
-      "description": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;Excite エキサイト",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-11-11T13:10:00.000Z"
+      "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UbDIxeEQ2dDVONTFzUDloTGVibk1PakZpQ2g4U0YybkQweENoa041TUxuUWxGb0hKYkFQdDZfQURHYnc2bTI0c2hoVkRMbW0ySkFLajY4Q1gwVVdiZGF4WVZXblI4aWV6b3c?oc=5",
+      "description": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-11T01:00:02.000Z"
     },
     {
       "title": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは - ビジネス+IT",
@@ -67,7 +67,7 @@
     {
       "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYV1dkLWowbDhOdnA0ZFJZQmozVTdqS1JzeG1HYnIwR1ZMc2JnY2Z6b1l1YkR5UE0wbWxzTGV5aXhVU29lTS1meDAwTUZUcWVNMkNieXF3NFZZVjNmeFI1Z2hUVExtaHAxYmc?oc=5",
-      "description": "政府・関係��関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
+      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
@@ -79,7 +79,7 @@
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
-      "title": "攻撃者と「対等な条���」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
+      "title": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUVRvT3dKVDJUVXctbXhObE9zd3FfSlRSbXQ3M3BDSTBZbUlPN3ViTkhsaHZaRGhXRWpIdDEzOGdYZnczbU9jTFNvUDRISldrdnViRThwWVJsTVQ3OFlCWDBBLTlwck5KVEtnRQ?oc=5",
       "description": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏&nbsp;&nbsp;ScanNetSecurity",
       "source": "ScanNetSecurity",
