@@ -2,32 +2,53 @@
   "topic": "cloud",
   "articles": [
     {
-      "title": "Terraform と Ansible によるハイブリッドクラウド・インフラストラクチャのプロビジョニングの自動化 - IBM",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDdvR0x5R1VKeFNObEFtSERRMmFPODJ1a1oybFlaakJYTVlvS0RFRU1xTldnMkJTdXdreUc5ak1RMDhsOXBjekp6N1pyYk53ejFQZ3REV19DWjhBOGE3Tm43VVR4eVhMYTJpb0hXVGJtTUhiNFFKUGNLWDVkWTVicHV6aGNrRzFlaDVSUGo5NlZJelhaeFlYNGc0a2N4cl84MmhoblBSeXJOZmxGUXU3VERIS3cxUkYyYkE?oc=5",
-      "description": "Terraform と Ansible によるハイブリッドクラウド・インフラストラクチャのプロビジョニングの自動化&nbsp;&nbsp;IBM",
-      "source": "IBM",
-      "publishedAt": "2026-11-14T09:28:11.000Z"
+      "title": "AI導入の次に来る課題--日本企業のインフラは準備できているか【前編】 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVT2ZWeEQ0T1BOcFRRZk9hYnRWMFZQRFgtSGtrMTRRaFpWZEtURlVqUXRGcGt0d3M1SGM2ZDlPREJXTUdhMVM2b3duc0lXZ2R2cTBr?oc=5",
+      "description": "AI導入の次に来る課題--日本企業のインフラは準備できているか【前編】&nbsp;&nbsp;ZDNET Japan",
+      "source": "ZDNET Japan",
+      "publishedAt": "2026-11-15T22:00:00.000Z"
     },
     {
-      "title": "コードとしてのインフラストラクチャーから自律型インフラストラクチャー運用へ - IBM",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGdwZTF0cUZrN25PdE9vUEpsM1JEWlI4TXZEdUZ1ZmJ0LUN3eVg5Y0U1WXd3cVhKZU9oRk1mQmNWZ2tHbER6Mk1Lb3BpLXVIelZBSmRoZ1pQaVd2aDhjaDh4ZzMtVHNJUHFCU1U3RjVGQk03bkZrNkJzeXdHcGQ4Q2dlOVFNQWZqZXJqbGo5M3l1VkVRNHRLdks2QVFRZFVuc1JpdmR6dHpHRGo4?oc=5",
-      "description": "コードとしてのインフラストラクチャーから自律型インフラストラクチャー運用へ&nbsp;&nbsp;IBM",
-      "source": "IBM",
-      "publishedAt": "2026-11-14T09:28:03.000Z"
+      "title": "日本のANZ クラウド コンピューティング市場の最新動向 - pando.life",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04bmpVVHBlQ0ItUTZydGRKZWRUS3RTaUMxaXE5dGJWWmJiTnNTSHBPN2tGMlcxblBKZXdvUG1tcTg3RlVTZUdTbDhR?oc=5",
+      "description": "日本のANZ クラウド コンピューティング市場の最新動向&nbsp;&nbsp;pando.life",
+      "source": "pando.life",
+      "publishedAt": "2026-11-15T16:54:19.000Z"
     },
     {
-      "title": "事後対応型のキャパシティー拡張から継続的なインフラストラクチャー管理まで - IBM",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3NFaWFjZ1diUlg3RHNwcXBnb0E4Rk1rQkNBOGRzUkliVjIwdW1CVm1CaUFCYnJlWWxlQVhvdkIyVW1tQjNBdVBsNWpSUEduRmNxMXVKVS1EV3dGZ0FhbVhEcW11WURBMzZGdGlaWGFweXFqd2pUQUtPeUpzZm1MQmFWVmd0SXVGZ1lVdm1wMDlTUlZRTlF5NFZMYzdRSWNSWV9xSk45OEFWMlhwNEctc3c3Yw?oc=5",
-      "description": "事後対応型のキャパシティー拡張から継続的なインフラストラクチャー管理まで&nbsp;&nbsp;IBM",
-      "source": "IBM",
-      "publishedAt": "2026-11-14T09:25:46.000Z"
+      "title": "マイクロソフト365障害、メール通知不達でドイツのホテル客15人が塩素ガス中毒に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tZWF3dUtVZTlNX0t3bHlzb0FMWlpzenltNENSMnpnVE40dnBkUG9FaHVKbmVLemd4a0F4NUxDZ2ZyOURIZGJMMlhOMU1SOEJuMGlVWjZzOGI0bzIwWjFHOE5NWXFYUVAtSXZqX1FBZEJ6b1l5?oc=5",
+      "description": "マイクロソフト365障害、メール通知不達でドイツのホテル客15人が塩素ガス中毒に&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-15T15:55:00.000Z"
     },
     {
-      "title": "XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば30分間プレイ可能 - AUTOMATON",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtN2ZHSjFGY1FKUUJ0MHhWQ0Nfc3BZenphY0dMWmU4c1NadS1abzFlSFFXV3F0WmtPT3N2YkFlQ3Y1X0RUV0JGai1VVHdqdWxhSzJjd1lPU3JqNmdGUFoyVjhRS2gyT3FZNXdDLQ?oc=5",
-      "description": "XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば30分間プレイ可能&nbsp;&nbsp;AUTOMATON",
-      "source": "AUTOMATON",
-      "publishedAt": "2026-11-12T23:45:51.000Z"
+      "title": "TSMC、従業員データ流出にクラウドサービス事業者が関与と発表 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkRCWjJsNmFMbkFFMndrdmplT0JoWFRxaXpfdkt2VXhPWV8wMl9Ia3Fwd0JMWmRnajRCX1g4VkJtSGlOTnYweWxRakRkM3JwbERyXzJRNUpkUnhXV1A2aUxPSkhGYjd3ZGlrTWo4Zzd1c0I5bVdOR0RJekM4czhsbjdiRkduNUhYeFBNdDBDS2lLOTdPZjlSUkJNdw?oc=5",
+      "description": "TSMC、従業員データ流出にクラウドサービス事業者が関与と発表&nbsp;&nbsp;Mezha.net",
+      "source": "Mezha.net",
+      "publishedAt": "2026-11-15T08:33:00.000Z"
+    },
+    {
+      "title": "【情報まとめ】「Outlook」など「マイクロソフト365」のサービスで世界的な大規模障害 「根本的原因への対応完了」米MSが全面復旧発表 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
+      "description": "【情報まとめ】「Outlook」など「マイクロソフト365」のサービスで世界的な大規模障害 「根本的原因への対応完了」米MSが全面復旧発表&nbsp;&nbsp;テレ朝NEWS",
+      "source": "テレ朝NEWS",
+      "publishedAt": "2026-11-14T06:30:00.000Z"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: 高速で費用対効果に優れ、信頼性の高い動画生成・編集機能の一般提供を開始 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3dYM2xzZTUzcGxWQ1NyVl91ak5vbW5UNE1iclgySkdnd2thQVpLNWFpemtIUU0wMHc3Vl8zM0dwaTV2bXBPVnlENWxHT003TDVoVU1ibThFQUJiRlUtNHpCa1NzWEpUSTlUUFhmWHZkaEs2cFZhemFuY1BYNm91N05aWERvbDdDMVRnclNhM3pGUF80SVlKRTVjRXJVZ0U0RUVINHlB?oc=5",
+      "description": "Gemini Omni 1.2 Flash: 高速で費用対効果に優れ、信頼性の高い動画生成・編集機能の一般提供を開始&nbsp;&nbsp;Google Cloud",
+      "source": "Google Cloud",
+      "publishedAt": "2026-11-13T02:20:25.000Z"
+    },
+    {
+      "title": "Outlookなどマイクロソフト365 「限定的な復旧みられる」と発表も 全面復旧は未定 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xdVJHcFk4TEo2eTZSQjhET2diNXhvV0hwOEFMWnY2SUFGNUtUcHpjY05yejVhQU8tNHk2b1o5Ym5TY1VNRDRWZ0hFdkJOaTcxWms1UkZqY2w2Zl9nbW9Nd1Y3N0lKcEFuY09ZbGxpbWluRUpYWTlFc09R?oc=5",
+      "description": "Outlookなどマイクロソフト365 「限定的な復旧みられる」と発表も 全面復旧は未定&nbsp;&nbsp;テレ朝NEWS",
+      "source": "テレ朝NEWS",
+      "publishedAt": "2026-11-12T23:47:05.000Z"
     },
     {
       "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける - Publickey",
@@ -37,13 +58,6 @@
       "publishedAt": "2026-11-12T14:10:36.000Z"
     },
     {
-      "title": "当社が利用するクラウドサービスにおける不正���クセスに関するお知らせ - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Y0FDTHFMbmFoU3B4cHpsOEFXdjc1Y19yZnYyNHJXYk9OT0NLTVlLQV9HRy12Zml3LTJ3NlBqU0h5clZtaHBuVmxIbEdFamc?oc=5",
-      "description": "当社が利用するクラウドサービスにおける不正アクセスに関するお知らせ&nbsp;&nbsp;株式会社エクサウィザーズ",
-      "source": "株式会社エクサウィザーズ",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
       "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpvODVQUVpaLTNDOXFiaDU4eV9ZcHYyaGZMOHJHRk0xcl9ZVm1XMW1LSEltaGtzUWgxblBiUzlEVTZJMWtHMWdYckw0VTRfYnlmbjYyR3NIWWJlbEhjd0dzVmFfSUU2ZnY3V3R2MVdOeWdSS3E3TEFqdG9qYldIWkZMaW4waGFXekNtR0lnbFk1WG9YZHhmUDdjNWc4U3hFeGJGaGVjWWhKUzZEWnZ4cDNCVmw4bTQ?oc=5",
       "description": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介&nbsp;&nbsp;Google Cloud",
@@ -51,25 +65,11 @@
       "publishedAt": "2026-10-09T07:00:00.000Z"
     },
     {
-      "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表 - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2piM1dZdXhzSm9LNENKQWNwUmVQYlBSajdzZ3BCMlpIekZkNHcyeUEyY05xV1g5MWNMR05CQVltOWpGTWgwVFNBNjV3b3VpbUNQekxhZ0dxdE5JRTJzMFNhTTRncTd3b1ROMUFQZTBpQkhGUEhCaTRuSUxaY1ZyN3J6bTE0aW1MR21xUkRMMWxEQ0xnVDNxc2dnVG5WNHhmd2Nj?oc=5",
-      "description": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表&nbsp;&nbsp;Publickey",
-      "source": "Publickey",
-      "publishedAt": "2026-09-30T07:00:00.000Z"
-    },
-    {
       "title": "今年もOne Hitachiで出展！ Google Cloud Next '26での日立の活動をレポート：デジタル：日立 - Hitachi Global",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdC1vY25oUm12cktManluZEpka19kbllKXzZTcUVxYVR4QkpLN25NRWZ5cmhUR2dUQTBmMm9sYjdqOEhxZFpLNVFfcmIwaVBvWG4wQTNSRGJFQ3F0alBQQnRuVjB2bGFBNW1ZcGdFa3VxREIwbTRQRHVLcTRXYUhkbGhMbFowMzMwQ0E?oc=5",
       "description": "今年もOne Hitachiで出展！ Google Cloud Next '26での日立の活動をレポート：デジタル：日立&nbsp;&nbsp;Hitachi Global",
       "source": "Hitachi Global",
       "publishedAt": "2026-07-29T04:29:13.000Z"
-    },
-    {
-      "title": "データエージェントの新機能: AI ワークフローの強化 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1lTV090amxnb1lSN0JuOWNNZGRsWWJNbm91c2Z6V2xhaG80eHdOUnQ1TGo1TG1FbDNMNUdGeVd1S2UwcWpuT1dyYmh6eHlvSFo5c19iSWtQbVZoWW5acVBfb1BYck9DXzJiWFAwNGhkZ0wwbURSMEl0SUNpcnVPOTVQaHBVWVV5cW84NkIwVGx4Q0dKSllCb1ZJTl9kaE9ubjA0aw?oc=5",
-      "description": "データエージェントの新機能: AI ワークフローの強化&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-06-23T07:00:00.000Z"
     }
   ]
 }

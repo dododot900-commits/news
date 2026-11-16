@@ -2,32 +2,60 @@
   "topic": "security",
   "articles": [
     {
-      "title": "長崎県 佐世保市「させぼeコイン」、約3万5,600件のメールアドレスが情報漏洩 アララ 不正アクセスが波及 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPczRFeW9yWUsxYnh5Ty03YktCeFVNMHFvN0hsT1BITXdSMVBxTXRrS0JDS1V1MVZWWUs0VFJQbExCcjBXMTBWbVN4cUlnMUlBZGlVSEdrUElPSTk4cE9vcG9yNkV5M3paME9XRFFBM09GSjhEcHBkSkdySk95RjVYWjA4YWxKTXE5UEdXb3NGZ3lTMWl3?oc=5",
-      "description": "長崎県 佐世保市「させぼeコイン」、約3万5,600件のメールアドレスが情報漏洩 アララ 不正アクセスが波及&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "ラキール、AWSアクセスキー窃取で顧客環境にも不正アクセス 140名の個人情報漏えい、不正ユーザー作成も確認 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGxITzBUUzRUdzlmRVUwcjBQNDNKb2lDMUhISVc1OGRYS2JDODlyclNJb19YLWI5UncwSFl6alZXSFNlSGs4OUN3SUVSU0tCZVZmRmp0REwtQVNHdDNZSjRIQWlqbk5qVEdSRGZMQ0U0YWp3X0tmR3hSdVoyQVRRbjhldzJUZUJKWTZqblZuU2s4Sm9rbi1CY3AwTHgxT0l2c0dNTThBNUhSbnM?oc=5",
+      "description": "ラキール、AWSアクセスキー窃取で顧客環境にも不正アクセス 140名の個人情報漏えい、不正ユーザー作成も確認&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-15T01:00:52.000Z"
+      "publishedAt": "2026-11-16T01:00:40.000Z"
     },
     {
-      "title": "Maileva にハッカー攻撃、2200万人分のデータが流出 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnpzN0RLMGRWWGxXdUQ0MXpvZDJFUTczaHpjckdNUWtHSHc5Vi1rQTcyR3hJbDIwUGtsYmhrNVNNTUtja00ybWpTV2l5c2lzd1hqcDFMaWJBLW1mV012QjZpVEZrbkFoWUVJQVpUS2gzQXF3b0d3VTFYbll6UDJzS21DblI0WTA?oc=5",
-      "description": "Maileva にハッカー攻撃、2200万人分のデータが流出&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-11-15T00:26:40.000Z"
-    },
-    {
-      "title": "高知市、職員採用試験の受験者1,464件の個人情報が漏えい ApplyNowへの不正アクセスで - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZExsSFZVNE5uZF96c3hXTHpPcnFDYzh3U2xNanFrRnk2M2l5M1NQMGxsNHRpZmZEeUJpT2FsNW1td3BxaXZTMmRsX3B6aE8wN1ZVeVlvN25Qb2l2UWhod3pPaGk0ejY3UVZjanFLSERDWDM4QnNYLVFKLXViMkpQbUtjQUxYV1JDNlpBX21VSktUekY5R0ZvS29B?oc=5",
-      "description": "高知市、職員採用試験の受験者1,464件の個人情���が漏えい ApplyNowへの不正アクセスで&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "Citrix NetScalerなど31件の脆弱性を修正-CVE-2026-107412はCVSS 9.5、CVE-2026-120868は標準構成にも影響 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVZKZzVpcEdlVkFjTEEwYzgxRDRRakU5VjNiblBoU0JYcEMzcDNLZS1kejdwOERGVFlhN1RueV91VHFHbWs2VDRXMXRHM3pVWDR4N3NsVWhQTks2ams5WGdUYlFpaF9wdk9ncXdRcnV0X2pIMndab1BmOFNSU1c2T0gwQWRZRjZQb0ZRblJmX2VDTGdMbVQxYWd4ZTRVWWpyNWc?oc=5",
+      "description": "Citrix NetScalerなど31件の脆弱性を修正-CVE-2026-107412はCVSS 9.5、CVE-2026-120868は標準構成にも影響&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-15T00:00:50.000Z"
+      "publishedAt": "2026-11-16T00:00:15.000Z"
     },
     {
-      "title": "PHP2Shellは序章に過ぎない NVIDIA幹部が警告する「脆弱性の波」（TechTargetジャパン） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlYmM5MHUzM1VMVU94REwwdmxFb2VjQmVYU3dBTzRFQkpVVkZ0aFRPQUhMUWJkN3RZR1JBZDQyU2JuWWpIS2NlYmFwSUZEWTQtbWhjM0VDdWExNjFwbkg5UEJmbi0yN095RGdFQ0JjczNvbVEwUS1Da2E3NU0tYmc?oc=5",
-      "description": "PHP2Shellは序章に過ぎない NVIDIA幹部が警告する「脆弱性の波」（TechTargetジャパン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T23:23:37.000Z"
+      "title": "三井住友信託銀行、顧客のメールアドレス2,351件の流出を確認 Fleekdrive経由でアララへの不正アクセスが波及 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUhqVnR6bHRiWVdhTVJtZy1oeHI5MGtrTjlJRmtuRzRpUnlaRzFSOFlSN2NQcE5zTjRPZ2FzOWx3cDJ5TXpNUVRwUXE4cVlPNFdMMkJraUVPSm9wRVFMZDhHeEZYMWRqQ2doTndIMjRPVGphczluQW4ybGJfM2FXZjVDNUZUVE8xdW4teUFVekJXSWszUXc?oc=5",
+      "description": "三井住友信託銀行、顧客のメールアドレス2,351件の流出を確認 Fleekdrive経由でアララへの不正アクセスが波及&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-15T23:52:23.000Z"
+    },
+    {
+      "title": "フランス郵政グループにサイバー攻撃、約2,200万人の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEF6STZMOERHcWJ6TXI4V0ZKM0RYTGdhNnBOSzJ2cjhvYUQ5SnRfc21Vel9WNS1fVXBINnhqWEszYVhqNnBhWW5DcVhIMm1NS0x3MGxaeXdXRkc2VWY4Si1aakJZQ21BWUJxcTU2bXAwLXc0UVlWa01oZ3Jaa0ZCaGN4U0U0d0VpWk41aVdIbThjZWZXZG05eExUbGF3b2l3MXpJZXhtYVlpbE9pS3ZfOQ?oc=5",
+      "description": "フランス郵政グループにサイバー攻撃、約2,200万人の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-15T23:45:41.000Z"
+    },
+    {
+      "title": "「ウチコミ！」にランサムウェア攻撃、14万2,591アカウントに影響 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xQXVsdW5JVXZZZ0VGVENlUFN2UGhlbklYbWwyOURtYlVsSlMxel9IM0FKeGJ4YmRqYnNyTGtBc21feVZRNmdZNjl5Ti1NNkJwalo3THp4ZEJqVUc2ZlA1NzN2bmhzd2VIcUhWYw?oc=5",
+      "description": "「ウチコミ！」にランサムウェア攻撃、14万2,591アカウントに影響&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-11-15T23:05:09.000Z"
+    },
+    {
+      "title": "マイクロソフト�� 11 月のセキュリティ情報公開、Outlook の脆弱性 1 件で悪用確認 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FdVRCMGl1c1llX0xSZjBibFJEY3VFNXpON1g5Z1d4WTFhZDZpemJXYTJTdk9QYkdHZGNXaDFvSXVqVTRRTE16RzFsd0s2dHMzb3dQWXcwdWlSMWtxYlZLSkw4eWo4U2p2Smw4?oc=5",
+      "description": "マイクロソフトが 11 月のセキュリティ情報公開、Outlook の脆弱性 1 件で悪用確認&nbsp;&nbsp;Excite エキサイト",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-11-15T23:00:00.000Z"
+    },
+    {
+      "title": "「PHP騒動」大反省会 今振り返る脆弱性騒動の原因と、今後取るべき対策 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laHpQRTZISGhEczRRd0FING1TZ2dPU1lkaFJwa1VYNDBKNnpHc1FKSmo5R2x2SS1hZXZ0ZWdoVTd5MUZpdUQ1QzVmaTBSZ2pCODhDYVFJc21YMi1OQWU2TXJHRExTQQ?oc=5",
+      "description": "「PHP騒動」大反省会 今振り返る脆弱性騒動の原因と、今後取るべき対策&nbsp;&nbsp;キーマンズネット",
+      "source": "キーマンズネット",
+      "publishedAt": "2026-11-15T22:00:00.000Z"
+    },
+    {
+      "title": "無償AI診断「Scan for Good」が脆弱性を500件近く発見 使える組織は？：自律型AIで防ぐ多段階攻撃 - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeHJJY0Z2UDdEYUNJejlzRl9WNWtTN1dGS3h0eTg1M1JYY0RkRWprMEVQZzhfS3hLdDE1LUk3eWFhdTdpLVJmbVdmb04ydjRNTU9jc3lKUF82bzZkRjZsdDVmcHdCM2xZLUVpdDZ6MWc?oc=5",
+      "description": "無償AI診断「Scan for Good」が脆弱性を500件近く発見 使える組織は？：自律型AIで防ぐ多段階攻撃&nbsp;&nbsp;TechTargetジャパン",
+      "source": "TechTargetジャパン",
+      "publishedAt": "2026-11-15T20:00:00.000Z"
     },
     {
       "title": "“初めてのインシデント調査”に備えられる JPCERT/CCがチェックリストを無償公開 - ITmedia",
@@ -37,39 +65,11 @@
       "publishedAt": "2026-11-14T22:00:00.000Z"
     },
     {
-      "title": "GMO、2年前の脆弱性指摘を軽視 設計見直し提案も保守対応に留まる - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rUk83OTZHbDJXcV9KRnpsYTZjNXNFYWtCdnZsVExoMFZvNlc4aU5zYzFwUnBfNDNNNHdwOVpwZEUwZjgwTFNSSEl0N04yeDNZTm1RUTYtQTNHa0Noc21xR3RNVUZRZC10SUJyQnRRa254VTRV?oc=5",
-      "description": "GMO、2年前の脆弱性指摘を軽視 設計見直し提案も保守対応に留まる&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-14T18:15:00.000Z"
-    },
-    {
-      "title": "QNAP NASにPlex2Shell攻撃、Plex Media Serverを1.43.3へ更新を - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWt0c090d2hTeFlhaE1Ea2JCaFRTNE15RFVib256UW5iaFYwMldPc2lxVkJDXzZHSEVkTWxaM0ZzR3RfMlhjT192c1Z5d2hlcVUxWllCMHhBUkprbnhHdjdmOVg4OWhsejZob0FVUkVfUnk4aURVclpPbGROZVdQSA?oc=5",
-      "description": "QNAP NASにPlex2Shell攻撃、Plex Media Serverを1.43.3へ更新を&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-11-14T16:27:25.000Z"
-    },
-    {
-      "title": "Dell、PowerStore T OS・Networking OS10・InsightIQの重大な脆弱性11件 - Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0JCLTFETXI0cmNiSUFiaVhRT2x6RlVBaFZWaUdSYUVlbGtQY2s0SXB5bHpQbUoxN2Q0TWM1MlJiVXVHaG8tUXBzeW1sMUMwV1Q3N3pHSFloc3RWV3JscnlueXVFZnAzcWtOTkhVM3RaVXM4YXNENzY1RE5PR2xlTFFIdWQtZXNMZmR1YTdrTjVPM2hLVldMcWQtcw?oc=5",
-      "description": "Dell、PowerStore T OS・Networking OS10・InsightIQの重大な脆弱性11件&nbsp;&nbsp;Meteora Web",
-      "source": "Meteora Web",
-      "publishedAt": "2026-11-14T11:01:57.000Z"
-    },
-    {
       "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5Q0RDdWd1RWxHbVVVckhobk9jaHNZWFlDLUlzcXIyb1R4dXdUeHh3ZnpmcUtoN2NoVEJ1aWNaYVFmMmxmMkVya0RIME1YZE9VMWhyUWdWVmNuUTlDa0N1TnFwOVY2TmZsVlE?oc=5",
       "description": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず&nbsp;&nbsp;ITmedia",
       "source": "ITmedia",
       "publishedAt": "2026-11-13T00:44:12.000Z"
-    },
-    {
-      "title": "GMO事件“情報漏えい”だけでは済まない…FX不正取引も起きた攻撃の「本当の深刻さ」 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYW5YenRKakhJUk9tWkk5bmdyazBWZHhRNmRuSUF4SWphbEdvcldfR3NSanFpRmF5elZHUUpEdmEtTWxrWEs2cUVBSnM2REk?oc=5",
-      "description": "GMO事件“情報漏えい”だけでは済まない…FX不正取引も起きた攻撃の「本当の深刻さ」&nbsp;&nbsp;ビジネス+IT",
-      "source": "ビジネス+IT",
-      "publishedAt": "2026-11-12T22:00:00.000Z"
     }
   ]
 }

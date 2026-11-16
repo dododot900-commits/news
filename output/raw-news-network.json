@@ -2,6 +2,13 @@
   "topic": "network",
   "articles": [
     {
+      "title": "ネットワーク機器のサプライチェーン管理強化に向けた取り組み : 企業情報 - NEC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW56dDNJU2xQVE9tanBxa3hUS3VEQVQ2N1cwdHdHempJQVpKTGRfM2tTRF9ZQ2xVTE1TcGZubnpYa25YYTJHZXJybHluZU5ubkNndzlPM2I2V3VvZGxYeVlFdWwzX0I0Z1dhaVBMM0tRbzJHZHcxQWJsdVRFZ19xV1owRQ?oc=5",
+      "description": "ネットワーク機器のサプライチェーン管理強化に向けた取り組み : 企業情報&nbsp;&nbsp;NEC",
+      "source": "NEC",
+      "publishedAt": "2026-11-14T20:11:16.000Z"
+    },
+    {
       "title": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds” - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnJyc1JqX1oxcDNuYS1reWdfN29QUDVXRm5WcDc2RVZ1NTdBeDlUbjI3R0kxREJ1TllQMHdkTkk4UXBFZ0J5MHFtMmUwZkg2OVJrMlN5M0hXZEdPVHBENzhwRmhSV05jQWZBWW5MTndqTGdpZTE3TXJua2JCY1Z6Z0ZZWEFnYkp5Nzlpd0c3YmdDUEFBcXJZYTduVzVndzNsS2dxRFBjcHJ1OWw0czVqZU9wSQ?oc=5",
       "description": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds”&nbsp;&nbsp;TIKR.com",
@@ -55,19 +62,12 @@
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQk5nSE5oRkY2WWw1d2JpVkhGV29LRGlCc3Q5SWhuVENidVBZeUJlQWRBU1hzYWZ2cExVbnZZVUtocko4QThEbng4ZTZydlJ6WDd2R3c5WG56QjdlLThzME5lcUZtdE5iWkZwLU9OUTMzZGljbXN2by14ZmpFdm1MNWFMV1JkSVNVTTM1UjVjNWxISjYwMU5JR0NmR3hiRVZQcHY2czZ2dzV2ZDdaZzVQdk96aHNJX3BETTNEZWVGODBuVkNRN1FJdWlDZTZ4WGRfSTZZajdDd1FmejZOM1Ztc2U4eTdPaDBHcm5NZFBxaDdtZ1pQLTJhQTVoTUIxYXdwc1BpaEg2aWw1a0xscldRcm1RX2JYb0lkdmlfUFZkSUJfSF8wZjgtZDRHb2lKalZscXVyaXRuUW9PNWFYVE1scGtwSjlDVzlIQ2tfUlEyUXd1d3ZTSlV0Q0ViQQ?oc=5",
       "description": "Web アプリケーション ファイアウォール [WAF] 市場規模、シェア、2026 ～ 2034 年&nbsp;&nbsp;Fortune Business Insights",
       "source": "Fortune Business Insights",
-      "publishedAt": "2026-10-19T07:00:00.000Z"
-    },
-    {
-      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
-      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
+      "publishedAt": "2026-10-26T07:00:00.000Z"
     },
     {
       "title": "IIJ、海外ファイアウォール運用管理サービス「IIJ Firewall Management Service」にクラウド型ファイアウォールメニューを追加 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSnB0QVVZeUFuSXFUdlp4cWVqaExnQl9mbm5oMjl3eXFSYWZnX0V4MEZBTEhyR0dPc3poN0Nvb1I5ZmtyWkktbTVrNklFQXRkT3FzUjI1NDJ5TWlBb0o0bmpvV0tlZ1Y3SHc?oc=5",
-      "description": "IIJ、海外ファイアウォール運用管理サービス「IIJ Firewall Management Service」にクラウド型ファイアウォールメニューを追加&nbsp;&nbsp;PR TIMES",
+      "description": "IIJ、海外ファイアウォール運用管理サービス「IIJ Firewall Management Service」にクラウド型ファ��アウォールメニューを追加&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-06-08T07:00:00.000Z"
     }

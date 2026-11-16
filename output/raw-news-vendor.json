@@ -2,6 +2,13 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVzVaT1BSaUtQU25sNlkzTHhFbk01R3VSckFyNHduSGtaTVo4aFJGOW82V0NQTjFEU2ZfUFJ0b0EtN2dKc2paNW1xaVROM0RodGc0M251S2ZEanpPc29XY0lxaTR5cnRaUEUw?oc=5",
+      "description": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-11-15T13:34:34.000Z"
+    },
+    {
       "title": "CloudflareがKitesurfをオープンソース化、自己配備に必要な認証と実行環境 - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9adGVmeGRubmJUMVBwS2FPdk9sS2F0RWZMTTZmQ3prSEZjbGFPbW1leVd1QjlUc3h0QS04Y3k5dXpPQ091aVdxTUx0bUVuZ05CWTh1eFhkZ2hSWUd1Mmp1YXRpSm1rYW5jSFVJcFZBTHNiMms2ZHFlNUxR?oc=5",
       "description": "CloudflareがKitesurfをオープンソース化、自己配備に必要な認証と実行環境&nbsp;&nbsp;XenoSpectrum",
@@ -9,39 +16,18 @@
       "publishedAt": "2026-11-15T00:15:29.000Z"
     },
     {
-      "title": "ARTEX、1465台のコンソールが露出と判明、155台でCobalt Strikeも稼働 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0Jkc01DYXJkT25oZkc2WXVNYVlLV0poaU84ZnJPdWZtWFBoeFg3OGl6UXdtSjQ2NXJ2RnBhbnNCZmktUU5kNFdteFY1eEw4eVFvRVJEaGctbU5xRmpVMERGdS1ycWdCTG1QaXp2dzdkSjFGanhaTVFYOTlsQkFHWjR6MmVUb29neTJkdzc1bUh5WXZFSGs0?oc=5",
-      "description": "ARTEX、1465台のコンソールが露出と判明、155台でCobalt Strikeも稼働&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-11-13T19:06:59.000Z"
+      "title": "オープンソースのサイバーセキュリティベンダーFiligran、日本法人の立ち上げを発表 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5QUVSS2hnVWVtOEpYRkJ1ekpOcDRQV1JyZ3NxMlRtWk1CYzJwVTVfREo2dG1WU1VqOHJjM0ZsOURoWmRvQTd3c1ZSQQ?oc=5",
+      "description": "オープンソースのサイバーセキュリティベンダーFiligran、日本法人の立ち上げを発表&nbsp;&nbsp;ThinkIT",
+      "source": "ThinkIT",
+      "publishedAt": "2026-11-14T11:17:35.000Z"
     },
     {
-      "title": "AI Agent Swarms Run Up “$1 Million” Bills Before Detection, Palo Alto’s Unit 42 Says - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDZEVVd4NDU2TFJYQUtEMzZhVzN0VldRbU5XMTlPM2Q1TFY5cWU3aHJvSjdQM2sxN21yaXlPU3Y4ZGFKLWthbWQ3M0FYRzV4VEFDMlJZUTNXUE5IZzFmc05nd3ZTaUR1MWtuMHBaaDc3V2E2VE9KUGNsdE0yb09kNzVvRzQ4enZUcUtvM0hEQkQwYk85ZzhaN2lCMXo1eGI5SjR2VE4yR0JlRm0w?oc=5",
-      "description": "AI Agent Swarms Run Up “$1 Million” Bills Before Detection, Palo Alto’s Unit 42 Says&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-11-13T18:10:53.000Z"
-    },
-    {
-      "title": "Cloudflareが重大脆弱性ハブ「Zero Wire」を公開、AIで初動対応を刷新（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jckVheEFRMVdpNG9aRHA1U0VFR0tRZ2xnalNWLUdJTWtCZ0tPY0FEaVZvek13V0pPV1lVS1JMTXF1czZLUFIzN3Z5eUJfQWxiaENsckpGTkc0NnZtdm8wdzUzU0g5STZTTUxzM3JPSXVaNXhnY052R1ZQUlZMb1E?oc=5",
-      "description": "Cloudflareが重大脆弱性ハブ「Zero Wire」を公開、AIで初動対応を刷新（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T02:20:00.000Z"
-    },
-    {
-      "title": "『EDRでは防ぎきれないランサムウェア、防御力とコストを両立する統合的セキュリティ対策とは��というテーマのウェビナーを開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDMndOMUwyTGZhUGpHUk1kakUtbWRnWUZZbl8tNVU3U01CTS1Mc1NMaUVESWZNTXNRZC0yaWwzSUlpZDFFMU1KTzR3Ujl2X0o0eHZmUE1hOUo5NnRqWm9ob2tJeUM3bnJINXc?oc=5",
-      "description": "『EDRでは防ぎきれないランサムウェア、防御力とコストを両立する統合的セキュリティ対策とは』というテーマのウェビナーを開催&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-11T00:00:02.000Z"
-    },
-    {
-      "title": "パロアルト・ネットワークスCEOのニケシュ・アローラ氏：「創業者がロードマップに署名するまで、正式契約書にはサインしない」 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxMXhGX1RtQXlvWUdpcnZiMW5yNXZNY1FxdGNZd3FVMVV3cEZpYVpWbi1UclFDS1BDaVI5Tl9PWi1NNUdVNW02NDFXZmlhTXBoQTlBUUo5eXhiUQ?oc=5",
-      "description": "パロアルト・ネットワークスCEOのニケシュ・アローラ氏：「創業者がロードマップに署名するまで、正式契約書にはサインしない」&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-08T15:08:00.000Z"
+      "title": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uYU5xTFBZUHEyZmktZWpnanlIdXFjSmZnb1UzbEZvdkt1YnV4VW01RlNMaUxhby1aVkdQY2ZSNThXcE56Uk1GRXlwRXNON0NMaTUyeGJwRXkzMWlfWjByUVlMX0ZiSEVHTlh2TGhSTm9Fc19G?oc=5",
+      "description": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-12T22:00:00.000Z"
     },
     {
       "title": "ゼロトラストセキュリティの世界市場規模、2025年417億米ドル・年平均16.8％成長へ ―日本のサイバー対処能力強化法施行を背景に市場動向を分析 - Infoseek",
@@ -49,6 +35,13 @@
       "description": "ゼロトラストセキュリティの世界市場規模、2025年417億米ドル・年平均16.8％成長へ ―日本のサイバー対処能力強化法施行を背景に市場動向を分析&nbsp;&nbsp;Infoseek",
       "source": "Infoseek",
       "publishedAt": "2026-11-04T21:16:00.000Z"
+    },
+    {
+      "title": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実���状況を監視|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVE9pT0JIaXVGSl9GQklxaUJhSG9hZmF4c2x1dTZXVFRsM1dhYVJ4aFh6N1pyZzBJNlRVa1VOTUhMbU1TTE9Iem5PenJXV2ZNeE0wcjd1a0RsNnNKd1NHbElLTDFzVllWenVzaTktdHlQRkI0NkxJRG5NdlhaY1BxUms5M2RiX2d2SUtwTEdSZTJTeC1zd3k0WC1FODRsdXMxdEVycnhjQ3RQWk9R?oc=5",
+      "description": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-04T08:00:00.000Z"
     },
     {
       "title": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃 - Pasquale Pillitteri",
@@ -65,20 +58,6 @@
       "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
-      "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
-      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
-      "title": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42WldHNHNYT1VGcmJDUWdIZjJQX1BvcjVSQTJWcThjZHBYa2JKWUpLTGFmVWVJX1BRMmhJOHZXa2JNVmFsWUc4NFprN3FrVmNYRDZrMg?oc=5",
-      "description": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
       "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
@@ -91,6 +70,20 @@
       "description": "Cloudflare、Viteアプリの開発と展開をつなぐ「Void」をオープンソースで公開&nbsp;&nbsp;gihyo.jp",
       "source": "gihyo.jp",
       "publishedAt": "2026-10-16T07:00:00.000Z"
+    },
+    {
+      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
+      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
+      "source": "ビジネスネットワーク",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "NVIDIA と CrowdStrike がエージェント型サイバーセキュリティの最前線を強化 - NVIDIA | Japan Blog",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xR0xTbF85THhTb2tKbXZWZ00yX1oxamJLOEpxQ1BTbGF4MnRfdDl0RzBfTncybERXWDNRazgxVV9mRUwxdGlHWkpXUXdZN056U2Z0eVk0RVVEeFdlYzhVcy1aRGROajRZdmVsUnhfUkdGdw?oc=5",
+      "description": "NVIDIA と CrowdStrike がエージェント型サイバーセキュリティの最前線を強化&nbsp;&nbsp;NVIDIA | Japan Blog",
+      "source": "NVIDIA | Japan Blog",
+      "publishedAt": "2026-09-10T07:00:00.000Z"
     },
     {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
@@ -114,7 +107,14 @@
       "publishedAt": "2026-08-13T12:49:19.000Z"
     },
     {
-      "title": "次は“シャドーAIエージェント”��標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
+      "title": "CrowdStrike® Falcon OverWatch for Microsoft Defender - CrowdStrike",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYk5XQThBNFZmWUNwSHAwQ1IxLW9YMG02SF9meDZiT0tkczVMMGhlUEgtRUpSVFVZTVQ0eEIzbW96amx6UW1FQnZNM2p6SkNCZ0lWU0ZBOG95ZTdMQ3FIeTZZNDZJQmVkYXJWWi04NUN6WHVQQzVXSXUxSFl0VkVLdXBGbWljcmc5VUxPWHdVOHRxQ0pKS2ttMlVWcURTbnR5ZnVPZ2Jn?oc=5",
+      "description": "CrowdStrike® Falcon OverWatch for Microsoft Defender&nbsp;&nbsp;CrowdStrike",
+      "source": "CrowdStrike",
+      "publishedAt": "2026-07-23T18:53:53.000Z"
+    },
+    {
+      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
       "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
       "source": "ASCII.jp",
@@ -123,7 +123,7 @@
     {
       "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
-      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
+      "description": "キ��ノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
       "source": "クラウド Watch",
       "publishedAt": "2026-06-19T07:00:00.000Z"
     }
