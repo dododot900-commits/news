@@ -2,6 +2,13 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjJ1czQ3NmtTd0ZJbXhlT0hYLWh1QVlxckd2Wkw1Zld6S1Uyd2p6X2dvb0poVGpkMHR2ZDBrR3h5WkhFeFQ4MXAtT3h1dE9DWmxwTW1QOUt3Z0pMWkFoVnctQ2xZWGZxZEF5dUc3dGR1aTdmSTFySEM0UUs1TVBxdA?oc=5",
+      "description": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
+      "source": "Unite.AI",
+      "publishedAt": "2026-11-17T13:30:00.000Z"
+    },
+    {
       "title": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZ1A0LXBPYkMtek9FZW8zU1hsYlY2MnhQZHU0QkwzVTZGSzJ4R2lIU1VoS0JmZVpLaHg1N0ZlUktLdDFFQ2RlMko4UGp0M1JQN094X0ZFUzA1ZERZMG5BLU1tZDR2LUZ3?oc=5",
       "description": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始&nbsp;&nbsp;ニコニコニュース",
@@ -16,18 +23,11 @@
       "publishedAt": "2026-11-17T01:15:54.000Z"
     },
     {
-      "title": "Cloudflare、AIエージェント向け軽量ブラウザ「Kitesurf」をオープンソースとして公開 - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQZ1VIRU9VQlV3MHktWjFaWmhLZFh4QlhkVTFDc01ZQ1U2alA4OFpiUGRWMFZ5UHJTVDRBbENCU0x2UlZxZlR6VWNwcGdOeEE1dzZpYkYyUFFVOTRlRFNNVW1B?oc=5",
-      "description": "Cloudflare、AIエージェント向け軽量ブラウザ「Kitesurf」をオープンソースとして公開&nbsp;&nbsp;gihyo.jp",
-      "source": "gihyo.jp",
-      "publishedAt": "2026-11-16T08:25:00.000Z"
-    },
-    {
-      "title": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起 - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MeXQ4ek1mdXkyTmRtTlhpTkI0Y19FejRBdHhWRU16ZWI5TWFzR0sxbXVadjJSQUtHeVlSVkY2b3VkSWtsRmoxY1o2XzlROXZWWXFrOVJRTF9MbVBHbXVZX3BHSQ?oc=5",
-      "description": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起&nbsp;&nbsp;gihyo.jp",
-      "source": "gihyo.jp",
-      "publishedAt": "2026-11-16T03:38:18.000Z"
+      "title": "クラウドストライク、AIの安全性確保に向けてAI Kill Switchを導入 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKU1JPVURnZ3RoNzQxdW1JTmlQd2lpUTdJMUYtQ0tGRXVzOEdtNWdvR21DeWRPdHhWajg3TGhKb3hPdWZnY1NSbFZxaDk4QzZHQkVrbXVDaGJ1a1RtaEhkNjhNSi03ckVIZHYta3AyejRsUQ?oc=5",
+      "description": "クラウドストライク、AIの安全性確保に向けてAI Kill Switchを導入&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-16T14:10:00.000Z"
     },
     {
       "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 - Publickey",
@@ -37,18 +37,11 @@
       "publishedAt": "2026-11-15T13:34:34.000Z"
     },
     {
-      "title": "オープンソースのサイバーセキュリティベンダーFiligran、日本法人の立ち上げを発表 - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5QUVSS2hnVWVtOEpYRkJ1ekpOcDRQV1JyZ3NxMlRtWk1CYzJwVTVfREo2dG1WU1VqOHJjM0ZsOURoWmRvQTd3c1ZSQQ?oc=5",
-      "description": "オープンソースのサイバーセキュリティベンダーFiligran、日本法人の立ち上げを発表&nbsp;&nbsp;ThinkIT",
-      "source": "ThinkIT",
-      "publishedAt": "2026-11-14T11:17:35.000Z"
-    },
-    {
-      "title": "「ブラウザー側で守る」というアプローチ--AIガバナンスを実効化する新潮流 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mbm90elZ0cW5qd2xNMF9qb0tCWTBCWnZLcU1IODZhQ1BnUHBDWFhhdm1EbXUyTm5FRDFmX2lVTXIyaHg2S0JlckRmM1Y1NkVXWjFF?oc=5",
-      "description": "「ブラウザー側で守る」というアプローチ--AIガバナンスを実効化する新潮流&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
-      "publishedAt": "2026-11-10T23:00:00.000Z"
+      "title": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uYU5xTFBZUHEyZmktZWpnanlIdXFjSmZnb1UzbEZvdkt1YnV4VW01RlNMaUxhby1aVkdQY2ZSNThXcE56Uk1GRXlwRXNON0NMaTUyeGJwRXkzMWlfWjByUVlMX0ZiSEVHTlh2TGhSTm9Fc19G?oc=5",
+      "description": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-12T22:00:00.000Z"
     },
     {
       "title": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -65,6 +58,27 @@
       "publishedAt": "2026-10-31T07:00:00.000Z"
     },
     {
+      "title": "Cloudflare と OpenAI による、脆弱性の発見から防御への連携 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBYkhuR1pEUUtzZkhiVFdqX1Ftd3VIZXY4UW5FejFnWk5TTVpQUlF4ZXAzLU9BU0pBY2dlajIzT2xDTVBoMzExSlVMRTZkUGxwZ3VuOFNpcnozY0tL?oc=5",
+      "description": "Cloudflare と OpenAI による、脆弱性の発見から防御への連携&nbsp;&nbsp;OpenAI",
+      "source": "OpenAI",
+      "publishedAt": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "title": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42WldHNHNYT1VGcmJDUWdIZjJQX1BvcjVSQTJWcThjZHBYa2JKWUpLTGFmVWVJX1BRMmhJOHZXa2JNVmFsWUc4NFprN3FrVmNYRDZrMg?oc=5",
+      "description": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
+    },
+    {
+      "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
+      "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-19T07:00:00.000Z"
+    },
+    {
       "title": "Cloudflare、Viteアプリの開発と展開をつなぐ「Void」をオープンソースで公開 - gihyo.jp",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YQTBDNEtxUVNIVmVuSWJ5SEhlT2RxdXVlV2Fyd2VSdXZDZm1vTnJ1TUhDZ3NjV013TTQ4ZWdHV0h3blA1SHBmSnFTNDVTdw?oc=5",
       "description": "Cloudflare、Viteアプリの開発と展開をつなぐ「Void」をオープンソースで公開&nbsp;&nbsp;gihyo.jp",
@@ -72,11 +86,18 @@
       "publishedAt": "2026-10-16T07:00:00.000Z"
     },
     {
-      "title": "NVIDIA と CrowdStrike がエージェント型サイバーセキュリティの最前線を強化 - NVIDIA | Japan Blog",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xR0xTbF85THhTb2tKbXZWZ00yX1oxamJLOEpxQ1BTbGF4MnRfdDl0RzBfTncybERXWDNRazgxVV9mRUwxdGlHWkpXUXdZN056U2Z0eVk0RVVEeFdlYzhVcy1aRGROajRZdmVsUnhfUkdGdw?oc=5",
-      "description": "NVIDIA と CrowdStrike がエージェント型サイバーセキュリティの最前線を強化&nbsp;&nbsp;NVIDIA | Japan Blog",
-      "source": "NVIDIA | Japan Blog",
-      "publishedAt": "2026-09-10T07:00:00.000Z"
+      "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
+      "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
+      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
+      "source": "ビジネスネットワーク",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
@@ -93,39 +114,18 @@
       "publishedAt": "2026-08-13T12:49:19.000Z"
     },
     {
-      "title": "2026年Gartner️®️ ️SASE/SSEのMagic Quadrantのリーダー - Zscaler",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeVVHOXRkVm83d2tkMWU5dHhCV18wYjFZRHR1R0NQLUl5aTNBanpyeW1RV3gzM0lsRW5nRHNWdUs2VkNXR1VMNXVwd0ZFQ1A4aUMyUFJHRzFORGZzSzdER1gyeUZYR1lrT1E?oc=5",
-      "description": "2026年Gartner️®️ ️SASE/SSEのMagic Quadrantのリーダー&nbsp;&nbsp;Zscaler",
-      "source": "Zscaler",
-      "publishedAt": "2026-08-04T20:15:29.000Z"
+      "title": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 | 法人のお客さま | ソフトバンク - ソフトバンク",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BWFBoV0VvWFlSbDJ6NmdyWjNPWm83eWJXbkRsdy1lbjMxalZJaFVRSy1jX3pCUHVfNGk4anotLWtkaGRzU0JSUVhpZ2ZSaDRSOER0R1pPLTVaZXZMQmpj?oc=5",
+      "description": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 | 法人のお客さま | ソフトバンク&nbsp;&nbsp;ソフトバンク",
+      "source": "ソフトバンク",
+      "publishedAt": "2026-07-28T07:00:00.000Z"
     },
     {
-      "title": "CrowdStrike® Falcon OverWatch for Microsoft Defender - CrowdStrike",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYk5XQThBNFZmWUNwSHAwQ1IxLW9YMG02SF9meDZiT0tkczVMMGhlUEgtRUpSVFVZTVQ0eEIzbW96amx6UW1FQnZNM2p6SkNCZ0lWU0ZBOG95ZTdMQ3FIeTZZNDZJQmVkYXJWWi04NUN6WHVQQzVXSXUxSFl0VkVLdXBGbWljcmc5VUxPWHdVOHRxQ0pKS2ttMlVWcURTbnR5ZnVPZ2Jn?oc=5",
-      "description": "CrowdStrike® Falcon OverWatch for Microsoft Defender&nbsp;&nbsp;CrowdStrike",
-      "source": "CrowdStrike",
-      "publishedAt": "2026-07-23T18:53:53.000Z"
-    },
-    {
-      "title": "次は“シャドーAIエージェント”��標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
-      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-07-13T07:00:00.000Z"
-    },
-    {
-      "title": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS29FOVZMYjE4QzFURDRoblNOY2cyd1ZKdGdvS2U0ZWQyOHppQXhKUS05X044M2lhMWozU3dGYlFKaGFJbEt6dUV4TV9RdFp5WFdXMG53RVc0SG1ReW5RUFhBTnRNNjQ?oc=5",
-      "description": "キヤノンITSのIDaaS「ID Entrance」、Cato SASE PlatformとのIDプロビジョニング連携に対応&nbsp;&nbsp;クラウド Watch",
-      "source": "クラウド Watch",
-      "publishedAt": "2026-06-19T07:00:00.000Z"
-    },
-    {
-      "title": "ソフトバンク 、Cato Networks の SASE ソリューション「Cato SASE Platform」取り扱い開始 1枚目の写真・画像 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEdUNZMkdQZnc4NjJoS3ViaFpaaFR6UHdTbUZiSE80T3ZlVHczb2lXSzNWMm9YdS1GbGVBRmpqaTVRQzNpN09mOElSNG45MWlvblBBS18ybHo0YUJxY2ItTk1lNEhKTkpIVmdkdWNVVldVTmpFT2FTQnVn?oc=5",
-      "description": "ソフトバンク 、Cato Networks の SASE ソリューション「Cato SASE Platform」取り扱い開始 1枚目の写真・画像&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-03-25T07:00:00.000Z"
+      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
+      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
+      "source": "EnterpriseZine",
+      "publishedAt": "2026-04-24T07:00:00.000Z"
     }
   ]
 }

@@ -2,6 +2,41 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "アップルの内部システム更新が大規模障害を引き起こす アプリストア、クラウドサービス、決済が一時停止 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pSGJQTWZBdGNSZElob0J3WnRHcFhQZU5ZV2Q0OUNMWG1GUWFoQTZ5MlRFMFhsa0gteDZ2VTBKanN6Qk1SamVjWXlHajdQSnJBcUh0Z0pKTGpjd1BmRHduRzYyZ0UtOHl5UW5ob05WSGlJWVMz?oc=5",
+      "description": "アップルの内部システム更新が大規模障害を引き起こす アプリストア、クラウドサービス、決済が一時停止&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-18T02:35:00.000Z"
+    },
+    {
+      "title": "三菱重工とさくらインターネット、日本のソブリンAIインフラ構築に向け、戦略的アライアンスの検討を開始 - さくらインターネット",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWtpaXlTYURXdFVFLTZwMzN2Q2VPWHktcHBmZjZsTnBrRWRCUkFkbVhRMWxXT1RxSXlJOXBKMF8tQnpZeFRlZVVZNFVsdTdpOVYycm11RUVqTWZOTE5WSnBMQlJ6Nks2akZEX3hkWkVsZEZJT0pwc0psMmpvOW9mSUJwek9PMGRGSHc?oc=5",
+      "description": "三菱重工とさくらインターネット、日本のソブリンAIインフラ構築に向け、戦略的アライアンスの検討を開始&nbsp;&nbsp;さくらインターネット",
+      "source": "さくらインターネット",
+      "publishedAt": "2026-11-18T02:04:10.000Z"
+    },
+    {
+      "title": "dodoAI株式会社、ガートナー ITインフラストラクチャ、オペ��ーション&クラウド戦略コンファレンス 2026に出展 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYS1aS1o0SlZ1aXM5aG4zQ3U4MlY1d2lKcE10Qm9hQzZ4VXRvaWpQN282bnRrY0psRFJYQ1hBZ09MdGdGTzZNWUp5SGwxSE0yTnVnSHBITWlYenF3S1RuRkFGWkwzZUF1?oc=5",
+      "description": "dodoAI株式会社、ガートナー ITインフラストラクチャ、オペレーション&クラウド戦略コンファレンス 2026に出展&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-18T02:00:27.000Z"
+    },
+    {
+      "title": "Huawei CloudのCloudRobo-WM1.2とは？世界モデルの特徴・オープンソース公開状況・導入条件 - note",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84ZU1Wd0dQNkRwUEFqSGlEYTgtZ1NVRGx1OVl3VV9yckdobEp3N001Mkhpd0s1M2pSY3ZjcFI4dVlMRV9tNkx6RUpZV29fcmp0SlltNA?oc=5",
+      "description": "Huawei CloudのCloudRobo-WM1.2���は？世界モデルの特徴・オープンソース公開状況・導入条件&nbsp;&nbsp;note",
+      "source": "note",
+      "publishedAt": "2026-11-17T14:46:13.000Z"
+    },
+    {
+      "title": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報） - 株式会社SmartHR",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tU0NTVFY3cHp4S09YcXNUaDRzWWRXNG1YNUZVMmFqNTNHY1VyQS1rVUVCTjlxdWdNckw4NHgyWEVWVlp1M0tqOVhDMl9tMjBNaElB?oc=5",
+      "description": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報）&nbsp;&nbsp;株式会社SmartHR",
+      "source": "株式会社SmartHR",
+      "publishedAt": "2026-11-17T02:05:31.000Z"
+    },
+    {
       "title": "Gemini Omni 1.2 Flash: 高速で費用対効果に優れ、信頼性の高い動画生成・編集機能の一般提供を開始 - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3dYM2xzZTUzcGxWQ1NyVl91ak5vbW5UNE1iclgySkdnd2thQVpLNWFpemtIUU0wMHc3Vl8zM0dwaTV2bXBPVnlENWxHT003TDVoVU1ibThFQUJiRlUtNHpCa1NzWEpUSTlUUFhmWHZkaEs2cFZhemFuY1BYNm91N05aWERvbDdDMVRnclNhM3pGUF80SVlKRTVjRXJVZ0U0RUVINHlB?oc=5",
       "description": "Gemini Omni 1.2 Flash: 高速で費用対効果に優れ、信頼性の高い動画生成・編集機能の一般提供を開始&nbsp;&nbsp;Google Cloud",
@@ -23,53 +58,18 @@
       "publishedAt": "2026-10-29T07:00:00.000Z"
     },
     {
+      "title": "当社が利用するクラウドサービスにおける不正アクセスに関するお知らせ - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Y0FDTHFMbmFoU3B4cHpsOEFXdjc1Y19yZnYyNHJXYk9OT0NLTVlLQV9HRy12Zml3LTJ3NlBqU0h5clZtaHBuVmxIbEdFamc?oc=5",
+      "description": "当社が利用するクラウドサービスにおける不正アクセスに関するお知らせ&nbsp;&nbsp;株式会社エクサウィザーズ",
+      "source": "株式会社エクサウィザーズ",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
+    },
+    {
       "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpvODVQUVpaLTNDOXFiaDU4eV9ZcHYyaGZMOHJHRk0xcl9ZVm1XMW1LSEltaGtzUWgxblBiUzlEVTZJMWtHMWdYckw0VTRfYnlmbjYyR3NIWWJlbEhjd0dzVmFfSUU2ZnY3V3R2MVdOeWdSS3E3TEFqdG9qYldIWkZMaW4waGFXekNtR0lnbFk1WG9YZHhmUDdjNWc4U3hFeGJGaGVjWWhKUzZEWnZ4cDNCVmw4bTQ?oc=5",
       "description": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介&nbsp;&nbsp;Google Cloud",
       "source": "Google Cloud",
       "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "title": "データエージェントの新機能: AI ワークフローの強化 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1lTV090amxnb1lSN0JuOWNNZGRsWWJNbm91c2Z6V2xhaG80eHdOUnQ1TGo1TG1FbDNMNUdGeVd1S2UwcWpuT1dyYmh6eHlvSFo5c19iSWtQbVZoWW5acVBfb1BYck9DXzJiWFAwNGhkZ0wwbURSMEl0SUNpcnVPOTVQaHBVWVV5cW84NkIwVGx4Q0dKSllCb1ZJTl9kaE9ubjA0aw?oc=5",
-      "description": "データエージェントの新機能: AI ワークフローの強化&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-06-23T07:00:00.000Z"
-    },
-    {
-      "title": "Managed Service for Apache Spark クラスタの新機能 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1NoWXpueGZvVS14RFc3VFRHRjhMUmFqc2pXLXFkeWJQX2dzV002dDJrUHZTMTV2TTFyeUl5RmZ5SDE3QlVmaDZ4dXhxZmZuYWN0RXhDQ3ZhbTdvejVEb1hZMWpVeDlBOHRSLTJZN0RmTW1jZ2RURjFKYUgwNTRJZEdqSTFHa3lBOWJBTF9ObWlGNkJZUzhybDdPRXRaeDZMSmZ3VVFRS25EMzJyanhFYnUwS3Q?oc=5",
-      "description": "Managed Service for Apache Spark クラスタの新機能&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-06-17T07:00:00.000Z"
-    },
-    {
-      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場 - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW1YYnpzQkpPaFdBRFJ5WDBkb2lsUHRfUG1keUhweFVCWUNhNFZ3b1c1ZFNJVjBGY2pEbkw3MFcwSUtLbkF6ZkpmMW1ZTjFIRVFLTkFkbm5JbEZFcFBpVV84UkZ3ZXV0eHZWb1RIcEI4QUlSZENwRkFJYWhEUlZoclhzeUE?oc=5",
-      "description": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場&nbsp;&nbsp;Publickey",
-      "source": "Publickey",
-      "publishedAt": "2026-06-01T07:00:00.000Z"
-    },
-    {
-      "title": "AWS、Oracle Cloudと閉域網で直結する「AWS Interconnect-multicloud」新機能をプレビュー Google Cloudとの接続に続き - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RRHl6VGQ4Z1lOekdobkZTSjFLTGZVeDFOZWRyVGduWE5rX01wZ3AwM0VJcDdFYl84SXh4eGdtUUx4Q05LeFdtSExEdXROZG81Z1QzckY2c1JJYW1lNXRjSFo3OWtkbXo1eHp5Ug?oc=5",
-      "description": "AWS、Oracle Cloudと閉域網で直結する「AWS Interconnect-multicloud」新機能をプレビュー Google Cloudとの接続に続き&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-05-18T07:00:00.000Z"
-    },
-    {
-      "title": "Google Cloud Next '26 で行われた 260 の発表のまとめ - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmpjV2JaZEZPWm51X3NCMHMwRWdYcE84ak9EY01kNXVZMTVZOThibHViNS1mdmd6VXM0OUREdzBKakR0VnlNbW9zb0VCRlVzcm85VG5Cc2hpYUpYYmo0Nm9nREIwX052SGpIVWxFY0ZYaVpWMkV2NVoxRDhab1MxSkwzWkpDMVhSRS1PNlU2clFOUQ?oc=5",
-      "description": "Google Cloud Next '26 で行われた 260 の発表のまとめ&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-05-12T07:00:00.000Z"
-    },
-    {
-      "title": "Next ’26: Google Cloud と Wiz が AI 時代のセキュリティを再定義 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0NmU1JZVGgtYXNKOFE5TXFkWm9GcnFqaVZSR3BmMXRLbU9xZElteFIzSXpPZEtZT242SDBRLTY5ZjN4QjY4dnU2anktRHJ0aFlWYWw2clRGNjNjbHZCRjVPQUxPYzAzQnhNeUNYSGpmVUttVXlPUEJuanVCd29yQ2tBbkVXUEVsc012UlhDdktNSm1pVnJlczQ3aEFFVHUtT1hLWVlJcWUxUi1UM09uakQ3TS15U2NTLWdhTndiVGRqYnFjZ0E?oc=5",
-      "description": "Next ’26: Google Cloud と Wiz が AI 時代のセキュリティを再定義&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-05-11T07:00:00.000Z"
     }
   ]
 }
