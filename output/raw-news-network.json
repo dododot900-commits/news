@@ -2,18 +2,25 @@
   "topic": "network",
   "articles": [
     {
+      "title": "Palo Alto Networks、Applied Computeを45億ドルで買収する契約を締結 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUlfU1RJdVVCbXFpWnpYcU9KT1JpNDJfaVQ5UDdsSkVtVjRQNVQwcXNDYnNXLWRPLVJGRzRRTWNISzFscXJINVNpLU1nd3RWS1lVRmZDdDFlQmN3YUNTRVQyYkNpQ3puOWpMbmRiSUhya1pKMFFEdl8tbWFPR1VMWWJGYzQwTHNFbnE2WmF6cw?oc=5",
+      "description": "Palo Alto Networks、Applied Computeを45億ドルで買収する契約を締結&nbsp;&nbsp;Unite.AI",
+      "source": "Unite.AI",
+      "publishedAt": "2026-11-18T21:28:05.000Z"
+    },
+    {
+      "title": "API、VPN、SaaSが侵入口に――止まらない情報漏えい、その実態と3つの対策：A10ネットワークスがブログで解説 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxV1RRdHVrWkx4QnRNLW51N29Qc2RtODQzaGt5NmJDTVNLS0dPTXpnOUItYmJZVmUyVGtmR0RLajFnUTRaT3NSVWFnWUtveWRGSnJEWlZabGxEc1N2ZGtGb0NRR1lrZ3RCQUxiT0dWSFZCQQ?oc=5",
+      "description": "API、VPN、SaaSが侵入口に――止まらない情報漏えい、その実態と3つの対策：A10ネットワークスがブログで解説&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-11-18T10:45:00.000Z"
+    },
+    {
       "title": "Palo Alto Networks Fell Nearly 30% From Its Highs. Now It Has to Deliver 33% Growth - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnJCa1JNa3JVQTBZdGR4WUNHV05Idkd1Z1VENEthN2gyUm42ME9SY1BZSURldTVLeUxRUnpqLWptalpadkRYN0R4SFo1TnNtdS1PYmxYd1dySm5HSWZOaTdGS1Zyb3h6Q3prNlVYOHJUNmdRYlEzc3dOMVowQ2xCQ1JpTlZUSndhVmlXNjI4cm16YmJURU00OFV5VVczeFpQZDlOYkZSOXZqMW4wbEk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXJ6WnlyUUtpOUwyMk5EOXNSUnFUdC05N1dvLXRpSEVNQkxGY01WZ2RQSkVrdTY3QzlDNVQxUkV0c01seldYbnZKVVdlT3prdkE4OWJYQUNPMUxEbmJjSHFPRjkwYmRxX0ZISnZ3QmFUSmZqaTR5NWtXc0kwUEs0VFBKTFA2N0x4alJxUTdmYW1YMXhaVDY4OC1HUW1paW96OFBDMjF2TkY4Vmhxamc?oc=5",
       "description": "Palo Alto Networks Fell Nearly 30% From Its Highs. Now It Has to Deliver 33% Growth&nbsp;&nbsp;TIKR.com",
       "source": "TIKR.com",
       "publishedAt": "2026-11-17T23:25:03.000Z"
-    },
-    {
-      "title": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds” - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGlJYXFZWjA2WWVaYThvYWtYTUE2ajJLMWNmdFdMQ2FNcmFKaWZLQlFiTzBYV25IanJrcTEwbDhRZmpnYVc1Y3pPZXNqU0cyQ0NoNml2ckI5ajY0ZXZpR0ppWTJhRWJUS3I5ZXB2dmFSNU42MFpscV9vTkRoTnEzVk1RbjQ3YWVQWEdQQXlHVXZGdFViVjRqTXpBck9hak5KTGQ2TmhLM0dxWkpJYkZWM09R?oc=5",
-      "description": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds”&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "publishedAt": "2026-11-14T20:28:48.000Z"
     },
     {
       "title": "ネットワーク機器のサプライチェーン管理強化に向けた取り組み : 企業情報 - NEC",
@@ -30,16 +37,9 @@
       "publishedAt": "2026-11-13T01:00:00.000Z"
     },
     {
-      "title": "PHP2ShellでPalo Alto製ファイアウォール24台と管理サーバーが侵害 WordPressでは約7.8万件の攻撃試行も侵害未確認 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXQ0UWZtMFBIM2JnYTQ4ZkxDOERmSnh5RWY4eFpkT29waERtakdHVTd0dzhqeFgtS3Z3WWdreUxNUm5tOHA0alpnZ25DbDh4VWNBVm44WEpONzhZTEpPeDFOd1pCd0tXU1dWVzJkWkVFTExnVU5EcjI4ancxMlh4XzdlbHRSZTRoSkRiSW1Ba0J5TkgwdGU0ZTJkNV9nSVBoYlAxNk10N1I?oc=5",
-      "description": "PHP2ShellでPalo Alto製ファイアウォール24台と管理サーバーが侵害 WordPressでは約7.8万件の攻撃試行も侵害未確認&nbsp;&nbsp;合同会社ロケットボーイズ",
-      "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-04T08:00:00.000Z"
-    },
-    {
       "title": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhQWRVcWFvQ1JoaE5HcGdDb0poTzI5blNPV2JVNU5IVHN3cmxMTWlfYU1CQTNMYjZza1h1M1pMYmhNaWUzMUR4YWhSTE5wa0dFRWNzNHAtbEtQbWhGS0RtOTAyeTdzbE91Y1JySXZzODBidmtw?oc=5",
-      "description": "Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱性に露出」&nbsp;&nbsp;BigGo ファイナンス",
+      "description": "Genians「企業内部ネットワーク���PHP機器96%、『PHP2Shell』脆弱性に露出」&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-10-29T07:00:00.000Z"
     },
@@ -51,11 +51,11 @@
       "publishedAt": "2026-10-26T07:00:00.000Z"
     },
     {
-      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
-      "description": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-08-24T07:00:00.000Z"
+      "title": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazBYczBqQndMZ0VhYjFURTNDcjZQNFVPMTBVbU1zTjRESmhoTzZsUEF6c3VYa1BhM0NWaW5MYjRLcXhRZHlvU0hYeFYtRXRpMTBENUtSb0k0Vm1nbkpyYU1pTVJZcjdnRnFMQUViS01LTGlBUEE5OEQ4WVcwZTFnZ25TcXNWeUN6Z2djdTdrem5WZ3R3eVRn?oc=5",
+      "description": "Palo Alto NetworksのPAN-OS・PanoramaもPHP重大脆弱性「php2shell」の影響対象に、管理画面へのアクセス制限を推奨&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-10-22T07:00:00.000Z"
     },
     {
       "title": "SD-WANの次は、次世代LAN？ キャンパスNaaSが告げる「ネットワークは所有しない」時代 - ITmedia",

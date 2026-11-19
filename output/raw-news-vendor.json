@@ -2,46 +2,46 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表 - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjJ1czQ3NmtTd0ZJbXhlT0hYLWh1QVlxckd2Wkw1Zld6S1Uyd2p6X2dvb0poVGpkMHR2ZDBrR3h5WkhFeFQ4MXAtT3h1dE9DWmxwTW1QOUt3Z0pMWkFoVnctQ2xZWGZxZEF5dUc3dGR1aTdmSTFySEM0UUs1TVBxdA?oc=5",
-      "description": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
-      "source": "Unite.AI",
-      "publishedAt": "2026-11-17T13:30:00.000Z"
+      "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnSWNIdE5fQ2s0ZTduVjJCdmVZVFFtTFplcVVNd3ZCc2lYUTRyQml6WFF5Y3JJRURSci1wcGpEcS1TV2ZhUjQwMnRSTWFKZXZmWDFVOFZMdnR5Njljd2xheDJ5VmxoNEY5cnpBc083cw?oc=5",
+      "description": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-18T15:45:00.000Z"
     },
     {
-      "title": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZ1A0LXBPYkMtek9FZW8zU1hsYlY2MnhQZHU0QkwzVTZGSzJ4R2lIU1VoS0JmZVpLaHg1N0ZlUktLdDFFQ2RlMko4UGp0M1JQN094X0ZFUzA1ZERZMG5BLU1tZDR2LUZ3?oc=5",
-      "description": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-17T02:00:26.000Z"
+      "title": "CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SXzItN3RZRmxaR1NtOWg1NlE5UHhXMWI5b1pmSm5yay1DTElBSjh6SXBaUEt3eVVMN19wdG9JQUx1ekFpaElsZ2dUZ1ktRTlXaUpsdjNDOENvSENZSlRocXVwOElLRkVHUlZja0UzRVBQTnRxZnc?oc=5",
+      "description": "CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-18T11:01:43.000Z"
     },
     {
-      "title": "【AppGate】GigaOm Radarのゼロトラストネットワークアクセス(ZTNA)部門で「リーダー」に選出 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42QkhNcjc5RE1HY2MwYmZpMXhodHMwUU9tTk1KRDEzRzhaUlZFckhhNEpuNGtpQWZUNmVZVnJKeVNjM3hvWWZDMkVSMWwtY0UwMU90eW5sS0ZPUEZMNGdjSnNIcFFYb01EQXN3X29HMnBWakFmY1VDN2RXbw?oc=5",
-      "description": "【AppGate】GigaOm Radarのゼロトラストネットワークアクセス(ZTNA)部門で「リーダー」に選出&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-17T01:15:54.000Z"
+      "title": "Okta、AIエージェントに「従業員ID」を付与…権限・��ッションを5分単位で統制し韓国金融業界を攻略 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rWmxMeU1icFE3WUM2ampUbXVPT0h2RjNES3dvWjBYYU1kQ182a2NnLTVuTHpOTUJCY1diQ0VKSFJUUFd6eUk0MWdMZFZSbHhJcG1LODVrSmZrRkpWOEotdXYzckJyLXE2bWNlNWlYTl9xSV9f?oc=5",
+      "description": "Okta、AIエージェントに「従業員ID」を付与…権限・セッションを5分単位で統制し韓国金融業界を攻略&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-18T07:55:00.000Z"
     },
     {
-      "title": "クラウドストライク、AIの安全性確保に向けてAI Kill Switchを導入 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKU1JPVURnZ3RoNzQxdW1JTmlQd2lpUTdJMUYtQ0tGRXVzOEdtNWdvR21DeWRPdHhWajg3TGhKb3hPdWZnY1NSbFZxaDk4QzZHQkVrbXVDaGJ1a1RtaEhkNjhNSi03ckVIZHYta3AyejRsUQ?oc=5",
-      "description": "クラウドストライク、AIの安全性確保に向けてAI Kill Switchを導入&nbsp;&nbsp;Infoseek",
+      "title": "クラウドストライク、エージェント型SOCを拡張し、エージェントによるインサイダー脅威を検知・阻止 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83R2ctVEREUEFkMkpGWnVTTzVSZUVySHBGU1ZPN2lWc3M0LUJnbjhkMFRQb0tDdk9nS0RyNG1zUWNnZkV0Qi1CZThVZDlyMjFibTBUdHhmWk1mU0tWZXUyYXlJbFlVcWNxYzZDUVJpVVBZZw?oc=5",
+      "description": "クラウドストライク、エージェント型SOCを拡張し、エージェントによるインサイダー脅威を検知・阻止&nbsp;&nbsp;Infoseek",
       "source": "Infoseek",
-      "publishedAt": "2026-11-16T14:10:00.000Z"
+      "publishedAt": "2026-11-17T14:10:03.000Z"
     },
     {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVzVaT1BSaUtQU25sNlkzTHhFbk01R3VSckFyNHduSGtaTVo4aFJGOW82V0NQTjFEU2ZfUFJ0b0EtN2dKc2paNW1xaVROM0RodGc0M251S2ZEanpPc29XY0lxaTR5cnRaUEUw?oc=5",
-      "description": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開&nbsp;&nbsp;Publickey",
-      "source": "Publickey",
-      "publishedAt": "2026-11-15T13:34:34.000Z"
+      "title": "クラウドストライク、企業向けにAIのセキュリティと安全性を実現 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JRUJibVdQVDd2eGJ3aGI3dmtEcG9QeHNJSi16aGthRGVKeXB4ZG43dEpGWVNJal9OM1lwc0RKWUlLQlpvRnF3RG1YOWQ3Yjl2UldTQ052c1JCLWt6aXpOQS14OTRJdFpxdjJKYnE2czZsQQ?oc=5",
+      "description": "クラウドストライク、企業向けにAIのセキュリティと安全性を実現&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-16T14:10:02.000Z"
     },
     {
-      "title": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uYU5xTFBZUHEyZmktZWpnanlIdXFjSmZnb1UzbEZvdkt1YnV4VW01RlNMaUxhby1aVkdQY2ZSNThXcE56Uk1GRXlwRXNON0NMaTUyeGJwRXkzMWlfWjByUVlMX0ZiSEVHTlh2TGhSTm9Fc19G?oc=5",
-      "description": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-11-12T22:00:00.000Z"
+      "title": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起 - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MeXQ4ek1mdXkyTmRtTlhpTkI0Y19FejRBdHhWRU16ZWI5TWFzR0sxbXVadjJSQUtHeVlSVkY2b3VkSWtsRmoxY1o2XzlROXZWWXFrOVJRTF9MbVBHbXVZX3BHSQ?oc=5",
+      "description": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意���起&nbsp;&nbsp;gihyo.jp",
+      "source": "gihyo.jp",
+      "publishedAt": "2026-11-16T03:38:18.000Z"
     },
     {
       "title": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -51,39 +51,11 @@
       "publishedAt": "2026-11-04T08:00:00.000Z"
     },
     {
-      "title": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ28tak0zU2F1UDllUmNPaVh2RWlmcFVHYXhhdVlCUXpLTUIycWp2XzYxNHBpWWdlbXhYTl9TTFFPTnI3TlVPc3NvSlNnLXNHM1FhSHE5bHk3b19CQ3h6VU9OUHdQbVkwVHJ1S1JwS0ZRRlZ5YnliM1FFclNjX1VHMWlvMjFjc2pHQWJQZnItTmhCYUhZXzNLN3Z3?oc=5",
-      "description": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-10-31T07:00:00.000Z"
-    },
-    {
-      "title": "Cloudflare と OpenAI による、脆弱性の発見から防御への連携 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBYkhuR1pEUUtzZkhiVFdqX1Ftd3VIZXY4UW5FejFnWk5TTVpQUlF4ZXAzLU9BU0pBY2dlajIzT2xDTVBoMzExSlVMRTZkUGxwZ3VuOFNpcnozY0tL?oc=5",
-      "description": "Cloudflare と OpenAI による、脆弱性の発見から防御への連携&nbsp;&nbsp;OpenAI",
-      "source": "OpenAI",
-      "publishedAt": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "title": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42WldHNHNYT1VGcmJDUWdIZjJQX1BvcjVSQTJWcThjZHBYa2JKWUpLTGFmVWVJX1BRMmhJOHZXa2JNVmFsWUc4NFprN3FrVmNYRDZrMg?oc=5",
-      "description": "日本企業を狙ったAIサイバー攻撃の実態が判明 GMO調査&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
       "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-19T07:00:00.000Z"
-    },
-    {
-      "title": "Cloudflare、Viteアプリの開発と展開をつなぐ「Void」をオープンソースで公開 - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YQTBDNEtxUVNIVmVuSWJ5SEhlT2RxdXVlV2Fyd2VSdXZDZm1vTnJ1TUhDZ3NjV013TTQ4ZWdHV0h3blA1SHBmSnFTNDVTdw?oc=5",
-      "description": "Cloudflare、Viteアプリの開発と展開をつなぐ「Void」をオープンソースで公開&nbsp;&nbsp;gihyo.jp",
-      "source": "gihyo.jp",
-      "publishedAt": "2026-10-16T07:00:00.000Z"
     },
     {
       "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
@@ -107,11 +79,25 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
+      "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLU9jYnpZdVUwaHhhZmRVNGdlc0NSLWwzUGpFRjJ5eEpKTnE4dTZBbTNnMU1fSDRkbVFFbVBvV085SWRGc29KN2hoT1J5ZkVlQmJ6MUdoNi03bjB3NElPaVN2OWxZUFUxR0xkdkRRNV80Zw?oc=5",
+      "description": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-08-16T07:00:00.000Z"
+    },
+    {
       "title": "マクニカはCato NetworksよりTop Distributor 2025、Japanを受賞しました。 - 株式会社マクニカ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlJ4WnR6YjFlNnFLcWFXd2l1dFFxUG0tNXhScE1mMGI2ZUJSYVRKUkQtOHBlaTNNeDZJN044X2lsTENNQVFSSVJyYVo1REJGRTl6NzRhM2FFaFg1cWhJSkhuc3QwX3VxV1d6eVkxaVlGRmw1TE9NTEY1ZlB0cDNhRk13OUhxWUVBYmZzRm1vWFFVcDdqU1ZKZ0NMVmhzNUhr?oc=5",
       "description": "マクニカはCato NetworksよりTop Distributor 2025、Japanを受賞しました。&nbsp;&nbsp;株式会社マクニカ",
       "source": "株式会社マクニカ",
       "publishedAt": "2026-08-13T12:49:19.000Z"
+    },
+    {
+      "title": "LLM発展後のEDRとの攻防 - 検知ロジックの解析がもたらす攻撃・防御の変化 - gmo-cybersecurity.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0d3AxdUdFWHB3WHc5ZVRJUDhiMGJHdTdvUWpEU1hPUXZzRWFsLWNGSllTOXdoOC1qWl9KYjc5ZTF5NDFfTHVnZUZRcnJRZHZkSUVkOWpFenZZLWdWN21lV29wZ25VVjBTRnlNNw?oc=5",
+      "description": "LLM発展後のEDRとの攻防 - 検知ロジックの解析がもたらす攻撃・防御の変化&nbsp;&nbsp;gmo-cybersecurity.com",
+      "source": "gmo-cybersecurity.com",
+      "publishedAt": "2026-08-04T07:00:00.000Z"
     },
     {
       "title": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 | 法人のお客さま | ソフトバンク - ソフトバンク",
@@ -121,11 +107,25 @@
       "publishedAt": "2026-07-28T07:00:00.000Z"
     },
     {
+      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
+      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-07-13T07:00:00.000Z"
+    },
+    {
       "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
       "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-04-24T07:00:00.000Z"
+    },
+    {
+      "title": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始 - セーフィー株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zWWZJZndYdDVvXzFMT1A4QlNmbUZHUmxMMlplclozUUp5c04tV0twMFloNG1DUDZrdjFQSk1TLW5fYTQ4?oc=5",
+      "description": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始&nbsp;&nbsp;セーフィー株式会社",
+      "source": "セーフィー株式会社",
+      "publishedAt": "2026-03-12T07:00:00.000Z"
     }
   ]
 }

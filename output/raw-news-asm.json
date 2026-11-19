@@ -2,39 +2,46 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "GitLabが脆弱性 37件を修正 XSSやCI/CD保護変数の認可不備に対処、19.5.6・19.4.8・19.3.9公開 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1YxUTNzR19LMjhtckRJaXQyc2oxU25EcDVuREJBcnNmRi1xYWlPUlJzY3lIM0tzZ3VxX3M4UkI2T0N1bnp1Nklyc3Vad3gxZjk2X1c0YUlCNHNxTDhtcGZsemhYNGplNkhWQ0ZCZThSNU1vS1RFcjRTLUdTZl95QUNNaG9VM3N0MXk3RXZhNzUtQXB4aEdiMEQ0X0tOMFRMa0VPUTN0cw?oc=5",
-      "description": "GitLabが脆弱性 37件を修正 XSSやCI/CD保護変数の認可不備に対処、19.5.6・19.4.8・19.3.9公開&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "『専門人材が足りない中小企業、脆弱性の見逃しが招く踏み台化・情報漏洩のリスク』というテーマのウェビナーを開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBZFEwZzR1WjNJc3BQd1ZnMGhaN2dOclg2djFVeXg1ZUhEU3dOOGg2M2djaTNndms4eHNyUkNVQy14dzlTNWxUT1BTVnFFMjlvZ3JnTk5Hb2JyWFgxaFhwS2h0MTY2RnVY?oc=5",
+      "description": "『専門人材が足りない中小企業、脆弱性の見逃しが招く踏み台化・情報漏洩のリスク』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-19T02:00:37.000Z"
+    },
+    {
+      "title": "グラムス、Webセキュリティ診断・対策サービス「Lock’nWall ALL Knight」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45SE1sOWhpUC1ncVQ1eklkLWlna2RBWnBqcm02dUt1TmhRbTY4d0NGc3U2WDBmc2t2TmlQeUp4YURVNTNLdHhKaG9lM2g3WWstZ1BYUERMQXZLaHZiZVM0bHhEckNudDZuVFE?oc=5",
+      "description": "グラムス、Webセキュリティ診断・対策サービス「Lock’nWall ALL Knight」を提供開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-19T01:00:02.000Z"
+    },
+    {
+      "title": "Google Chrome 158公開、脆弱性 204件を修正 Criticalは6件、XSLTサポート終了にも注意 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFVwZlJXZWQ0eHhVUUFIRkozMGNNSGw3bEJSU25qVlZVMlF6Wmh1WG4zTXo5NGZyZDd6YVVXcFpHcklqZVlZYVoyNm03QjUwNllhZ2wtMHFjWjJKcGpiSnJQT3liejR3eEtlSm5KQlU5YWJfQ1hZbzh0TTh3MFpSRjQzT2ZyRGtEZGN5Y0ltUDJpRS1UdXpySjhKd1E?oc=5",
+      "description": "Google Chrome 158公開、脆弱性 204件を修正 Criticalは6件、XSLTサポート終了にも注意&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-17T23:45:18.000Z"
+      "publishedAt": "2026-11-19T00:14:57.000Z"
     },
     {
-      "title": "ウェブテストABツールOptimizelyの脆弱性悪用で178組織のWebサイトに不正コード-日本のサイトも影響 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnVZVXhtSlcyUDhzUm9waUVWMldPSUxxaldwTzRNeXQ3eE9hc3NMVS14SFhJVWxWd3dhekJ2N1hmbEdEQ3FkaF9WeTlRTXhhMXBzZC05bHh0U19BLWt0R1RxellCUzJMelZNRnVPLUZnR0YtbzB0YVhsUk1USDhzNXdPbVpRSHJKSXR3RkxXZjlTOWhKQlRPdjBsWmJyVUw2ZmxkNDg1RXVVT1BpXzdB?oc=5",
-      "description": "ウェブテストABツールOptimizelyの脆弱性悪用で178組織のWebサイトに不正コード-日本のサイトも影響&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "Jira・Confluence・Jenkinsなど11製品でJava4Shell（CVE-2026-114938）のRCEを実証 Keycloak公式も一部コンテナ画像への影響を注意喚起|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmpSYklqdkpfeDFyLU52anNjd0dCT0gwVlZBMXUydU0ycUtwZkJrNUdEdkQ5NGRFTnVrNnkzWVlrYjVlWGgycHMzX0g1SW9JcTYxZ2t2c3UzdjdmOWdaZHhURFYycVoyRmpTUnNFd3k4RjlLeHdtMktVVGdabnRqU2RHRF9fVnVpeDdFZjNNck1uei0zUUlBSDVuM3Q?oc=5",
+      "description": "Jira・Confluence・Jenkinsなど11製品でJava4Shell（CVE-2026-114938）のRCEを実証 Keycloak公式も一部コンテナ画像への影響を注意喚起|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-17T23:00:43.000Z"
+      "publishedAt": "2026-11-19T00:11:51.000Z"
     },
     {
-      "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDgzQjRKNU5aa1pfM21ieVlud2RmYm1BTW43a1NfZks4bHBIYkF2OFVRT0ViWFZGbjdpMGwteDRaNkZBZUREVTdpN3oxckdiMm5JMVVSX0d3Z1FHM25KRHJDbjJ4cnpPUENqWmZfN0tadmp5dGw5VGVfS1hYVEZlYVRXd0xILTBUMzNLMkJzNWgybEdHMGgzMGNrcG55OHRkTWpYajIxU0JGTU1GMmtn?oc=5",
-      "description": "Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "title": "NGINXに認証不要RCEが可能な脆弱性「NGINX2Shell」（CVE-2026-123007） CVSS 9.2、修正版1.31.9・1.30.7公開 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXpSV3J2M1NaRFJLREZmTE9zX29Md2tkSnBNUDBPSXpVdFN2NFJIMnhzM0M0MHdPTDRXRU5NTmFyMEVxbVBGd0pjZHMwRVBodGhYeUN1VjA5MkhQeVN3REwtaUxCTDB1cG5tU2VZVXdMeFdSb2UwalpPY09EUF96Z0xsbzdYUmFLSW5KREQtUGVKdG1VSjNn?oc=5",
+      "description": "NGINXに認証不要RCEが可能な脆弱性「NGINX2Shell」（CVE-2026-123007） CVSS 9.2、修正版1.31.9・1.30.7公開&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
-      "publishedAt": "2026-11-17T21:52:50.000Z"
+      "publishedAt": "2026-11-18T19:17:51.000Z"
     },
     {
-      "title": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kRUpCMk5zTnZUMzdhUTZwRk1MU2lJdVBEbnVUUVJCa2NFUEttMG1aRDR2MmZJeUF0MTU1dEJDQzhVeUhmZGxvd3lmNFBwZWFYZ0JMUXVDcDM1dGxoWVFqY0ZuNDZia0EwNGZWU2luQnJHQQ?oc=5",
-      "description": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-17T13:40:02.000Z"
-    },
-    {
-      "title": "AI悪用攻撃に対抗、実績1000社超のサイバーセキュリティ専門企業ST、「ST AI Red Team」導入プランを提供開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEMFJvMmsxWVRjS0hZUGVMc0dKT2hZLTZNQVRJdlFDLXh3OVBNWXdVVUxfNEtPb2JnVmZFaTFkYWw4RnFYbEFXYlNqOWlaa2JvTDFiQ3lkM0QxRWJtejluLTFvZ0ZiLUZoZkpCWl9EZXFYUQ?oc=5",
-      "description": "AI悪用攻撃��対抗、実績1000社超のサイバーセキュリティ専門企業ST、「ST AI Red Team」導入プランを提供開始&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-17T09:15:26.000Z"
+      "title": "セルバが中小企業向けにAI脆弱性診断サービスを提供しサイバー対策を強化 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56cWxBc2NIRS03ZTllRjVWTFRfME5yc0Nsd2g4ZVNhM3VQNFltWERTRHlsNUZsVUNuUzJVdzZfYjVMZTRIdjNobGNHNzU4X0o0MThfTldnMkpiUEJhZmY0RWdKc2RMRHIwOEtZRFpLOA?oc=5",
+      "description": "セルバが中小企業向けにAI脆弱性診断サービスを提供しサイバー対策を強化&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-11-17T08:07:27.000Z"
     },
     {
       "title": "ソラコム、フィジカルAI向け通信基盤「SORACOM フィジカルAI Suite」を提供開始、セキュリティ診断も発表 - スマートグリッドフォーラム",
@@ -44,25 +51,11 @@
       "publishedAt": "2026-11-17T06:17:57.000Z"
     },
     {
-      "title": "「脆弱性の対象サーバがすぐにわかる」監視サービス「Amaterasu」提供開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VT21MSW82V0Jnc1J5Uk94bVIzZnVqVnRqZzFKTnowMGJNaHFKdko1V3pHQ3N1UURROURxNXBicVg4MUZYV0N5WUZpNUNlZDQwTno3SWdSMlhwZ2U4N0VnbFk0amRnb1lKd0tTSk1UUE8zZw?oc=5",
-      "description": "「脆弱性の対象サーバがすぐにわかる」監視サービス「Amaterasu」提供開始&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-17T02:15:39.000Z"
-    },
-    {
       "title": "外部IT資産リスク可視化サービス : サイバーセキュリティ - NEC",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHladEJBTWF4czh0b1VkSWdEaGlQTTVLekN5X3pudkdyV0ZEcDJBUlM3WmItN1daZDlROWI4amdlajdGQ3hCc2hPdDVBZmx5aHJHcWFRQ2lEMk1ENHJKUUh6SmtJNXZRaFBLZkVaUGVPZnMxQ0YxSHdZUGxySFljTDVFelBfeDVvaUZyRHRGYXNXUjNMYnEtVjJEZnlVTXVqbUxjNWN4ZnpncVpQZkNNUnZITG5Rdm8?oc=5",
       "description": "外部IT資産リスク可視化サービス : サイバーセキュリティ&nbsp;&nbsp;NEC",
       "source": "NEC",
       "publishedAt": "2026-11-11T12:59:23.000Z"
-    },
-    {
-      "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UbDIxeEQ2dDVONTFzUDloTGVibk1PakZpQ2g4U0YybkQweENoa041TUxuUWxGb0hKYkFQdDZfQURHYnc2bTI0c2hoVkRMbW0ySkFLajY4Q1gwVVdiZGF4WVZXblI4aWV6b3c?oc=5",
-      "description": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-11T01:00:02.000Z"
     },
     {
       "title": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは - ビジネス+IT",
@@ -79,18 +72,11 @@
       "publishedAt": "2026-10-27T07:00:00.000Z"
     },
     {
-      "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYV1dkLWowbDhOdnA0ZFJZQmozVTdqS1JzeG1HYnIwR1ZMc2JnY2Z6b1l1YkR5UE0wbWxzTGV5aXhVU29lTS1meDAwTUZUcWVNMkNieXF3NFZZVjNmeFI1Z2hUVExtaHAxYmc?oc=5",
-      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-23T07:00:00.000Z"
-    },
-    {
-      "title": "スリーシェイクのSecurifyが「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11期連続受賞 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zYjlGRjZmdnZpMHRvQ1l2eTFMOXZiOExvS2lwTC1DQm1mSUZFWTlpZzRGMFduUDRNYnA3NDlPcExDYlRfeXNsdEZfcnI5M3NTRGZodDhZbUZJTzh1R294MDRDbldDNnBsZVNTcw?oc=5",
-      "description": "スリーシェイクのSecurifyが「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11期連続受賞&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
+      "title": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUVRvT3dKVDJUVXctbXhObE9zd3FfSlRSbXQ3M3BDSTBZbUlPN3ViTkhsaHZaRGhXRWpIdDEzOGdYZnczbU9jTFNvUDRISldrdnViRThwWVJsTVQ3OFlCWDBBLTlwck5KVEtnRQ?oc=5",
+      "description": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-10-15T07:00:00.000Z"
     },
     {
       "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
@@ -105,6 +91,20 @@
       "description": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入&nbsp;&nbsp;INTERNET Watch",
       "source": "INTERNET Watch",
       "publishedAt": "2026-07-31T07:00:00.000Z"
+    },
+    {
+      "title": "KELA、AIを活用したCTEMプラットフォーム製品群を日本市場で発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tMU1vY0dSdlpLbmlaWXJGclNLWDAxb2Q3cFVQYnBKcVNLT1NMUUJYOEg3UG9VMXFGT0o4UG92Ni1wSjVOb0Q0?oc=5",
+      "description": "KELA、AIを活用したCTEMプラットフォーム製品群を日本市場で発表&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-07-29T07:00:00.000Z"
+    },
+    {
+      "title": "KELA、AIを活用したCTEMプラットフォーム製品群を国内発表 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaTmRtUTJmTk9vOFU4c2ZkR1ROZ1BIOGNWeExvY053OEtLNF9mUVdDNVNSQUtFcG1NU2JXMUlzQ1JsRXZlQ3ItNDlBVmlwUlRNeVVkSTlOa0s0MUVzSHZ0blMyYkZzeVVY?oc=5",
+      "description": "KELA、AIを活用したCTEMプラットフォーム製品群を国内発表&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-07-29T07:00:00.000Z"
     }
   ]
 }
