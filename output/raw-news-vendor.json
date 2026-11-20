@@ -2,6 +2,13 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "Cloudflare、請求書とレシートを読むAI「Clairic」の重みを公開 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3pMRVBMMmFHTDYxT0tEVWdOd2I2VmhqOFZ1dW0xNXJ5U1RFV0hlZHVkSm00N3NFRmRYWjYxZzdfcUJCRDMyYS10Rl8wcEQ5YTFreGtxV1NPX01Oclc3emxYWnh6dzRFVE1JcEM4aEs2LUFoTFNYMVNLNExjWERxOQ?oc=5",
+      "description": "Cloudflare、請求書とレシートを読むAI「Clairic」の重みを公開&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-11-19T17:22:15.000Z"
+    },
+    {
       "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnSWNIdE5fQ2s0ZTduVjJCdmVZVFFtTFplcVVNd3ZCc2lYUTRyQml6WFF5Y3JJRURSci1wcGpEcS1TV2ZhUjQwMnRSTWFKZXZmWDFVOFZMdnR5Njljd2xheDJ5VmxoNEY5cnpBc083cw?oc=5",
       "description": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた&nbsp;&nbsp;GIGAZINE",
@@ -13,35 +20,35 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SXzItN3RZRmxaR1NtOWg1NlE5UHhXMWI5b1pmSm5yay1DTElBSjh6SXBaUEt3eVVMN19wdG9JQUx1ekFpaElsZ2dUZ1ktRTlXaUpsdjNDOENvSENZSlRocXVwOElLRkVHUlZja0UzRVBQTnRxZnc?oc=5",
       "description": "CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明&nbsp;&nbsp;GIGAZINE",
       "source": "GIGAZINE",
-      "publishedAt": "2026-11-18T11:01:43.000Z"
+      "publishedAt": "2026-11-18T11:00:00.000Z"
     },
     {
-      "title": "Okta、AIエージェントに「従業員ID」を付与…権限・��ッションを5分単位で統制し韓国金融業界を攻略 - BigGo ファイナンス",
+      "title": "Okta、AIエージェントに「従業員ID」を付与…権限・セッションを5分単位で統制し韓国金融業界を攻略 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rWmxMeU1icFE3WUM2ampUbXVPT0h2RjNES3dvWjBYYU1kQ182a2NnLTVuTHpOTUJCY1diQ0VKSFJUUFd6eUk0MWdMZFZSbHhJcG1LODVrSmZrRkpWOEotdXYzckJyLXE2bWNlNWlYTl9xSV9f?oc=5",
       "description": "Okta、AIエージェントに「従業員ID」を付与…権限・セッションを5分単位で統制し韓国金融業界を攻略&nbsp;&nbsp;BigGo ファイナンス",
       "source": "BigGo ファイナンス",
       "publishedAt": "2026-11-18T07:55:00.000Z"
     },
     {
-      "title": "クラウドストライク、エージェント型SOCを拡張し、エージェントによるインサイダー脅威を検知・阻止 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83R2ctVEREUEFkMkpGWnVTTzVSZUVySHBGU1ZPN2lWc3M0LUJnbjhkMFRQb0tDdk9nS0RyNG1zUWNnZkV0Qi1CZThVZDlyMjFibTBUdHhmWk1mU0tWZXUyYXlJbFlVcWNxYzZDUVJpVVBZZw?oc=5",
-      "description": "クラウドストライク、エージェント型SOCを拡張し、エージェントによるインサイダー脅威を検知・阻止&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-17T14:10:03.000Z"
+      "title": "Bitwise、AIサイバー防衛特化のETF「ZDAY」をNYSE上場 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWVSM2lqWW5qbU1KQkhwcktUamNXSVFlUTR6Ui1HNk9NZ1UzN1FJUkEwbmZsbE5pYkppbk1JV0M3aGNaMG51OGR0UW5wZFBNUnNWc3FvTmFPWkpuQ2w4c0FHM3V6bm5EWllmc2JLTnozaWR6S2EySEpjbkF1N0JJYjJmSjczMHlLZGRxMHFhd0NadTUtaFlPendnakRCX1RJV2tHankzak9SYmVKdk12cGxtNDVwUVZ2Z3ZLZg?oc=5",
+      "description": "Bitwise、AIサイバー防衛特化のETF「ZDAY」をNYSE上場&nbsp;&nbsp;디지털투���이",
+      "source": "디지털투데이",
+      "publishedAt": "2026-11-18T00:49:29.000Z"
     },
     {
-      "title": "クラウドストライク、企業向けにAIのセキュリティと安全性を実現 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JRUJibVdQVDd2eGJ3aGI3dmtEcG9QeHNJSi16aGthRGVKeXB4ZG43dEpGWVNJal9OM1lwc0RKWUlLQlpvRnF3RG1YOWQ3Yjl2UldTQ052c1JCLWt6aXpOQS14OTRJdFpxdjJKYnE2czZsQQ?oc=5",
-      "description": "クラウドストライク、企業向けにAIのセキュリティと安全性を実現&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-16T14:10:02.000Z"
+      "title": "米NSAの機密メッセージング網がダウン、米国は技術障害が相次ぐ1週間に対応に追われる - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EMGpuODFIMlBnbXhhTW9GYm9Xa012NWE2ZVQyTEdBU3pLbWJTcEdmcGdJS2dNMkpCamY5TlA3Y1JrYlBQeGJUbmtlNU45RWd4aEtMVVNhem1Pa2Y4b1NoQU1VVE9RSUVnaDJBaFN0UkNMNTZF?oc=5",
+      "description": "米NSAの機密メッセージング網がダウン、米国は技術障害が相次ぐ1週間に対応に追われる&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-17T18:35:00.000Z"
     },
     {
-      "title": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起 - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MeXQ4ek1mdXkyTmRtTlhpTkI0Y19FejRBdHhWRU16ZWI5TWFzR0sxbXVadjJSQUtHeVlSVkY2b3VkSWtsRmoxY1o2XzlROXZWWXFrOVJRTF9MbVBHbXVZX3BHSQ?oc=5",
-      "description": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意���起&nbsp;&nbsp;gihyo.jp",
-      "source": "gihyo.jp",
-      "publishedAt": "2026-11-16T03:38:18.000Z"
+      "title": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjJ1czQ3NmtTd0ZJbXhlT0hYLWh1QVlxckd2Wkw1Zld6S1Uyd2p6X2dvb0poVGpkMHR2ZDBrR3h5WkhFeFQ4MXAtT3h1dE9DWmxwTW1QOUt3Z0pMWkFoVnctQ2xZWGZxZEF5dUc3dGR1aTdmSTFySEM0UUs1TVBxdA?oc=5",
+      "description": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
+      "source": "Unite.AI",
+      "publishedAt": "2026-11-17T13:30:00.000Z"
     },
     {
       "title": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -49,6 +56,13 @@
       "description": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
       "source": "合同会社ロケットボーイズ",
       "publishedAt": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
+      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
     },
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
@@ -62,13 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
       "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
-    },
-    {
-      "title": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化 - ビジネスネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83QVBmZVJOendKQ0g0Ni02TEpZa0hLQmp5ZTdCNXBrU0RVODFNMC0tRC1KcExCY05NVWVscGk2YTh2Q1NVU3ExSmxwRzhfaG5ndi1V?oc=5",
-      "description": "NTTPCと網屋、中堅・中小企業向けフルマネージド型SASEの提供に向けて連携強化&nbsp;&nbsp;ビジネスネットワーク",
-      "source": "ビジネスネットワーク",
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
@@ -100,18 +107,11 @@
       "publishedAt": "2026-08-04T07:00:00.000Z"
     },
     {
-      "title": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 | 法人のお客さま | ソフトバンク - ソフトバンク",
+      "title": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 - ソフトバンク",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BWFBoV0VvWFlSbDJ6NmdyWjNPWm83eWJXbkRsdy1lbjMxalZJaFVRSy1jX3pCUHVfNGk4anotLWtkaGRzU0JSUVhpZ2ZSaDRSOER0R1pPLTVaZXZMQmpj?oc=5",
-      "description": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 | 法人のお客さま | ソフトバンク&nbsp;&nbsp;ソフトバンク",
+      "description": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞&nbsp;&nbsp;ソフトバンク",
       "source": "ソフトバンク",
       "publishedAt": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tS0dCV05SR2kzemZDNG9VbFdjRlQtdDJWcU9QRmg1ZnIteUlVZ01nSzhUek52N3JkS3F3X2s0bjFhSzdvTjR0OFhPdXV4YlZUNnFqdg?oc=5",
-      "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-07-13T07:00:00.000Z"
     },
     {
       "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",

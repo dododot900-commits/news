@@ -2,6 +2,41 @@
   "topic": "ai",
   "articles": [
     {
+      "title": "AWS、AgentCoreエージェントがAWS Billingを通じてMarketplace製品を購入可能に - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVdOT3poUTVrUXhiSVVpQjFhTkxyTzNkV0I0cGNSQWVBN1pyOXVWZExGa2U4cFVQTjU0YTNKbE90ZVMzaTlwS00wekpERzBkWkpFS00ydGtfOWEtMml4bS1lUm5vOVJNdnZrWTNaRzNva1gzdGFXVHV6bDM0RVQyWHk4Nm1EQVAzWDR6aUcya0ItT3pwMVNMdVFRTQ?oc=5",
+      "description": "AWS、AgentCoreエージェントがAWS Billingを通じてMarketplace製品を購入可能に&nbsp;&nbsp;Unite.AI",
+      "source": "Unite.AI",
+      "publishedAt": "2026-11-19T23:21:05.000Z"
+    },
+    {
+      "title": "生成AI利用者の約9割が「AIの回答」に不安。足かせはAIではなく「社内情報の管理」 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tUlYxdnJyLTZsTnVvRWpzenFxcVdhNElfUnV4bVQyYUNfY1FWekFHYW1lbTR5Z0pZdmhXaHRSaXBOQmE3RTVqa041b0g0RUJDRExSMncySnhkSDdwODU4TWdWcTE4U3VxS2VoVl8zUVZOc1p3T1E?oc=5",
+      "description": "生成AI利用者の約9割が「AIの回答」に不安。足かせはAIではなく「社内情報の管理」&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-19T13:00:37.000Z"
+    },
+    {
+      "title": "山口 AIで仕事が変わる？ 最新技術が下関に集結 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtN0FyVUZCcFdQNi1hR2dIb2NIaDJneDNQbU9CS0JLOVhqY1pseGFOZHRDOTdtd1l6RG9PZnAxakxucnowMDVqREF3TnRDVFIteTYzb2FkM2d3M2pUTUkw?oc=5",
+      "description": "山口 AIで仕事が変わる？ 最新技術が下関に集結&nbsp;&nbsp;NHKニュース",
+      "source": "NHKニュース",
+      "publishedAt": "2026-11-19T08:54:33.000Z"
+    },
+    {
+      "title": "クラウドネイティブ、AIセキュリティ企業のAurascapeと販売代理店契約を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YbjRSdFhta29MUmMyWEhwZklOOGl1eVJZLWkyLVNrVGljWm5ZUVp6Vzl4Um1aeG5BQmp5R2FEVkdfVUlPcm1kM1JpQ3AtbzQ1anphNnE4Yl9qZndmektYNEEwcFI1SExSaGc?oc=5",
+      "description": "クラウドネイティブ、AIセキュリティ企業のAurascapeと販売代理店契約を締結&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-19T05:30:02.000Z"
+    },
+    {
+      "title": "『なぜ企業の生成AI利用は「個人利用」で終わるのか？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SlMyWXNxLWxXeWd1N2hkTV92R2pGNW03eDR5Mzc1SmhRUEg3Uk10Tk5DcWhQLWVqeDhPZnh4S1JqbkJ2RUI0LVZMMFliSTRRblVXWlg4ZHBEU3c0bjduckpuV1VEcDc1VEE?oc=5",
+      "description": "『なぜ企業の生成AI利用は「個人利用」で終わるのか？』というテーマのウェビナーを開催&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-19T00:00:02.000Z"
+    },
+    {
       "title": "直販とFDEで「Devin」を伸ばす、Cognition日本法人の正井社長が語る普及策 - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZGdBOFNBMjFGSDVCZnpzUWtrWUg1N0FtaFpaUkE3QlF6TE9icGpHbk1sQ1Jzc0gwRDZndVVFQzFVb1J6dEYtaS1lYzJrZGJ3SmQzZGJocmYybHZGa2NWM1Z2X0NkVk5sek5ibg?oc=5",
       "description": "直販とFDEで「Devin」を伸ばす、Cognition日本法人の正井社長が語る普及策&nbsp;&nbsp;日経クロステック",
@@ -23,20 +58,6 @@
       "publishedAt": "2026-09-09T07:00:00.000Z"
     },
     {
-      "title": "日経クロステックNEXT 東京 2026「フィジカルAIからランサム対策まで、テーマで巡る日経クロステックNEXT東京」 - 日経BPイベント＆セミナー",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtbFZ2b3JwUDlNLXhqVms5V3ZsTU1qUFJ1dGVRRHd6ZGlIdllvUjVsYUFYdFpXVzFTMHBfUU9walhDVmt2aklnREI2V2haOHBQV1lTMFkwV0xGWFRXNzBxeVA2dnQ5X05N?oc=5",
-      "description": "日経クロステックNEXT 東京 2026「フィジカルAIからランサム対策まで、テーマで巡る日経クロステックNEXT東京���&nbsp;&nbsp;日経BPイベント＆セミナー",
-      "source": "日経BPイベント＆セミナー",
-      "publishedAt": "2026-09-08T07:00:00.000Z"
-    },
-    {
-      "title": "AIの画像認識精度を2割向上 早稲田大学が新技術、自動運転向け - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVUh6SE1jQ1ZVUXJ4NWpsMkZSTzluRVk0ajVOM1Q2cFV3cVVZSW8tVmt2WUpSRjJLQnVEOV9lT1JfTm9oaVNwcGVVVmYtU2pTV2dObUlaT0Q1SWtQVEhnakRobk1OT1EyWmhGRQ?oc=5",
-      "description": "AIの画像認識精度を2割向上 早稲田大学が新技術、自動運転向け&nbsp;&nbsp;日本経済新聞",
-      "source": "日本経済新聞",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
-    },
-    {
       "title": "GPUサーバーオンプレミス導入で加速するクリエイティブ×機械学習の創作支援機能研究｜ペイントアプリ「CLIP STUDIO PAINT」を手がけるセルシスの挑戦 - NTTPCコミュニケーションズ",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fNlppSldGckdIWW5vS19wVlI2QXlmQlc2SlE4Qmw1c3dOR2J6NVE5QkFLN0dYdzdyZ0Y0VHRlQU5FUzBOOTJNWmRQek12eTJUaTViczc3dk1zaG1MQkVKb0dxQzE?oc=5",
       "description": "GPUサーバーオンプレミス導入で加速するクリエイティブ×機械学習の創作支援機能研究｜ペイントアプリ「CLIP STUDIO PAINT」を手がけるセルシスの挑戦&nbsp;&nbsp;NTTPCコミュニケーションズ",
@@ -49,27 +70,6 @@
       "description": "異常検知システムおすすめ比較5選！手法や機械学習モデル・導入メリット&nbsp;&nbsp;BOXIL（ボクシル）",
       "source": "BOXIL（ボクシル）",
       "publishedAt": "2026-01-20T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Jam で機械学習キャリアを変革しましょう - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkRrQ1pULVZmd3p4d3hsUFlySmtWVXNGSXhPdTROQzZaOE1rZHNNNmR2M3B6VlQ1TXloNHQ0Ym4tZE1nSjk3TFJabW5rNnRKcnpfSkdwQkVGWEdhY3VCa0lxakhEUHFXc1VXNlBMRkFtSURmdTZRenlHdGhDakE1S2VwLVNDekNvUHFxemh5dHdjNGF2RFhR?oc=5",
-      "description": "AWS Jam で機械学習キャリアを変革しましょう&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon Web Services (AWS)",
-      "publishedAt": "2025-08-27T07:00:00.000Z"
-    },
-    {
-      "title": "データサイエンスと機械学習の違いとは - IBM",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BZy12TTBfZy1TSDlJSnNWWWRTbFBobUl4bHR4N3phUnZHUGphQS03V1hwTWlDd3dVMUNnVWdicGZzUC1oeDBmSUNuNDRLbFRuVVNUNWVtbnNWdHIwWEcyRVNlMlExZmx5RmI5SzJ0OHFCb19xZ0tWQmlxNA?oc=5",
-      "description": "データサイエンスと機械学習の違いとは&nbsp;&nbsp;IBM",
-      "source": "IBM",
-      "publishedAt": "2025-03-05T11:37:53.000Z"
-    },
-    {
-      "title": "新たなシミュレーション技術 「サロゲートモデル」 を一から学ぶ ― 科学・社会シミュレーションで活用広がる - 東京エレクトロン株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxZWZCWDRXZVpySE1rcEJqemtJTE9QS0R3MzM0VVNUeEZ3LVNKZG80M09pVGQxTk4xc2FKQlBBU1NMc0RVandSYkd1WVlyRXhSTGJpTm5GNlFqOXp1YXBnaEJOb3hrQQ?oc=5",
-      "description": "新たなシミュレーション技術 「サロゲートモデル」 を一から学ぶ ― 科学・社会シミュレーションで活用広がる&nbsp;&nbsp;東京エレクトロン株式会社",
-      "source": "東京エレクトロン株式会社",
-      "publishedAt": "2025-03-01T08:00:00.000Z"
     }
   ]
 }
