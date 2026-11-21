@@ -2,11 +2,25 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "Cloudflare、請求書とレシートを読むAI「Clairic」の重みを公開 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3pMRVBMMmFHTDYxT0tEVWdOd2I2VmhqOFZ1dW0xNXJ5U1RFV0hlZHVkSm00N3NFRmRYWjYxZzdfcUJCRDMyYS10Rl8wcEQ5YTFreGtxV1NPX01Oclc3emxYWnh6dzRFVE1JcEM4aEs2LUFoTFNYMVNLNExjWERxOQ?oc=5",
-      "description": "Cloudflare、請求書とレシートを読むAI「Clairic」の重みを公開&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
-      "publishedAt": "2026-11-19T17:22:15.000Z"
+      "title": "CrowdStrike、Zscaler買収協議か サイバー防衛業界で大型再編 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGJ1Z0NrRjRENjhsSU4xcFBucjJCX3dfRTRvcmIycU8xZmw5QkxzbkQ2RHZkQjByUWV3TE1Sbk5uRWZHYkc0aE9HWHVSMjdleGMzLWNCNm41cVhJZmczdEdIcHZJcHVvb21GTTJXYkFrb1Jvc3pJRnBQQjF3TmVfN0NQQXh0RWx3VHo0U1FlZDNVbzlhWlEtYWVNeHp1S0ZSdXg4eGVfcWM2cGVoQW9UYVBZcVl5dw?oc=5",
+      "description": "CrowdStrike、Zscaler買収協議か サイバー防衛業界で大型再編&nbsp;&nbsp;디지털투데이",
+      "source": "디지털투데이",
+      "publishedAt": "2026-11-20T21:55:06.000Z"
+    },
+    {
+      "title": "大規模障害から2年、カーネル依存を減らすWindows新基盤 CrowdStrikeら8社はいつ対応？ - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9md21rUXVZM0dKRWM4bjhzTUNrWC1XUUlhSUNhUHQ2SGVsWlUtakNIdjF0RG5tNlY2LVFv?oc=5",
+      "description": "大規模障害から2年、カーネル依存を減らすWindows新基盤 CrowdStrikeら8社はいつ対応？&nbsp;&nbsp;Howl.Link",
+      "source": "Howl.Link",
+      "publishedAt": "2026-11-19T22:00:00.000Z"
+    },
+    {
+      "title": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド - CTC - 伊藤忠テクノソリューションズ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2ZpN1BPLU14Sl9ibUdmTFY4dTdwTzJQQ0NWZHRycHkwbjBZdHVNOHdCLV92X0hXM1pqQW5YSTN1cl9BaUFEdDhoeVZsbzNYcHNuZUxJZl9LeG1tMlBlOERWNE9JOXJ1ekF3ZDB1MXM4eGtzY0xoS2MtRnBrRkhXNl9n?oc=5",
+      "description": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
+      "source": "CTC - 伊藤忠テクノソリューションズ",
+      "publishedAt": "2026-11-19T18:28:50.000Z"
     },
     {
       "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた - GIGAZINE",
@@ -23,32 +37,25 @@
       "publishedAt": "2026-11-18T11:00:00.000Z"
     },
     {
-      "title": "Okta、AIエージェントに「従業員ID」を付与…権限・セッションを5分単位で統制し韓国金融業界を攻略 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rWmxMeU1icFE3WUM2ampUbXVPT0h2RjNES3dvWjBYYU1kQ182a2NnLTVuTHpOTUJCY1diQ0VKSFJUUFd6eUk0MWdMZFZSbHhJcG1LODVrSmZrRkpWOEotdXYzckJyLXE2bWNlNWlYTl9xSV9f?oc=5",
-      "description": "Okta、AIエージェントに「従業員ID」を付与…権限・セッションを5分単位で統制し韓国金融業界を攻略&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-18T07:55:00.000Z"
-    },
-    {
-      "title": "Bitwise、AIサイバー防衛特化のETF「ZDAY」をNYSE上場 - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWVSM2lqWW5qbU1KQkhwcktUamNXSVFlUTR6Ui1HNk9NZ1UzN1FJUkEwbmZsbE5pYkppbk1JV0M3aGNaMG51OGR0UW5wZFBNUnNWc3FvTmFPWkpuQ2w4c0FHM3V6bm5EWllmc2JLTnozaWR6S2EySEpjbkF1N0JJYjJmSjczMHlLZGRxMHFhd0NadTUtaFlPendnakRCX1RJV2tHankzak9SYmVKdk12cGxtNDVwUVZ2Z3ZLZg?oc=5",
-      "description": "Bitwise、AIサイバー防衛特化のETF「ZDAY」をNYSE上場&nbsp;&nbsp;디지털투���이",
-      "source": "디지털투데이",
-      "publishedAt": "2026-11-18T00:49:29.000Z"
-    },
-    {
-      "title": "米NSAの機密メッセージング網がダウン、米国は技術障害が相次ぐ1週間に対応に追われる - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EMGpuODFIMlBnbXhhTW9GYm9Xa012NWE2ZVQyTEdBU3pLbWJTcEdmcGdJS2dNMkpCamY5TlA3Y1JrYlBQeGJUbmtlNU45RWd4aEtMVVNhem1Pa2Y4b1NoQU1VVE9RSUVnaDJBaFN0UkNMNTZF?oc=5",
-      "description": "米NSAの機密メッセージング網がダウン、米国は技術障害が相次ぐ1週間に対応に追われる&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-17T18:35:00.000Z"
-    },
-    {
       "title": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表 - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjJ1czQ3NmtTd0ZJbXhlT0hYLWh1QVlxckd2Wkw1Zld6S1Uyd2p6X2dvb0poVGpkMHR2ZDBrR3h5WkhFeFQ4MXAtT3h1dE9DWmxwTW1QOUt3Z0pMWkFoVnctQ2xZWGZxZEF5dUc3dGR1aTdmSTFySEM0UUs1TVBxdA?oc=5",
       "description": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
       "source": "Unite.AI",
       "publishedAt": "2026-11-17T13:30:00.000Z"
+    },
+    {
+      "title": "CrowdStrikeの競合製品：主要な代替製品を比較 - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHaUZfUkRudmp2VmZ4THlXeDk0X2ZQQ2tXd2dRTldkRDA5RGxiSURFWTVTZV9nY2tKZnhaVlctRWtmZ0dkaEczZ3ZlQ2tlTFZTakljcmNBdURLalJPZVVadXhrU0pRaUdzc2xsaDVpTEFWRXBjTy1SX21pRQ?oc=5",
+      "description": "CrowdStrikeの競合製品：主要な代替製品を比較&nbsp;&nbsp;eSecurity Planet",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-11-17T08:00:00.000Z"
+    },
+    {
+      "title": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起 - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MeXQ4ek1mdXkyTmRtTlhpTkI0Y19FejRBdHhWRU16ZWI5TWFzR0sxbXVadjJSQUtHeVlSVkY2b3VkSWtsRmoxY1o2XzlROXZWWXFrOVJRTF9MbVBHbXVZX3BHSQ?oc=5",
+      "description": "Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起&nbsp;&nbsp;gihyo.jp",
+      "source": "gihyo.jp",
+      "publishedAt": "2026-11-16T03:38:18.000Z"
     },
     {
       "title": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -119,13 +126,6 @@
       "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-04-24T07:00:00.000Z"
-    },
-    {
-      "title": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始 - セーフィー株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zWWZJZndYdDVvXzFMT1A4QlNmbUZHUmxMMlplclozUUp5c04tV0twMFloNG1DUDZrdjFQSk1TLW5fYTQ4?oc=5",
-      "description": "クラウド型顔認証入退室サービス「Safie Entrance」、新製品の提供を開始&nbsp;&nbsp;セーフィー株式会社",
-      "source": "セーフィー株式会社",
-      "publishedAt": "2026-03-12T07:00:00.000Z"
     }
   ]
 }

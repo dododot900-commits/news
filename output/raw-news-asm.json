@@ -2,9 +2,23 @@
   "topic": "asm",
   "articles": [
     {
+      "title": "日立、OpenAIのサイバー防衛網に参画 脆弱性診断をAIで自動化へ - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZzhQd3lDMXJtT1pUaW5nckFVVXRqM1NqUGpCRWo0YVA1R2pPTU1GZDJ1bkxnZTBBODZrNkdFM0xLT3ZmV1BBWE02bmxkNm1BY1RqSGxFTHNtdTFMNWVQT2NodXotOU9QUXVBQjBrUXJsUGlQ?oc=5",
+      "description": "日立、OpenAIのサイバー防衛網に参画 脆弱性診断をAIで自動化へ&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-20T10:05:00.000Z"
+    },
+    {
+      "title": "ハーモニープラスが提供する大学向け脆弱性診断サービスで安全なシステム運用を実現 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UHROOHhiWlFvaUV2NG8za1NpTE9CQTZjdk1QamZNSmU3X3VjeEFYM21nUzRTbGNOaWlOeW5NUGdpbVpmNExiTFFaNzctcUJTWU1BWVZvZVdkN2xseEdxQ0ozQWRiNkFFZE9yVE9zRXNnVVpsTVd6UG9ScDlXQQ?oc=5",
+      "description": "ハーモニープラスが提供する大学向け脆弱性診断サービスで安全なシステム運用を実現&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-11-20T08:44:58.000Z"
+    },
+    {
       "title": "『情報漏えい対策とSCS評価制度対応、まずは脆弱性管理から』というテーマのウェビナーを開催 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3TVZ4LXpNaXI3ZTNHQnhhbXZoSEtxbWtweUxISXdGMEZubXhKZHRCSS1fcmZ6bDJXWkhpWkJ2OVpvaWlLZ2RNdjY1UDQ5VzUxaFRpWG45WUhQSzByZlBUcTJCeUtxY2k1SGUzQm84c3NNUm5GWHYycQ?oc=5",
-      "description": "『情報漏えい対策とSCS評価制度対応、まずは脆弱性管理から』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
+      "description": "『情報漏えい対策とSCS評価制度対応、まずは脆弱性管理から』というテーマのウ��ビナーを開催&nbsp;&nbsp;ニコニコニュース",
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-20T02:00:30.000Z"
     },
@@ -23,13 +37,6 @@
       "publishedAt": "2026-11-20T00:39:47.000Z"
     },
     {
-      "title": "ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ、子会社がウェブサイト脆弱性診断サービスを１２月開始へ - https://kabu-ir.com/",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2czJZNlljNmZldW9TaC1nSkF2Z2Zsdk9BdHJKMG00dW1lajF3OVJ0WFNlVTJrUHIzS1libjVKWlVXem1jOTd2eWw5QzAycG41ZElyOA?oc=5",
-      "description": "ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ、子会社がウェブサイト脆弱性診断サービスを１２月開始へ&nbsp;&nbsp;https://kabu-ir.com/",
-      "source": "https://kabu-ir.com/",
-      "publishedAt": "2026-11-19T22:28:18.000Z"
-    },
-    {
       "title": "nginxに重大な脆弱性 エックスサーバーは6サービスで対策完了、利用者の作業は不要 - CNET Japan",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40YW84Nk0wemVfeVJoQ2V5U3czQlE1Nm1zeURIeW9rR0xwYTgtbUNzeDVSWjZkUE5YdVNscHN4bWtGbnJib0M4WXBvWlJYQzZvTEE?oc=5",
       "description": "nginxに重大な脆弱性 エックスサーバーは6サービスで対策完了、利用者の作業は不要&nbsp;&nbsp;CNET Japan",
@@ -37,11 +44,18 @@
       "publishedAt": "2026-11-19T22:25:00.000Z"
     },
     {
-      "title": "ミカド 「SaaS版 SITE RADAR ZAP」を提供開始 中小企業のWebサイト脆弱性点検を支援するパッシブ診断サービス - ニュープリネット",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPbS1ET19TNWdzemZ3UGJmdU42N3R0QlFDOTZsNlNUUlFhT2M4RTB1d0tSSE5qUWVhZGhPY0tXak1ldG9nX1czeUpub2NCd2JyTWhZaDNxVXlKSzdWYThFd3JKRUpMamJVYjhBRW1IOEh2Slpxa01mSEc2bC1ENmZ3ZmEtVWpUaTlKWmlTWHhHRk1rbVdPWVZiMkNnVnc2ZHZDd0dzaldvdmpjVUt3V2VsdXFFdzRha21aZjQ3THVYUzd1ZC0wbmJnS0ZQNmRaYVYwY1oyQ2E3bl9hV1hjTXNWSldYRXE2MXdyRmlsemdhMGhiS2pjNG1FSWloYzV6QUM2aXpId1RYNU9CLThad2JfWWRteWFvenRydFhTWXVzd1g4YmNMX2x0LWgtTURMbGZhbkFaUE1oMU5ldmlKdEh0QmlUWQ?oc=5",
-      "description": "ミカド 「SaaS版 SITE RADAR ZAP」を提供開始 中小企業のWebサイト脆弱性点検を支援するパッシブ診断サービス&nbsp;&nbsp;ニュープリネット",
-      "source": "ニュープリネット",
-      "publishedAt": "2026-11-19T19:02:07.000Z"
+      "title": "PHPに再度「致命的」な脆弱性、日本時間19日夜に修正版 先月分は悪用確認も - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MTdURHIwWlF6WnM5MjBOQVlKa0h0UDJkYkR6NWNtSXFrams4UDF5b0dYbWplLWY0WENjNHFlZjZBTW5jNHgzLWJFdTZtNVRCNUtZ?oc=5",
+      "description": "PHPに再度「致命的」な脆弱性、日本時間19日夜に修正版 先月分は悪用確認も&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-11-19T02:31:00.000Z"
+    },
+    {
+      "title": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JaFVYU2Eta3hGNzFIYTZUZUgxUlZxdFJ4VlR3cDdyeU1hQ0dFV1BUdDRUd0RfUE04Nzd3SXl0aUVnM2ZHUUV2WHFWcHprazVWdU9mYjdQbEZfQmFnV0NsdjI5b0Z3dEFPN0E?oc=5",
+      "description": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-17T01:40:01.000Z"
     },
     {
       "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - PR TIMES",
@@ -67,7 +81,7 @@
     {
       "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYV1dkLWowbDhOdnA0ZFJZQmozVTdqS1JzeG1HYnIwR1ZMc2JnY2Z6b1l1YkR5UE0wbWxzTGV5aXhVU29lTS1meDAwTUZUcWVNMkNieXF3NFZZVjNmeFI1Z2hUVExtaHAxYmc?oc=5",
-      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公���システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
+      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
@@ -81,7 +95,7 @@
     {
       "title": "スリーシェイクのSecurifyが「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11期連続受賞 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zYjlGRjZmdnZpMHRvQ1l2eTFMOXZiOExvS2lwTC1DQm1mSUZFWTlpZzRGMFduUDRNYnA3NDlPcExDYlRfeXNsdEZfcnI5M3NTRGZodDhZbUZJTzh1R294MDRDbldDNnBsZVNTcw?oc=5",
-      "description": "スリーシェイクのSecurifyが「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11��連続受賞&nbsp;&nbsp;ニュースメディアVOIX",
+      "description": "スリーシェイクのSecurifyが「ITreview Grid Award 2026 Fall」で脆弱性診断部門のLeaderを11期連続受賞&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
@@ -91,20 +105,6 @@
       "description": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-09-29T07:00:00.000Z"
-    },
-    {
-      "title": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNlF5QTQ3YmZpdEEyVUUwbFp4LWcyaHRhZUo4Vk9WeWZhZ2JROVMta0RsQmhUbmdwOWtxb0xhRHdySlBKMFZJWmg0SzB0M25xUDFJOHlKWVEydFBnZkVZdTFzUXowaktTemJr?oc=5",
-      "description": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参��&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-07-31T07:00:00.000Z"
-    },
-    {
-      "title": "KELA、AIを活用したCTEMプラットフォーム製品群を日本市場で発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tMU1vY0dSdlpLbmlaWXJGclNLWDAxb2Q3cFVQYnBKcVNLT1NMUUJYOEg3UG9VMXFGT0o4UG92Ni1wSjVOb0Q0?oc=5",
-      "description": "KELA、AIを活用したCTEMプラットフォーム製品群を日本市場で発表&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-07-29T07:00:00.000Z"
     }
   ]
 }
