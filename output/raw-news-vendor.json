@@ -2,11 +2,11 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開 - gihyo.jp",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVi03WHBaZXNLWmx4ZTJGUDd6NXpJYkNUYkJxbDJFYWFvRDMzdHRJeXlqRmdiUGhUNjFnalhtS0h2cmlUYkZBc21TdEl3RW0zNTI1a2g0ZVFsejNYdDI0c0ViMHJtMm1OVGdXNUxUQUo?oc=5",
-      "description": "Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開&nbsp;&nbsp;gihyo.jp",
-      "source": "gihyo.jp",
-      "publishedAt": "2026-11-21T07:57:36.000Z"
+      "title": "GPGMEに重大な脆弱性 CVE-2026-129975、悪意あるOpenPGP鍵で発動 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdy14Zml6N3dySUhDUjlOSTlBQnhxRGZtdmJlTnpTVm9YdHNpdFRWaTdSQ3VIMGtOQkZqYlVvdzd2UzM1MVNlWThtZHc2VnJpX1dMaUlac3lYcUtnWnZVYkFqeG4tdUlEZjBiTE9GTmZIcjFERi1WRVBwX3FRZmY0cjFLTkxNRENoSk9mX0p4Qk9Cb1hXaVE?oc=5",
+      "description": "GPGMEに重大な脆弱性 CVE-2026-129975、悪意あるOpenPGP鍵で発動&nbsp;&nbsp;Pasquale Pillitteri",
+      "source": "Pasquale Pillitteri",
+      "publishedAt": "2026-11-22T14:25:41.000Z"
     },
     {
       "title": "phpAfterShell、Cloudflare WAFで防御も PHPの更新が必須 - Meteora Web",
@@ -30,6 +30,13 @@
       "publishedAt": "2026-11-20T21:55:06.000Z"
     },
     {
+      "title": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド - CTC - 伊藤忠テクノソリューションズ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2ZpN1BPLU14Sl9ibUdmTFY4dTdwTzJQQ0NWZHRycHkwbjBZdHVNOHdCLV92X0hXM1pqQW5YSTN1cl9BaUFEdDhoeVZsbzNYcHNuZUxJZl9LeG1tMlBlOERWNE9JOXJ1ekF3ZDB1MXM4eGtzY0xoS2MtRnBrRkhXNl9n?oc=5",
+      "description": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
+      "source": "CTC - 伊藤忠テクノソリューションズ",
+      "publishedAt": "2026-11-19T18:28:50.000Z"
+    },
+    {
       "title": "オープンソースAI攻撃ツール拡散、サイバー犯罪の収益構造揺るがす - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1g1NVZTaTE3OGI5akRnUnN4SjU2a1QtZTlmWnRyUTFoaXdsalhvdHhqWlBRaFFwRnoxZzR3eGZxaHZiNl8xRmpiV2FpdVNkRWFDUDhrWU9TeEVxS18zR2JSSi03MHRER1o0eGs5Y003TkNfeVVzdE54ejh2cEF2dFd0Ty1sNDJ2LUI3LWdyVUVUUHJrU09QWldsZDNfcTlwQjkyTFRSVVo2Ty1SY25iTEpR?oc=5",
       "description": "オープンソースAI攻撃ツール拡散、サイバー犯罪の収益構造揺るがす&nbsp;&nbsp;디지털투데이",
@@ -37,17 +44,24 @@
       "publishedAt": "2026-11-19T07:00:41.000Z"
     },
     {
+      "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnSWNIdE5fQ2s0ZTduVjJCdmVZVFFtTFplcVVNd3ZCc2lYUTRyQml6WFF5Y3JJRURSci1wcGpEcS1TV2ZhUjQwMnRSTWFKZXZmWDFVOFZMdnR5Njljd2xheDJ5VmxoNEY5cnpBc083cw?oc=5",
+      "description": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-18T15:45:00.000Z"
+    },
+    {
       "title": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表 - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjJ1czQ3NmtTd0ZJbXhlT0hYLWh1QVlxckd2Wkw1Zld6S1Uyd2p6X2dvb0poVGpkMHR2ZDBrR3h5WkhFeFQ4MXAtT3h1dE9DWmxwTW1QOUt3Z0pMWkFoVnctQ2xZWGZxZEF5dUc3dGR1aTdmSTFySEM0UUs1TVBxdA?oc=5",
-      "description": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
+      "description": "Cato Networks、AIエージェントによる有害な操���を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
       "source": "Unite.AI",
       "publishedAt": "2026-11-17T13:30:00.000Z"
     },
     {
-      "title": "ARTEX、1465台のコンソールが露出と判明、155台でCobalt Strikeも稼働 - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0Jkc01DYXJkT25oZkc2WXVNYVlLV0poaU84ZnJPdWZtWFBoeFg3OGl6UXdtSjQ2NXJ2RnBhbnNCZmktUU5kNFdteFY1eEw4eVFvRVJEaGctbU5xRmpVMERGdS1ycWdCTG1QaXp2dzdkSjFGanhaTVFYOTlsQkFHWjR6MmVUb29neTJkdzc1bUh5WXZFSGs0?oc=5",
-      "description": "ARTEX、1465台のコンソールが露出と判明、155台でCobalt Strikeも稼働&nbsp;&nbsp;Pasquale Pillitteri",
-      "source": "Pasquale Pillitteri",
+      "title": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixは���う超えるのか - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uYU5xTFBZUHEyZmktZWpnanlIdXFjSmZnb1UzbEZvdkt1YnV4VW01RlNMaUxhby1aVkdQY2ZSNThXcE56Uk1GRXlwRXNON0NMaTUyeGJwRXkzMWlfWjByUVlMX0ZiSEVHTlh2TGhSTm9Fc19G?oc=5",
+      "description": "AIの攻撃はAIで守る、AI SOC実現へ 規制業種を縛る「3つの壁」をTrellixはどう超えるのか&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
       "publishedAt": "2026-11-13T08:00:00.000Z"
     },
     {
@@ -112,20 +126,6 @@
       "description": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」&nbsp;&nbsp;www.trendmicro.com",
       "source": "www.trendmicro.com",
       "publishedAt": "2026-06-10T07:00:00.000Z"
-    },
-    {
-      "title": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOHgxX1YwUzhTNHotWTdSOWxzQnNYOU8xQ3B4djU2aE4tczA2ME9wSHBJUEJqMGNxcDZQbFFReFhkREdmTlpscHhDeUEwWVpVVTFIY3ZR?oc=5",
-      "description": "LevelBlueと合併のサイバーリーズン、総合セキュリティベンダーへの転換を強調──日本上陸10年&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-04-24T07:00:00.000Z"
-    },
-    {
-      "title": "Tenable One が提案する “エクスポージャー管理” という大人な価値観 ～ カントリーマネージャー貴島直也氏に聞く - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XRXBDdnNkX3FsVmVya1lMZnI5OW1haHNVMFBqR0UwZS1iRTM3ZFRFX2hkUmxuRkNPVnU4Nk9YYWZCUUZadFJLZnB3eEpNUlY0Zk41NTFjSi01MUlVLXF2YzFvVHhkYjk2U2lQNA?oc=5",
-      "description": "Tenable One が提案する “エクスポージャー管理” という大人な価値観 ～ ���ントリーマネージャー貴島直也氏に聞く&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-04-13T07:00:00.000Z"
     }
   ]
 }
