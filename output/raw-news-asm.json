@@ -2,11 +2,39 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "『情報漏えい対策とSCS評価制度対応、まずは脆弱性管理から』というテーマのウェビナーを開催 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HRms2M0E5eFdPRVV4MGZuemJXQWx2cm1GYTJFWk01bFVvS181Ykt3R2FFbGRSWjA2cUIzYzdodm5HcTdSQVd5OGdsX3ZzMW81a3FVdUZBWk54OUlHTEUyank1SWRURHNrTW5FVXlfQXFQQQ?oc=5",
-      "description": "『情報漏えい対策とSCS評価制度対応、まずは脆弱性管理から』というテーマのウェビナーを開催&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-20T12:10:02.000Z"
+      "title": "Microsoft Entra Connect Healthに脆弱性、管理者メール・テナント情報が不正取得 Microsoftが修正 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObjdzUUV0T29pa1A2MlpXN0ZMTVpQSDZ3UVh0LUVRTjZTWjV6aUNXRWR4cWpMUFIyT1JBSlJWNDVLckxCcnN3amlRdGhnWjE4WXhGRG05T0ZtcFF4anNtZUo5OEVtSElRblJWMnQtY3lzd25rQ2xFTnVDV3RtVXpabjVOQzFGekFHMXlUakxZMUpDOVE3ZktsdkxmTzFzZ0d6TE1mMWpBOA?oc=5",
+      "description": "Microsoft Entra Connect Healthに脆弱性、管理者メール・テナント情報が不正取得 Microsoftが修正&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-24T04:00:14.000Z"
+    },
+    {
+      "title": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yZDZpSlJpM0dNbThDM0x3VmxLRjdISEw5YTliQXV0TEl0RkZXak1GZ2R3RklGU1BncVF1QTdWRVFFNEVqcW05Y3I3V0lyZw?oc=5",
+      "description": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し&nbsp;&nbsp;アットプレス",
+      "source": "アットプレス",
+      "publishedAt": "2026-11-24T02:30:00.000Z"
+    },
+    {
+      "title": "iOSアプリ起因のバックエンド侵入を防ぐ「iOS A2B診断」を本日提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aN1cwSTVjSEgtSjhQZXdNcXNCVTBKV2FhZWpQUVhDVFZsRDZ3czlicE41MTR3em1CWHpXUmpGNEpYdFBES0RNNkFaekZGakpSNTNaQngxRjB4Y2ZfX0ZUcWU3MmFlcEprTmc?oc=5",
+      "description": "iOSアプリ起因のバックエンド侵入を防ぐ「iOS A2B診断」を本日提供開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-24T02:00:02.000Z"
+    },
+    {
+      "title": "Kinsta、WordPressサイトを脆弱性から守る新機能「脆弱性対策」を全プランに無料で導入 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tS0JQcHM0a3UyUW5Bd0pGMDRhcFVkWW5kNUdmZjJCc2g4Tzh3bDJQbFBlZnNTZU91eHBNN3ZmNUxjR1ZIbWhucVBYZVRtMzdDeV9GTzhkbDc0dGZ3dzdmOXd6RWRlbWw3dFE?oc=5",
+      "description": "Kinsta、WordPressサイトを脆弱性から守る新機能「脆弱性対策」を全プランに無料で導入&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-24T01:00:02.000Z"
+    },
+    {
+      "title": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMMm1HNE5EdnRmejFldHNIVHBHUWM0emh4cHlVREpNaWp4T0s1ZnpKdmM2VmNzMnZlWHdydVEtSk92c1NfMGlFVjBva01Bei15WV9pd1U0dEMtTDI1VU9jTEtCQ3lJSVd6?oc=5",
+      "description": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-11-24T00:44:36.000Z"
     },
     {
       "title": "日立、OpenAIのサイバー防衛網に参画 脆弱性診断をAIで自動化へ - BigGo ファイナンス",
@@ -23,32 +51,25 @@
       "publishedAt": "2026-11-20T01:49:36.000Z"
     },
     {
-      "title": "PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTXhKVFc1Y09Mc0Z5M1VJcEd0VWhsa3hyeTFFVnozTXEzNnBUMzdVUDVEUGNkajhYYmt5eDVxSTZfdzJhalQ4Sk9Ma1FDMFdLejQyQWl5S0V4NHEwaWFILXFsTUhuM3A2MVZLSkVRaWxXQ09qblFz0gF8QVVfeXFMT0hXOTR4N2FyRjQ5OHA0aFh6NFNRemxFa0FxZndQNk03Zy1KSE1TX1BGRm1DQlFZU0M1M28yTWp5b3V6Uk0ydTZTZlpmSmY2bWhRcHlBUjJoemN4M0RRRms0NExHR09DaFhwMkJ3TWplZUo4dkxuVDlDRGRGQg?oc=5",
-      "description": "PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-20T00:39:47.000Z"
+      "title": "PHPに再度「致命的」な脆弱性、日本時間19日夜に修正版 先月分は悪用確認も - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MTdURHIwWlF6WnM5MjBOQVlKa0h0UDJkYkR6NWNtSXFrams4UDF5b0dYbWplLWY0WENjNHFlZjZBTW5jNHgzLWJFdTZtNVRCNUtZ?oc=5",
+      "description": "PHPに再度「致命的」な脆弱性、日本時間19日夜に修正版 先月分は悪用確認も&nbsp;&nbsp;ビジネス+IT",
+      "source": "ビジネス+IT",
+      "publishedAt": "2026-11-19T02:31:00.000Z"
     },
     {
-      "title": "ユミルリンクのメール配信サービスに不正アクセス、延べ4,786万4,147件の配信先情報が漏えい - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05Njh4M0lEa3pCd052Njh5TVZzOHpKLXg1Vk9kZG81SVBZWUhzNkpMeHR6ZVIySGNvRDlrZVhvc28wcVVuRUJ6U2o4cGdEOFJZMk5pWW1QaXRNYmxadHJVcThSUzVEMWpmS2dRMg?oc=5",
-      "description": "ユミルリンクのメール配信サービスに不正アクセス、延べ4,786万4,147件の配信先情報が漏えい&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-11-19T23:05:28.000Z"
-    },
-    {
-      "title": "ミカド 「SaaS版 SITE RADAR ZAP」を提供開始 中小企業のWebサイト脆弱性点検を支援するパッシブ診断サービス - ニュープリネット",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPbS1ET19TNWdzemZ3UGJmdU42N3R0QlFDOTZsNlNUUlFhT2M4RTB1d0tSSE5qUWVhZGhPY0tXak1ldG9nX1czeUpub2NCd2JyTWhZaDNxVXlKSzdWYThFd3JKRUpMamJVYjhBRW1IOEh2Slpxa01mSEc2bC1ENmZ3ZmEtVWpUaTlKWmlTWHhHRk1rbVdPWVZiMkNnVnc2ZHZDd0dzaldvdmpjVUt3V2VsdXFFdzRha21aZjQ3THVYUzd1ZC0wbmJnS0ZQNmRaYVYwY1oyQ2E3bl9hV1hjTXNWSldYRXE2MXdyRmlsemdhMGhiS2pjNG1FSWloYzV6QUM2aXpId1RYNU9CLThad2JfWWRteWFvenRydFhTWXVzd1g4YmNMX2x0LWgtTURMbGZhbkFaUE1oMU5ldmlKdEh0QmlUWQ?oc=5",
-      "description": "ミカド 「SaaS版 SITE RADAR ZAP」を提供開始 中小企業のWebサイト脆弱性点検を支援するパッシブ診断サービス&nbsp;&nbsp;ニュープリネット",
-      "source": "ニュープリネット",
-      "publishedAt": "2026-11-19T19:02:07.000Z"
+      "title": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JaFVYU2Eta3hGNzFIYTZUZUgxUlZxdFJ4VlR3cDdyeU1hQ0dFV1BUdDRUd0RfUE04Nzd3SXl0aUVnM2ZHUUV2WHFWcHprazVWdU9mYjdQbEZfQmFnV0NsdjI5b0Z3dEFPN0E?oc=5",
+      "description": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-17T01:40:01.000Z"
     },
     {
       "title": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UbDIxeEQ2dDVONTFzUDloTGVibk1PakZpQ2g4U0YybkQweENoa041TUxuUWxGb0hKYkFQdDZfQURHYnc2bTI0c2hoVkRMbW0ySkFLajY4Q1gwVVdiZGF4WVZXblI4aWV6b3c?oc=5",
       "description": "統合セキュリティプラットフォーム「Securify」、Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;PR TIMES",
       "source": "PR TIMES",
-      "publishedAt": "2026-11-11T01:00:02.000Z"
+      "publishedAt": "2026-11-11T08:00:00.000Z"
     },
     {
       "title": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは - ビジネス+IT",
@@ -58,11 +79,11 @@
       "publishedAt": "2026-11-06T08:00:00.000Z"
     },
     {
-      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
-      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-10-27T07:00:00.000Z"
+      "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
+      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-10-30T07:00:00.000Z"
     },
     {
       "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
@@ -79,32 +100,11 @@
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
-      "title": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏 - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUVRvT3dKVDJUVXctbXhObE9zd3FfSlRSbXQ3M3BDSTBZbUlPN3ViTkhsaHZaRGhXRWpIdDEzOGdYZnczbU9jTFNvUDRISldrdnViRThwWVJsTVQ3OFlCWDBBLTlwck5KVEtnRQ?oc=5",
-      "description": "攻撃者と「対等な条件」に立つ ASM 運用 ～ 日本ハッカー協会 杉浦隆幸氏&nbsp;&nbsp;ScanNetSecurity",
-      "source": "ScanNetSecurity",
-      "publishedAt": "2026-10-15T07:00:00.000Z"
-    },
-    {
       "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOC1tVnVtbGE1NzJ6NWNPRlpOemx2U2ZRajhnSWJ0NGRHZ2VuTXpMdE1VVlJWOUFGenZneFI1bHJsTk96N0xPZUoydHpCYlNuUkl3OHpR?oc=5",
       "description": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に&nbsp;&nbsp;EnterpriseZine",
       "source": "EnterpriseZine",
       "publishedAt": "2026-09-29T07:00:00.000Z"
-    },
-    {
-      "title": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNlF5QTQ3YmZpdEEyVUUwbFp4LWcyaHRhZUo4Vk9WeWZhZ2JROVMta0RsQmhUbmdwOWtxb0xhRHdySlBKMFZJWmg0SzB0M25xUDFJOHlKWVEydFBnZkVZdTFzUXowaktTemJr?oc=5",
-      "description": "「プロテクティブDNS」ベンダーのInfoblox、外部攻撃対象領域管理（EASM）領域に参入&nbsp;&nbsp;INTERNET Watch",
-      "source": "INTERNET Watch",
-      "publishedAt": "2026-07-31T07:00:00.000Z"
-    },
-    {
-      "title": "KELA、AIを活用したCTEMプラットフォーム製品群を日本市場で発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tMU1vY0dSdlpLbmlaWXJGclNLWDAxb2Q3cFVQYnBKcVNLT1NMUUJYOEg3UG9VMXFGT0o4UG92Ni1wSjVOb0Q0?oc=5",
-      "description": "KELA、AIを活用したCTEMプラットフォーム製品群を日本市場で発表&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-07-29T07:00:00.000Z"
     }
   ]
 }
