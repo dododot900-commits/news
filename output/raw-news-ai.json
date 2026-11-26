@@ -2,53 +2,39 @@
   "topic": "ai",
   "articles": [
     {
-      "title": "求職者のAI利用、中小企業はどう対応？62.5%が対策を行っていないと回答 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rRUpXdFc0T0pCZlRsSGV6R1FfUzBOZElCcnRXc1JRWS1ubm5ZbEFXTzR0dzB4c2VUNXlTdVNsVzRkUEQxUmdxZWp1S00ySldHTFlfeTJnMHB3TXNnZEh2bmlORUpLLU9V?oc=5",
-      "description": "求職者のAI利用、中小企業はどう対応？62.5%が対策を行っていないと回答&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-25T01:00:21.000Z"
+      "title": "生成AIの課題、セキュリティとコストをどう解くか―「ハイブリッドAI」時代の企業PC選び - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZeEVvYXZvSzY0SUFMT1c0Q2otR0RYUDZpczIxUTBYS3ZQUEpGcWd2RVlBMmI5TEx2T2I3dnlWY1JoWFJFcnlnQ3plVkN1M05RbkwtT1U0NmNVd1hyaXpuM0cydXBfdzg?oc=5",
+      "description": "生成AIの課題、セキュリティとコストをどう解くか―「ハイブリッドAI」時代の企業PC選び&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-11-26T01:00:00.000Z"
     },
     {
-      "title": "OpenAI、米国の中小企業のAI導入を無料で支援するプログラムを開始 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcmMwc2pnQXI2T3NoZWN4V2hLVERTX2hOYmdqX0R5UVdIWmlGeWZDTEUtWjVnRHlHdGRlWGJMZ1Bsd1pUSFRRckkwZ09VYms4VmE4?oc=5",
-      "description": "OpenAI、米国の中小企業のAI導入を無料で支援するプログラムを開始&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
-      "publishedAt": "2026-11-25T00:58:00.000Z"
+      "title": "ラボオートメーション・自律実験室市場は2035年に193億1,000万米ドル規模へ、CAGR 13.0%を背��に加速するロボティクス・AI・自律型創薬研究の進化 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aZmozZzUwX1lOMDNDd3pEYlB3VWpTb2djQnY3TWgxU1VqU3BFckw0bjBISlRiNGFpWTRNWEY5ZlBmOFhuZGJjMGdqMHJaRmc?oc=5",
+      "description": "ラボオートメーション・自律実験室市場は2035年に193億1,000万米ドル規模へ、CAGR 13.0%を背景に加速するロボティクス・AI・自律型創薬研究の進化&nbsp;&nbsp;Newscast.jp",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-11-26T00:30:00.000Z"
     },
     {
-      "title": "生成AI導入企業44.0%へ倍増も個人利用が先行、文書作成に用途集中 公開調査6件の統合分析 - media-innovation.jp",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMFVQMHhtRExIVEtoMUJhUkVGc2tsZkhKTXJkS0daTDBLaWpaQUNRRW8yTHFxN0xrQl9uYWRiSHV0UzdoNGZMelpVcURpTlV6TXZ4eGM5YmxkQlE5eWdDRjB2T3ZMVUh6Snc?oc=5",
-      "description": "生成AI導入企業44.0%へ倍増も個人利用が先行、文書作成に用途集中 公開調査6件の統合分析&nbsp;&nbsp;media-innovation.jp",
-      "source": "media-innovation.jp",
-      "publishedAt": "2026-11-25T00:50:02.000Z"
+      "title": "Private AI、三菱UFJ銀行・ソフトバンク・東京海上ホールディングスを迎え「Private AI Executive Forum Tokyo 2026」を開催 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nLXlFMlpuazV3c21TYUZRS0VnamwyVVJtTjE1bDg5MGFqa2theGNlcC1ZTHUtNEdxZVNQSXktY1dzMmRiUHpiUDlXeGVfcE9Wby1mYXBSc2x6eHBmcDNOQk5uZzA5LUZSMFNqc1dLa3REdw?oc=5",
+      "description": "Private AI、三菱UFJ銀行・ソフトバンク・東京海上ホールディングスを迎え「Private AI Executive Forum Tokyo 2026」を開催&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-25T14:10:02.000Z"
     },
     {
-      "title": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結 - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQ2xpZlZQU0lOOVdzeVl2VHFEdVBwZnV5TUw5ak1SQjdFenEwbVF6eEZReENCQmVoQzNyRng4U1pYclR0Uld1RXQ1VQ?oc=5",
-      "description": "三菱UFJ銀行・三菱UFJインフォメーションテクノロジー・レッドハット・日本IBM、AI駆動型開発による金融システム変革に向けた戦略的パートナーシップを締結&nbsp;&nbsp;ThinkIT",
-      "source": "ThinkIT",
-      "publishedAt": "2026-11-23T13:11:21.000Z"
+      "title": "管理職に聞く生成AI導入による採用・人手不足に関する調査 - 株式会社ロイヤリティマーケティング",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aUnh4Z29JYXN2V0RfNmwxU3h6bmdRRjdKdGJHODZPenYwLS1jdzFXRFFPOXYxdkdvbEtTSG82QXlRYTJsQjJnOTZ4R2w2dw?oc=5",
+      "description": "管理職に聞く生成AI導入による採用・人手不足に関する調査&nbsp;&nbsp;株式会社ロイヤリティマーケティング",
+      "source": "株式会社ロイヤリティマーケティング",
+      "publishedAt": "2026-11-25T09:29:44.000Z"
     },
     {
-      "title": "パナもソニーもいない技術の祭典「CES」 AI時代、日本に漂う所在なさ - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DNmpmYXZGTmptV2xTVFVWZXVNVWFYZkRZRG5uSWJqeVM2Z0YtTzFBNDJUYkNBdkJjYU01TkxpaTEzUTl6OUctSTFIZmczaTRERHBmZ2RYVldmZk9aWXhTWTZR?oc=5",
-      "description": "パナもソニーもいない技術の祭典「CES」 AI時代、日本に漂う所在なさ&nbsp;&nbsp;日経ビジネス電子版",
-      "source": "日経ビジネス電子版",
-      "publishedAt": "2026-11-12T08:00:00.000Z"
-    },
-    {
-      "title": "人工知能 市場 |グローバルレポート2034 - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWkt4TnQ4YjBtRmNiM3dUSnRNb1ItRG5xMVJRVDZFMGFvR2ZYU0lLdkdaZFRseGQ4U2JLM0ZUN1pxck5ZcTBuY0ptdGJ6T3hsOHVBb2FDbjhCZmxLdmgwYU4tQjFzc1hPTExXMTNENU9OcU1kMkxUQ19hYjFlUldpclM4TVJyWmxtYjY2UEloRnoyU0g3ZTREWlktUlZwR0wzX05EWlM3SUJkXy1wNDdFZTBZRkZmZWJaRzlKVnpzN09kX18wNGY5T296VElqOVNOZXRkTG5lZEJKUVpZMnVLTGhZYjd5eG1OMXdGekxhWFpTUQ?oc=5",
-      "description": "人工知能 市場 |グローバルレポート2034&nbsp;&nbsp;Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "publishedAt": "2026-11-02T08:00:00.000Z"
-    },
-    {
-      "title": "生成AIの次に来る先端技術は？ 光電融合、人型ロボット、量子の可能性 - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wY1haYklwMjVLak93T0Z6X29UNUU1VVcxZGtDZmYwdWU2RnVGMkFvR1REY0Q0TXctSkJwRnpFQ2VTSzNvNWNsNVYxWXo0VExXNHZLcXJFVWllc0pjUnJsOXk4ckF3Tjg?oc=5",
-      "description": "生成AIの次に来る先端技術は？ 光電��合、人型ロボット、量子の可能性&nbsp;&nbsp;日経ビジネス電子版",
-      "source": "日経ビジネス電子版",
-      "publishedAt": "2026-10-27T07:00:00.000Z"
+      "title": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介 - SHIFT AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yTWdwd3BpWmY4a3A0NDhQLWZzRE0zc3dFU2hod2tYOFhsUER0T1ZrMnVCQi0yNjVVZVhzMTdJTUpyc2FLR0RMOQ?oc=5",
+      "description": "【2026年最新】日本の生成AI企業18社！大手からベンチャーまで紹介&nbsp;&nbsp;SHIFT AI",
+      "source": "SHIFT AI",
+      "publishedAt": "2026-09-09T07:00:00.000Z"
     },
     {
       "title": "機械学習で患者の状態変化を提示する血行動態モニタリングプラットフォーム：医療機器ニュース - MONOist",
@@ -56,6 +42,20 @@
       "description": "機械学習で患者の状態変化を提示する血行動態モニタリングプラットフォーム：医療機器ニュース&nbsp;&nbsp;MONOist",
       "source": "MONOist",
       "publishedAt": "2026-09-08T07:00:00.000Z"
+    },
+    {
+      "title": "日経クロステックNEXT 東京 2026「フィジカルAIからランサム対策まで、テーマで巡る日経クロステックNEXT東京」 - 日経BPイベント＆セミナー",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtbFZ2b3JwUDlNLXhqVms5V3ZsTU1qUFJ1dGVRRHd6ZGlIdllvUjVsYUFYdFpXVzFTMHBfUU9walhDVmt2aklnREI2V2haOHBQV1lTMFkwV0xGWFRXNzBxeVA2dnQ5X05N?oc=5",
+      "description": "日経クロステックNEXT 東京 2026「フィジカルAIからランサム対策まで、テーマで巡る日経クロステックNEXT東京」&nbsp;&nbsp;日経BPイベント＆セミナー",
+      "source": "日経BPイベント＆セミナー",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
+    },
+    {
+      "title": "AIの画像認識精度を2割向上 早稲田大学が新技術、自動運転向け - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVUh6SE1jQ1ZVUXJ4NWpsMkZSTzluRVk0ajVOM1Q2cFV3cVVZSW8tVmt2WUpSRjJLQnVEOV9lT1JfTm9oaVNwcGVVVmYtU2pTV2dObUlaT0Q1SWtQVEhnakRobk1OT1EyWmhGRQ?oc=5",
+      "description": "AIの画像認識精度を2割向上 早稲田大学が新技術、自動運転向け&nbsp;&nbsp;日本経済新聞",
+      "source": "日本経済新聞",
+      "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
       "title": "GPUサーバーオンプレミス導入で加速するクリエイティブ×機械学習の創作支援機能研究｜ペイントアプリ「CLIP STUDIO PAINT」を手がけるセルシスの挑戦 - NTTPCコミュニケーションズ",
@@ -67,7 +67,7 @@
     {
       "title": "サムライズ、高度な統計分析、 多くの機械学習アルゴリズムを備えた統計解析ソフトウェア 「IBM SPSS」のポータルサイトを3月12日にリニューアル - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zTF9Rc3JVUHp0VUpIZ01RcWZQcERTSzlGaC1GQU5kMlNKbHJXNXZUTklmNlEzRUVZMkZIcGltZTA4MUpXd3Mw?oc=5",
-      "description": "サムライズ、高度な統計分析、 多くの機械学習アルゴリズムを備えた統計解析ソフトウェア 「IBM SPSS」のポー��ルサイトを3月12日にリニューアル&nbsp;&nbsp;Newscast.jp",
+      "description": "サムライズ、高度な統計分析、 多くの機械学習アルゴリズムを備えた統計解析ソフトウェア 「IBM SPSS」のポ���タルサイトを3月12日にリニューアル&nbsp;&nbsp;Newscast.jp",
       "source": "Newscast.jp",
       "publishedAt": "2026-03-12T07:00:00.000Z"
     }

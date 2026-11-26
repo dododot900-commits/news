@@ -2,6 +2,41 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "ジョーシス、端末・サーバー・クラウドデータを守る新サービス「Josys バックアップ」を発表 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5YXItTGZvX28ycUlWV1oyWFFSUzBCQU03cjNLcEtXdG5qSXdoakgwTldmNklNRm9QYWdvT0xHUDdMd1FMWDdiTzZXVEtmamJKSmhtdDgxN0cyT2tpd29ocGhNcV9EMHZEZHlB?oc=5",
+      "description": "ジョーシス、端末・サーバー・クラウドデータを守る新サービス「Josys バックアップ」を発表&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-11-26T02:26:57.000Z"
+    },
+    {
+      "title": "ペンタセキュリティのクラウド型WAF・WAAP、韓国の「2026 Next Generation World Class Product of Korea」に選定 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYnlxc0MxVlA4M2V3UEZkOFQyV3lEX0hGQm9zc3dVeXJWX0pqcndPNVFnUFFPc0ptQVdCLVVCY1djUWsxamJmN3VpaXl6MFpLbnM2UXpta2hZaG0zNUg1c2ZQd29NTkEz?oc=5",
+      "description": "ペンタセキュリティのクラウド型WAF・WAAP、韓国の「2026 Next Generation World Class Product of Korea」に選定&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-26T02:15:29.000Z"
+    },
+    {
+      "title": "クラウドとAI需要を追い風に、電子機器アセンブリ市場は2030年までに4兆ドル超へ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GRFhqN0wwMzVYTC1PZnFqMVFJTXczTXk1MzNOMm5Pck9nbUZXWnBOdmg4X1pEUFFDY2ZXMUd2bWtqWjcyeTMwMzliUTdNQmo1d3VENHFydWttcUhlRlg0bHEtcFd2ZGlp?oc=5",
+      "description": "クラウドとAI需要を追い風に、電子機器アセンブリ市場は2030年までに4兆ドル超へ&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-25T12:45:35.000Z"
+    },
+    {
+      "title": "CTC、AI駆動開発向けに「C-Native」を拡充 - AIが生成したコードもルールで統制 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56MU0tNXcyQnQ5Wm5IeENkbWNBOGl4QTZGWi1qZThnbnlLRWZtTnNQV2swYTNSUVhvRlRUNGtBY3Z3eERaWlNUNzV3Z3B5ZU1vcHJMTGxrUVI3WnVPTEZSUmNmanp2bDlt?oc=5",
+      "description": "CTC、AI駆動開発向けに「C-Native」を拡充 - AIが生成したコードもルールで統制&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-11-25T11:24:24.000Z"
+    },
+    {
+      "title": "Google Cloud Partner Top Engineer 2027 アワード プログラム 受賞者発表 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2hSOVJSSl84WHktTFNHVl9laTJPSjFUT1hPUGxJWXprY3hCUkNXWEVZeHVRQ2tRVFFPREpjTVZzcTJJSHIwLWVVcW50VVdxWE5HdkZJN0dCRktFNnpQQ05SdDBCX0dES3h3ME8wMF9SenFZekRqekJBRjNRSGlvd054bGtCUE9RWlE0VFlicmZPU2VDQURNdFd4aGo2WXc4YWdZMGkyUDN4U00zOGd2cVdiZEZCTGEwcDFoYVVhR3NKZURmZ1M5Q2VBaw?oc=5",
+      "description": "Google Cloud Partner Top Engineer 2027 アワード プログラム 受賞者発表&nbsp;&nbsp;Google Cloud",
+      "source": "Google Cloud",
+      "publishedAt": "2026-11-24T23:28:20.000Z"
+    },
+    {
       "title": "Gemini でパートナー マーケティングをよりスマートに - Google Cloud",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEsyekxkZlBCZ2k0VHVQUi1YYzdvbW5Da0RTOE9PMi1pbVE2YjdoSDhrZmwtOVQtd05ST3hxMGVjTGRnWWhwLTZqOGpoWjlJblZyUHVTYi01ZHJfT3lsamEwOFJ2YkJUeXBTdm9TZ2lKeUtyYVo1ZHZSVFFXdWgyT2Ixel8wWXV2Y0lGbXozNm4xaXQ3WTd2RjVHTmRSbFBjSjZlNlR0YUE?oc=5",
       "description": "Gemini でパートナー マーケティングをよりスマートに&nbsp;&nbsp;Google Cloud",
@@ -9,67 +44,32 @@
       "publishedAt": "2026-11-24T04:26:55.000Z"
     },
     {
-      "title": "日本のサイバーセキュリティ強化と、 AI の導入や人材育成を加速する新たな取り組みを発表 | Google Cloud 公式ブログ - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGVydTltVC1zNWkyN1RWVG5rc1NERTQ1SmQxX2pUandRMUZTd0RMMnJzNU5ZWE95aU5kc2FxblE2Qm9qa1NUUVpoeXo4dDhKZGhpYzl6V1RGM1laYkJ2a25KbVFnMU04RU1ibGR5UUZYZHRtQVhzYzBOek1iY2k4b0Y4WVQtVllHSUNqOW9HalFQTGMxV1dHTXpiRDNCYzR4eFA0eG03UEtSYXhodm9ZaEljQQ?oc=5",
-      "description": "日本のサイバーセキュリティ強化と、 AI の導入や人材育成を加速する新たな取り組みを発表 | Google Cloud 公式ブログ&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-11-17T05:54:05.000Z"
+      "title": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報） - 株式会社SmartHR",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tU0NTVFY3cHp4S09YcXNUaDRzWWRXNG1YNUZVMmFqNTNHY1VyQS1rVUVCTjlxdWdNckw4NHgyWEVWVlp1M0tqOVhDMl9tMjBNaElB?oc=5",
+      "description": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報）&nbsp;&nbsp;株式会社SmartHR",
+      "source": "株式会社SmartHR",
+      "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
-      "title": "マイクロソフトの大規模障害、全面復旧と発表 「深くおわびします」（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VX3ZaMFVBV3V1N0J1V0R5YXV5Rm9qak9KZEh1T3E3emhtdm9tMExmdU1fY19Yd2lCWEZmcjN1TjZtbFNzM2RhOGtvbDVvX2s5SGNOU2diN2FhSE8zRG51MXN0R1BCaGZJTVB3aFBnT3B3LUVRQnh3V0pUaHlqWlk?oc=5",
-      "description": "マイクロソフトの大規模障害、全面復旧と発表 「深くおわびします」���朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
+      "title": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧 - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVhMMFgyNk9HOGl0dzdLNGFSeFpudEVEWThXbWJwaEZRVk5GYXozNTZwbFhEOFBmZ2RtbUlyaXZIM3lKMjZMU3RfYU92bWpYQmVzU0V6RFlGQVVTUk1VYmFZejdjaVZQLU5nUENWRkI5eVc1UThBay1NcngwVGh1MHBWckNSdUx0NWpyTHBpcw?oc=5",
+      "description": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧&nbsp;&nbsp;Oracle Blogs",
+      "source": "Oracle Blogs",
       "publishedAt": "2026-11-16T08:00:00.000Z"
     },
     {
-      "title": "TSMC、従業員データ流出にクラウドサービス事業者が関与と発表 - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkRCWjJsNmFMbkFFMndrdmplT0JoWFRxaXpfdkt2VXhPWV8wMl9Ia3Fwd0JMWmRnajRCX1g4VkJtSGlOTnYweWxRakRkM3JwbERyXzJRNUpkUnhXV1A2aUxPSkhGYjd3ZGlrTWo4Zzd1c0I5bVdOR0RJekM4czhsbjdiRkduNUhYeFBNdDBDS2lLOTdPZjlSUkJNdw?oc=5",
-      "description": "TSMC、従業員データ流出にクラウドサービス事業者が関与と発表&nbsp;&nbsp;Mezha.net",
-      "source": "Mezha.net",
-      "publishedAt": "2026-11-15T08:33:00.000Z"
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tX3dVU1JMMktFQUxqVGRWd0U5Um9TX2hiclMzYnZCT3JSZGZ5RUxobTJqZVp5VWxXVDRDb2gwcDVRTnlmZ0l6U1FTMHhuNzRqa095aC1VX3hqZnhXbE1YZmxiNzF6VDE1eFAteVln?oc=5",
+      "description": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-11-13T08:00:00.000Z"
     },
     {
-      "title": "Google の Agentic Data Cloud にエージェントを大規模に強化する新機能が登場 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWNkcGRtU3RVRmxaRHJUaWRPay0yODNvYi01THljTXIwMmVXbG01MG5Fc0FnS05zUmk4MGtBemxRYmtwSWNKcjBHQWZvdXFfNVhRNmVIYWNFTXc1VGlhSjB5MzhTYlVnYldGQU8yR2pPek93b2lWNDhnYXNnV3JUNFlNbmRzZFJlZldGckdXVWNFTUVlTnhaMkVrQQ?oc=5",
-      "description": "Google の Agentic Data Cloud にエージェントを大規模に強化する新機能が登場&nbsp;&nbsp;Google Cloud",
+      "title": "Google Cloud と NVIDIA が共同エンジニアリングのコラボレーションを拡大、エージェントの時代に向けてインフラストラクチャを拡張 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcF9JcmI2eFBnczR5RjA3b05ONTZWQ1NrU0V0OEk4TDNVMUpzemlFVFBndWJncHEwRS1TRnlyMVl2d3EyRUdnMEk3R0Y1OFJZakh6azc1Rmd5Rm43NUQ5djVJTnJiLVdHQzBfQlpiVHNwWjVhcE9JbktWZjlrNU51dUduTlk2WWNBVTdvLU5uTEFWaUZYcjdubV9JbHA2RTctc05YSmcyVHlEVE1lVDBnYg?oc=5",
+      "description": "Google Cloud と NVIDIA が共同エンジニアリングのコラボレーションを拡大、エージェントの時代に向けてインフラストラクチャを拡張&nbsp;&nbsp;Google Cloud",
       "source": "Google Cloud",
-      "publishedAt": "2026-11-13T04:33:29.000Z"
-    },
-    {
-      "title": "Oracle Cloud Infrastructure(OCI)/東京・大阪リージョン – 概要/価格/マニュアル/トライアル/事例 - Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbnJ2ZW5ZNldRSFROSFZpR0pxVlF1ektxN0daelQ0ZjlTck52cUxZaXU0QU82aWtad3FNM3p6VE80TElVTVowc29taHFrNk9Pdk9BajRwUTZoeHVlNnllS1g5aHM0eGc?oc=5",
-      "description": "Oracle Cloud Infrastructure(OCI)/東京・大阪リージョン – 概要/価格/マニュアル/トライアル/事例&nbsp;&nbsp;Oracle Blogs",
-      "source": "Oracle Blogs",
-      "publishedAt": "2026-11-12T08:00:00.000Z"
-    },
-    {
-      "title": "Google Cloud、医療分野向けGeminiを発表 - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamgxWUNlMHpJLXlGclJRXy1XeWdlWVRNWHRWYVYtLWtmSVdPNDEycF9vRXRBTDRGM25LZmVES1RISkRZb3RTZ2wtdXotTWUzMXJDcFRHQ3RweGFTU3hVV2djRTRsYmpRSW8xRXhtZVhvMHFGWFQ4YTd2QTcwVUF0bVlMSElnUGhQU3VwU1NaN0pHeTJqcXFoT3B2QW9wdC1KbU8wNA?oc=5",
-      "description": "Google Cloud、医療分野向けGeminiを発表&nbsp;&nbsp;Mezha.net",
-      "source": "Mezha.net",
-      "publishedAt": "2026-11-10T08:00:00.000Z"
-    },
-    {
-      "title": "Google Cloud で Claude の利用機会とデプロイの選択肢を拡大 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUxVWk8tV180eWM5VFJzTjk5TjlvS09INm1TNExuVFBGRG1mY3g4aTJ1bXRxYklVbUxjc2gyV1FiZExmNWQ1NVYzN3I2THpjQ2pTSzk5WWsxT2ZjZFNNem5RTWRvdFBQM0xudmhINlVBZW4tdnRlWnU4MEV1V0JYMG50d1V5Zk4zUF8tY3l1QktyYWk2RDU5c1BzZFY5eVliQWVUa29NVl90TlE?oc=5",
-      "description": "Google Cloud で Claude の利用機会とデプ��イの選択肢を拡大&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-10-29T07:00:00.000Z"
-    },
-    {
-      "title": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVpvODVQUVpaLTNDOXFiaDU4eV9ZcHYyaGZMOHJHRk0xcl9ZVm1XMW1LSEltaGtzUWgxblBiUzlEVTZJMWtHMWdYckw0VTRfYnlmbjYyR3NIWWJlbEhjd0dzVmFfSUU2ZnY3V3R2MVdOeWdSS3E3TEFqdG9qYldIWkZMaW4waGFXekNtR0lnbFk1WG9YZHhmUDdjNWc4U3hFeGJGaGVjWWhKUzZEWnZ4cDNCVmw4bTQ?oc=5",
-      "description": "地理空間コーディングを加速する Google Earth Engine の新機能「Ask」のご紹介&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "title": "Secure Source Manager の新機能で CI / CD パイプラインを強化 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVdpZGNXM3dtdEhLQlJrMTFySHd0LXNUcXNGdGc1MlJxODVUUk5CdTJoSTRfWURxZjJvU2lHV3lLVlpKYlZFUEd4TFplQ0N3YzROZHJsdnp2dDN3bWxGTC1xTnF1MU42cEI1Tm8wNzdtcjM2TGUxUVFjbUhTb3VrclJTUTR5emtCbGd6aWYzaGFIaW9lX1hOelctazRIbkJWSUZmZXE3YmN3MVV0THBNMlZMaXpIaFc5V3pIM0MxbzZwRnFnSVRmaEV5aXp5Zw?oc=5",
-      "description": "Secure Source Manager の新機能で CI / CD パイプラインを強化&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-10-01T07:00:00.000Z"
+      "publishedAt": "2026-11-13T08:00:00.000Z"
     }
   ]
 }

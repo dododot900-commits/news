@@ -2,6 +2,20 @@
   "topic": "vendor",
   "articles": [
     {
+      "title": "【導入事例公開】少人数情シスが挑んだゼロトラスト化。多店舗ネットワークのSASE移行成功事例（株式会社タカサ様） - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rclYwcngzZ1hvcUV5VDV4czE5SFZCUUpjSDFHZnhCX3JNcUNfMkVVbjB0czJmNU1xN2dKUUFhOF9oekQwM1Y0UmpOVldMOGVvSHBLRHF6RklQYWlqcngya21BN3JiUUJaNUE?oc=5",
+      "description": "【導入事例公開】少人数情シスが挑んだゼロトラスト化。多店舗ネットワークのSASE移行成功事例（株式会社タカサ様）&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-26T02:04:06.000Z"
+    },
+    {
+      "title": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZTU3Qlc3QUhLS0FXTnNjZzRLdWV3WHd0SC1vNFphOFhOVmIwZ3N0aFZnd29OZVQ3Z0VSeDJQTlJLdDBJTzk4WV91UlJPODRSczltM3dR?oc=5",
+      "description": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」&nbsp;&nbsp;GIGAZINE",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-25T14:00:00.000Z"
+    },
+    {
       "title": "Dynatraceとクラウドストライク、SIEMとオブザーバビリティの変革を目指し戦略的提携（クラウド Watch） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByMlJlejRNZHpVRURraUxzNFlCNThhU3o3cVVqSFA3dEhma3Q0T0pPNFRKeVp5TUhqSDc5bkd1MUNYZFc0YUtHMEZISG5ZekFRZlZuTjh0U01QeTc5MVludjVQOVpJWnVNLW1rZHFjUWtIQmRYZWhjVVB3V2piRkU?oc=5",
       "description": "Dynatraceとクラウドストライク、SIEMとオブザーバビリティの変革を目指し戦略的提携（クラウド Watch）&nbsp;&nbsp;Yahoo!ニュース",
@@ -23,13 +37,6 @@
       "publishedAt": "2026-11-24T12:20:25.000Z"
     },
     {
-      "title": "クラウドストライク、ゼットスケーラーを約7兆円で買収 サイバーセキュリティー史上最大 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uckNGYWQ0cWNLbDBPYU50Ui1ZejRfZHd3dTl2akFKZE1UZl9idHpjbkpfaFh1YzY4dXI0VlZfeGQ1YlpvazlzMWJnZ00zTUFZcXdjaGpDRmI4bXNIRGRLLWtjTWkxYnpIZW5hNmVsODFoQXNY?oc=5",
-      "description": "クラウドストライク、ゼットスケーラーを約7兆円で買収 サイバーセキュリティー史上最大&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-23T17:55:00.000Z"
-    },
-    {
       "title": "Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開 - gihyo.jp",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVi03WHBaZXNLWmx4ZTJGUDd6NXpJYkNUYkJxbDJFYWFvRDMzdHRJeXlqRmdiUGhUNjFnalhtS0h2cmlUYkZBc21TdEl3RW0zNTI1a2g0ZVFsejNYdDI0c0ViMHJtMm1OVGdXNUxUQUo?oc=5",
       "description": "Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開&nbsp;&nbsp;gihyo.jp",
@@ -44,20 +51,6 @@
       "publishedAt": "2026-11-21T06:17:05.000Z"
     },
     {
-      "title": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド - CTC - 伊藤忠テクノソリューションズ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2ZpN1BPLU14Sl9ibUdmTFY4dTdwTzJQQ0NWZHRycHkwbjBZdHVNOHdCLV92X0hXM1pqQW5YSTN1cl9BaUFEdDhoeVZsbzNYcHNuZUxJZl9LeG1tMlBlOERWNE9JOXJ1ekF3ZDB1MXM4eGtzY0xoS2MtRnBrRkhXNl9n?oc=5",
-      "description": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
-      "source": "CTC - 伊藤忠テクノソリューションズ",
-      "publishedAt": "2026-11-19T18:28:50.000Z"
-    },
-    {
-      "title": "CloudflareのTunnelとAI Searchが開発者から好評、サービス一部不具合も - X",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SVltdkRKYi0xcmQ2bjRYOFc4eEVmMHVRQTNHLXQ3elV4SVN0SGVSTlFmcWYzQ2RpdUFDcFlHdUd1X2RleW5zZ0tTWjlGTEZmVU96cnNQYw?oc=5",
-      "description": "CloudflareのTunnelとAI Searchが開発者から好評、サービス一部不���合も&nbsp;&nbsp;X",
-      "source": "X",
-      "publishedAt": "2026-11-18T15:53:19.000Z"
-    },
-    {
       "title": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表 - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjJ1czQ3NmtTd0ZJbXhlT0hYLWh1QVlxckd2Wkw1Zld6S1Uyd2p6X2dvb0poVGpkMHR2ZDBrR3h5WkhFeFQ4MXAtT3h1dE9DWmxwTW1QOUt3Z0pMWkFoVnctQ2xZWGZxZEF5dUc3dGR1aTdmSTFySEM0UUs1TVBxdA?oc=5",
       "description": "Cato Networks、AIエージェントによる有害な操作を実行前に阻止するAgentSenseを発表&nbsp;&nbsp;Unite.AI",
@@ -65,18 +58,32 @@
       "publishedAt": "2026-11-17T13:30:00.000Z"
     },
     {
-      "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
-      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-10-20T07:00:00.000Z"
+      "title": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MQjNMMnBQdDliMWt4QWgzT2xxWkNqMDhaZk16ajhsbXN3MmFZQ3c3QmFDN1JlQnZvdGlLSEM5Njh0VEp5NHFXb3lQcmRMNkVfYjJSczdSd1ZoNEhGRExpUUhLTHp5RzE2MGc?oc=5",
+      "description": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
-      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTmdWcE5sN2JXMzAwb3JvSzZQdk5TaFNMUW9DV3dlc1owQVh6ZC0tdUQ0NGFteS1VclUyaUtQMjBYRFVpcFBEdFM0azlRZ3ZyZV9uZVM2N2NRMnB5amVDT0dLRFBRX0NfeVE?oc=5",
-      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-19T07:00:00.000Z"
+      "title": "VMware SASEソリューションレビュー - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aU1pPZFdQTjNZblBVekVLcDdLbnM2QlVUN0VsZW5YSWFoVy1QT1pjc29PbHhSaGJvbThmRnRZMER6dXNVdHdtcmozN045NWphbG1jbUxCVkRPcnQ0cTBoSEZlYWtEU1RtVEI3djFpVzVXUGJX?oc=5",
+      "description": "VMware SASEソリューションレビュー&nbsp;&nbsp;eSecurity Planet",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-11-15T23:55:08.000Z"
+    },
+    {
+      "title": "Cisco+ Secure Connect SASEのレビューと機能 - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjJXWTF6aE9EWjBIdjA5WjFGMmFyemxKMkptYk52UDhGdG9kRGZsalgxVEg0eVdLZTlHTUEyMUVVaW0wQXRxNG54cElFc1FnbzZiMG1yd2dGTTZRQk5MX1F1djFaQ05aZF9PMnFSSVJ3STRhdDYzY3g4RVUwUkJUR2hyemhyZlU?oc=5",
+      "description": "Cisco+ Secure Connect SASEのレビューと機能&nbsp;&nbsp;eSecurity Planet",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-11-15T14:43:41.000Z"
+    },
+    {
+      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
+      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
       "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
@@ -86,6 +93,27 @@
       "publishedAt": "2026-10-19T07:00:00.000Z"
     },
     {
+      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTmdWcE5sN2JXMzAwb3JvSzZQdk5TaFNMUW9DV3dlc1owQVh6ZC0tdUQ0NGFteS1VclUyaUtQMjBYRFVpcFBEdFM0azlRZ3ZyZV9uZVM2N2NRMnB5amVDT0dLRFBRX0NfeVE?oc=5",
+      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-19T07:00:00.000Z"
+    },
+    {
+      "title": "IonQによるElisity買収、量子コンピューティングを超えてサイバーセキュリティへの賭けを拡大 - remio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWJBVXA4SDVtSjdnVTYxd3BzaHVLWnhtM1ZmZUJxM2FHU3c4MlJHRWU1ampZVkZSOS1ZMXUwN0MxR3VMeFdWTThCYXNrRjAtdUY4emk1ZU02S1d6UHk0cG56bUQzbXB0aTRQMllBMV93THJySEh1NHJtQ1FRS1Y2d0x0Yjc1TGZxc2R5dE5ncy1takdySGhZbzJTTkNtSlZZOG5vZ1MtVmxSWS1KcEE?oc=5",
+      "description": "IonQによるElisity買収、量子コンピューティングを超えてサイバーセキュリティへの賭けを拡大&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-10-13T07:00:00.000Z"
+    },
+    {
+      "title": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。 - 株式会社マクニカ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWlHMlpIaTB1ZmE4ankwcDlCaktXQU14OE5KT0Z1T0RZTE9CcUZLclZSU19IaVhYOVhBOWRBY1BOaVRjMVNkSFhjbXlUakV0b00wR0o4cUx6RjJ6NlptaGhseF9VTHFhcEVVcllKcUR4YVJyRkVsTGZ0aTdQZW1HVDRBTzVoX0R1ak1iZlRJQnh1UQ?oc=5",
+      "description": "国内最大のネットワークとセキュリティの祭典、Interop26に出展しました。&nbsp;&nbsp;株式会社マクニカ",
+      "source": "株式会社マクニカ",
+      "publishedAt": "2026-09-07T11:50:23.000Z"
+    },
+    {
       "title": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc1lXb3AwbHluaEVfbkdEZlllY3FTeG5wME5GWi0zdzFFaENYOUoxZDMwTjdMN3E2bWNUZnpKRy1mcHVBODZNVktPaFphYUtQUy1nZnc3Q1JkSU9LeTJNMmhxeXdZVzVKeC1CS3FBQzRZdGwt?oc=5",
       "description": "ServiceNowが「セキュリティ企業」になる理由 大型買収の裏にある勝算&nbsp;&nbsp;ITmedia",
@@ -93,39 +121,11 @@
       "publishedAt": "2026-09-07T07:00:00.000Z"
     },
     {
-      "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLU9jYnpZdVUwaHhhZmRVNGdlc0NSLWwzUGpFRjJ5eEpKTnE4dTZBbTNnMU1fSDRkbVFFbVBvV085SWRGc29KN2hoT1J5ZkVlQmJ6MUdoNi03bjB3NElPaVN2OWxZUFUxR0xkdkRRNV80Zw?oc=5",
-      "description": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-08-16T07:00:00.000Z"
-    },
-    {
       "title": "マクニカはCato NetworksよりTop Distributor 2025、Japanを受賞しました。 - 株式会社マクニカ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlJ4WnR6YjFlNnFLcWFXd2l1dFFxUG0tNXhScE1mMGI2ZUJSYVRKUkQtOHBlaTNNeDZJN044X2lsTENNQVFSSVJyYVo1REJGRTl6NzRhM2FFaFg1cWhJSkhuc3QwX3VxV1d6eVkxaVlGRmw1TE9NTEY1ZlB0cDNhRk13OUhxWUVBYmZzRm1vWFFVcDdqU1ZKZ0NMVmhzNUhr?oc=5",
       "description": "マクニカはCato NetworksよりTop Distributor 2025、Japanを受賞しました。&nbsp;&nbsp;株式会社マクニカ",
       "source": "株式会社マクニカ",
       "publishedAt": "2026-08-13T12:49:19.000Z"
-    },
-    {
-      "title": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 - ソフトバンク",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BWFBoV0VvWFlSbDJ6NmdyWjNPWm83eWJXbkRsdy1lbjMxalZJaFVRSy1jX3pCUHVfNGk4anotLWtkaGRzU0JSUVhpZ2ZSaDRSOER0R1pPLTVaZXZMQmpj?oc=5",
-      "description": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞&nbsp;&nbsp;ソフトバンク",
-      "source": "ソフトバンク",
-      "publishedAt": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」 - www.trendmicro.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXhGblhnWnUzbHRFcWZzZmJWT1FBa3V4anF2Yjh0QkJsLVhSVEhpd2EweGFRU3dyTG15WHJJQTZWYkZNRnpfQUo5dVViMThaQW9MYWZzOGcyakZXR19KaHFtR3poZmhZQmg2RkFLbjVlT2p4MzVNX0lLeTh1QmdBMXVfRQ?oc=5",
-      "description": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」&nbsp;&nbsp;www.trendmicro.com",
-      "source": "www.trendmicro.com",
-      "publishedAt": "2026-06-10T07:00:00.000Z"
-    },
-    {
-      "title": "EDRを“窒息”させる攻撃ツールが公開 Windows標準搭載のQoSを利用：監視製品の生命線を断つ - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xaWVmOUFSeWlBeFhCOENvTXJ0X1l1bjczMzY4NzNmYUJEd25kVHh6czBGMkZhQUViYklGTVBJLWV4VmZhTS1YOHU1OEFUUDhreUVILWZFblo4d0NMcWZQd2I3LUdoQURUckUtekJoLVpKdw?oc=5",
-      "description": "EDRを“窒息”させる攻撃ツールが公開 Windows標準搭載のQoSを利用：監視製品の生命線を断つ&nbsp;&nbsp;ITmedia",
-      "source": "ITmedia",
-      "publishedAt": "2026-06-09T07:00:00.000Z"
     }
   ]
 }
