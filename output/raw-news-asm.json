@@ -2,46 +2,46 @@
   "topic": "asm",
   "articles": [
     {
-      "title": "Microsoft分析、悪用される脆弱性は全体の0.5％ 優先すべきは「乗っ取り型」 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zYTNxSXowekRxeUdlTS1HcG85TlZyeUxwSzJZT0x1NDFUZVpOV2phVkVTQnNMTHBGRFpHSFRfa01Fel81YTVjNUF0WHZJZnFMaFJ2ZkpCc2RGR1hFMVpZc1V0VUdsT3dpMTBuVk0zWFpEUC1L?oc=5",
-      "description": "Microsoft分析、悪用される脆弱性は全体の0.5％ 優先すべきは「乗っ取り型」&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-26T02:11:05.000Z"
+      "title": "SOCサービスに脆弱性を塞ぐパッチ運用オプションを提供開始 ～監視とあわせて、パッチアップデート業務もSOC運用の一部として支援～ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fN0twVmlnRURJNkZCdmJMaVc3aENZOUtTSHlSUHpOS3lDMFpfYXc2TUQ4UXpSMTNmN2xzZTBLRHUxQUdaWVpGTFVSeUw5eUdKcWpLV0hQU0NiQ2FMcTFuY1pZTUx2MWZqd2c?oc=5",
+      "description": "SOCサービスに脆弱性を塞ぐパッチ運用オプションを提供開始 ～監視とあわせて、パッチアップデート業務もSOC運用の一部として支援～&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-27T01:27:32.000Z"
+    },
+    {
+      "title": "Drupalに認証不要でサイトを乗っ取られる重大な脆弱性、サイバー攻撃 悪用を確認（CVE-2026-132165・136716） - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORFQ0SHZ3Qncwb1Z1U0dZQnljRkNNZlhyNWhhV2w2TjB2TmJwQnlmZ3pVNURNSXBWUm5iUmFNeHBsMDRYNUNoSlpqNHZsRGswV1JqVGdieC1yTjBRcmZpVTdTM0E0WEEzaVhUQW5NMHoxMEJ6UnlVWENxbHhlaUtDc2lCdmNtSkxyd1ZIZmFySzBhLVNSQV9obmZHSnpUU3JuZEE?oc=5",
+      "description": "Drupalに認証不要でサイトを乗っ取られる重大な脆弱性、サイバー攻撃 悪用を確認（CVE-2026-132165・136716）&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-27T01:00:15.000Z"
+    },
+    {
+      "title": "株式会社インディバース、セキュリティ分野の業務委託案件を探せる「セキュリティ案件.com」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iLUpWbWRaS2FJWWl6MnNqcFlQSmR2WlFuR1FFNkRmSnJreTVWa0xaaHpqQTRrdUpNU090bHVUR2dBSURjb1dFMF9wRmdYSG15dmV1VGN6aXltLXpDQ1NKV050eUI4THctX1E?oc=5",
+      "description": "株式会社インディバース、セキュリティ分野の業務委託案件を探せる「セキュリティ案件.com」を提供開始&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-27T01:00:02.000Z"
+    },
+    {
+      "title": "DellのネットワークOS「Enterprise SONiC」に重大な脆弱性(CVE-2026-103782 他)、CVSS最大9.9 独自コードの13件をバージョン4.6.1で修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFlxZFMwUGl4M3lXbkFVdkdSN3dkT2YzLUY1aHp3Wk8yc3ZDQnIyY0lvcWRCSV9GWThnVWh4VVFtaGlfSnhaX2pNaGswY0E3ZGR5LUtnZnhsMUJ5UWdGd04wdGtOUkNEeFNfQUFvNldYNjQ2T3pnVk9DR3RrU2kwQjU3TjQwN01OQlY3dVpVajRnSW5yUlhkcw?oc=5",
+      "description": "DellのネットワークOS「Enterprise SONiC」に重大な脆弱性(CVE-2026-103782 他)、CVSS最大9.9 独自コードの13件をバージョン4.6.1で修正|セキュリティニュースのセキュリティ対策Lab&nbsp;&nbsp;合同会社ロケットボーイズ",
+      "source": "合同会社ロケットボーイズ",
+      "publishedAt": "2026-11-27T00:00:52.000Z"
+    },
+    {
+      "title": "NewsPicksへの不正アクセス、BIツール「Metabase」の脆弱性を悪用 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQ01yS2gtVmZ4YjdiRjQ4a2Mzb21MdlloSHJYZ0prOS1WcDFJRU1JZlp3RnRHbWRQQU0tVUJBMXJJb3hFVk1tNTFKS05oX2I1RXkzQ2ZwSzJaOExQWkhNWXBITTktNXh0LThWYw?oc=5",
+      "description": "NewsPicksへの不正アクセス、BIツール「Metabase」の脆弱性を悪用&nbsp;&nbsp;ScanNetSecurity",
+      "source": "ScanNetSecurity",
+      "publishedAt": "2026-11-26T23:05:05.000Z"
     },
     {
       "title": "SCS評価制度への対応にも有益！YSソリューションズが 中小・中堅企業向けセキュリティ相談サービスを開始 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05LUYyMGhZU01obmVNX0tQZE1mMEdDWnNQQm5SZzN0RUlHVGdaVnliYzRSOENMTUhfZ2FtbHNGUlpLWHRoQWNUQzNLM0lJUFJaUFZ3T3ZCR2xVeWMxUnczUUQydzh6M19S?oc=5",
-      "description": "SCS評価制度への対応にも有益！YSソリューションズが 中小・中堅企業向けセキュリティ相談サービスを開始&nbsp;&nbsp;ニコニコニュース",
+      "description": "SCS評価制度への対応にも有益！YSソリューションズが ���小・中堅企業向けセキュリティ相談サービスを開始&nbsp;&nbsp;ニコニコニュース",
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-26T02:03:22.000Z"
-    },
-    {
-      "title": "AIによる「A2B攻撃」が示す新たな脅威--製品の脆弱性管理にSBOMをどう生かすか - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3eXNCQ2F4bXQzdjE5QlhpTndmUGFZNVJna0tud1RVN093RlM0WC1feTdGejZFVHRqTVhtTDlzazVPY2M1VHlBMEhVOGY3LU15MWJfYnRZNXM0WjFiQ3psUmZFLWllb3JS?oc=5",
-      "description": "AIによる「A2B攻撃」が示す新たな脅威--製品の脆弱性管理にSBOMをどう生かすか&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
-      "publishedAt": "2026-11-26T02:00:00.000Z"
-    },
-    {
-      "title": "悪用された脆弱性はたったの約0.5％　Microsoftが示す「先に対処すべき脆弱性」とは？ - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZRjZjRWpGaHI0aWM3SE1fM2FHNHJSd2UyOEQ5SHd5Y3VldDQwbzVJOExXaXkzYmMyX0V1XzRTUXNRalBic2ZiaFRFR2UtQWM2MkduZF9YN2ZyUmRyLVh5cWJIM2R0eU9NQUFzWnJSLThIck9WaHfSAXtBVV95cUxPSV9zMDJ6dXBteGlHeVJjaTFIa0pDM29YWlRhckRXcVRUZ0pNMXdlWFg2UmFvV3VuMzR0a0RiRjAwbEw5cndJa014cjBqZjVGUEVtZ1dUcVBhb1FVbUFTNEl1RTBHTHhVNkhMNUZxWW5WeTFkMWNmZ1JDcE0?oc=5",
-      "description": "悪用された脆弱性はたったの約0.5％　Microsoftが示す「先に対処すべき脆弱性」とは？&nbsp;&nbsp;Infoseek",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-26T01:30:16.000Z"
-    },
-    {
-      "title": "Green Teaが提供するAI駆使のセキュリティ診断「Omamori」で脆弱性修正を加速する時代 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVXVHYUo3WDRWMjVCdlM2VTRQNUVFT1RqQkxBRmdYdlluYzZ1TWF2VHd5NTdIRHZkamw2SC1mTG5wU01RZzR1dGpmTHNEVi1xcUMtaTNZdEsxYzE4cGd0Zy0xV3BGMEFWbkRHZQ?oc=5",
-      "description": "Green Teaが提供するAI駆使のセキュリティ診断「Omamori」で脆弱性修正を加速する時代&nbsp;&nbsp;ニュースメディアVOIX",
-      "source": "ニュースメディアVOIX",
-      "publishedAt": "2026-11-25T09:13:53.000Z"
-    },
-    {
-      "title": "サイバーセキュリティ総研、UTMの監視に特化したAI-SOCサービス「FastTriage for UTM」を提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CV1A2Q3FxLV8zZm43RGwtQmxUZzEtbUtMaUxuOEhuQV96Nk5odjdIYWQ3WHVxdmxITFVSM1JGTDVyVkdRZzZ3SURBc2haUmVEN0xhSUhiR2EzVWNfYVlqZnNqSTQ3WVFWOVE?oc=5",
-      "description": "サイバーセキュリティ総研、UTMの監視に特化したAI-SOCサービス「FastTriage for UTM」を提供開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-25T09:13:50.000Z"
     },
     {
       "title": "攻撃対象領域管理（ASM）市場、2035年に100億米ドル規模へ拡大予測｜サイバー攻撃の高度化とデジタル資産の可視化需要が成長を後押し - アットプレス",
@@ -58,18 +58,11 @@
       "publishedAt": "2026-11-19T02:31:00.000Z"
     },
     {
-      "title": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JaFVYU2Eta3hGNzFIYTZUZUgxUlZxdFJ4VlR3cDdyeU1hQ0dFV1BUdDRUd0RfUE04Nzd3SXl0aUVnM2ZHUUV2WHFWcHprazVWdU9mYjdQbEZfQmFnV0NsdjI5b0Z3dEFPN0E?oc=5",
-      "description": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-17T01:40:01.000Z"
-    },
-    {
-      "title": "統合セキュリティプラットフォーム「Securify」、 Japan IT Week／Japan DX & AX Week【関西】2026 に出展 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93WUhMZW9JdUJJRnh1VExHV05WamJOQ2NQZFZMOHllSWNxTnpKcWI2TGwwWEdjTzNMWFpqcFp4dlpfXzVYbUFBWExWdGhvaGV2ZHRB?oc=5",
-      "description": "統合セキュリティプラットフォーム「Securify」、 Japan IT Week／Japan DX & AX Week【関西】2026 に出展&nbsp;&nbsp;ZDNET Japan",
-      "source": "ZDNET Japan",
-      "publishedAt": "2026-11-11T01:00:00.000Z"
+      "title": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kRUpCMk5zTnZUMzdhUTZwRk1MU2lJdVBEbnVUUVJCa2NFUEttMG1aRDR2MmZJeUF0MTU1dEJDQzhVeUhmZGxvd3lmNFBwZWFYZ0JMUXVDcDM1dGxoWVFqY0ZuNDZia0EwNGZWU2luQnJHQQ?oc=5",
+      "description": "CSE、日本企業に最適化された進化系EASMプラットフォーム「RiskSensor（リスクセンサー）」を2026年11月17日より販売開始&nbsp;&nbsp;Infoseek",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-18T21:40:00.000Z"
     },
     {
       "title": "アタックサーフェスマネジメント（ASM）とは何かを図解、専門家の製品選定のキモとは - ビジネス+IT",
@@ -79,18 +72,18 @@
       "publishedAt": "2026-11-06T08:00:00.000Z"
     },
     {
-      "title": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク” - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnY2pVLW5fYzJpQ3Jja1VrQlctVFlvb1poS05pZFJHQmZwTG03bng3bFJOcHJMZklvdWkzX1U5LXdLLWxLZ1htUHpxUm9GVmVCeV9kLQ?oc=5",
-      "description": "ASM（アタックサーフェスマネジメント）でわかる認識できていない“外部公開リスク”&nbsp;&nbsp;ASCII.jp",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-10-27T07:00:00.000Z"
+      "title": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kWWdxN3czcFJDUV9YZGN1ZkhNaU9yOHM5empVOV9PWUMydDB0N0lkMUQ3SUtwMkFKcTRiZ0RaZ0NzXzBWYUhxNk82RUJQTl9mUDNRbw?oc=5",
+      "description": "KELA、日立ソリューションズとサイバーセキュリティ協業契約を締結&nbsp;&nbsp;ニコニコニュース",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-04T08:00:00.000Z"
     },
     {
-      "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpbGYwTjBtNFZyWTl5NHhYOGRaRG1MUUs5WVVPZkZEeldkSXFSWmlKRGxyY1laWDhCbkxyVGdJRXVaSWZmekE?oc=5",
-      "description": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始&nbsp;&nbsp;Dellows News",
-      "source": "Dellows News",
-      "publishedAt": "2026-10-23T20:27:14.000Z"
+      "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZkpBaldTZFJCTV9QOC1jVTNralNXSlhxVHVTLTUzeE5Jd0FheXRpeksxSGV6Ulk3b3RGcjhpVGViRXFHNnBkQlpmMWdDM3JIX3VCWmc0YkgwR094WTdCLTNtb0Qzcm4yODg4?oc=5",
+      "description": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供&nbsp;&nbsp;INTERNET Watch",
+      "source": "INTERNET Watch",
+      "publishedAt": "2026-10-30T07:00:00.000Z"
     },
     {
       "title": "政府・関係機関による不正アクセスへの注意喚起を受け、Securify「外部公開システム 点検プラン」の無償提供を開始 - PR TIMES",
@@ -100,11 +93,18 @@
       "publishedAt": "2026-10-23T07:00:00.000Z"
     },
     {
-      "title": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOC1tVnVtbGE1NzJ6NWNPRlpOemx2U2ZRajhnSWJ0NGRHZ2VuTXpMdE1VVlJWOUFGenZneFI1bHJsTk96N0xPZUoydHpCYlNuUkl3OHpR?oc=5",
-      "description": "Tenable、エクスポージャー管理「Tenable One」でAIセキュリティ＆運用自動化が可能に&nbsp;&nbsp;EnterpriseZine",
-      "source": "EnterpriseZine",
-      "publishedAt": "2026-09-29T07:00:00.000Z"
+      "title": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcDhGLVNGVG5wR1Q4NXVlLU00Y2EweDZodERoTFVSanlTbWxhSlk1b0xOY09CeTFkSkdXZ3RyeFlzeF85WmF5UG14VHlpdGRnMTFzUlNXTFk2c0ItZ3IzQ0hIY3JXNmxVM1JFdGtCcFo?oc=5",
+      "description": "スリーシェイク、Securifyによる無償「外部公開システム 点検プラン」を提供開始&nbsp;&nbsp;ニュースメディアVOIX",
+      "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "title": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nM3NlZFNFakl3S05sUW0tTEZUcFNqbmhHQmQ4MHllbGIwLVpIMTdYdUUtX2RZRWRJUUZHU3dVcUp6a1VuRnp2TjlYY0hwTGxRWEJBSFVsc1lCazNMbkZnZUw5YVZqTEUwZ3c?oc=5",
+      "description": "Securify、「ITreview Grid Award 2026 Fall」の脆弱性診断ツール/サービス総合部門で最高位の「Leader」を11期連続受賞&nbsp;&nbsp;PR TIMES",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-14T07:00:00.000Z"
     }
   ]
 }

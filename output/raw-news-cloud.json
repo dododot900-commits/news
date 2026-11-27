@@ -2,32 +2,53 @@
   "topic": "cloud",
   "articles": [
     {
+      "title": "ソニー系がGPUクラウド市場参入、期間限定で���償GPU検証環境を提供 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYlVUb1ZZRldLZkFqdkw1cngwaGRqcnRhTjlLUzExN3dYRkNMOGNCdnlGXzM0SldHcW90RlBXZi0zQlJQUWFRdGtaVFZFWHVJQUdwOHV4YVhkaVpyd2NnektYbUpheHFO?oc=5",
+      "description": "ソニー系がGPUクラウド市場参入、期間限定で無償GPU検証環境を提供&nbsp;&nbsp;マイナビニュース",
+      "source": "マイナビニュース",
+      "publishedAt": "2026-11-27T01:05:00.000Z"
+    },
+    {
+      "title": "「高性能なGPU」を買うだけではAIが動かなくなる理由--NTTPCがひもとくインフラ再設計 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jN2Z4OHp6eXhSZnk2RTVYdnBkdC14UU5DVEF1OVJhSE00cjZjMVhFNzA2aDFoQ01PTjc1X1ZtaDAyRVhUOVAwcnFHdHdBQnhZa0hV?oc=5",
+      "description": "「高性能なGPU」を買うだけではAIが動かなくなる理由--NTTPCがひもとくインフラ再設計&nbsp;&nbsp;ZDNET Japan",
+      "source": "ZDNET Japan",
+      "publishedAt": "2026-11-26T22:00:00.000Z"
+    },
+    {
+      "title": "世界が気づいた「クラウドサービス依存の危うさ」マイクロソフトの障害が発端に - 現代ビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Mb09QSnY0dXNVZmxDM2VsY0J5dkNvLTUzeU80ZWRPaEtRT1U0VFBNcEtjM1NUUi14dWg5VjhaQlUyeHlQSXZfanlQMGhJcFE?oc=5",
+      "description": "世界が気づいた「クラウドサービス依存の危うさ」マイクロソフトの障害が発端に&nbsp;&nbsp;現代ビジネス",
+      "source": "現代ビジネス",
+      "publishedAt": "2026-11-26T20:01:02.000Z"
+    },
+    {
+      "title": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表 - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVkU3Ulh3eHZXcEpDNnRlVDdJMThDZlYxSFdQLVJGQkxocVktYWxucU4wTWFqb1lISmhHWk1FUW5wVXdMMTdqZFNmeF9NY2M2LWN3aVJKZFJVaTg?oc=5",
+      "description": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-11-26T13:55:24.000Z"
+    },
+    {
+      "title": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表 - Publickey",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OQUFFUnFEOFNTYjdfNXJvc2tiSW5HVHUyZkk2eEpFWDVxM05TTTJySDZjNUNTcnhCVFdGeHlJUTJDSGVnR3pJRWUyWE5adEl5TEswOGdRMjJNZlJlUHR4RUlNS1QzTFVQdlU0MTZTRmloTml1NkVPbEt3?oc=5",
+      "description": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表&nbsp;&nbsp;Publickey",
+      "source": "Publickey",
+      "publishedAt": "2026-11-26T13:49:24.000Z"
+    },
+    {
+      "title": "株式会社G-gen、「Google Cloud Partner Tech Influencer Challenge 2026」において最優秀賞を受賞 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yS3lpcTB2OFRLaXNjN3V6YmdwNDlTMG1qaVhNcTZrb19ycF9xRzBfeTcwR1BydUJsZjdmS2RxLUthVE1OQ255T1FjMWhjMjNpdTF2d2xfWjZnR2VJdFlSRlppZHA2RlRJZVNWRGVLc09Bb2FCczU1SkNn?oc=5",
+      "description": "株式会社G-gen、「Google Cloud Partner Tech Influencer Challenge 2026」において最優秀賞を受賞&nbsp;&nbsp;イザ！",
+      "source": "イザ！",
+      "publishedAt": "2026-11-26T04:33:53.000Z"
+    },
+    {
       "title": "ジョーシス、端末・サーバー・クラウドデータを守る新サービス「Josys バックアップ」を発表 - ニュースメディアVOIX",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5YXItTGZvX28ycUlWV1oyWFFSUzBCQU03cjNLcEtXdG5qSXdoakgwTldmNklNRm9QYWdvT0xHUDdMd1FMWDdiTzZXVEtmamJKSmhtdDgxN0cyT2tpd29ocGhNcV9EMHZEZHlB?oc=5",
       "description": "ジョーシス、端末・サーバー・クラウドデータを守る新サービス「Josys バックアップ」を発表&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
       "publishedAt": "2026-11-26T02:26:57.000Z"
-    },
-    {
-      "title": "ペンタセキュリティのクラウド型WAF・WAAP、韓国の「2026 Next Generation World Class Product of Korea」に選定 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYnlxc0MxVlA4M2V3UEZkOFQyV3lEX0hGQm9zc3dVeXJWX0pqcndPNVFnUFFPc0ptQVdCLVVCY1djUWsxamJmN3VpaXl6MFpLbnM2UXpta2hZaG0zNUg1c2ZQd29NTkEz?oc=5",
-      "description": "ペンタセキュリティのクラウド型WAF・WAAP、韓国の「2026 Next Generation World Class Product of Korea」に選定&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-26T02:15:29.000Z"
-    },
-    {
-      "title": "クラウドとAI需要を追い風に、電子機器アセンブリ市場は2030年までに4兆ドル超へ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GRFhqN0wwMzVYTC1PZnFqMVFJTXczTXk1MzNOMm5Pck9nbUZXWnBOdmg4X1pEUFFDY2ZXMUd2bWtqWjcyeTMwMzliUTdNQmo1d3VENHFydWttcUhlRlg0bHEtcFd2ZGlp?oc=5",
-      "description": "クラウドとAI需要を追い風に、電子機器アセンブリ市場は2030年までに4兆ドル超へ&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-25T12:45:35.000Z"
-    },
-    {
-      "title": "CTC、AI駆動開発向けに「C-Native」を拡充 - AIが生成したコードもルールで統制 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56MU0tNXcyQnQ5Wm5IeENkbWNBOGl4QTZGWi1qZThnbnlLRWZtTnNQV2swYTNSUVhvRlRUNGtBY3Z3eERaWlNUNzV3Z3B5ZU1vcHJMTGxrUVI3WnVPTEZSUmNmanp2bDlt?oc=5",
-      "description": "CTC、AI駆動開発向けに「C-Native」を拡充 - AIが生成したコードもルールで統制&nbsp;&nbsp;マイナビニュース",
-      "source": "マイナビニュース",
-      "publishedAt": "2026-11-25T11:24:24.000Z"
     },
     {
       "title": "Google Cloud Partner Top Engineer 2027 アワード プログラム 受賞者発表 - Google Cloud",
@@ -44,32 +65,11 @@
       "publishedAt": "2026-11-24T04:26:55.000Z"
     },
     {
-      "title": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報） - 株式会社SmartHR",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tU0NTVFY3cHp4S09YcXNUaDRzWWRXNG1YNUZVMmFqNTNHY1VyQS1rVUVCTjlxdWdNckw4NHgyWEVWVlp1M0tqOVhDMl9tMjBNaElB?oc=5",
-      "description": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報）&nbsp;&nbsp;株式会社SmartHR",
-      "source": "株式会社SmartHR",
-      "publishedAt": "2026-11-17T08:00:00.000Z"
-    },
-    {
       "title": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧 - Oracle Blogs",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVhMMFgyNk9HOGl0dzdLNGFSeFpudEVEWThXbWJwaEZRVk5GYXozNTZwbFhEOFBmZ2RtbUlyaXZIM3lKMjZMU3RfYU92bWpYQmVzU0V6RFlGQVVTUk1VYmFZejdjaVZQLU5nUENWRkI5eVc1UThBay1NcngwVGh1MHBWckNSdUx0NWpyTHBpcw?oc=5",
       "description": "Oracle AI Database@Azure, Google Cloud, AWS：技術記事一覧&nbsp;&nbsp;Oracle Blogs",
       "source": "Oracle Blogs",
       "publishedAt": "2026-11-16T08:00:00.000Z"
-    },
-    {
-      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tX3dVU1JMMktFQUxqVGRWd0U5Um9TX2hiclMzYnZCT3JSZGZ5RUxobTJqZVp5VWxXVDRDb2gwcDVRTnlmZ0l6U1FTMHhuNzRqa095aC1VX3hqZnhXbE1YZmxiNzF6VDE1eFAteVln?oc=5",
-      "description": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける&nbsp;&nbsp;Publickey",
-      "source": "Publickey",
-      "publishedAt": "2026-11-13T08:00:00.000Z"
-    },
-    {
-      "title": "Google Cloud と NVIDIA が共同エンジニアリングのコラボレーションを拡大、エージェントの時代に向けてインフラストラクチャを拡張 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcF9JcmI2eFBnczR5RjA3b05ONTZWQ1NrU0V0OEk4TDNVMUpzemlFVFBndWJncHEwRS1TRnlyMVl2d3EyRUdnMEk3R0Y1OFJZakh6azc1Rmd5Rm43NUQ5djVJTnJiLVdHQzBfQlpiVHNwWjVhcE9JbktWZjlrNU51dUduTlk2WWNBVTdvLU5uTEFWaUZYcjdubV9JbHA2RTctc05YSmcyVHlEVE1lVDBnYg?oc=5",
-      "description": "Google Cloud と NVIDIA が共同エンジニアリングのコラボレーションを拡大、エージェントの時代に向けてインフラストラクチャを拡張&nbsp;&nbsp;Google Cloud",
-      "source": "Google Cloud",
-      "publishedAt": "2026-11-13T08:00:00.000Z"
     }
   ]
 }
