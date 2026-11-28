@@ -2,11 +2,18 @@
   "topic": "vendor",
   "articles": [
     {
-      "title": "サイバーセキュリティ総研、無料ウェビナー「AI時代の脅威に備える！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPcXVvTW9RYWVtSXBoM0JRQkpFaXd3Qml1Z3kwV2NGTkdoY25NM2JQQmZfNmlUNzVpelVPcWhDcmQxOE5CdGZnOXEwY09ZLUFBZTM1TFdaMjEweExkZERYR01RLS1HeVVJ?oc=5",
-      "description": "サイバーセキュリティ総研、無料ウェビナー「AI時代の脅威に備える！&nbsp;&nbsp;ニコニコニュース",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-26T16:30:21.000Z"
+      "title": "Cloudflareはなぜネオラボになったのか — Michelle Chen氏（Cloudflare）｜AI Engineer - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yVVhWaV9WbGRsN0Vlc2gzcVpKVUNjcGxzdFZ4b2xlVXlkTDZsVU9pY3pmS21RUEJ2cHEwS1lwV3ZtcXMyRVptTmgwVk9zczNsSGF3U0hOU3RPR0FxaWc?oc=5",
+      "description": "Cloudflareはなぜネオラボになったのか — Michelle Chen氏（Cloudflare）｜AI Engineer&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-27T10:58:42.000Z"
+    },
+    {
+      "title": "PoCがSYSTEM権限に到達、CrowdStrikeがFalconFlankのゼロデイを調査 - eSecurity Planet",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTUtVi1BY1Z5M3Eya1Q3VHNhb0FvQnFvalBJNk1YWjAxa0R2ckFDOEU3eW8tTHpHWVBPdDRBRWR4ODNhbmdDWEMzX0FSX3h4OGlnbGRDXzFUdXMwa1N1WTRxVjlrMlFwa3BaVWlxRjgzR0x6STRjcW43dUc3N3lUZy04Y3F0VXNE?oc=5",
+      "description": "PoCがSYSTEM権限に到達、CrowdStrikeがFalconFlankのゼロデイを調査&nbsp;&nbsp;eSecurity Planet",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-11-26T23:39:50.000Z"
     },
     {
       "title": "2026年～2031年のZscaler Tokenized Stock (Reality)（RZS）の価格予測 - Bybit",
@@ -16,13 +23,6 @@
       "publishedAt": "2026-11-26T15:00:36.000Z"
     },
     {
-      "title": "Cloudflare、WebサイトにAIエージェント向け検索APIを自動追加する機能をベータ公開 - Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBzbDBGQ01pcU02cWcxLXVoUU4zRktWa3NxVWxOYXVBc3UzR2tSR3FLTnBIal9DeUJ4T05n?oc=5",
-      "description": "Cloudflare、WebサイトにAIエージェント向け検索APIを自動追加する機能をベータ公開&nbsp;&nbsp;Howl.Link",
-      "source": "Howl.Link",
-      "publishedAt": "2026-11-26T11:20:22.000Z"
-    },
-    {
       "title": "【導入事例公開】少人数情シスが挑んだゼロトラスト化。多店舗ネットワークのSASE移行成功事例（株式会社タカサ様） - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rclYwcngzZ1hvcUV5VDV4czE5SFZCUUpjSDFHZnhCX3JNcUNfMkVVbjB0czJmNU1xN2dKUUFhOF9oekQwM1Y0UmpOVldMOGVvSHBLRHF6RklQYWlqcngya21BN3JiUUJaNUE?oc=5",
       "description": "【導入事例公開】少人数情シスが挑んだゼロトラスト化。多店舗ネットワークのSASE移行成功事例（株式会社タカサ様）&nbsp;&nbsp;PR TIMES",
@@ -30,7 +30,7 @@
       "publishedAt": "2026-11-26T02:04:06.000Z"
     },
     {
-      "title": "無料のCloudflareアカウントを使って動かすパー���ナルAIエージェント「Talorys」 - GIGAZINE",
+      "title": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」 - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZTU3Qlc3QUhLS0FXTnNjZzRLdWV3WHd0SC1vNFphOFhOVmIwZ3N0aFZnd29OZVQ3Z0VSeDJQTlJLdDBJTzk4WV91UlJPODRSczltM3dR?oc=5",
       "description": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」&nbsp;&nbsp;GIGAZINE",
       "source": "GIGAZINE",
@@ -44,27 +44,6 @@
       "publishedAt": "2026-11-24T22:08:51.000Z"
     },
     {
-      "title": "CrowdStrike CEO：AIサイバー攻撃の波、超高速ハッキング、パッチ適用問題 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNzFVb1NfMTJpTHpXdGh1QUlsY0g2NkRRamNuR2tyQndENVhOZlh1a3NmbXN0Q2hCZ21iXzVGcGxMMDBPTUF0ZnNjVWdNQnBrTmNKVlZBbU8xeDh3UVE?oc=5",
-      "description": "CrowdStrike CEO：AIサイバー攻撃の波、超高速ハッキング、パッチ適用問題&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-24T15:20:25.000Z"
-    },
-    {
-      "title": "CrowdStrike、Zscalerを439億ドルで買収 ネットワークセキュリティがFalconに統合へ - Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxeGRDZWs1dUxsejIzVDZqUVhuNktxZm00Rk41YTRhRHRZaWdGMzdjd1BoTktmYlJDQ1VCZ2ZlZ2JUaXh5RDdycm1GanIxbDBMZmo3OUVVZlc3cFVIM19JZl9LSktJYnc0cWtWRzBWWVZ6ckl6SVhOeQ?oc=5",
-      "description": "CrowdStrike、Zscalerを439億ドルで買収 ネ���トワークセキュリティがFalconに統合へ&nbsp;&nbsp;Meteora Web",
-      "source": "Meteora Web",
-      "publishedAt": "2026-11-24T10:45:26.000Z"
-    },
-    {
-      "title": "クラウドストライク、ゼットスケーラーを約7兆円で買収 サイバーセキュリティー史上最大 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uckNGYWQ0cWNLbDBPYU50Ui1ZejRfZHd3dTl2akFKZE1UZl9idHpjbkpfaFh1YzY4dXI0VlZfeGQ1YlpvazlzMWJnZ00zTUFZcXdjaGpDRmI4bXNIRGRLLWtjTWkxYnpIZW5hNmVsODFoQXNY?oc=5",
-      "description": "クラウドストライク、ゼットスケーラーを約7兆円で買収 サイバーセキュリティー史上最大&nbsp;&nbsp;BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-11-23T17:55:00.000Z"
-    },
-    {
       "title": "Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開 - gihyo.jp",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVi03WHBaZXNLWmx4ZTJGUDd6NXpJYkNUYkJxbDJFYWFvRDMzdHRJeXlqRmdiUGhUNjFnalhtS0h2cmlUYkZBc21TdEl3RW0zNTI1a2g0ZVFsejNYdDI0c0ViMHJtMm1OVGdXNUxUQUo?oc=5",
       "description": "Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開&nbsp;&nbsp;gihyo.jp",
@@ -72,39 +51,46 @@
       "publishedAt": "2026-11-21T07:57:36.000Z"
     },
     {
-      "title": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド - CTC - 伊藤忠テクノソリューションズ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2ZpN1BPLU14Sl9ibUdmTFY4dTdwTzJQQ0NWZHRycHkwbjBZdHVNOHdCLV92X0hXM1pqQW5YSTN1cl9BaUFEdDhoeVZsbzNYcHNuZUxJZl9LeG1tMlBlOERWNE9JOXJ1ekF3ZDB1MXM4eGtzY0xoS2MtRnBrRkhXNl9n?oc=5",
-      "description": "海外ベンダーイベント参加レポート2026（前編）｜5つの年次カンファレンスで見えたセキュリティトレンド&nbsp;&nbsp;CTC - 伊藤忠テクノソリューションズ",
-      "source": "CTC - 伊藤忠テクノソリューションズ",
-      "publishedAt": "2026-11-19T18:28:50.000Z"
+      "title": "Nikesh Aroraが語る、取引の成立、買収による成長、そしてサイバーセキュリティの未来｜David Senra - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91ZFFzbkVTWFNUOHFaUldWT09yWkRTakxoNUxBc3EzekVGSHMwdmRLWUNsNG9BQnhJdlhMbldlcVdORFZmOXBOMUFNemotU2daMWNUTEs4VE5MUG1LblE?oc=5",
+      "description": "Nikesh Aroraが語る、取引の成立、買収による成長、そしてサイバーセキュリティの未来｜David Senra&nbsp;&nbsp;BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "publishedAt": "2026-11-09T14:09:59.000Z"
     },
     {
-      "title": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MQjNMMnBQdDliMWt4QWgzT2xxWkNqMDhaZk16ajhsbXN3MmFZQ3c3QmFDN1JlQnZvdGlLSEM5Njh0VEp5NHFXb3lQcmRMNkVfYjJSczdSd1ZoNEhGRExpUUhLTHp5RzE2MGc?oc=5",
-      "description": "ヤグラ、AIトリアージとSIEM連携に対応するAI EDR「ヤグラEDR」を提供開始&nbsp;&nbsp;PR TIMES",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-17T08:00:00.000Z"
+      "title": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す - remio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEFlakdzMDdxdkdpS2RaTVIxdFd2MkJOeHdzSW1pODY5VXgtLVZZb1FNVU5wUF9URzBzZ1ZmVUpwb0I5bmdfbDl3Wkc1a183VGFXNG5PSzRaVEJvNkRfQkExNkwzSklLekZXLUFrT0FsUDdHRWpGQ1VSYmtUekMtZHBfdFR5eWpTZVd5VWFQVmowNXdtTklCVlZwWldaSWhVaHBfV3RnQ0pYVW9DaVE?oc=5",
+      "description": "ProofpointによるVaronis買収、63億ドルのAIセキュリティプラットフォームを試す&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-10-21T04:06:51.000Z"
     },
     {
-      "title": "VMware SASEソリューションレビュー - eSecurity Planet",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aU1pPZFdQTjNZblBVekVLcDdLbnM2QlVUN0VsZW5YSWFoVy1QT1pjc29PbHhSaGJvbThmRnRZMER6dXNVdHdtcmozN045NWphbG1jbUxCVkRPcnQ0cTBoSEZlYWtEU1RtVEI3djFpVzVXUGJX?oc=5",
-      "description": "VMware SASEソリューションレビュー&nbsp;&nbsp;eSecurity Planet",
-      "source": "eSecurity Planet",
-      "publishedAt": "2026-11-15T23:55:08.000Z"
-    },
-    {
-      "title": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEVQMUpYdHA4dDZ5NnNFX0dtbkpNRTF2ajVFRnRNbkZaWGVIc00yODh0eUxLZzJQYTVENkFIcks1Vmw5Y3ZiYjFuTFN4R1VjRWNR?oc=5",
-      "description": "網屋がキヤノンMJの中小企業向けSASEにVeronaを提供&nbsp;&nbsp;ニュースメディアVOIX",
+      "title": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcnZGMDhMUHdXYk1Vc01US3RtRXh3OHpkNms5Ulp2N0xxZ2pxemRXam9OcEVFN3pMbmZrUVE3eHVlVUgxR0NzTWl1TFZXYXJGSjVxUjVTYjRkTnQtU3RYbG5QSjc0Uzg?oc=5",
+      "description": "キヤノンMJグループが網屋の「Verona」を活用した中小企業向けSASEサービスを提供開始&nbsp;&nbsp;ニュースメディアVOIX",
       "source": "ニュースメディアVOIX",
+      "publishedAt": "2026-10-20T07:00:00.000Z"
+    },
+    {
+      "title": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aRk1YZWdLbHdBc1hBR0UxNTA2N1JIZDVJYmswNElQNUhEZktyRDFReHZhZTBuRnQ5N2x4YUZnQ2gwRFBNR1hWT1hzcTdEeFpfY2UyTThUMFV3bjJwM0Z2SE9XY1h4MzQwOUZJ?oc=5",
+      "description": "キヤノンMJグループの中小企業向けに特化したSASEサービスに網屋の「Verona」を提供&nbsp;&nbsp;時事ドットコム",
+      "source": "時事ドットコム",
       "publishedAt": "2026-10-19T07:00:00.000Z"
     },
     {
-      "title": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pSzV2Ql9vZ2dLVHZLdmM1c2xSSmoxeEhzTTJMS185a0xGZktUQ1kwTnpPVzkzc0tpQVpPTXc2UGpYU3JxYjc1ZjA2cTNoelk?oc=5",
-      "description": "NTTPC「InfoSphere(R)」、 網屋「フルマネージドSASE Verona」との連携販売を強化&nbsp;&nbsp;Newscast.jp",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-14T07:00:00.000Z"
+      "title": "IonQによるElisity買収、量子コンピューティングを超えてサイバーセキュリティへの賭けを拡大 - remio",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWJBVXA4SDVtSjdnVTYxd3BzaHVLWnhtM1ZmZUJxM2FHU3c4MlJHRWU1ampZVkZSOS1ZMXUwN0MxR3VMeFdWTThCYXNrRjAtdUY4emk1ZU02S1d6UHk0cG56bUQzbXB0aTRQMllBMV93THJySEh1NHJtQ1FRS1Y2d0x0Yjc1TGZxc2R5dE5ncy1takdySGhZbzJTTkNtSlZZOG5vZ1MtVmxSWS1KcEE?oc=5",
+      "description": "IonQによるElisity買収、量子コンピューティングを超えてサイバーセキュリティへの賭けを拡大&nbsp;&nbsp;remio",
+      "source": "remio",
+      "publishedAt": "2026-10-13T07:00:00.000Z"
+    },
+    {
+      "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLU9jYnpZdVUwaHhhZmRVNGdlc0NSLWwzUGpFRjJ5eEpKTnE4dTZBbTNnMU1fSDRkbVFFbVBvV085SWRGc29KN2hoT1J5ZkVlQmJ6MUdoNi03bjB3NElPaVN2OWxZUFUxR0xkdkRRNV80Zw?oc=5",
+      "description": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの：「システムが戻れば復旧」は間違い？&nbsp;&nbsp;ITmedia",
+      "source": "ITmedia",
+      "publishedAt": "2026-08-16T07:00:00.000Z"
     },
     {
       "title": "マクニカはCato NetworksよりTop Distributor 2025、Japanを受賞しました。 - 株式会社マクニカ",
@@ -112,6 +98,13 @@
       "description": "マクニカはCato NetworksよりTop Distributor 2025、Japanを受賞しました。&nbsp;&nbsp;株式会社マクニカ",
       "source": "株式会社マクニカ",
       "publishedAt": "2026-08-13T12:49:19.000Z"
+    },
+    {
+      "title": "LLM発展後のEDRとの攻防 - 検知ロジックの解析がもたらす攻撃・防御の変化 - gmo-cybersecurity.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0d3AxdUdFWHB3WHc5ZVRJUDhiMGJHdTdvUWpEU1hPUXZzRWFsLWNGSllTOXdoOC1qWl9KYjc5ZTF5NDFfTHVnZUZRcnJRZHZkSUVkOWpFenZZLWdWN21lV29wZ25VVjBTRnlNNw?oc=5",
+      "description": "LLM発展後のEDRとの攻防 - 検知ロジックの解析がもたらす攻撃・防御の変化&nbsp;&nbsp;gmo-cybersecurity.com",
+      "source": "gmo-cybersecurity.com",
+      "publishedAt": "2026-08-04T07:00:00.000Z"
     },
     {
       "title": "Cato Networks APJ Partner Summit 2026にて「Rising Star Partner 2026, Japan」および「Marketing Excellence Award 2025, Japan」を受賞 - ソフトバンク",
@@ -126,6 +119,13 @@
       "description": "次は“シャドーAIエージェント”が標的？ Cato Networks幹部が語る、次世代脅威への対抗策 (1/2)&nbsp;&nbsp;ASCII.jp",
       "source": "ASCII.jp",
       "publishedAt": "2026-07-13T07:00:00.000Z"
+    },
+    {
+      "title": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」 - www.trendmicro.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXhGblhnWnUzbHRFcWZzZmJWT1FBa3V4anF2Yjh0QkJsLVhSVEhpd2EweGFRU3dyTG15WHJJQTZWYkZNRnpfQUo5dVViMThaQW9MYWZzOGcyakZXR19KaHFtR3poZmhZQmg2RkFLbjVlT2p4MzVNX0lLeTh1QmdBMXVfRQ?oc=5",
+      "description": "ランサムウェア攻撃における「EDR回避」事例から考える「セキュリティの原則」&nbsp;&nbsp;www.trendmicro.com",
+      "source": "www.trendmicro.com",
+      "publishedAt": "2026-06-10T07:00:00.000Z"
     }
   ]
 }
